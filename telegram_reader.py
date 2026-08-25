@@ -45,10 +45,6 @@ def group_messages(messages):
     return groups
 
 def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int = 0, limit: int = 10):
-    """
-    Bitta kanaldan yangi postlarni (metama'lumotlarni) tezkor yuklab oladi.
-    Medialar faqat postlashdan oldin download_post_media orqali yuklanadi.
-    """
     channel = source_info["channel"]
     name = source_info.get("name", channel)
     
@@ -83,16 +79,12 @@ def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int =
     return posts
 
 def download_post_media(client: TelegramClient, post: dict) -> list[tuple[str, bytes]]:
-    """
-    Faqat postlashga tanlangan xabar medialarini yuklab oladi.
-    """
     media_items = []
     group = post.get("messages", [])
 
     for m in group:
         size = get_media_size(m)
         if size > MAX_MEDIA_SIZE_BYTES:
-            print(f"[Ogohlantirish] Media hajmi juda katta ({size / 1024 / 1024:.1f} MB), o'tkazib yuboriladi.")
             continue
 
         if m.photo:
@@ -115,8 +107,19 @@ def download_post_media(client: TelegramClient, post: dict) -> list[tuple[str, b
     return media_items
 
 def get_telegram_client():
-    if not config.TELEGRAM_SESSION or not config.TELEGRAM_API_ID or not config.TELEGRAM_API_HASH:
-        raise ValueError("Telegram API sozlamalari (.env) to'liq emas!")
+    missing = []
+    if not config.TELEGRAM_API_ID:
+        missing.append("TELEGRAM_API_ID")
+    if not config.TELEGRAM_API_HASH:
+        missing.append("TELEGRAM_API_HASH")
+    if not config.TELEGRAM_SESSION:
+        missing.append("TELEGRAM_SESSION")
+
+    if missing:
+        raise ValueError(
+            f"Telegram API sozlamalari to'liq emas! Quyidagi Secret'lar topilmadi yoki bo'sh: {', '.join(missing)}.\n"
+            f"Iltimos, GitHub Repo -> Settings -> Secrets and variables -> Actions bo'limiga ushbu kalitlarni kiriting."
+        )
 
     return TelegramClient(
         StringSession(config.TELEGRAM_SESSION),
