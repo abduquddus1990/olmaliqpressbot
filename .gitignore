@@ -1,0 +1,7 @@
+﻿.env
+data/*.log
+data/bot_log.txt
+*.log
+__pycache__/
+*.pyc
+check_channels.py

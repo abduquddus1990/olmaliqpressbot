@@ -1,0 +1,42 @@
+﻿name: Olmaliq News Forwarder (24/7)
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repozitoriyani yuklab olish
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 ni sozlash
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Kutubxonalarni o'rnatish
+        run: pip install -r requirements.txt
+
+      - name: Yangiliklarni tekshirish va joylash
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TARGET_CHANNEL: ${{ secrets.TARGET_CHANNEL || '@olmaliqlik' }}
+          TARGET_CHANNEL_RU: ${{ secrets.TARGET_CHANNEL_RU || '-1002262312107' }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.5-flash' }}
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+          TELEGRAM_SESSION: ${{ secrets.TELEGRAM_SESSION }}
+        run: python main.py
+
+      - name: Ma'lumotlar bazasini saqlab qolish
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: yangilangan bot bazasi"
+          file_pattern: "data/bot_database.db"
