@@ -36,7 +36,6 @@ FALLBACK_MODELS = list(dict.fromkeys([m for m in [DEFAULT_MODEL, "gemini-3.5-fla
 
 # ---------- TELEGRAM USER (TELETHON) SOZLAMALARI ----------
 _raw_api_id = _clean_env(os.getenv("TELEGRAM_API_ID"))
-# Faqat raqamlarni ajratib olish
 _digits = re.sub(r"\D", "", _raw_api_id)
 TELEGRAM_API_ID = int(_digits) if _digits else 0
 TELEGRAM_API_HASH = _clean_env(os.getenv("TELEGRAM_API_HASH"))
@@ -44,16 +43,16 @@ TELEGRAM_SESSION = _clean_env(os.getenv("TELEGRAM_SESSION"))
 
 # ---------- YANGILIK MANBALARI ----------
 SOURCES = [
-    {"channel": "olmaliqhayoti", "name": "Olmaliq hayoti", "fetch_limit": 10},
-    {"channel": "ao_agmk", "name": "AGMK Rasmiy", "fetch_limit": 10},
-    {"channel": "olmaliqshaharpressa", "name": "Olmaliq shahar hokimligi", "fetch_limit": 10},
-    {"channel": "olmaliq", "name": "Olmaliq", "fetch_limit": 10},
+    {"channel": "olmaliqhayoti", "name": "Olmaliq hayoti", "fetch_limit": 15},
+    {"channel": "ao_agmk", "name": "AGMK Rasmiy", "fetch_limit": 15},
+    {"channel": "olmaliqshaharpressa", "name": "Olmaliq shahar hokimligi", "fetch_limit": 15},
+    {"channel": "olmaliq", "name": "Olmaliq", "fetch_limit": 15},
 ]
 
 # ---------- VAQT VA CHEKLOVLAR ----------
-POST_INTERVAL_SECONDS = 5
-POLL_INTERVAL_SECONDS = 60
-DUPLICATE_WINDOW_HOURS = 48
+POST_INTERVAL_SECONDS = 3            # Postlar orasidagi tanaffus (soniyada)
+POLL_INTERVAL_SECONDS = 30           # Doimiy monitoringda tekshirish oralig'i (soniyada)
+DUPLICATE_WINDOW_HOURS = 48          # Dublikat xabarlarni saqlash vaqti (soatda)
 
 # Media / Xabar limitlari
 PHOTO_CAPTION_LIMIT = 1024

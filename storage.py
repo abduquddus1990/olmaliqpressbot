@@ -5,9 +5,16 @@ OlmaliqpressBot - Ma'lumotlar bazasi va dublikatlarni qat'iy nazorat qilish modu
 import sqlite3
 import re
 import time
-import hashlib
 from pathlib import Path
 import config
+
+STOPWORDS = {
+    "haqida", "uchun", "bilan", "bolgan", "boshlandi", "bolib", "otdi",
+    "yangi", "shahar", "shahrida", "viloyat", "viloyatida", "respublika",
+    "toshkent", "olmaliq", "ham", "esa", "kuni", "dagi", "boyicha",
+    "otkazildi", "otkaziladi", "amalga", "oshirildi", "malum", "qilindi",
+    "xabar", "berildi", "togrisida", "muhokama"
+}
 
 def get_connection():
     config.DB_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -48,12 +55,9 @@ def init_db():
 init_db()
 
 def _normalize_text(text: str) -> str:
-    """Matnni solishtirish uchun tozalash."""
     if not text:
         return ""
-    # Faqat harflar va raqamlarni qoldiramiz
-    cleaned = re.sub(r"[^\w\s]", "", text.lower()).strip()
-    return cleaned
+    return re.sub(r"[^\w\s]", "", text.lower()).strip()
 
 def is_message_processed(channel: str, message_id: int) -> bool:
     with get_connection() as conn:
@@ -82,10 +86,7 @@ def _jaccard_similarity(set1: set, set2: set) -> float:
 
 def is_duplicate_news(title: str, topic_key: str = "", window_hours: int = config.DUPLICATE_WINDOW_HOURS) -> bool:
     """
-    4 ta kanaldagi bir xil mazmunda chiqqan xabarlarni aniqlaydi.
-    1. Topic key (mavzu kaliti) o'xshashligi.
-    2. Sarlavhadagi so'zlar o'xshashligi (50%+ umumiy so'zlar bo'lsa).
-    3. Aniq tenglik.
+    4 ta manba kanaldagi bir xil mazmunda chiqqan xabarlarni aniqlaydi.
     """
     if not title:
         return False
@@ -94,6 +95,10 @@ def is_duplicate_news(title: str, topic_key: str = "", window_hours: int = confi
     norm_topic = _normalize_text(topic_key)
     
     words_new = set(w for w in norm_new.split() if len(w) > 2)
+    meaningful_new = words_new - STOPWORDS
+    if not meaningful_new:
+        meaningful_new = words_new
+
     min_time = time.time() - (window_hours * 3600)
 
     with get_connection() as conn:
@@ -108,24 +113,28 @@ def is_duplicate_news(title: str, topic_key: str = "", window_hours: int = confi
             old_norm = row["norm_title"]
             old_topic = _normalize_text(row["topic_key"])
 
-            # 1. Aniq moslik
+            # 1. Aniq sarlavha mosligi
             if norm_new == old_norm:
                 return True
 
-            # 2. Mavzu kaliti bo'yicha moslik (agar ikkalasida ham mavjud bo'lsa)
-            if norm_topic and old_topic and len(norm_topic) > 4 and len(old_topic) > 4:
-                if norm_topic == old_topic or norm_topic in old_topic or old_topic in norm_topic:
+            # 2. Mavzu kaliti bo'yicha moslik (agar ikkalasida ham 6+ belgili kalit bo'lsa)
+            if norm_topic and old_topic and len(norm_topic) >= 6 and len(old_topic) >= 6:
+                if norm_topic == old_topic:
                     return True
 
-            # 3. So'zlar to'plami bo'yicha o'xshashlik (Jaccard similarity >= 0.50)
+            # 3. Mazmunli so'zlar to'plami bo'yicha o'xshashlik (Jaccard similarity >= 0.60)
             words_old = set(w for w in old_norm.split() if len(w) > 2)
-            sim = _jaccard_similarity(words_new, words_old)
-            if sim >= 0.50:
+            meaningful_old = words_old - STOPWORDS
+            if not meaningful_old:
+                meaningful_old = words_old
+
+            sim = _jaccard_similarity(meaningful_new, meaningful_old)
+            if sim >= 0.60:
                 return True
 
-            # 4. Agar 3 ta yoki undan ko'p asosiy so'zlar bir xil bo'lsa
-            common_words = words_new.intersection(words_old)
-            if len(common_words) >= 3 and len(words_new) <= 6:
+            # 4. Agar 3 ta yoki undan ko'p no-stopword so'zlar bir xil bo'lsa
+            common_words = meaningful_new.intersection(meaningful_old)
+            if len(common_words) >= 3 and len(meaningful_new) <= 5:
                 return True
 
     return False

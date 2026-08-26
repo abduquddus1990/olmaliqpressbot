@@ -11,16 +11,20 @@ import config
 MAX_MEDIA_SIZE_BYTES = 25 * 1024 * 1024  # 25 MB gacha bo'lgan medialar yuklanadi
 
 def is_video_message(msg) -> bool:
-    if msg.video:
+    if not msg:
+        return False
+    if getattr(msg, "video", None):
         return True
-    if msg.document:
+    if getattr(msg, "document", None):
         mime = getattr(msg.document, "mime_type", "") or ""
         if "video" in mime:
             return True
     return False
 
 def get_media_size(msg) -> int:
-    if msg.file:
+    if not msg:
+        return 0
+    if getattr(msg, "file", None):
         return getattr(msg.file, "size", 0) or 0
     return 0
 
@@ -44,18 +48,27 @@ def group_messages(messages):
         
     return groups
 
-def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int = 0, limit: int = 10):
+def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int = 0, limit: int = 15):
     channel = source_info["channel"]
     name = source_info.get("name", channel)
     
+    raw_messages = []
     try:
         if min_id > 0:
             raw_messages = list(client.iter_messages(channel, min_id=min_id, reverse=True, limit=limit))
         else:
             raw_messages = list(reversed(client.get_messages(channel, limit=limit)))
     except Exception as e:
-        print(f"[Telethon Xatosi] @{channel} kanalidan o'qib bo'lmadi: {e}")
-        return []
+        print(f"[Telethon Ogohlantirish] @{channel} iter_messages xatosi ({e}). get_messages bilan qayta urinilmoqda...")
+        try:
+            raw = client.get_messages(channel, limit=limit)
+            if min_id > 0:
+                raw_messages = [m for m in reversed(raw) if m.id > min_id]
+            else:
+                raw_messages = list(reversed(raw))
+        except Exception as e2:
+            print(f"[Telethon Xatosi] @{channel} kanalidan o'qib bo'lmadi: {e2}")
+            return []
 
     if not raw_messages:
         return []
@@ -83,26 +96,23 @@ def download_post_media(client: TelegramClient, post: dict) -> list[tuple[str, b
     group = post.get("messages", [])
 
     for m in group:
-        size = get_media_size(m)
-        if size > MAX_MEDIA_SIZE_BYTES:
-            continue
+        try:
+            size = get_media_size(m)
+            if size > MAX_MEDIA_SIZE_BYTES:
+                continue
 
-        if m.photo:
-            buf = io.BytesIO()
-            try:
+            if getattr(m, "photo", None):
+                buf = io.BytesIO()
                 client.download_media(m, file=buf)
                 buf.seek(0)
                 media_items.append(("photo", buf.getvalue()))
-            except Exception as e:
-                print(f"[Media yuklash xatosi] {post['channel']}:{m.id}: {e}")
-        elif is_video_message(m):
-            buf = io.BytesIO()
-            try:
+            elif is_video_message(m):
+                buf = io.BytesIO()
                 client.download_media(m, file=buf)
                 buf.seek(0)
                 media_items.append(("video", buf.getvalue()))
-            except Exception as e:
-                print(f"[Video yuklash xatosi] {post['channel']}:{m.id}: {e}")
+        except Exception as e:
+            print(f"[Media yuklash xatosi] {post['channel']}:{getattr(m, 'id', 'unknown')}: {e}")
 
     return media_items
 
