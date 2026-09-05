@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 OlmaliqpressBot - Telegram Bot API orqali kanalga post yuborish moduli (UZ va RU kanallarni qo'llab-quvvatlaydi).
 """
@@ -6,6 +6,7 @@ import time
 import json
 import requests
 import config
+import media_processor
 
 BASE_URL = f"https://api.telegram.org/bot{config.TELEGRAM_BOT_TOKEN}"
 
@@ -92,8 +93,11 @@ def send_media_group_post(media_items: list[tuple[str, bytes]], caption: str, ch
     if not media_items:
         return send_text_post(caption, chat_id=target)
 
-    if len(media_items) == 1:
-        kind, buf = media_items[0]
+    # Albom rasmlarini bir xil karusel o'lchamiga moslashtiramiz
+    normalized_media = media_processor.process_album_media(media_items)
+
+    if len(normalized_media) == 1:
+        kind, buf = normalized_media[0]
         if kind == "photo":
             return send_photo_post(buf, caption, chat_id=target)
         else:
@@ -103,7 +107,7 @@ def send_media_group_post(media_items: list[tuple[str, bytes]], caption: str, ch
     files = {}
     cap = caption if len(caption) <= config.PHOTO_CAPTION_LIMIT else caption[:config.PHOTO_CAPTION_LIMIT - 3] + "..."
 
-    for i, (kind, buf) in enumerate(media_items):
+    for i, (kind, buf) in enumerate(normalized_media):
         name = f"file{i}"
         entry = {
             "type": kind,
