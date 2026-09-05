@@ -67,21 +67,17 @@ OUTPUT JSON SHABLONI:
 CYRILLIC_RE = re.compile(r"[Ѐ-ӿ]")
 
 def clean_text_before_ai(text: str) -> str:
-    """Manba kanallarning ortiqcha linklari va taklifnomalarini tozalaydi."""
     if not text:
         return ""
-    
     lines = text.strip().split("\n")
     cleaned_lines = []
     for line in lines:
         if re.search(r"t\.me/\S+|https?://\S+", line) and any(w in line.lower() for w in ["obuna", "kanal", "manba", "ulanish", "bizga qo'shiling", "подпишитесь", "olmaliq yangiliklari"]):
             continue
         cleaned_lines.append(line)
-        
     return "\n".join(cleaned_lines).strip()
 
 def has_blocked_words(text: str) -> bool:
-    """Qat'iy reklama va qimor so'zlarini tekshirish."""
     text_lower = text.lower()
     for kw in config.BLOCKED_KEYWORDS:
         if kw.lower() in text_lower:
@@ -106,7 +102,6 @@ def extract_json(raw_response: str) -> dict | None:
 def call_gemini(text: str, system_prompt: str, extra_prompt: str = "") -> dict | None:
     keys = config.GEMINI_KEYS if config.GEMINI_KEYS else [""]
     models = config.FALLBACK_MODELS
-    
     prompt = f"{text}\n\n{extra_prompt}".strip() if extra_prompt else text
 
     for attempt in range(len(keys) * len(models)):
@@ -145,28 +140,22 @@ def call_gemini(text: str, system_prompt: str, extra_prompt: str = "") -> dict |
     return None
 
 def safe_html_escape(text: str) -> str:
-    """Apostrof va qo'shtirnoqlarni buzmasdan <, >, & belgilarini xavfsiz o'girish."""
     return html.escape(text, quote=False)
 
 def process_and_summarize(raw_text: str) -> dict | None:
-    """
-    Xom matnni tahlil qilib, o'zbek lotin alifbosidagi sarlavha, qisqa tushuntirish va post qaytaradi.
-    """
     if not raw_text or not raw_text.strip():
         return None
-
     if has_blocked_words(raw_text):
         return None
 
     cleaned_text = clean_text_before_ai(raw_text)
     if len(cleaned_text) < 10:
+        cleaned_text = raw_text.strip()
+    if len(cleaned_text) < 10:
         return None
 
     data = call_gemini(cleaned_text, system_prompt=SYSTEM_PROMPT_UZ)
-    if not data:
-        return None
-
-    if data.get("is_ad", False) or not data.get("relevant", True):
+    if not data or data.get("is_ad", False) or not data.get("relevant", True):
         return None
 
     has_cyrillic = any(
@@ -185,9 +174,10 @@ def process_and_summarize(raw_text: str) -> dict | None:
     qisqa_mazmun = (data.get("qisqa_mazmun") or cleaned_text).strip()
     mavzu_kaliti = (data.get("mavzu_kaliti") or sarlavha).strip().lower()
 
+    # Yangi zamonaviy Expandable Blockquote dizayni
     post_html = (
         f"<b>⚡️ {safe_html_escape(sarlavha)}</b>\n\n"
-        f"{safe_html_escape(qisqa_mazmun)}\n\n"
+        f"<blockquote expandable>{safe_html_escape(qisqa_mazmun)}</blockquote>\n\n"
         f"{config.FOOTER_TEXT_UZ}"
     )
 
@@ -200,14 +190,13 @@ def process_and_summarize(raw_text: str) -> dict | None:
     }
 
 def translate_to_russian(text_uz: str, title_uz: str = "") -> dict | None:
-    """
-    O'zbekcha postni rus tiliga professional darajada tarjima qiladi va @olmaliqrus posti formatini qaytaradi.
-    """
     if not text_uz or not text_uz.strip():
         return None
 
     input_text = f"Sarlavha: {title_uz}\nMatn: {text_uz}" if title_uz else text_uz
     cleaned = clean_text_before_ai(input_text)
+    if len(cleaned) < 10:
+        cleaned = input_text.strip()
 
     data = call_gemini(cleaned, system_prompt=SYSTEM_PROMPT_RU)
     if not data:
@@ -219,9 +208,10 @@ def translate_to_russian(text_uz: str, title_uz: str = "") -> dict | None:
     if not qisqa_mazmun_ru:
         return None
 
+    # Yangi zamonaviy Expandable Blockquote dizayni (Ruscha)
     post_html_ru = (
         f"<b>⚡️ {safe_html_escape(sarlavha_ru)}</b>\n\n"
-        f"{safe_html_escape(qisqa_mazmun_ru)}\n\n"
+        f"<blockquote expandable>{safe_html_escape(qisqa_mazmun_ru)}</blockquote>\n\n"
         f"{config.FOOTER_TEXT_RU}"
     )
 
