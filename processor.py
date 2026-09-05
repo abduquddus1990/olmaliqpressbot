@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 OlmaliqpressBot - Gemini AI Qayta Ishlash, Reklamani Saralash, Qisqartirish va Rus tiliga Tarjima Moduli.
 """
@@ -174,10 +174,10 @@ def process_and_summarize(raw_text: str) -> dict | None:
     qisqa_mazmun = (data.get("qisqa_mazmun") or cleaned_text).strip()
     mavzu_kaliti = (data.get("mavzu_kaliti") or sarlavha).strip().lower()
 
-    # Yangi zamonaviy Expandable Blockquote dizayni
+    # Toza va qulay standart post dizayni
     post_html = (
         f"<b>⚡️ {safe_html_escape(sarlavha)}</b>\n\n"
-        f"<blockquote expandable>{safe_html_escape(qisqa_mazmun)}</blockquote>\n\n"
+        f"{safe_html_escape(qisqa_mazmun)}\n\n"
         f"{config.FOOTER_TEXT_UZ}"
     )
 
@@ -208,10 +208,10 @@ def translate_to_russian(text_uz: str, title_uz: str = "") -> dict | None:
     if not qisqa_mazmun_ru:
         return None
 
-    # Yangi zamonaviy Expandable Blockquote dizayni (Ruscha)
+    # Toza va qulay standart post dizayni (Ruscha)
     post_html_ru = (
         f"<b>⚡️ {safe_html_escape(sarlavha_ru)}</b>\n\n"
-        f"<blockquote expandable>{safe_html_escape(qisqa_mazmun_ru)}</blockquote>\n\n"
+        f"{safe_html_escape(qisqa_mazmun_ru)}\n\n"
         f"{config.FOOTER_TEXT_RU}"
     )
 
