@@ -84,9 +84,36 @@ def send_video_post(video_bytes: bytes, caption: str, chat_id: str | None = None
     )
     return resp is not None and resp.ok
 
-def send_media_group_post(media_items: list[tuple[str, bytes]], caption: str, chat_id: str | None = None) -> bool:
+import re
+
+def html_to_rich_text(html_text: str) -> list:
     """
-    media_items: [("photo", bytes), ("video", bytes), ...]
+    HTML teglari (<b>...</b>) bo'lgan matnni Rich Message paragraph text elementlariga aylantiradi.
+    """
+    parts = []
+    pattern = re.compile(r'<b>(.*?)</b>', re.DOTALL)
+    last_idx = 0
+    for match in pattern.finditer(html_text):
+        start, end = match.span()
+        if start > last_idx:
+            plain = html_text[last_idx:start]
+            if plain:
+                parts.append(plain)
+        bold_content = match.group(1)
+        if bold_content:
+            parts.append({"type": "bold", "text": bold_content})
+        last_idx = end
+    if last_idx < len(html_text):
+        remaining = html_text[last_idx:]
+        if remaining:
+            parts.append(remaining)
+    return parts if parts else [html_text]
+
+def send_slideshow_post(media_items: list[tuple[str, bytes]], caption: str, chat_id: str | None = None) -> bool:
+    """
+    Telegram Rich Message API (sendRichMessage + InputRichBlockSlideshow) orqali
+    rasmlarni haqiqiy native swipeable Slideshow / Carousel ko'rinishida jo'natadi.
+    Pagination nuqtalari (● ○ ○) va silliq suriladigan slayder bilan chiqadi.
     """
     target = chat_id or config.TARGET_CHANNEL_UZ
 
@@ -103,6 +130,61 @@ def send_media_group_post(media_items: list[tuple[str, bytes]], caption: str, ch
         else:
             return send_video_post(buf, caption, chat_id=target)
 
+    # 2 yoki undan ortiq rasmlar uchun Native Slideshow (sendRichMessage)
+    slideshow_blocks = []
+    files = {}
+
+    for i, (kind, buf) in enumerate(normalized_media):
+        if kind == "photo":
+            attach_name = f"photo_{i}"
+            slideshow_blocks.append({
+                "type": "photo",
+                "photo": {
+                    "type": "photo",
+                    "media": f"attach://{attach_name}"
+                }
+            })
+            files[attach_name] = (f"{attach_name}.jpg", buf)
+
+    if not slideshow_blocks:
+        return send_text_post(caption, chat_id=target)
+
+    # Matnni HTML formatdan Rich Text paragraph strukturasiga o'giramiz
+    rich_text_parts = html_to_rich_text(caption)
+
+    rich_message = {
+        "blocks": [
+            {
+                "type": "slideshow",
+                "blocks": slideshow_blocks
+            },
+            {
+                "type": "paragraph",
+                "text": rich_text_parts
+            }
+        ]
+    }
+
+    data = {
+        "chat_id": target,
+        "rich_message": json.dumps(rich_message)
+    }
+
+    resp = _post_with_retry(
+        f"{BASE_URL}/sendRichMessage",
+        data=data,
+        files=files,
+        timeout=240
+    )
+
+    if resp is not None and resp.ok:
+        return True
+
+    print("[sendRichMessage Ogohlantirish] sendRichMessage xato berdi, sendMediaGroup fallback ishlatilmoqda...")
+    return _send_media_group_fallback(normalized_media, caption, target)
+
+def _send_media_group_fallback(normalized_media: list[tuple[str, bytes]], caption: str, target: str) -> bool:
+    """Zaxira jo'natish usuli"""
     media = []
     files = {}
     cap = caption if len(caption) <= config.PHOTO_CAPTION_LIMIT else caption[:config.PHOTO_CAPTION_LIMIT - 3] + "..."
@@ -130,3 +212,7 @@ def send_media_group_post(media_items: list[tuple[str, bytes]], caption: str, ch
         timeout=240
     )
     return resp is not None and resp.ok
+
+# Mavjud kodlar bilan to'liq moslik uchun alias
+def send_media_group_post(media_items: list[tuple[str, bytes]], caption: str, chat_id: str | None = None) -> bool:
+    return send_slideshow_post(media_items, caption, chat_id=chat_id)
