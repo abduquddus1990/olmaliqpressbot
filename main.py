@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 OlmaliqpressBot - Asosiy boshqaruvchi skript (O'zbek @olmaliqlik va Rus @olmaliqrus kanallari bilan).
 """
@@ -21,7 +21,7 @@ from telegram_reader import get_telegram_client, fetch_channel_posts, download_p
 def log(msg: str):
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{timestamp}] {msg}"
-    print(line)
+    print(line, flush=True)
     try:
         config.LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(config.LOG_FILE, "a", encoding="utf-8") as f:
@@ -267,14 +267,25 @@ def main():
             log(f"=== OlmaliqpressBot 24/7 monitoring rejimida ishga tushdi ===")
             log(f"Kanallar: UZ: {config.TARGET_CHANNEL_UZ} | RU: {config.TARGET_CHANNEL_RU}")
             log(f"Tekshirish oralig'i: har {config.POLL_INTERVAL_SECONDS} soniyada.")
-            try:
-                while True:
+            while True:
+                try:
                     posted = run_cycle(client)
                     if posted > 0:
                         log(f"Jami {posted} ta yangi post ikkala kanalga joylandi.")
-                    time.sleep(config.POLL_INTERVAL_SECONDS)
-            except KeyboardInterrupt:
-                log("Bot to'xtatildi.")
+                except KeyboardInterrupt:
+                    log("Bot to'xtatildi.")
+                    break
+                except BaseException as e:
+                    if isinstance(e, SystemExit):
+                        raise e
+                    log(f"[Asosiy tsikl xatosi] {type(e).__name__}: {e}. 10 soniyadan so'ng qayta ulaniladi...")
+                    time.sleep(10)
+                    try:
+                        if not client.is_connected():
+                            client.connect()
+                    except Exception as ce:
+                        log(f"[Qayta ulanish xatosi] {ce}")
+                time.sleep(config.POLL_INTERVAL_SECONDS)
         else:
             log("Bir martalik tekshiruv boshlandi...")
             posted = run_cycle(client)

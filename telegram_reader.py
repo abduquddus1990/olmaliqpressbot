@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 OlmaliqpressBot - Telethon orqali Telegram kanallardan xabarlarni o'qish moduli (Tezkor va Optimallashgan).
 """
@@ -54,19 +54,27 @@ def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int =
     
     raw_messages = []
     try:
+        if not client.is_connected():
+            client.connect()
         if min_id > 0:
             raw_messages = list(client.iter_messages(channel, min_id=min_id, reverse=True, limit=limit))
         else:
             raw_messages = list(reversed(client.get_messages(channel, limit=limit)))
-    except Exception as e:
-        print(f"[Telethon Ogohlantirish] @{channel} iter_messages xatosi ({e}). get_messages bilan qayta urinilmoqda...")
+    except (Exception, BaseException) as e:
+        if isinstance(e, (KeyboardInterrupt, SystemExit)):
+            raise e
+        print(f"[Telethon Ogohlantirish] @{channel} xatosi ({type(e).__name__}: {e}). get_messages bilan qayta urinilmoqda...")
         try:
+            if not client.is_connected():
+                client.connect()
             raw = client.get_messages(channel, limit=limit)
             if min_id > 0:
                 raw_messages = [m for m in reversed(raw) if m.id > min_id]
             else:
                 raw_messages = list(reversed(raw))
-        except Exception as e2:
+        except (Exception, BaseException) as e2:
+            if isinstance(e2, (KeyboardInterrupt, SystemExit)):
+                raise e2
             print(f"[Telethon Xatosi] @{channel} kanalidan o'qib bo'lmadi: {e2}")
             return []
 
