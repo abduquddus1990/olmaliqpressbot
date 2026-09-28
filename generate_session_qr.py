@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Telegram QR Kod orqali yangi StringSession yaratish skripti (Asyncio bilan).
+Telegram QR Kod orqali yangi StringSession yaratish skripti (2FA Parol qo'llab-quvvatlaydi).
 """
 import sys
 import asyncio
 import qrcode
 from telethon import TelegramClient
 from telethon.sessions import StringSession
+from telethon.errors import SessionPasswordNeededError
 import config
 
 if not config.TELEGRAM_API_ID or not config.TELEGRAM_API_HASH:
@@ -34,12 +35,23 @@ async def main():
         
         try:
             user = await qr_login.wait(timeout=120)
-            name = getattr(user, "first_name", "Telegram User")
-            print(f"✅ Muvaffaqiyatli ulandi: {name}")
+        except SessionPasswordNeededError:
+            print("\n🔐 Telegramingizda 2 bosqichli himoya (2FA Parol) yoqilgan.")
+            pwd = input("Iltimos, Telegram bulutli parolingizni kiriting: ")
+            user = await client.sign_in(password=pwd)
         except Exception as e:
-            print(f"\n❌ Xatolik yoki vaqt tugadi: {e}")
-            await client.disconnect()
-            return
+            # Ba'zan umumiy Exception ichida "Two-steps verification" deb keladi
+            if "Two-steps verification" in str(e) or "password is required" in str(e):
+                print("\n🔐 Telegramingizda 2 bosqichli himoya (2FA Parol) yoqilgan.")
+                pwd = input("Iltimos, Telegram bulutli parolingizni kiriting: ")
+                user = await client.sign_in(password=pwd)
+            else:
+                print(f"\n❌ Xatolik yoki vaqt tugadi: {e}")
+                await client.disconnect()
+                return
+
+        name = getattr(user, "first_name", "Telegram User")
+        print(f"\n✅ Muvaffaqiyatli ulandi: {name}")
 
     session_string = client.session.save()
     print("\n" + "="*60)
@@ -48,7 +60,7 @@ async def main():
     print("="*60 + "\n")
     print("Ushbu satrni .env va GitHub Secrets'ga nusxalang.\n")
     
-    # .env fayliga avtomatik saqlashga urinish
+    # .env fayliga avtomatik saqlash
     try:
         env_file = config.BASE_DIR / ".env"
         if env_file.exists():
