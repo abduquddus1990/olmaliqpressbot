@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 OlmaliqpressBot - Barcha konfiguratsiya va sozlamalar fayli.
 """
@@ -27,6 +27,9 @@ TELEGRAM_BOT_TOKEN = _clean_env(os.getenv("TELEGRAM_BOT_TOKEN"))
 TARGET_CHANNEL_UZ = _clean_env(os.getenv("TARGET_CHANNEL"), "@olmaliqlik")
 TARGET_CHANNEL_RU = _clean_env(os.getenv("TARGET_CHANNEL_RU"), "-1002262312107")
 TARGET_CHANNEL = TARGET_CHANNEL_UZ
+
+# Token tejash maqsadida rus kanaliga post joylash va tarjima o'chirildi
+ENABLE_RU_CHANNEL = False
 
 # ---------- GEMINI AI SOZLAMALARI ----------
 RAW_GEMINI_KEYS = _clean_env(os.getenv("GEMINI_API_KEY"))

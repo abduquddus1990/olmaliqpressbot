@@ -40,22 +40,23 @@ def post_to_both_channels(media_items: list, uz_result: dict) -> bool:
 
     log(f"[UZ Success] ✅ {config.TARGET_CHANNEL_UZ} kanaliga post joylandi.")
 
-    time.sleep(2)
-    log("[RU Translation] Rus tiliga tarjima qilinmoqda...")
-    ru_result = processor.translate_to_russian(uz_result["qisqa_mazmun"], uz_result["sarlavha"])
+    if getattr(config, "ENABLE_RU_CHANNEL", False):
+        time.sleep(2)
+        log("[RU Translation] Rus tiliga tarjima qilinmoqda...")
+        ru_result = processor.translate_to_russian(uz_result["qisqa_mazmun"], uz_result["sarlavha"])
 
-    if not ru_result:
-        log("[RU Warning] Rus tiliga tarjima qilib bo'lmadi. Faqat UZ kanalga chiqdi.")
-        return True
+        if not ru_result:
+            log("[RU Warning] Rus tiliga tarjima qilib bo'lmadi. Faqat UZ kanalga chiqdi.")
+            return True
 
-    ru_caption = ru_result["telegram_post_ru"]
-    log(f"[RU Posting] {config.TARGET_CHANNEL_RU} kanaliga yuborilmoqda: '{ru_result['sarlavha_ru']}'...")
-    ru_ok = poster.send_media_group_post(media_items, ru_caption, chat_id=config.TARGET_CHANNEL_RU)
+        ru_caption = ru_result["telegram_post_ru"]
+        log(f"[RU Posting] {config.TARGET_CHANNEL_RU} kanaliga yuborilmoqda: '{ru_result['sarlavha_ru']}'...")
+        ru_ok = poster.send_media_group_post(media_items, ru_caption, chat_id=config.TARGET_CHANNEL_RU)
 
-    if ru_ok:
-        log(f"[RU Success] ✅ {config.TARGET_CHANNEL_RU} kanaliga ruscha post joylandi.")
-    else:
-        log(f"[RU Error] ❌ {config.TARGET_CHANNEL_RU} kanaliga yuborishda xatolik yuz berdi.")
+        if ru_ok:
+            log(f"[RU Success] ✅ {config.TARGET_CHANNEL_RU} kanaliga ruscha post joylandi.")
+        else:
+            log(f"[RU Error] ❌ {config.TARGET_CHANNEL_RU} kanaliga yuborishda xatolik yuz berdi.")
 
     return True
 
@@ -265,7 +266,8 @@ def main():
 
         if args.loop:
             log(f"=== OlmaliqpressBot 24/7 monitoring rejimida ishga tushdi ===")
-            log(f"Kanallar: UZ: {config.TARGET_CHANNEL_UZ} | RU: {config.TARGET_CHANNEL_RU}")
+            target_info = f"UZ: {config.TARGET_CHANNEL_UZ}" + (f" | RU: {config.TARGET_CHANNEL_RU}" if getattr(config, "ENABLE_RU_CHANNEL", False) else " (RU kanali to'xtatilgan)")
+            log(f"Maqsadli kanal: {target_info}")
             log(f"Tekshirish oralig'i: har {config.POLL_INTERVAL_SECONDS} soniyada.")
             while True:
                 try:
