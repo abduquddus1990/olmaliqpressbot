@@ -4,6 +4,7 @@ OlmaliqpressBot - Asosiy boshqaruvchi skript (O'zbek @olmaliqlik va Rus @olmaliq
 """
 import sys
 import time
+import datetime
 import argparse
 from pathlib import Path
 
@@ -174,6 +175,18 @@ def run_cycle(client):
 
             if storage.is_message_processed(ch, msg_id):
                 continue
+
+            post_date = post.get("date")
+            if post_date:
+                now_utc = datetime.datetime.now(datetime.timezone.utc)
+                age_hours = (now_utc - post_date).total_seconds() / 3600
+                max_age = getattr(config, "MAX_POST_AGE_HOURS", 12)
+                if age_hours > max_age:
+                    log(f"[@{ch}] ⏳ Eski xabar o'tkazib yuborildi ({age_hours:.1f} soat oldin chiqarilgan, limit: {max_age}h).")
+                    for mid in post["all_ids"]:
+                        storage.mark_message_processed(ch, mid, "too_old_skipped")
+                    storage.set_last_id(ch, msg_id)
+                    continue
 
             raw_text = post["text"]
             if not raw_text.strip():

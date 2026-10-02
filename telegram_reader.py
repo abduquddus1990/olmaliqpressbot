@@ -56,6 +56,20 @@ def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int =
     try:
         if not client.is_connected():
             client.connect()
+
+        # Agar min_id ko'rsatilgan bo'lsa va oradagi farq juda katta bo'lsa (yoki min_id eskirgan bo'lsa)
+        if min_id > 0:
+            latest = client.get_messages(channel, limit=1)
+            if latest and (latest[0].id - min_id) > 25:
+                old_msg = client.get_messages(channel, ids=min_id)
+                if old_msg and getattr(old_msg, "date", None):
+                    import datetime
+                    now_utc = datetime.datetime.now(datetime.timezone.utc)
+                    max_seconds = getattr(config, "MAX_POST_AGE_HOURS", 12) * 3600
+                    if (now_utc - old_msg.date).total_seconds() > max_seconds:
+                        print(f"[Telethon Fast-Forward] @{channel} bazadagi ID ({min_id}) eskirgan. Bugungi yangi xabarlarga o'tilmoqda...")
+                        min_id = max(0, latest[0].id - limit)
+
         if min_id > 0:
             raw_messages = list(client.iter_messages(channel, min_id=min_id, reverse=True, limit=limit))
         else:
@@ -87,6 +101,7 @@ def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int =
     for group in grouped:
         main_text = next((m.text for m in group if m.text), "") or ""
         max_id = max(m.id for m in group)
+        post_date = max((m.date for m in group if getattr(m, "date", None)), default=None)
 
         posts.append({
             "channel": channel,
@@ -95,6 +110,7 @@ def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int =
             "all_ids": [m.id for m in group],
             "messages": group,
             "text": main_text,
+            "date": post_date,
         })
 
     return posts
