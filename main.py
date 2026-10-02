@@ -166,9 +166,8 @@ def run_cycle(client):
 
     for source in config.SOURCES:
         ch = source["channel"]
-        last_id = storage.get_last_id(ch)
 
-        posts = fetch_channel_posts(client, source, min_id=last_id, limit=15)
+        posts = fetch_channel_posts(client, source, limit=20)
 
         for post in posts:
             msg_id = post["message_id"]
@@ -182,7 +181,6 @@ def run_cycle(client):
                 age_hours = (now_utc - post_date).total_seconds() / 3600
                 max_age = getattr(config, "MAX_POST_AGE_HOURS", 12)
                 if age_hours > max_age:
-                    log(f"[@{ch}] ⏳ Eski xabar o'tkazib yuborildi ({age_hours:.1f} soat oldin chiqarilgan, limit: {max_age}h).")
                     for mid in post["all_ids"]:
                         storage.mark_message_processed(ch, mid, "too_old_skipped")
                     storage.set_last_id(ch, msg_id)
@@ -267,8 +265,16 @@ def main():
             log(f"=== Bot {args.duration_minutes} daqiqa davomida faol monitoring rejimida ishlaydi ===")
             total_all = 0
             while time.time() < end_time:
-                posted = run_cycle(client)
-                total_all += posted
+                try:
+                    posted = run_cycle(client)
+                    total_all += posted
+                except KeyboardInterrupt:
+                    break
+                except BaseException as e:
+                    if isinstance(e, SystemExit):
+                        raise e
+                    log(f"[Monitoring xatosi] {type(e).__name__}: {e}")
+                    time.sleep(5)
                 remaining = end_time - time.time()
                 if remaining > 5:
                     time.sleep(min(config.POLL_INTERVAL_SECONDS, remaining))

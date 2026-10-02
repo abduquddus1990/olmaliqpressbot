@@ -56,7 +56,7 @@ SOURCES = [
 POST_INTERVAL_SECONDS = 3            # Postlar orasidagi tanaffus (soniyada)
 POLL_INTERVAL_SECONDS = 30           # Doimiy monitoringda tekshirish oralig'i (soniyada)
 DUPLICATE_WINDOW_HOURS = 48          # Dublikat xabarlarni saqlash vaqti (soatda)
-MAX_POST_AGE_HOURS = 12              # 12 soatdan eski xabarlar o'tkazib yuboriladi (kechikishni oldini olish)
+MAX_POST_AGE_HOURS = 12              # 12 soatdan eski xabarlar o'tkazib yuboriladi (kechikishni 100% yo'qotish)
 
 # Media / Xabar limitlari
 PHOTO_CAPTION_LIMIT = 1024

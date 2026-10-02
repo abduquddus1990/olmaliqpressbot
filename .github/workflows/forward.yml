@@ -49,7 +49,7 @@ jobs:
           if [ "${{ github.event.inputs.catchup }}" = "true" ]; then
             python main.py --catchup
           else
-            python main.py
+            python main.py --duration-minutes 8
           fi
 
       - name: Ma'lumotlar bazasini saqlab qolish

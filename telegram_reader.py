@@ -48,7 +48,7 @@ def group_messages(messages):
         
     return groups
 
-def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int = 0, limit: int = 15):
+def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int = 0, limit: int = 20):
     channel = source_info["channel"]
     name = source_info.get("name", channel)
     
@@ -56,41 +56,15 @@ def fetch_channel_posts(client: TelegramClient, source_info: dict, min_id: int =
     try:
         if not client.is_connected():
             client.connect()
-
-        # Agar min_id ko'rsatilgan bo'lsa va oradagi farq juda katta bo'lsa (yoki min_id eskirgan bo'lsa)
-        if min_id > 0:
-            latest = client.get_messages(channel, limit=1)
-            if latest and (latest[0].id - min_id) > 25:
-                old_msg = client.get_messages(channel, ids=min_id)
-                if old_msg and getattr(old_msg, "date", None):
-                    import datetime
-                    now_utc = datetime.datetime.now(datetime.timezone.utc)
-                    max_seconds = getattr(config, "MAX_POST_AGE_HOURS", 12) * 3600
-                    if (now_utc - old_msg.date).total_seconds() > max_seconds:
-                        print(f"[Telethon Fast-Forward] @{channel} bazadagi ID ({min_id}) eskirgan. Bugungi yangi xabarlarga o'tilmoqda...")
-                        min_id = max(0, latest[0].id - limit)
-
-        if min_id > 0:
-            raw_messages = list(client.iter_messages(channel, min_id=min_id, reverse=True, limit=limit))
-        else:
-            raw_messages = list(reversed(client.get_messages(channel, limit=limit)))
+        # Har doim kanalning eng tepasidagi yangi xabarlarni olamiz (engoxiri loyihasi kabi)
+        # Shunda bot hech qachon o'tmishdagi eski backlogga tushib qolmaydi!
+        raw = client.get_messages(channel, limit=limit)
+        raw_messages = list(reversed(raw))
     except (Exception, BaseException) as e:
         if isinstance(e, (KeyboardInterrupt, SystemExit)):
             raise e
-        print(f"[Telethon Ogohlantirish] @{channel} xatosi ({type(e).__name__}: {e}). get_messages bilan qayta urinilmoqda...")
-        try:
-            if not client.is_connected():
-                client.connect()
-            raw = client.get_messages(channel, limit=limit)
-            if min_id > 0:
-                raw_messages = [m for m in reversed(raw) if m.id > min_id]
-            else:
-                raw_messages = list(reversed(raw))
-        except (Exception, BaseException) as e2:
-            if isinstance(e2, (KeyboardInterrupt, SystemExit)):
-                raise e2
-            print(f"[Telethon Xatosi] @{channel} kanalidan o'qib bo'lmadi: {e2}")
-            return []
+        print(f"[Telethon Xatosi] @{channel} kanalidan o'qib bo'lmadi: {e}")
+        return []
 
     if not raw_messages:
         return []
