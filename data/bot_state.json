@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85537,
-    "ao_agmk": 49374,
+    "olmaliqhayoti": 85554,
+    "ao_agmk": 49377,
     "olmaliqshaharpressa": 12604,
-    "olmaliq": 43129
+    "olmaliq": 43141
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2596,51 +2596,41 @@
     "olmaliq:43126": 1791282020.364157,
     "olmaliq:43127": 1791282020.3993695,
     "olmaliq:43128": 1791282020.423441,
-    "olmaliq:43129": 1791282020.4400227
+    "olmaliq:43129": 1791282020.4400227,
+    "olmaliqhayoti:85538": 1791299387.2844365,
+    "olmaliqhayoti:85539": 1791299428.1128943,
+    "olmaliqhayoti:85540": 1791299428.1189842,
+    "olmaliqhayoti:85541": 1791299428.1248183,
+    "olmaliqhayoti:85542": 1791299428.130638,
+    "olmaliqhayoti:85543": 1791299428.1363533,
+    "olmaliqhayoti:85544": 1791299428.1421392,
+    "olmaliqhayoti:85545": 1791299428.1479313,
+    "olmaliqhayoti:85546": 1791299428.1537404,
+    "olmaliqhayoti:85547": 1791299428.1595843,
+    "olmaliqhayoti:85548": 1791299428.1653638,
+    "olmaliqhayoti:85549": 1791299447.628447,
+    "olmaliqhayoti:85550": 1791299447.6345105,
+    "olmaliqhayoti:85551": 1791299447.6402547,
+    "olmaliqhayoti:85552": 1791299450.6581688,
+    "olmaliqhayoti:85553": 1791299455.1145191,
+    "olmaliqhayoti:85554": 1791299458.1345723,
+    "ao_agmk:49375": 1791299463.9016807,
+    "ao_agmk:49376": 1791299467.1497316,
+    "ao_agmk:49377": 1791299472.6015124,
+    "olmaliq:43130": 1791299499.0607967,
+    "olmaliq:43131": 1791299499.0669692,
+    "olmaliq:43132": 1791299499.0728865,
+    "olmaliq:43133": 1791299499.0786712,
+    "olmaliq:43134": 1791299499.0844293,
+    "olmaliq:43135": 1791299499.090128,
+    "olmaliq:43136": 1791299499.0958447,
+    "olmaliq:43137": 1791299499.1016283,
+    "olmaliq:43138": 1791299506.3561337,
+    "olmaliq:43139": 1791299506.3625693,
+    "olmaliq:43140": 1791299506.3685396,
+    "olmaliq:43141": 1791299506.3828359
   },
   "posted_articles": [
-    {
-      "title": "Toshkentda yangi Milliy muzey qurilmoqda",
-      "summary": "",
-      "norm_title": "toshkentda yangi milliy muzey qurilmoqda",
-      "topic_key": "milliy-muzey-qurilishi",
-      "stems": [
-        "milliy",
-        "muzey",
-        "qur"
-      ],
-      "posted_at": 1789346241.8939617
-    },
-    {
-      "title": "O'zbekistonda kuz fasli seryog'in kelishi kutilmoqda",
-      "summary": "",
-      "norm_title": "ozbekistonda kuz fasli seryogin kelishi kutilmoqda",
-      "topic_key": "kuz-seryogin-prognoz",
-      "stems": [
-        "fasl",
-        "kut",
-        "zbekiston",
-        "kuz",
-        "seryog",
-        "kel"
-      ],
-      "posted_at": 1789346302.4409819
-    },
-    {
-      "title": "Tunda shovqin qilganlik uchun jarima miqdori belgilanadi",
-      "summary": "",
-      "norm_title": "tunda shovqin qilganlik uchun jarima miqdori belgilanadi",
-      "topic_key": "tunda-shovqin-jarima",
-      "stems": [
-        "jarima",
-        "belgilan",
-        "qil",
-        "tun",
-        "miqdor",
-        "shovqin"
-      ],
-      "posted_at": 1789346327.25021
-    },
     {
       "title": "Ajrashish istagidagi oilalarga muddat berilmasligi mumkin",
       "summary": "",
@@ -5518,6 +5508,51 @@
         "biriktiril"
       ],
       "posted_at": 1791281973.8988185
+    },
+    {
+      "title": "Olmaliqda shahar hokimi o'rinbosari fuqarolar qabulini o'tkazdi",
+      "summary": "Olmaliq shahar Xalq qabulxonasida hokim o'rinbosari M.Minavarova tomonidan fuqarolarning bandlik, ijtimoiy himoya va tadbirkorlik masalalari bo'yicha murojaatlari tinglandi.",
+      "norm_title": "olmaliqda shahar hokimi orinbosari fuqarolar qabulini otkazdi",
+      "topic_key": "hokim-orinbosari-fuqarolar-qabuli",
+      "stems": [
+        "tkaz",
+        "hokim",
+        "fuqaro",
+        "qabul",
+        "rinbosar"
+      ],
+      "posted_at": 1791299447.6461844
+    },
+    {
+      "title": "Ekologik huquqbuzarliklar haqida xabar bering",
+      "summary": "Fuqarolar daraxtlarning noqonuniy kesilishi va chiqindi tashlash kabi ekologik qonunbuzarliklar haqida 1157 ishonch telefoni yoki @ecogovuz_bot orqali xabar berishlari mumkin.",
+      "norm_title": "ekologik huquqbuzarliklar haqida xabar bering",
+      "topic_key": "ekologiya-ishonch-telefoni",
+      "stems": [
+        "huquqbuzar",
+        "ekologik",
+        "bering"
+      ],
+      "posted_at": 1791299455.1207101
+    },
+    {
+      "title": "AGMK atrof-muhitni muhofaza qilish bo'limi boshlig'i lavozimiga rezyumelar qabul qilmoqda",
+      "summary": "AGMKning Atrof-muhitni muhofaza qilish bo'limi boshlig'i lavozimi uchun 2026-yil 6-15-oktyabr kunlari rezyumelar qabul qilinadi.",
+      "norm_title": "agmk atrofmuhitni muhofaza qilish bolimi boshligi lavozimiga rezyumelar qabul qilmoqda",
+      "topic_key": "agmk-vakansiya-ekologiya",
+      "stems": [
+        "atrof",
+        "agmk",
+        "rezyume",
+        "muhofaza",
+        "qabul",
+        "lim",
+        "lavozim",
+        "boshlig",
+        "qil",
+        "muhit"
+      ],
+      "posted_at": 1791299472.6077995
     }
   ]
 }
