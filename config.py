@@ -55,7 +55,7 @@ SOURCES = [
 # ---------- VAQT VA CHEKLOVLAR ----------
 POST_INTERVAL_SECONDS = 3            # Postlar orasidagi tanaffus (soniyada)
 POLL_INTERVAL_SECONDS = 30           # Doimiy monitoringda tekshirish oralig'i (soniyada)
-DUPLICATE_WINDOW_HOURS = 48          # Dublikat xabarlarni saqlash vaqti (soatda)
+DUPLICATE_WINDOW_HOURS = 72          # Dublikat xabarlarni saqlash vaqti (3 sutka - 72 soat)
 MAX_POST_AGE_HOURS = 12              # 12 soatdan eski xabarlar o'tkazib yuboriladi (kechikishni 100% yo'qotish)
 
 # Media / Xabar limitlari
@@ -80,5 +80,6 @@ BLOCKED_KEYWORDS = [
     "reklama narxi", "реклама учун", "aloqa uchun: @"
 ]
 
+STATE_FILE = BASE_DIR / "data" / "bot_state.json"
 DB_FILE = BASE_DIR / "data" / "bot_database.db"
 LOG_FILE = BASE_DIR / "data" / "bot_log.txt"

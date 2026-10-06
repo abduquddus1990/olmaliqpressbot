@@ -1,7 +1,14 @@
-﻿.env
+.env
 data/*.log
 data/bot_log.txt
 *.log
 __pycache__/
 *.pyc
 check_channels.py
+check_dups.py
+data/bot_database.db
+data/*.db
+data/*.tmp
+*.png
+*.html
+test_*.py

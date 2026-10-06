@@ -99,7 +99,7 @@ def run_test_mode(client):
         if not result:
             continue
 
-        if storage.is_duplicate_news(result["sarlavha"], result.get("mavzu_kaliti", "")):
+        if storage.is_duplicate_news(result["sarlavha"], summary=result.get("qisqa_mazmun", ""), topic_key=result.get("mavzu_kaliti", "")):
             log(f"[@{ch}] ⚠️ Mazmunan o'xshash xabar avvalroq chiqarilgan: '{result['sarlavha']}'. O'tkazib yuborildi.")
             continue
 
@@ -111,7 +111,7 @@ def run_test_mode(client):
         if success:
             for mid in post["all_ids"]:
                 storage.mark_message_processed(ch, mid, "test_posted")
-            storage.mark_news_posted(result["sarlavha"], result.get("mavzu_kaliti", ""))
+            storage.mark_news_posted(result["sarlavha"], summary=result.get("qisqa_mazmun", ""), topic_key=result.get("mavzu_kaliti", ""))
             storage.set_last_id(ch, post["message_id"])
 
         time.sleep(config.POST_INTERVAL_SECONDS)
@@ -172,7 +172,7 @@ def run_cycle(client):
         for post in posts:
             msg_id = post["message_id"]
 
-            if storage.is_message_processed(ch, msg_id):
+            if any(storage.is_message_processed(ch, mid) for mid in post["all_ids"]):
                 continue
 
             post_date = post.get("date")
@@ -209,7 +209,7 @@ def run_cycle(client):
                 storage.set_last_id(ch, msg_id)
                 continue
 
-            if storage.is_duplicate_news(result["sarlavha"], result.get("mavzu_kaliti", "")):
+            if storage.is_duplicate_news(result["sarlavha"], summary=result.get("qisqa_mazmun", ""), topic_key=result.get("mavzu_kaliti", "")):
                 log(f"[@{ch}] ⚠️ Mazmunan o'xshash xabar avvalroq chiqarilgan: '{result['sarlavha']}'. O'tkazib yuborildi.")
                 for mid in post["all_ids"]:
                     storage.mark_message_processed(ch, mid, "duplicate_topic")
@@ -223,7 +223,7 @@ def run_cycle(client):
                 total_posted += 1
                 for mid in post["all_ids"]:
                     storage.mark_message_processed(ch, mid, "posted")
-                storage.mark_news_posted(result["sarlavha"], result.get("mavzu_kaliti", ""))
+                storage.mark_news_posted(result["sarlavha"], summary=result.get("qisqa_mazmun", ""), topic_key=result.get("mavzu_kaliti", ""))
                 storage.set_last_id(ch, msg_id)
                 time.sleep(config.POST_INTERVAL_SECONDS)
             else:

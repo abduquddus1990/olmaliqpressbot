@@ -21,7 +21,7 @@ permissions:
 jobs:
   run-bot:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 10
     steps:
       - name: Repozitoriyani yuklab olish
         uses: actions/checkout@v4
@@ -49,21 +49,22 @@ jobs:
           if [ "${{ github.event.inputs.catchup }}" = "true" ]; then
             python main.py --catchup
           else
-            python main.py --duration-minutes 8
+            python main.py --duration-minutes 4
           fi
 
-      - name: Ma'lumotlar bazasini saqlab qolish
+      - name: Bot holatini saqlab qolish
+        if: always()
         env:
           GIT_TERMINAL_PROMPT: "0"
         run: |
           git config --global user.name "olmaliq-bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add data/bot_database.db
+          git add data/bot_state.json
           if ! git diff --staged --quiet; then
-            git commit -m "chore: yangilangan bot bazasi [skip ci]"
-            git pull --rebase origin main
+            git commit -m "chore: yangilangan bot holati [skip ci]"
+            git pull --rebase origin main || (git rebase --abort && python merge_state.py && git add data/bot_state.json && git commit -m "chore: yangilangan bot holati (merged) [skip ci]")
             git push
-            echo "--- BAZA GITHUBGA SAQLANDI ---"
+            echo "--- BOT HOLATI GITHUBGA MUVAFFAQIYATLI SAQLANDI ---"
           else
             echo "--- O'ZGARISH YO'Q, COMMIT QILINMADI ---"
           fi
