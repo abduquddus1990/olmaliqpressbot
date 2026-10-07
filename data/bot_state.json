@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85562,
-    "ao_agmk": 49377,
+    "olmaliqhayoti": 85580,
+    "ao_agmk": 49396,
     "olmaliqshaharpressa": 12604,
-    "olmaliq": 43144
+    "olmaliq": 43160
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2639,144 +2639,61 @@
     "olmaliqhayoti:85561": 1791341085.124688,
     "olmaliqhayoti:85562": 1791341085.1307867,
     "olmaliq:43143": 1791341098.5764155,
-    "olmaliq:43144": 1791341121.4921577
+    "olmaliq:43144": 1791341121.4921577,
+    "olmaliqhayoti:85563": 1791364760.514354,
+    "olmaliqhayoti:85564": 1791364760.523549,
+    "olmaliqhayoti:85565": 1791364818.112124,
+    "olmaliqhayoti:85566": 1791364824.9860318,
+    "olmaliqhayoti:85567": 1791364824.9909625,
+    "olmaliqhayoti:85568": 1791364824.9955835,
+    "olmaliqhayoti:85569": 1791364829.8270078,
+    "olmaliqhayoti:85570": 1791364829.8318398,
+    "olmaliqhayoti:85571": 1791364829.836513,
+    "olmaliqhayoti:85572": 1791364846.9351952,
+    "olmaliqhayoti:85573": 1791364877.0106122,
+    "olmaliqhayoti:85574": 1791364896.8007882,
+    "olmaliqhayoti:85575": 1791364896.8056295,
+    "olmaliqhayoti:85576": 1791364896.8102622,
+    "olmaliqhayoti:85577": 1791364896.8148549,
+    "olmaliqhayoti:85578": 1791364896.8194938,
+    "olmaliqhayoti:85579": 1791364896.8240821,
+    "olmaliqhayoti:85580": 1791364896.8286502,
+    "ao_agmk:49379": 1791364908.7715013,
+    "ao_agmk:49380": 1791364908.7763202,
+    "ao_agmk:49381": 1791364908.7809582,
+    "ao_agmk:49382": 1791364908.7855742,
+    "ao_agmk:49383": 1791364951.0940058,
+    "ao_agmk:49384": 1791364957.9259596,
+    "ao_agmk:49385": 1791364957.9307609,
+    "ao_agmk:49386": 1791364957.9353743,
+    "ao_agmk:49387": 1791364957.9399674,
+    "ao_agmk:49388": 1791364971.8785346,
+    "ao_agmk:49389": 1791364971.8833764,
+    "ao_agmk:49390": 1791364971.8880022,
+    "ao_agmk:49391": 1791364990.2748232,
+    "ao_agmk:49392": 1791364990.279685,
+    "ao_agmk:49393": 1791364990.2842913,
+    "ao_agmk:49394": 1791364990.2888577,
+    "ao_agmk:49395": 1791364990.2934484,
+    "ao_agmk:49396": 1791365053.904664,
+    "olmaliq:43145": 1791365057.5527074,
+    "olmaliq:43146": 1791365066.0131426,
+    "olmaliq:43147": 1791365077.2753298,
+    "olmaliq:43148": 1791365077.2803109,
+    "olmaliq:43149": 1791365077.28507,
+    "olmaliq:43150": 1791365087.9744258,
+    "olmaliq:43151": 1791365087.9794114,
+    "olmaliq:43152": 1791365087.9841945,
+    "olmaliq:43153": 1791365099.496526,
+    "olmaliq:43154": 1791365099.5016232,
+    "olmaliq:43155": 1791365099.5063314,
+    "olmaliq:43156": 1791365099.511005,
+    "olmaliq:43157": 1791365099.5156572,
+    "olmaliq:43158": 1791365099.5202818,
+    "olmaliq:43159": 1791365099.5249481,
+    "olmaliq:43160": 1791365112.6888783
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahri uchun 12-sentyabr namoz vaqtlari",
-      "summary": "",
-      "norm_title": "olmaliq shahri uchun 12sentyabr namoz vaqtlari",
-      "topic_key": "namoz-vaqtlari-olmaliq",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt",
-        "sentyabr"
-      ],
-      "posted_at": 1789346404.5319643
-    },
-    {
-      "title": "O‘zbekistonda tungi vaqtda шовқин қилиш taqiqlandi",
-      "summary": "",
-      "norm_title": "ozbekistonda tungi vaqtda шовқин қилиш taqiqlandi",
-      "topic_key": "tungi-shovqin-taqiqi",
-      "stems": [
-        "zbekiston",
-        "taqiqlan",
-        "tung",
-        "vaqt"
-      ],
-      "posted_at": 1789346505.775289
-    },
-    {
-      "title": "Toshkent viloyatida ichimlik suvi va oqova xizmati tariflari oshishi kutilmoqda",
-      "summary": "",
-      "norm_title": "toshkent viloyatida ichimlik suvi va oqova xizmati tariflari oshishi kutilmoqda",
-      "topic_key": "suv-tarifi-oshishi",
-      "stems": [
-        "kut",
-        "ichim",
-        "osh",
-        "oqova",
-        "xizmat",
-        "suv",
-        "tarif"
-      ],
-      "posted_at": 1789346530.5817256
-    },
-    {
-      "title": "Sariosiyo voqealari qahramoni xotirasiga bag'ishlangan podcast e'lon qilindi",
-      "summary": "",
-      "norm_title": "sariosiyo voqealari qahramoni xotirasiga bagishlangan podcast elon qilindi",
-      "topic_key": "sariosiyo-qahramonlari-podcast",
-      "stems": [
-        "sariosiyo",
-        "bag",
-        "qahramo",
-        "podcast",
-        "xotira",
-        "ishlan",
-        "voqea",
-        "lon"
-      ],
-      "posted_at": 1789346575.665921
-    },
-    {
-      "title": "Ob-havo, namoz vaqtlari va valyuta kurslari",
-      "summary": "",
-      "norm_title": "obhavo namoz vaqtlari va valyuta kurslari",
-      "topic_key": "ob-havo-namoz-valyuta",
-      "stems": [
-        "vaqt",
-        "kurs",
-        "havo",
-        "namoz",
-        "valyuta"
-      ],
-      "posted_at": 1789346612.201515
-    },
-    {
-      "title": "Sirdaryoda ekopoliya inspektori brakonerlar qo'lida halok bo'ldi",
-      "summary": "",
-      "norm_title": "sirdaryoda ekopoliya inspektori brakonerlar qolida halok boldi",
-      "topic_key": "ekopoliya-inspektori-halok-boldi",
-      "stems": [
-        "ekopoliya",
-        "sirdaryo",
-        "brakoner",
-        "halok",
-        "lida",
-        "ldi",
-        "inspektor"
-      ],
-      "posted_at": 1789346636.1918294
-    },
-    {
-      "title": "Muddatidan o'tgan mahsulotlar savdosi uchun javobgarlik kuchaytirilmoqda",
-      "summary": "",
-      "norm_title": "muddatidan otgan mahsulotlar savdosi uchun javobgarlik kuchaytirilmoqda",
-      "topic_key": "muddati-otgan-mahsulot-javobgarlik",
-      "stems": [
-        "mahsulot",
-        "muddat",
-        "savdo",
-        "javobgar",
-        "kuchay",
-        "tgan"
-      ],
-      "posted_at": 1789346700.410859
-    },
-    {
-      "title": "Muqimiy mahallasida xonadonbay o'rganish ishlari o'tkazildi",
-      "summary": "",
-      "norm_title": "muqimiy mahallasida xonadonbay organish ishlari otkazildi",
-      "topic_key": "muqimiy-mahalla-xonadonbay",
-      "stems": [
-        "muqimiy",
-        "mahalla",
-        "xonadonbay",
-        "rgan",
-        "ish",
-        "tkazil"
-      ],
-      "posted_at": 1789346723.9563339
-    },
-    {
-      "title": "OKMKda huquqbuzarliklar profilaktikasiga bag'ishlangan tadbir o'tkazildi",
-      "summary": "",
-      "norm_title": "okmkda huquqbuzarliklar profilaktikasiga bagishlangan tadbir otkazildi",
-      "topic_key": "okmk-huquqbuzarlik-profilaktika",
-      "stems": [
-        "okmk",
-        "tadbir",
-        "huquqbuzar",
-        "bag",
-        "ishlan",
-        "profilakt",
-        "tkazil"
-      ],
-      "posted_at": 1789346777.696133
-    },
     {
       "title": "Olmaliq shahar IIB boshlig'i sayyor qabul o'tkazadi",
       "summary": "",
@@ -5567,6 +5484,143 @@
         "astronomiya"
       ],
       "posted_at": 1791341121.4987924
+    },
+    {
+      "title": "Moped va skuterlarni boshqarishda haydovchilik guvohnomasi talab etilishining sababi ma'lum qilindi",
+      "summary": "Yo'l harakati xavfsizligi xizmati ma'lumotlariga ko'ra, moped va skuterlar ishtirokidagi qoidabuzarliklar keskin oshgan: 2026-yilning 9 oyida 563 ta YTH sodir bo'lib, 89 kishi halok bo'lgan. Shu sababli ushbu transport vositalarini boshqarishda xavfsizlik talablari kuchaytirilmoqda.",
+      "norm_title": "moped va skuterlarni boshqarishda haydovchilik guvohnomasi talab etilishining sababi malum qilindi",
+      "topic_key": "moped-skuter-guvohnoma",
+      "stems": [
+        "skuter",
+        "talab",
+        "haydovch",
+        "moped",
+        "lum",
+        "guvohnoma",
+        "boshqar",
+        "etil",
+        "sabab"
+      ],
+      "posted_at": 1791364818.117113
+    },
+    {
+      "title": "Jazoir tog-kon sanoati vaziri AGMKga tashrif buyurdi",
+      "summary": "Olmaliq kon-metallurgiya kombinatiga Jazoir Respublikasi Tog-kon sanoati vaziri boshchiligidagi delegatsiya tashrif buyurdi.",
+      "norm_title": "jazoir togkon sanoati vaziri agmkga tashrif buyurdi",
+      "topic_key": "jazoir-vaziri-agmk-tashrif",
+      "stems": [
+        "jazoir",
+        "agmk",
+        "tog",
+        "tashrif",
+        "sanoat",
+        "buyur",
+        "vazir",
+        "kon"
+      ],
+      "posted_at": 1791364829.8411438
+    },
+    {
+      "title": "Olmaliqda yo'qolgan hujjatlar topildi",
+      "summary": "Reymov Xurmatboy To'xtaboyevichga tegishli hujjatlar topib olindi. Hujjat egalari 93-616-23-59 telefon raqamiga bog'lanishlari so'raladi.",
+      "norm_title": "olmaliqda yoqolgan hujjatlar topildi",
+      "topic_key": "topilgan-hujjatlar-reymov",
+      "stems": [
+        "hujjat",
+        "qol",
+        "topil"
+      ],
+      "posted_at": 1791364846.9420311
+    },
+    {
+      "title": "Toshkent viloyatida kiberjinoyatlarning oldini olish tajribasi yaratiladi",
+      "summary": "Toshkent viloyatida aholining kibermaданиятини yuksaltirish va kiberjinoyatlarga qarshi kurashish bo'yicha янги targ'ibot tizimini joriy etish masalalari muhokama qilindi.",
+      "norm_title": "toshkent viloyatida kiberjinoyatlarning oldini olish tajribasi yaratiladi",
+      "topic_key": "toshkent-viloyati-kiberjinoyat",
+      "stems": [
+        "kiberjinoyat",
+        "olish",
+        "yarat",
+        "old",
+        "tajriba"
+      ],
+      "posted_at": 1791364896.8332958
+    },
+    {
+      "title": "Ijtimoiy himoya choralari ko'rib chiqildi",
+      "summary": "Prezident Shavkat Mirziyoyev kuz-qish mavsumida ehtiyojmand oilalarni ijtimoiy himoya qilish bo'yicha takliflar taqdimoti bilan tanishdi.",
+      "norm_title": "ijtimoiy himoya choralari korib chiqildi",
+      "topic_key": "ijtimoiy-himoya-qish-mavsumi",
+      "stems": [
+        "rib",
+        "chora",
+        "chiqil",
+        "ijtimoiy",
+        "himoya"
+      ],
+      "posted_at": 1791364908.7902086
+    },
+    {
+      "title": "Prezident FAOning oliy mukofoti bilan taqdirlandi",
+      "summary": "Davlatimiz rahbari samarali agrar islohotlari uchun BMTning Oziq-ovqat va qishloq xo‘jaligi tashkilotining (FAO) \"Agrikola\" medali bilan taqdirlandi.",
+      "norm_title": "prezident faoning oliy mukofoti bilan taqdirlandi",
+      "topic_key": "prezident-fao-agrikola-medali",
+      "stems": [
+        "mukofot",
+        "prezident",
+        "fao",
+        "oliy",
+        "taqdirlan"
+      ],
+      "posted_at": 1791364951.0989916
+    },
+    {
+      "title": "STTBda favqulodda vaziyatlar bo'yicha o'quv mashg'uloti o'tkazildi",
+      "summary": "AGMK Sanoat temir yo'l transporti boshqarmasida yong'inni bartaraf etish va evakuatsiya qilish bo'yicha o'tkazilgan o'quv mashg'uloti mas'ullar tomonidan a'lo baholandi.",
+      "norm_title": "sttbda favqulodda vaziyatlar boyicha oquv mashguloti otkazildi",
+      "topic_key": "agmk-favqulodda-mashgulot",
+      "stems": [
+        "mashg",
+        "tkazil",
+        "ulot",
+        "sttb",
+        "favqulod",
+        "yicha",
+        "vaziyat",
+        "quv"
+      ],
+      "posted_at": 1791364990.29812
+    },
+    {
+      "title": "Sun'iy intellekt yordamida ovozli firibgarlikdan ogoh bo'ling",
+      "summary": "Firibgarlar sun'iy intellekt orqali yaqinlaringiz ovozini soxtalashtirib pul so'rashi mumkin. Pul o'tkazishdan avval o'sha shaxs bilan bog'lanib, ma'lumotni tekshiring.",
+      "norm_title": "suniy intellekt yordamida ovozli firibgarlikdan ogoh boling",
+      "topic_key": "ovozli-firibgarlik-ogohlantirish",
+      "stems": [
+        "firibgar",
+        "ovozl",
+        "ling",
+        "sun",
+        "intellekt",
+        "yordam",
+        "ogoh"
+      ],
+      "posted_at": 1791365053.9096198
+    },
+    {
+      "title": "Maktablarda sun'iy intellekt orqali davomat nazorati joriy etiladi",
+      "summary": "Toshkent shahridagi maktablarda o'quvchilarning darsga kelishini sun'iy intellekt va smart kameralar nazorat qiladi. Sababsiz darsga kelmagan o'quvchilar uchun ota-onalarga ma'muriy jarima qo'llanilishi mumkin.",
+      "norm_title": "maktablarda suniy intellekt orqali davomat nazorati joriy etiladi",
+      "topic_key": "maktab-davomat-suniy-intellekt",
+      "stems": [
+        "joriy",
+        "davomat",
+        "maktab",
+        "sun",
+        "intellekt",
+        "nazorat"
+      ],
+      "posted_at": 1791365066.0180736
     }
   ]
 }
