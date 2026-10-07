@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85580,
-    "ao_agmk": 49396,
-    "olmaliqshaharpressa": 12604,
-    "olmaliq": 43160
+    "olmaliqhayoti": 85595,
+    "ao_agmk": 49406,
+    "olmaliqshaharpressa": 12606,
+    "olmaliq": 43165
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2691,81 +2691,41 @@
     "olmaliq:43157": 1791365099.5156572,
     "olmaliq:43158": 1791365099.5202818,
     "olmaliq:43159": 1791365099.5249481,
-    "olmaliq:43160": 1791365112.6888783
+    "olmaliq:43160": 1791365112.6888783,
+    "olmaliqhayoti:85581": 1791391135.724335,
+    "olmaliqhayoti:85582": 1791391185.540705,
+    "olmaliqhayoti:85583": 1791391185.5541584,
+    "olmaliqhayoti:85584": 1791391185.5661228,
+    "olmaliqhayoti:85585": 1791391185.579284,
+    "olmaliqhayoti:85586": 1791391189.4927282,
+    "olmaliqhayoti:85587": 1791391201.5151606,
+    "olmaliqhayoti:85588": 1791391201.52132,
+    "olmaliqhayoti:85589": 1791391201.5280297,
+    "olmaliqhayoti:85590": 1791391201.533906,
+    "olmaliqhayoti:85591": 1791391201.5397666,
+    "olmaliqhayoti:85592": 1791391201.5456011,
+    "olmaliqhayoti:85593": 1791391201.5516076,
+    "olmaliqhayoti:85594": 1791391208.0709145,
+    "olmaliqhayoti:85595": 1791391258.723726,
+    "ao_agmk:49397": 1791391264.8328338,
+    "ao_agmk:49398": 1791391264.8389163,
+    "ao_agmk:49399": 1791391264.8448558,
+    "ao_agmk:49400": 1791391273.558722,
+    "ao_agmk:49401": 1791391276.1876469,
+    "ao_agmk:49402": 1791391278.640491,
+    "ao_agmk:49403": 1791391278.64663,
+    "ao_agmk:49404": 1791391278.6525297,
+    "ao_agmk:49405": 1791391278.658691,
+    "ao_agmk:49406": 1791391278.6705468,
+    "olmaliqshaharpressa:12605": 1791391281.545829,
+    "olmaliqshaharpressa:12606": 1791391281.5580401,
+    "olmaliq:43161": 1791391285.265058,
+    "olmaliq:43162": 1791391290.5925124,
+    "olmaliq:43163": 1791391290.6049204,
+    "olmaliq:43164": 1791391293.2305362,
+    "olmaliq:43165": 1791391293.2428591
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahar IIB boshlig'i sayyor qabul o'tkazadi",
-      "summary": "",
-      "norm_title": "olmaliq shahar iib boshligi sayyor qabul otkazadi",
-      "topic_key": "iib-boshligi-sayyor-qabul",
-      "stems": [
-        "sayyor",
-        "iib",
-        "qabul",
-        "tkaz",
-        "boshlig"
-      ],
-      "posted_at": 1789346800.1452022
-    },
-    {
-      "title": "Olmaliq shahrida 15 million dollarlik \"Ekopark\" barpo etiladi",
-      "summary": "",
-      "norm_title": "olmaliq shahrida 15 million dollarlik ekopark barpo etiladi",
-      "topic_key": "olmaliq-ekopark-investitsiya",
-      "stems": [
-        "dol",
-        "million",
-        "barpo",
-        "ekopark"
-      ],
-      "posted_at": 1789346824.384346
-    },
-    {
-      "title": "Shovqin me'yorini buzganlik uchun jarimalar oshiriladi",
-      "summary": "",
-      "norm_title": "shovqin meyorini buzganlik uchun jarimalar oshiriladi",
-      "topic_key": "shovqin-jarima-oshirilishi",
-      "stems": [
-        "buz",
-        "jarima",
-        "yor",
-        "oshir",
-        "shovqin"
-      ],
-      "posted_at": 1789346843.1063905
-    },
-    {
-      "title": "Olmaliqsoy mahallasidagi bog' qiyofasi tubdan o'zgardi",
-      "summary": "",
-      "norm_title": "olmaliqsoy mahallasidagi bog qiyofasi tubdan ozgardi",
-      "topic_key": "olmaliqsoy-yashil-makon-bog",
-      "stems": [
-        "mahalla",
-        "bog",
-        "zgar",
-        "qiyofa",
-        "olmaliqsoy",
-        "tub"
-      ],
-      "posted_at": 1789346973.4919236
-    },
-    {
-      "title": "Prezident Shavkat Mirziyoyev Seul shahrida vatandoshlar tomonidan kutib olindi",
-      "summary": "",
-      "norm_title": "prezident shavkat mirziyoyev seul shahrida vatandoshlar tomonidan kutib olindi",
-      "topic_key": "prezident-koreya-tashrifi",
-      "stems": [
-        "kutib",
-        "prezident",
-        "olin",
-        "shavkat",
-        "vatandosh",
-        "seul",
-        "mirziyoyev"
-      ],
-      "posted_at": 1789347047.133095
-    },
     {
       "title": "Prezident Koreyadagi vatandoshlar bilan muloqot qildi",
       "summary": "",
@@ -5621,6 +5581,78 @@
         "nazorat"
       ],
       "posted_at": 1791365066.0180736
+    },
+    {
+      "title": "O‘zbekistonda o‘lat bo‘yicha epidemiologik vaziyat barqaror",
+      "summary": "Sanitariya-epidemiologik qo‘mita mamlakatda o‘lat kasalligi bo‘yicha vaziyat barqaror ekanini bildirdi. Chegaralarda 53 ta sanitariya nazorat punkti ishlamoqda.",
+      "norm_title": "ozbekistonda olat boyicha epidemiologik vaziyat barqaror",
+      "topic_key": "olat-epidemiologik-vaziyat",
+      "stems": [
+        "barqaror",
+        "vaziyat",
+        "zbekiston",
+        "yicha",
+        "lat",
+        "epidemiologik"
+      ],
+      "posted_at": 1791391189.4990327
+    },
+    {
+      "title": "Olmaliqda nikohlanuvchi yoshlar bilan muloqot o'tkazildi",
+      "summary": "Olmaliq shahar Oila va xotin-qizlar markazida bo'lajak kelin-kuyovlar uchun dars tashkil etildi. Tadbir yakunida 16 soatlik mashg'ulotni tamomlagan yoshlarga sertifikatlar topshirildi.",
+      "norm_title": "olmaliqda nikohlanuvchi yoshlar bilan muloqot otkazildi",
+      "topic_key": "nikohlanuvchi-yoshlar-muloqoti",
+      "stems": [
+        "tkazil",
+        "yosh",
+        "muloqot",
+        "nikohlanuvch"
+      ],
+      "posted_at": 1791391201.557573
+    },
+    {
+      "title": "Zulfiya nomidagi Davlat mukofotiga shahar bosqichi boshlanmoqda",
+      "summary": "14 dan 30 yoshgacha bo'lgan iqtidorli xotin-qizlar 20-oktabr kuni soat 14:00 da 19-maktabda o'tkaziladigan shahar tanlovida o'z hujjatlari bilan qatnashishlari mumkin.",
+      "norm_title": "zulfiya nomidagi davlat mukofotiga shahar bosqichi boshlanmoqda",
+      "topic_key": "zulfiya-mukofoti-shahar-tanlovi",
+      "stems": [
+        "davlat",
+        "boshlan",
+        "bosqich",
+        "zulfiya",
+        "mukofot",
+        "nom"
+      ],
+      "posted_at": 1791391208.0771759
+    },
+    {
+      "title": "Chiqindi ombori qurilishi va loyihalash ishlari muhokama qilindi",
+      "summary": "Loyiha ofisida «O’zGEORANGMETLITI» mutaxassislari ishtirokida o'tgan yig'ilishda chiqindi omborining 1-xaritasidagi qurilish ishlari va 3-MBF 2-xaritasini loyihalash masalalari ko'rib chiqildi. Ishlarni jadallashtirish va xavfsizlik standartlariga rioya qilish bo'yicha hamkorlik kelishib olindi.",
+      "norm_title": "chiqindi ombori qurilishi va loyihalash ishlari muhokama qilindi",
+      "topic_key": "chiqindi-ombori-loyihasi",
+      "stems": [
+        "ish",
+        "qur",
+        "chiqin",
+        "loyihalash",
+        "ombor"
+      ],
+      "posted_at": 1791391264.8508348
+    },
+    {
+      "title": "Jamoat joyida qoidalarni buzganlarga chora ko'riladi",
+      "summary": "Ommaviy joylarda odob-axloq qoidalarini buzgan shaxslar Face ID orqali aniqlanib, jarima yoki 15 sutkagacha qamoq jazosiga tortiladi.",
+      "norm_title": "jamoat joyida qoidalarni buzganlarga chora koriladi",
+      "topic_key": "face-id-jamoat-tartibi",
+      "stems": [
+        "ril",
+        "jamoat",
+        "chora",
+        "joy",
+        "buz",
+        "qoi"
+      ],
+      "posted_at": 1791391285.2714937
     }
   ]
 }
