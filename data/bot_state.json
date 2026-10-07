@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85555,
+    "olmaliqhayoti": 85562,
     "ao_agmk": 49377,
     "olmaliqshaharpressa": 12604,
-    "olmaliq": 43142
+    "olmaliq": 43144
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2630,38 +2630,18 @@
     "olmaliq:43140": 1791299506.3685396,
     "olmaliq:43141": 1791299506.3828359,
     "olmaliqhayoti:85555": 1791317743.54442,
-    "olmaliq:43142": 1791317755.4763658
+    "olmaliq:43142": 1791317755.4763658,
+    "olmaliqhayoti:85556": 1791341073.633757,
+    "olmaliqhayoti:85557": 1791341085.0989482,
+    "olmaliqhayoti:85558": 1791341085.10647,
+    "olmaliqhayoti:85559": 1791341085.112579,
+    "olmaliqhayoti:85560": 1791341085.1186755,
+    "olmaliqhayoti:85561": 1791341085.124688,
+    "olmaliqhayoti:85562": 1791341085.1307867,
+    "olmaliq:43143": 1791341098.5764155,
+    "olmaliq:43144": 1791341121.4921577
   },
   "posted_articles": [
-    {
-      "title": "Ajrashish istagidagi oilalarga muddat berilmasligi mumkin",
-      "summary": "",
-      "norm_title": "ajrashish istagidagi oilalarga muddat berilmasligi mumkin",
-      "topic_key": "oilaviy-ajrim-qonun-loyihasi",
-      "stems": [
-        "oila",
-        "istag",
-        "muddat",
-        "ajrash",
-        "berilmas",
-        "mumkin"
-      ],
-      "posted_at": 1789346351.0920372
-    },
-    {
-      "title": "Olmaliqda noqonuniy savdo shoxobchasi buzib tashlandi",
-      "summary": "",
-      "norm_title": "olmaliqda noqonuniy savdo shoxobchasi buzib tashlandi",
-      "topic_key": "mib-savdo-shoxobchasi-buzish",
-      "stems": [
-        "noqonuniy",
-        "shoxobcha",
-        "savdo",
-        "buzib",
-        "tashlan"
-      ],
-      "posted_at": 1789346373.3758729
-    },
     {
       "title": "Olmaliq shahri uchun 12-sentyabr namoz vaqtlari",
       "summary": "",
@@ -5555,6 +5535,38 @@
         "muhit"
       ],
       "posted_at": 1791299472.6077995
+    },
+    {
+      "title": "Olmaliq maktablarida xalqaro mutaxassislar dars o'tishni boshladi",
+      "summary": "Olmaliq shahridagi umumta'lim maktablariga xorijiy tillarni o'rgatish uchun Filippin, Xitoy va Misrdan 4 nafar mutaxassis jalb etildi. Ular 5, 11, 17 va 19-maktablarda ingliz hamda xitoy tillaridan saboq bermoqda.",
+      "norm_title": "olmaliq maktablarida xalqaro mutaxassislar dars otishni boshladi",
+      "topic_key": "olmaliq-maktablar-xorijiy-mutaxassislar",
+      "stems": [
+        "boshl",
+        "dars",
+        "xalqaro",
+        "tish",
+        "mutaxassis",
+        "maktab"
+      ],
+      "posted_at": 1791341085.137082
+    },
+    {
+      "title": "Samarqand 2028-yilgi Xalqaro astronomiya kongressiga mezbonlik qilishi mumkin",
+      "summary": "Samarqand shahrida 2028-yilgi Xalqaro астронавтика kongressini o'tkazish bo'yicha Халқаро астронавтика федерацияси bilan dastlabki shartnoma imzolandi. Mazkur nufuzli tadbirga Elon Musk tashrif buyurishi kutilmoqda.",
+      "norm_title": "samarqand 2028yilgi xalqaro astronomiya kongressiga mezbonlik qilishi mumkin",
+      "topic_key": "samarqand-astronavtika-kongress",
+      "stems": [
+        "mumkin",
+        "2028",
+        "xalqaro",
+        "mezbon",
+        "kongres",
+        "qil",
+        "samarqand",
+        "astronomiya"
+      ],
+      "posted_at": 1791341121.4987924
     }
   ]
 }
