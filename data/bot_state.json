@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85595,
-    "ao_agmk": 49406,
-    "olmaliqshaharpressa": 12609,
-    "olmaliq": 43165
+    "olmaliqhayoti": 85690,
+    "ao_agmk": 49517,
+    "olmaliqshaharpressa": 12648,
+    "olmaliq": 43281
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2725,87 +2725,63 @@
     "olmaliq:43164": 1791391293.2305362,
     "olmaliq:43165": 1791391293.2428591,
     "olmaliqshaharpressa:12608": 1791408776.0589123,
-    "olmaliqshaharpressa:12609": 1791408776.071249
+    "olmaliqshaharpressa:12609": 1791408776.071249,
+    "olmaliqhayoti:85670": 1791864642.8294675,
+    "olmaliqhayoti:85673": 1791864642.8821666,
+    "olmaliqhayoti:85674": 1791864642.9485123,
+    "olmaliqhayoti:85675": 1791864642.9957788,
+    "olmaliqhayoti:85676": 1791864643.041348,
+    "olmaliqhayoti:85677": 1791864643.086288,
+    "olmaliqhayoti:85678": 1791864643.1305654,
+    "olmaliqhayoti:85679": 1791864643.182963,
+    "olmaliqhayoti:85680": 1791864643.2364557,
+    "olmaliqhayoti:85681": 1791864643.2874854,
+    "olmaliqhayoti:85682": 1791864643.3235881,
+    "olmaliqhayoti:85683": 1791864643.3674405,
+    "olmaliqhayoti:85684": 1791864643.4129822,
+    "olmaliqhayoti:85685": 1791864643.515948,
+    "olmaliqhayoti:85686": 1791864740.4637988,
+    "olmaliqhayoti:85687": 1791864851.419182,
+    "olmaliqhayoti:85688": 1791864854.5701377,
+    "olmaliqhayoti:85689": 1791864923.1068156,
+    "olmaliqhayoti:85690": 1791864923.2063923,
+    "ao_agmk:49506": 1791864924.0205548,
+    "ao_agmk:49513": 1791864924.1344252,
+    "ao_agmk:49515": 1791864924.2318273,
+    "ao_agmk:49516": 1791864924.3158994,
+    "ao_agmk:49517": 1791864985.1019816,
+    "olmaliqshaharpressa:12627": 1791865003.0617528,
+    "olmaliqshaharpressa:12632": 1791865003.146465,
+    "olmaliqshaharpressa:12633": 1791865003.2329879,
+    "olmaliqshaharpressa:12634": 1791865003.3175635,
+    "olmaliqshaharpressa:12635": 1791865003.395317,
+    "olmaliqshaharpressa:12636": 1791865003.4794624,
+    "olmaliqshaharpressa:12637": 1791865003.5618238,
+    "olmaliqshaharpressa:12638": 1791865003.6549683,
+    "olmaliqshaharpressa:12639": 1791865003.742509,
+    "olmaliqshaharpressa:12640": 1791865003.8330579,
+    "olmaliqshaharpressa:12641": 1791865003.918661,
+    "olmaliqshaharpressa:12642": 1791865004.003536,
+    "olmaliqshaharpressa:12643": 1791865004.1064026,
+    "olmaliqshaharpressa:12644": 1791865004.2179909,
+    "olmaliqshaharpressa:12645": 1791865004.310959,
+    "olmaliqshaharpressa:12646": 1791865004.4015412,
+    "olmaliqshaharpressa:12647": 1791865004.4928865,
+    "olmaliqshaharpressa:12648": 1791865004.5921042,
+    "olmaliq:43262": 1791865007.0998363,
+    "olmaliq:43263": 1791865007.176917,
+    "olmaliq:43272": 1791865007.2642858,
+    "olmaliq:43273": 1791865007.360679,
+    "olmaliq:43274": 1791865007.4507897,
+    "olmaliq:43275": 1791865007.5348265,
+    "olmaliq:43276": 1791865007.6431568,
+    "olmaliq:43277": 1791865007.731649,
+    "olmaliq:43278": 1791865007.8121564,
+    "olmaliq:43279": 1791865032.6105351,
+    "olmaliq:43280": 1791865143.4133842,
+    "olmaliq:43281": 1791865218.5756233
   },
   "posted_articles": [
-    {
-      "title": "Prezident Koreyadagi vatandoshlar bilan muloqot qildi",
-      "summary": "",
-      "norm_title": "prezident koreyadagi vatandoshlar bilan muloqot qildi",
-      "topic_key": "prezident-koreya-vatandoshlar",
-      "stems": [
-        "prezident",
-        "qil",
-        "muloqot",
-        "vatandosh",
-        "koreya"
-      ],
-      "posted_at": 1789347096.3040411
-    },
-    {
-      "title": "Bola 1 yoshga to'lguncha nafaqa beriladi",
-      "summary": "",
-      "norm_title": "bola 1 yoshga tolguncha nafaqa beriladi",
-      "topic_key": "bola-parvarishi-nafaqasi",
-      "stems": [
-        "yosh",
-        "nafa",
-        "ber",
-        "bola",
-        "lguncha"
-      ],
-      "posted_at": 1789347121.6288304
-    },
-    {
-      "title": "Bolalarga nisbatan zo'ravonlik va aliment qoidalariga o'zgartirish kiritilmoqda",
-      "summary": "",
-      "norm_title": "bolalarga nisbatan zoravonlik va aliment qoidalariga ozgartirish kiritilmoqda",
-      "topic_key": "zoravonlik-va-aliment-qonuni",
-      "stems": [
-        "nisbatan",
-        "zgar",
-        "qoi",
-        "kirit",
-        "bola",
-        "aliment",
-        "ravon"
-      ],
-      "posted_at": 1789347148.230585
-    },
-    {
-      "title": "O‘quvchini xorijga ketishi munosabati bilan maktabdan chiqarish onlayn bo‘ldi",
-      "summary": "",
-      "norm_title": "oquvchini xorijga ketishi munosabati bilan maktabdan chiqarish onlayn boldi",
-      "topic_key": "maktabdan-chiqarish-onlayn",
-      "stems": [
-        "munosabat",
-        "quvch",
-        "onlayn",
-        "xorij",
-        "ket",
-        "maktab",
-        "chiqar",
-        "ldi"
-      ],
-      "posted_at": 1789347166.2177145
-    },
-    {
-      "title": "Talabalar uchun kontrakt to'lovini 4 qismga bo'lib to'lash muddatlari e'lon qilindi",
-      "summary": "",
-      "norm_title": "talabalar uchun kontrakt tolovini 4 qismga bolib tolash muddatlari elon qilindi",
-      "topic_key": "kontrakt-tolov-muddatlari",
-      "stems": [
-        "qism",
-        "kontrakt",
-        "lash",
-        "talaba",
-        "muddat",
-        "lon",
-        "lov",
-        "lib"
-      ],
-      "posted_at": 1789347197.7380903
-    },
     {
       "title": "O‘zbekistonliklar Rossiyadan ommaviy qaytmoqda",
       "summary": "",
@@ -5655,6 +5631,76 @@
         "qoi"
       ],
       "posted_at": 1791391285.2714937
+    },
+    {
+      "title": "Olmaliq shahridagi ob-havo va namoz vaqtlari",
+      "summary": "Bugun Olmaliqda kunduzi havo harorati +23°C gacha isiydi, kechasi +10°C bo'ladi. Shuningdek, kunlik namoz vaqtlari va valyuta kurslari e'lon qilindi.",
+      "norm_title": "olmaliq shahridagi obhavo va namoz vaqtlari",
+      "topic_key": "olmaliq-ob-havo-namoz",
+      "stems": [
+        "vaqt",
+        "havo",
+        "shahr",
+        "namoz"
+      ],
+      "posted_at": 1791864740.4987183
+    },
+    {
+      "title": "Xitoydan O‘zbekistonga minglab nasldor qoramollar keltirildi",
+      "summary": "2026 yilning dastlabki 8 oyida Xitoydan O‘zbekistonga 3 ming boshdan ortiq golshtin va simmental zotli nasldor qoramollar olib kelindi. Bu chorvachilik va sutchilik tarmog‘i samaradorligini oshirishga xizmat qiladi.",
+      "norm_title": "xitoydan ozbekistonga minglab nasldor qoramollar keltirildi",
+      "topic_key": "xitoydan-nasldor-qoramol-importi",
+      "stems": [
+        "minglab",
+        "zbekiston",
+        "keltiril",
+        "xitoy",
+        "nasldor",
+        "qoramol"
+      ],
+      "posted_at": 1791864851.4682016
+    },
+    {
+      "title": "OKMKda Xalqaro mehnat tashkiloti ishtirokida seminar o'tkazildi",
+      "summary": "Metallurg madaniyat saroyida kasaba uyushmalari faollari uchun xalqaro mehnat standartlari va xodimlar huquqlarini himoya qilishga bag'ishlangan seminar bo'lib o'tdi.",
+      "norm_title": "okmkda xalqaro mehnat tashkiloti ishtirokida seminar otkazildi",
+      "topic_key": "okmk-xmt-seminar",
+      "stems": [
+        "seminar",
+        "mehnat",
+        "ishtirok",
+        "okmk",
+        "tkazil",
+        "xalqaro",
+        "tashkilot"
+      ],
+      "posted_at": 1791864985.1557696
+    },
+    {
+      "title": "Mas'ul rahbarlarga biriktirilgan tashkilotlar ro'yxati e'lon qilindi",
+      "summary": "Ta'lim, ilm-fan va sog'liqni saqlash masalalari bo'yicha bosh vazir birinchi o'rinbosariga biriktirilgan respublika hamda mahalliy ijro etuvchi hokimiyat organlari ro'yxati tasdiqlandi.",
+      "norm_title": "masul rahbarlarga biriktirilgan tashkilotlar royxati elon qilindi",
+      "topic_key": "hukumat-rahbarlari-biriktiruvi",
+      "stems": [
+        "yxat",
+        "rahbar",
+        "lon",
+        "mas",
+        "birik",
+        "tashkilot"
+      ],
+      "posted_at": 1791865032.6734006
+    },
+    {
+      "title": "Xayrli tong, Olmaliq!",
+      "summary": "Seшанба тонги муборак бўлсин, янги кунингиз файзли ва барокатли ўтсин.",
+      "norm_title": "xayrli tong olmaliq",
+      "topic_key": "xayrli-tong-olmaliq",
+      "stems": [
+        "tong",
+        "xayrl"
+      ],
+      "posted_at": 1791865143.4912462
     }
   ]
 }
