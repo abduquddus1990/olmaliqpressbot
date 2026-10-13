@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85690,
-    "ao_agmk": 49517,
-    "olmaliqshaharpressa": 12648,
-    "olmaliq": 43281
+    "olmaliqhayoti": 85696,
+    "ao_agmk": 49536,
+    "olmaliqshaharpressa": 12650,
+    "olmaliq": 43286
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2779,110 +2779,25 @@
     "olmaliq:43278": 1791865007.8121564,
     "olmaliq:43279": 1791865032.6105351,
     "olmaliq:43280": 1791865143.4133842,
-    "olmaliq:43281": 1791865218.5756233
+    "olmaliq:43281": 1791865218.5756233,
+    "olmaliqhayoti:85691": 1791889342.4095855,
+    "olmaliqhayoti:85692": 1791889350.223041,
+    "olmaliqhayoti:85694": 1791889356.9015558,
+    "olmaliqhayoti:85695": 1791889372.5744567,
+    "ao_agmk:49527": 1791889380.6933348,
+    "ao_agmk:49530": 1791889391.2481349,
+    "ao_agmk:49531": 1791889402.7861302,
+    "ao_agmk:49536": 1791889410.6761053,
+    "olmaliqshaharpressa:12649": 1791889428.373492,
+    "olmaliqshaharpressa:12650": 1791889437.1916542,
+    "olmaliq:43282": 1791889440.7986734,
+    "olmaliq:43283": 1791889446.0664215,
+    "olmaliq:43284": 1791889458.3095517,
+    "olmaliq:43285": 1791889474.4497323,
+    "olmaliq:43286": 1791889497.7200625,
+    "olmaliqhayoti:85696": 1791889560.8306906
   },
   "posted_articles": [
-    {
-      "title": "O‘zbekistonliklar Rossiyadan ommaviy qaytmoqda",
-      "summary": "",
-      "norm_title": "ozbekistonliklar rossiyadan ommaviy qaytmoqda",
-      "topic_key": "migrantlar-rossiyadan-qaytish",
-      "stems": [
-        "zbekiston",
-        "qayt",
-        "rossiya",
-        "ommaviy"
-      ],
-      "posted_at": 1789347267.973337
-    },
-    {
-      "title": "Toshkentda \"GEOMIN-2026\" xalqaro ilmiy konferensiyasi boshlandi",
-      "summary": "",
-      "norm_title": "toshkentda geomin2026 xalqaro ilmiy konferensiyasi boshlandi",
-      "topic_key": "geomin-2026-konferensiya",
-      "stems": [
-        "2026",
-        "ilmiy",
-        "geomin",
-        "xalqaro",
-        "konferensiya"
-      ],
-      "posted_at": 1789347310.8894627
-    },
-    {
-      "title": "OKMK League – 2026 bolalar futbol chempionati o'z yakuniga yetdi",
-      "summary": "",
-      "norm_title": "okmk league  2026 bolalar futbol chempionati oz yakuniga yetdi",
-      "topic_key": "okmk-league-2026-futbol",
-      "stems": [
-        "2026",
-        "okmk",
-        "yet",
-        "yakun",
-        "bola",
-        "league",
-        "chempionat",
-        "futbol"
-      ],
-      "posted_at": 1789347407.519589
-    },
-    {
-      "title": "Shavkat Mirziyoyevning qat'iy bayonoti",
-      "summary": "",
-      "norm_title": "shavkat mirziyoyevning qatiy bayonoti",
-      "topic_key": "prezident-bayonoti-qonun",
-      "stems": [
-        "mirziyoyev",
-        "bayonot",
-        "shavkat",
-        "qat"
-      ],
-      "posted_at": 1789347435.1925204
-    },
-    {
-      "title": "Yosh bolalarni emlash taqvimi",
-      "summary": "",
-      "norm_title": "yosh bolalarni emlash taqvimi",
-      "topic_key": "bolalar-emlash-kalendari",
-      "stems": [
-        "yosh",
-        "taqvim",
-        "bola",
-        "emlash"
-      ],
-      "posted_at": 1789347461.6767945
-    },
-    {
-      "title": "OKMKda haftalik muhim yangiliklar dayjesti e'lon qilindi",
-      "summary": "",
-      "norm_title": "okmkda haftalik muhim yangiliklar dayjesti elon qilindi",
-      "topic_key": "okmk-haftalik-dayjest",
-      "stems": [
-        "okmk",
-        "hafta",
-        "yang",
-        "dayjest",
-        "lon",
-        "muhim"
-      ],
-      "posted_at": 1789614597.119722
-    },
-    {
-      "title": "Toshkentda GEOMIN-2026 xalqaro davra suhbati bo'lib o'tdi",
-      "summary": "",
-      "norm_title": "toshkentda geomin2026 xalqaro davra suhbati bolib otdi",
-      "topic_key": "geomin-2026-davra-suhbati",
-      "stems": [
-        "2026",
-        "suhbat",
-        "davra",
-        "tdi",
-        "geomin",
-        "xalqaro",
-        "lib"
-      ],
-      "posted_at": 1789614803.6079044
-    },
     {
       "title": "Janubiy Koreya matbuotida Prezident Shavkat Mirziyoyevning maqolasi e'lon qilindi",
       "summary": "",
@@ -5701,6 +5616,112 @@
         "xayrl"
       ],
       "posted_at": 1791865143.4912462
+    },
+    {
+      "title": "2026-yil Ichki ishlar vazirligida Kiberjinoyatlarga qarshi kurashish yili deb e'lon qilindi",
+      "summary": "O'tgan 9 oyda 17,5 mingdan ortiq kiberjinoyat fosh etilib, 77 mlrd so'mdan ortiq mablag'ning noqonuniy chiqib ketishi oldi olindi va ayrim hududlardagi kamchiliklar tanqid qilindi.",
+      "norm_title": "2026yil ichki ishlar vazirligida kiberjinoyatlarga qarshi kurashish yili deb elon qilindi",
+      "topic_key": "kiberjinoyat-iim-2026",
+      "stems": [
+        "ish",
+        "qarsh",
+        "kiberjinoyat",
+        "kurash",
+        "ichk",
+        "deb",
+        "2026",
+        "lon",
+        "vazir"
+      ],
+      "posted_at": 1791889350.2270274
+    },
+    {
+      "title": "Boshqirdistondagi musobaqada OKMK sportchilari 1-o'rinni egallashdi",
+      "summary": "Toshkent viloyati delegatsiyasi tarkibida Boshqirdistonda o'tkazilgan musobaqalarda ishtirok etgan OKMK belbog'li kurashchilari 1 ta oltin va 4 ta kumush medalni qo'lga kiritib, umumjamoa hisobida g'olib bo'lishdi.",
+      "norm_title": "boshqirdistondagi musobaqada okmk sportchilari 1orinni egallashdi",
+      "topic_key": "okmk-sportchilar-boshqirdiston",
+      "stems": [
+        "egallash",
+        "boshqirdiston",
+        "rin",
+        "okmk",
+        "sportch",
+        "musoba"
+      ],
+      "posted_at": 1791889380.6981945
+    },
+    {
+      "title": "Soxta ehson sahifalaridan ogoh bo'ling",
+      "summary": "Ijtimoiy tarmoqlarda bemorlar va muhtojlar nomidan soxta ehson sahifalari ko'paymoqda. Pul o'tkazishdan avval hisob raqamlari va ma'lumotlarni albatta tekshiring.",
+      "norm_title": "soxta ehson sahifalaridan ogoh boling",
+      "topic_key": "ehson-firibgarlari-ogohlantirish",
+      "stems": [
+        "ehson",
+        "sahifa",
+        "ling",
+        "soxta",
+        "ogoh"
+      ],
+      "posted_at": 1791889391.252138
+    },
+    {
+      "title": "Eng yaxshi yosh BelAZ haydovchisi aniqlandi",
+      "summary": "AGMK Texnologik transport boshqarmasida o'tkazilgan kasb mahorati tanlovida 3-sonli transport sexi haydovchisi Jaloliddin Normatov 1-o'rinni egalladi.",
+      "norm_title": "eng yaxshi yosh belaz haydovchisi aniqlandi",
+      "topic_key": "belaz-haydovchilari-tanlovi",
+      "stems": [
+        "haydovch",
+        "yaxsh",
+        "yosh",
+        "belaz",
+        "eng",
+        "aniqlan"
+      ],
+      "posted_at": 1791889410.6800117
+    },
+    {
+      "title": "Olmaliqda yirik qarzdorlik evaziga korxona mol-mulki xatlandi",
+      "summary": "MIB Olmaliq shahar bo‘limi tomonidan \"Almaliq Quyuv Mexanika\" MCHJdan elektr tarmoqlari foydasiga 656,7 million so‘m qarzdorlik undirilib, korxonaning mol-mulklari xatlandi. Hozirda ularni auksion savdolariga chiqarish choralari ko‘rilmoqda.",
+      "norm_title": "olmaliqda yirik qarzdorlik evaziga korxona molmulki xatlandi",
+      "topic_key": "mib-almaliq-qarz-undiruv",
+      "stems": [
+        "mol",
+        "yirik",
+        "korxona",
+        "xatlan",
+        "qarzdor",
+        "mulk",
+        "evaz"
+      ],
+      "posted_at": 1791889428.3776085
+    },
+    {
+      "title": "Robototexnika bo'yicha xalqaro musobaqa g'oliblari mukofotlandi",
+      "summary": "Prezident Farmoniga muvofiq, robototexnika bo'yicha xalqaro musobaqada g'olib bo'lgan ishtirokchilar va ularning murabbiylari davlat mukofotlari bilan taqdirlandi.",
+      "norm_title": "robototexnika boyicha xalqaro musobaqa goliblari mukofotlandi",
+      "topic_key": "robototexnika-goliblar-mukofotlash",
+      "stems": [
+        "yicha",
+        "robototex",
+        "xalqaro",
+        "musoba",
+        "mukofotlan",
+        "olib"
+      ],
+      "posted_at": 1791889437.195665
+    },
+    {
+      "title": "\"Kartoshka puli\" kimlarga beriladi",
+      "summary": "Qishloq xo'jaligi mahsulotlarini xarid qilish uchun beriladigan bir martalik moddiy yordam faqat sohaaviy hujjatlar yoki jamoa shartnomasida belgilangan xodimlarga to'lanadi.",
+      "norm_title": "kartoshka puli kimlarga beriladi",
+      "topic_key": "kartoshka-puli-tolovi",
+      "stems": [
+        "kartosh",
+        "kim",
+        "pul",
+        "ber"
+      ],
+      "posted_at": 1791889458.3137488
     }
   ]
 }
