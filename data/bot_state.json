@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85713,
-    "ao_agmk": 49547,
-    "olmaliqshaharpressa": 12652,
-    "olmaliq": 43304
+    "olmaliqhayoti": 85733,
+    "ao_agmk": 49562,
+    "olmaliqshaharpressa": 12659,
+    "olmaliq": 43313
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2821,131 +2821,34 @@
     "olmaliq:43293": 1791958602.3140893,
     "olmaliq:43294": 1791958604.8331814,
     "olmaliq:43295": 1791958614.12291,
-    "olmaliq:43304": 1791958616.6780937
+    "olmaliq:43304": 1791958616.6780937,
+    "olmaliqhayoti:85714": 1791979139.8860903,
+    "olmaliqhayoti:85715": 1791979142.9054422,
+    "olmaliqhayoti:85716": 1791979142.9227707,
+    "olmaliqhayoti:85717": 1791979160.8255556,
+    "olmaliqhayoti:85727": 1791979167.9765985,
+    "olmaliqhayoti:85728": 1791979187.364817,
+    "olmaliqhayoti:85729": 1791979205.8733613,
+    "olmaliqhayoti:85730": 1791979209.810106,
+    "olmaliqhayoti:85731": 1791979218.6519794,
+    "olmaliqhayoti:85732": 1791979226.5470998,
+    "ao_agmk:49551": 1791979237.6416886,
+    "ao_agmk:49552": 1791979259.9267573,
+    "ao_agmk:49556": 1791979272.4362562,
+    "ao_agmk:49562": 1791979274.1565285,
+    "olmaliqshaharpressa:12653": 1791979282.1821487,
+    "olmaliqshaharpressa:12657": 1791979292.6000125,
+    "olmaliqshaharpressa:12658": 1791979299.8828313,
+    "olmaliqshaharpressa:12659": 1791979304.0472515,
+    "olmaliq:43305": 1791979316.3411224,
+    "olmaliq:43309": 1791979324.281288,
+    "olmaliq:43310": 1791979324.2946277,
+    "olmaliq:43311": 1791979328.9033508,
+    "olmaliq:43312": 1791979333.8646724,
+    "olmaliq:43313": 1791979337.3591614,
+    "olmaliqhayoti:85733": 1791979376.9419758
   },
   "posted_articles": [
-    {
-      "title": "Shahar hokimi o'rinbosari aholi murojaatlarini qabul qildi",
-      "summary": "",
-      "norm_title": "shahar hokimi orinbosari aholi murojaatlarini qabul qildi",
-      "topic_key": "hokim-orinbosari-qabul",
-      "stems": [
-        "murojaat",
-        "qil",
-        "ahol",
-        "qabul",
-        "rinbosar",
-        "hokim"
-      ],
-      "posted_at": 1789615425.8119812
-    },
-    {
-      "title": "Olmaliqda YTHlarning oldini olishga qaratilgan profilaktik tadbir o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda ythlarning oldini olishga qaratilgan profilaktik tadbir otkazildi",
-      "topic_key": "olmaliq-yol-harakati-xavfsizligi",
-      "stems": [
-        "tadbir",
-        "yth",
-        "old",
-        "qarat",
-        "profilaktik",
-        "olish",
-        "tkazil"
-      ],
-      "posted_at": 1789615465.222799
-    },
-    {
-      "title": "O‘zbekiston – Koreya biznes forumi",
-      "summary": "",
-      "norm_title": "ozbekiston  koreya biznes forumi",
-      "topic_key": "uzbekiston-koreya-biznes-forumi",
-      "stems": [
-        "forum",
-        "zbekiston",
-        "koreya",
-        "biznes"
-      ],
-      "posted_at": 1789615488.4008868
-    },
-    {
-      "title": "Kichik biznes uchun 3 yillik soliq tekshiruvlari moratoriysi joriy etildi",
-      "summary": "",
-      "norm_title": "kichik biznes uchun 3 yillik soliq tekshiruvlari moratoriysi joriy etildi",
-      "topic_key": "kichik-biznes-moratoriy",
-      "stems": [
-        "moratoriy",
-        "biznes",
-        "kichik",
-        "tekshiruv",
-        "soliq",
-        "joriy"
-      ],
-      "posted_at": 1789615706.729149
-    },
-    {
-      "title": "Murojaatlar bilan ishlashda kamchilikka yo'l qo'ygan 151 nafar mansabdor lavozimidan olindi",
-      "summary": "",
-      "norm_title": "murojaatlar bilan ishlashda kamchilikka yol qoygan 151 nafar mansabdor lavozimidan olindi",
-      "topic_key": "murojaatlar-bilan-ishlash-kamchilik",
-      "stems": [
-        "mansabdor",
-        "lavozim",
-        "kamch",
-        "olin",
-        "ishlash",
-        "nafar",
-        "ygan",
-        "151",
-        "murojaat"
-      ],
-      "posted_at": 1789615729.8848085
-    },
-    {
-      "title": "O‘zbekistonda bank omonatlari hajmi 482,7 trillion so‘mdan oshdi",
-      "summary": "",
-      "norm_title": "ozbekistonda bank omonatlari hajmi 4827 trillion somdan oshdi",
-      "topic_key": "ozbekiston-bank-omonatlari",
-      "stems": [
-        "mdan",
-        "zbekiston",
-        "omonat",
-        "482",
-        "bank",
-        "trillion",
-        "osh",
-        "hajm"
-      ],
-      "posted_at": 1789615788.893452
-    },
-    {
-      "title": "PPX mashinalariga yuzni tanish kameralari o'rnatilmoqda",
-      "summary": "",
-      "norm_title": "ppx mashinalariga yuzni tanish kameralari ornatilmoqda",
-      "topic_key": "ppx-yuzni-tanish-kameralari",
-      "stems": [
-        "tan",
-        "mashina",
-        "ppx",
-        "rnat",
-        "kamera",
-        "yuz"
-      ],
-      "posted_at": 1789615828.3817074
-    },
-    {
-      "title": "Olmaliqda navbatdagi fuqarolar qabuli o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda navbatdagi fuqarolar qabuli otkazildi",
-      "topic_key": "hokimiyat-fuqarolar-qabuli",
-      "stems": [
-        "fuqaro",
-        "navbat",
-        "qabul",
-        "tkazil"
-      ],
-      "posted_at": 1789615854.7843664
-    },
     {
       "title": "Toshkent viloyatida davlat mulki ijaraga qo'yildi",
       "summary": "",
@@ -5746,6 +5649,126 @@
         "sanitariya"
       ],
       "posted_at": 1791958588.9725368
+    },
+    {
+      "title": "Chirchiqda giyohvand modda tarqatayotgan qizlar ushlandi",
+      "summary": "Chirchiq shahrida 19 va 17 yoshli qizlar hamda ularning sheriklaridan 4 kilogrammdan ortiq turli giyohvandlik vositalari musodara qilindi.",
+      "norm_title": "chirchiqda giyohvand modda tarqatayotgan qizlar ushlandi",
+      "topic_key": "chirchiq-giyohvandlik-ushlandi",
+      "stems": [
+        "chirchiq",
+        "ushlan",
+        "giyohvand",
+        "mod",
+        "qiz",
+        "tarqat"
+      ],
+      "posted_at": 1791979139.8924458
+    },
+    {
+      "title": "Olmaliqda 458 nafar o'quvchi Vatan tayanchi harakatiga qabul qilindi",
+      "summary": "Olmaliq shahridagi 22 ta maktab hamda 2 ta tehnikumning 458 nafar o'quvchisiga \"Vatan tayanchi\" harakati a'zolik guvohnomalari topshirildi.",
+      "norm_title": "olmaliqda 458 nafar oquvchi vatan tayanchi harakatiga qabul qilindi",
+      "topic_key": "vatan-tayanchi-azolar",
+      "stems": [
+        "quvch",
+        "tayanch",
+        "vatan",
+        "458",
+        "qabul",
+        "harakat",
+        "nafar"
+      ],
+      "posted_at": 1791979160.832109
+    },
+    {
+      "title": "Qashqadaryoda yangi gaz-kondensat koni ochildi",
+      "summary": "G‘uzor tumanidagi Sho‘rtan hududida yangi «Bo‘risoy» koni topildi. Yangi quduqdan kuniga 300-400 ming kub metr tabiiy gaz olinmoqda.",
+      "norm_title": "qashqadaryoda yangi gazkondensat koni ochildi",
+      "topic_key": "shurtan-borisoy-gaz-koni",
+      "stems": [
+        "gaz",
+        "kondensat",
+        "ochil",
+        "kon",
+        "qashqadaryo"
+      ],
+      "posted_at": 1791979187.3712935
+    },
+    {
+      "title": "Shohruxbek Xalikulov Olmaliq shahar hokimining matbuot kotibi etib tayinlandi",
+      "summary": "Shohruxbek Xalikulov Olmaliq shahar hokimining matbuot kotibi – axborot siyosati masalalari bo‘yicha maslahatchisi lavozimiga tayinlandi.",
+      "norm_title": "shohruxbek xalikulov olmaliq shahar hokimining matbuot kotibi etib tayinlandi",
+      "topic_key": "olmaliq-hokimlik-tayinlov",
+      "stems": [
+        "shohruxbek",
+        "kotib",
+        "matbuot",
+        "etib",
+        "tayinlan",
+        "xalikulov",
+        "hokim"
+      ],
+      "posted_at": 1791979218.6584294
+    },
+    {
+      "title": "AGMK korrupsiyaga qarshi aloqa kanallarini eslatib o'tdi",
+      "summary": "Olmaliq KMK jamoatchilikni halollikka chaqirib, korrupsiya holatlari haqida xabar berish uchun maxsus bot, ishonch telefonlari va e-mail manzillarini taqdim etdi.",
+      "norm_title": "agmk korrupsiyaga qarshi aloqa kanallarini eslatib otdi",
+      "topic_key": "agmk-korrupsiyaga-qarshi",
+      "stems": [
+        "tdi",
+        "eslatib",
+        "agmk",
+        "qarsh",
+        "alo",
+        "kanal",
+        "korrupsiya"
+      ],
+      "posted_at": 1791979237.648243
+    },
+    {
+      "title": "Olmaliqda isitish mavsumiga tayyorgarlik yakunlandi",
+      "summary": "Sovet ob-havo sharoitlarida shahar aholisini issiqlik energiyasi bilan uzluksiz ta'minlash uchun barcha kommunal xizmatlar tayyorgarlik ishlarini yakunladi.",
+      "norm_title": "olmaliqda isitish mavsumiga tayyorgarlik yakunlandi",
+      "topic_key": "olmaliq-isitish-mavsumi",
+      "stems": [
+        "isit",
+        "tayyorgar",
+        "mavsum",
+        "yakunlan"
+      ],
+      "posted_at": 1791979259.9333975
+    },
+    {
+      "title": "Olmaliq shahriga yangi mudofaa ishlari bo'limi boshlig'i tayinlandi",
+      "summary": "Podpolkovnik San'at Xudaybergenov Olmaliq shahar Mudofaa ishlari bo'limi boshlig'i lavozimiga tayinlandi.",
+      "norm_title": "olmaliq shahriga yangi mudofaa ishlari bolimi boshligi tayinlandi",
+      "topic_key": "olmaliq-mudofaa-boshlig-tayinlov",
+      "stems": [
+        "lim",
+        "tayinlan",
+        "shahr",
+        "boshlig",
+        "ish",
+        "mudofaa"
+      ],
+      "posted_at": 1791979292.606403
+    },
+    {
+      "title": "Olmaliqda noqonuniy qurilgan savdo shahobchasi MIB tomonidan buzdirildi",
+      "summary": "MIB Olmaliq shahar bo‘limi sud qaroriga asosan Primqulov shoh ko‘chasidagi 34 kv.m maydonga ega savdo shahobchasini fuqaro F. Yoqubov hisobidan to‘liq buzdirib, ijroni ta'minladi.",
+      "norm_title": "olmaliqda noqonuniy qurilgan savdo shahobchasi mib tomonidan buzdirildi",
+      "topic_key": "mib-savdo-shahobchasi-buzilishi",
+      "stems": [
+        "qur",
+        "mib",
+        "buzdiril",
+        "noqonuniy",
+        "savdo",
+        "shahobcha"
+      ],
+      "posted_at": 1791979316.3480213
     }
   ]
 }
