@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85704,
-    "ao_agmk": 49543,
+    "olmaliqhayoti": 85713,
+    "ao_agmk": 49547,
     "olmaliqshaharpressa": 12652,
-    "olmaliq": 43292
+    "olmaliq": 43304
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2810,54 +2810,20 @@
     "olmaliq:43290": 1791915113.2525191,
     "olmaliq:43291": 1791915149.2103271,
     "olmaliqhayoti:85704": 1791931173.0245595,
-    "olmaliq:43292": 1791940983.004952
+    "olmaliq:43292": 1791940983.004952,
+    "olmaliqhayoti:85705": 1791958555.308255,
+    "olmaliqhayoti:85706": 1791958562.0868232,
+    "olmaliqhayoti:85707": 1791958571.9434812,
+    "olmaliqhayoti:85713": 1791958588.9645324,
+    "ao_agmk:49544": 1791958592.6167502,
+    "ao_agmk:49545": 1791958592.6328423,
+    "ao_agmk:49547": 1791958597.9256046,
+    "olmaliq:43293": 1791958602.3140893,
+    "olmaliq:43294": 1791958604.8331814,
+    "olmaliq:43295": 1791958614.12291,
+    "olmaliq:43304": 1791958616.6780937
   },
   "posted_articles": [
-    {
-      "title": "Janubiy Koreya matbuotida Prezident Shavkat Mirziyoyevning maqolasi e'lon qilindi",
-      "summary": "",
-      "norm_title": "janubiy koreya matbuotida prezident shavkat mirziyoyevning maqolasi elon qilindi",
-      "topic_key": "ozbekiston-koreya-hamkorlik-maqola",
-      "stems": [
-        "prezident",
-        "janubiy",
-        "shavkat",
-        "maqola",
-        "koreya",
-        "matbuot",
-        "mirziyoyev",
-        "lon"
-      ],
-      "posted_at": 1789614842.2426972
-    },
-    {
-      "title": "Olmaliq shahrida vatanparvarlik ruhidagi tadbirlar o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliq shahrida vatanparvarlik ruhidagi tadbirlar otkazildi",
-      "topic_key": "vatanparvar-avlod-olmaliq",
-      "stems": [
-        "vatanparvar",
-        "tkazil",
-        "ruh",
-        "tadbir"
-      ],
-      "posted_at": 1789615377.517569
-    },
-    {
-      "title": "Olmaliqdagi 3-sonli DMTTda qisqa muddatli guruh ochilmoqda",
-      "summary": "",
-      "norm_title": "olmaliqdagi 3sonli dmttda qisqa muddatli guruh ochilmoqda",
-      "topic_key": "dmtt-qisqa-muddatli-guruh",
-      "stems": [
-        "muddatl",
-        "guruh",
-        "sonl",
-        "dmtt",
-        "qis",
-        "och"
-      ],
-      "posted_at": 1789615399.9053063
-    },
     {
       "title": "Shahar hokimi o'rinbosari aholi murojaatlarini qabul qildi",
       "summary": "",
@@ -5737,6 +5703,49 @@
         "ber"
       ],
       "posted_at": 1791889458.3137488
+    },
+    {
+      "title": "Pensiya tayinlash jarayonlari raqamlashtirilmoqda",
+      "summary": "2027 yil 1 yanvardan fuqarolarga pensiya yoshiga bir yil qolganda 'Mening pensiyam' xizmati orqali online xabarnoma yuboriladi, shuningdek ayrim pensiyalar proaktiv shaklda tayinlanadi.",
+      "norm_title": "pensiya tayinlash jarayonlari raqamlashtirilmoqda",
+      "topic_key": "online-pensiya-xabarnoma",
+      "stems": [
+        "tayinlash",
+        "raqamlash",
+        "jarayon",
+        "pensiya"
+      ],
+      "posted_at": 1791958555.314706
+    },
+    {
+      "title": "O‘zbekistonda bozorlar yonishi nima sababdan ko‘paydi",
+      "summary": "FVV ma'lumotiga ko'ra, bozorlardagi yong'inlarning asosiy 70 foizga yaqin qismi elektr jihozlaridagi nosozliklar va ortiqcha yuklamalar tufayli kelib chiqmoqda.",
+      "norm_title": "ozbekistonda bozorlar yonishi nima sababdan kopaydi",
+      "topic_key": "bozorlar-yongin-sabablari",
+      "stems": [
+        "sabab",
+        "pay",
+        "zbekiston",
+        "bozor",
+        "nima",
+        "yon"
+      ],
+      "posted_at": 1791958562.0932374
+    },
+    {
+      "title": "Sanitariya inspektorlari planshet va body-kameralar bilan ta'minlandi",
+      "summary": "O'zbekistonda sanitariya tekshiruvlari endi body-kameralarga yozib olinadi va aniqlangan qoidabuzarliklar planshet orqali elektron tizimga kiritiladi.",
+      "norm_title": "sanitariya inspektorlari planshet va bodykameralar bilan taminlandi",
+      "topic_key": "sanitariya-inspeksiya-texnika",
+      "stems": [
+        "minlan",
+        "inspektor",
+        "planshet",
+        "kamera",
+        "body",
+        "sanitariya"
+      ],
+      "posted_at": 1791958588.9725368
     }
   ]
 }
