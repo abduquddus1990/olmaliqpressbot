@@ -2,8 +2,8 @@
   "channel_pointers": {
     "olmaliqhayoti": 85749,
     "ao_agmk": 49565,
-    "olmaliqshaharpressa": 12660,
-    "olmaliq": 43314
+    "olmaliqshaharpressa": 12662,
+    "olmaliq": 43323
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2853,7 +2853,10 @@
     "ao_agmk:49564": 1791996436.2582455,
     "ao_agmk:49565": 1791996439.2776322,
     "olmaliqshaharpressa:12660": 1791996442.805966,
-    "olmaliq:43314": 1791996456.4681418
+    "olmaliq:43314": 1791996456.4681418,
+    "olmaliqshaharpressa:12661": 1792009262.5980184,
+    "olmaliqshaharpressa:12662": 1792009270.3676722,
+    "olmaliq:43323": 1792009285.228156
   },
   "posted_articles": [
     {
