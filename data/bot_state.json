@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85733,
-    "ao_agmk": 49562,
-    "olmaliqshaharpressa": 12659,
-    "olmaliq": 43313
+    "olmaliqhayoti": 85749,
+    "ao_agmk": 49565,
+    "olmaliqshaharpressa": 12660,
+    "olmaliq": 43314
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2846,67 +2846,16 @@
     "olmaliq:43311": 1791979328.9033508,
     "olmaliq:43312": 1791979333.8646724,
     "olmaliq:43313": 1791979337.3591614,
-    "olmaliqhayoti:85733": 1791979376.9419758
+    "olmaliqhayoti:85733": 1791979376.9419758,
+    "olmaliqhayoti:85739": 1791996405.3063507,
+    "olmaliqhayoti:85740": 1791996424.6169374,
+    "olmaliqhayoti:85749": 1791996430.0404215,
+    "ao_agmk:49564": 1791996436.2582455,
+    "ao_agmk:49565": 1791996439.2776322,
+    "olmaliqshaharpressa:12660": 1791996442.805966,
+    "olmaliq:43314": 1791996456.4681418
   },
   "posted_articles": [
-    {
-      "title": "Toshkent viloyatida davlat mulki ijaraga qo'yildi",
-      "summary": "",
-      "norm_title": "toshkent viloyatida davlat mulki ijaraga qoyildi",
-      "topic_key": "e-auksion-davlat-mulki-ijara",
-      "stems": [
-        "ijara",
-        "mulk",
-        "davlat"
-      ],
-      "posted_at": 1789615911.260512
-    },
-    {
-      "title": "Olmaliqda \"Open budget\" stadionlarining mas'uli aniqlandi",
-      "summary": "",
-      "norm_title": "olmaliqda open budget stadionlarining masuli aniqlandi",
-      "topic_key": "open-budget-stadion-masuli",
-      "stems": [
-        "budget",
-        "mas",
-        "open",
-        "aniqlan",
-        "stadion",
-        "uli"
-      ],
-      "posted_at": 1789615981.4649816
-    },
-    {
-      "title": "Jahon bozorida rangli metallar narxi pasaydi",
-      "summary": "",
-      "norm_title": "jahon bozorida rangli metallar narxi pasaydi",
-      "topic_key": "rangli-metallar-narxi",
-      "stems": [
-        "pasa",
-        "jahon",
-        "bozor",
-        "metal",
-        "rangl",
-        "narx"
-      ],
-      "posted_at": 1789616017.5602279
-    },
-    {
-      "title": "AGMK Texnologik transport boshqarmasida bo'sh ish o'rinlari e'lon qilindi",
-      "summary": "",
-      "norm_title": "agmk texnologik transport boshqarmasida bosh ish orinlari elon qilindi",
-      "topic_key": "agmk-transport-boshqarmasi-vakansiya",
-      "stems": [
-        "transport",
-        "ish",
-        "texnologik",
-        "rin",
-        "agmk",
-        "lon",
-        "boshqarma"
-      ],
-      "posted_at": 1789616038.6802611
-    },
     {
       "title": "AGMK Texnologik transport boshqarmasiga BelAZ haydovchilarini ishga olish sinovlari boshlandi",
       "summary": "",
@@ -5769,6 +5718,63 @@
         "shahobcha"
       ],
       "posted_at": 1791979316.3480213
+    },
+    {
+      "title": "Kommunal muammolar uchun maxsus bot ishga tushirildi",
+      "summary": "Aholi kuz-qish mavsumiga tayyorgarlikdagi kamchiliklar yuzasidan @Kommunalmurojaat_bot orqali murojaat qilishlari mumkin. Kelib tushgan murojaatlar vazirlik ishchi guruhi tomonidan o'rganilib, bartaraf etiladi.",
+      "norm_title": "kommunal muammolar uchun maxsus bot ishga tushirildi",
+      "topic_key": "kommunal-murojaat-bot",
+      "stems": [
+        "bot",
+        "muammo",
+        "tushiril",
+        "kommunal",
+        "maxsus",
+        "ish"
+      ],
+      "posted_at": 1791996405.3128133
+    },
+    {
+      "title": "Olmaliqda ajrim yoqasidagi 6 ta oila yarashtirildi",
+      "summary": "Olmaliq shahrida Oilaviy qadriyatlarni mustahkamlash komissiyasi tomonidan ajrim yoqasidagi 12 ta oilaning muammolari o'rganilib, 6 nafar oila yarashtirildi.",
+      "norm_title": "olmaliqda ajrim yoqasidagi 6 ta oila yarashtirildi",
+      "topic_key": "ajrim-yohasidagi-oilalar",
+      "stems": [
+        "yarashtiril",
+        "oila",
+        "ajrim",
+        "yoqa"
+      ],
+      "posted_at": 1791996424.6234186
+    },
+    {
+      "title": "Kiberjinoyatlar va ulardan himoyalanish haqida ko'rsatuv efirga uzatiladi",
+      "summary": "15-oktyabr kuni soat 19:00 da \"OKMK TV\" telekanalida virtual olam tuzoqlari va kiberxavfsizlik mavzusiga bag'ishlangan ko'rsatuv namoyish etiladi.",
+      "norm_title": "kiberjinoyatlar va ulardan himoyalanish haqida korsatuv efirga uzatiladi",
+      "topic_key": "okmktv-kiberjinoyat-korsatuv",
+      "stems": [
+        "rsatuv",
+        "uzat",
+        "efir",
+        "ular",
+        "kiberjinoyat",
+        "himoyalan"
+      ],
+      "posted_at": 1791996436.2647295
+    },
+    {
+      "title": "Olmaliq shahar hokimi tadbirkorlar bilan navbatdagi muloqotni o‘tkazdi",
+      "summary": "Olmaliq shahar hokimi Barhayot Meliyev tadbirkorlar murojaatlarini tinglab, yer maydonlari ajratish va faoliyatni kengaytirish masalalarini qonuniy hal etish bo‘yicha mas’ullarga topshiriq berdi.",
+      "norm_title": "olmaliq shahar hokimi tadbirkorlar bilan navbatdagi muloqotni otkazdi",
+      "topic_key": "olmaliq-hokim-tadbirkorlar-muloqoti",
+      "stems": [
+        "tadbirkor",
+        "hokim",
+        "navbat",
+        "tkaz",
+        "muloqot"
+      ],
+      "posted_at": 1791996442.8124263
     }
   ]
 }
