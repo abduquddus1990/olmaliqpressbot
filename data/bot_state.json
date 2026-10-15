@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85749,
+    "olmaliqhayoti": 85750,
     "ao_agmk": 49565,
     "olmaliqshaharpressa": 12662,
     "olmaliq": 43323
@@ -2856,27 +2856,10 @@
     "olmaliq:43314": 1791996456.4681418,
     "olmaliqshaharpressa:12661": 1792009262.5980184,
     "olmaliqshaharpressa:12662": 1792009270.3676722,
-    "olmaliq:43323": 1792009285.228156
+    "olmaliq:43323": 1792009285.228156,
+    "olmaliqhayoti:85750": 1792028024.7778358
   },
   "posted_articles": [
-    {
-      "title": "AGMK Texnologik transport boshqarmasiga BelAZ haydovchilarini ishga olish sinovlari boshlandi",
-      "summary": "",
-      "norm_title": "agmk texnologik transport boshqarmasiga belaz haydovchilarini ishga olish sinovlari boshlandi",
-      "topic_key": "agmk-belaz-haydovchi-sinov",
-      "stems": [
-        "agmk",
-        "sinov",
-        "transport",
-        "ish",
-        "texnologik",
-        "belaz",
-        "haydovch",
-        "olish",
-        "boshqarma"
-      ],
-      "posted_at": 1789616066.3304136
-    },
     {
       "title": "Prezident Koreyada vatanparvarlar xotirasiga ehtirom ko'rsatdi",
       "summary": "",
@@ -5778,6 +5761,22 @@
         "muloqot"
       ],
       "posted_at": 1791996442.8124263
+    },
+    {
+      "title": "Qozog'istonga kirish uchun ETA elektron ruxsatnomasi joriy etiladi",
+      "summary": "O'zbekiston fuqarolari Qozog'istonga borish uchun QazETA platformasi orqali bepul elektron ruxsatnoma olishlari kerak bo'ladi. Yangi tartib 2027 yil 1 iyuldan to'liq majburiy etib belgilanadi.",
+      "norm_title": "qozogistonga kirish uchun eta elektron ruxsatnomasi joriy etiladi",
+      "topic_key": "qozogiston-eta-ruxsatnomasi",
+      "stems": [
+        "kir",
+        "ruxsatnoma",
+        "iston",
+        "joriy",
+        "elektron",
+        "qozog",
+        "eta"
+      ],
+      "posted_at": 1792028024.7850337
     }
   ]
 }
