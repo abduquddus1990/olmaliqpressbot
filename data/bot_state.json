@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85755,
-    "ao_agmk": 49568,
+    "olmaliqhayoti": 85773,
+    "ao_agmk": 49570,
     "olmaliqshaharpressa": 12662,
-    "olmaliq": 43325
+    "olmaliq": 43338
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2867,97 +2867,25 @@
     "ao_agmk:49567": 1792045366.8840451,
     "ao_agmk:49568": 1792045366.8980072,
     "olmaliq:43324": 1792045376.7741592,
-    "olmaliq:43325": 1792045382.7057502
+    "olmaliq:43325": 1792045382.7057502,
+    "olmaliqhayoti:85756": 1792064695.349053,
+    "olmaliqhayoti:85757": 1792064706.461354,
+    "olmaliqhayoti:85758": 1792064740.4474893,
+    "olmaliqhayoti:85768": 1792064743.4699144,
+    "olmaliqhayoti:85769": 1792064749.6195014,
+    "olmaliqhayoti:85770": 1792064767.5674777,
+    "olmaliqhayoti:85771": 1792064767.5777304,
+    "olmaliqhayoti:85772": 1792064775.3520873,
+    "olmaliqhayoti:85773": 1792064775.3623023,
+    "ao_agmk:49569": 1792064784.0802453,
+    "ao_agmk:49570": 1792064801.7338996,
+    "olmaliq:43326": 1792064815.625698,
+    "olmaliq:43327": 1792064831.9173806,
+    "olmaliq:43336": 1792064847.132441,
+    "olmaliq:43337": 1792064858.9376273,
+    "olmaliq:43338": 1792064861.9532137
   },
   "posted_articles": [
-    {
-      "title": "Oʻzbekiston Prezidenti Koreyada rasmiy kutib olindi",
-      "summary": "",
-      "norm_title": "oʻzbekiston prezidenti koreyada rasmiy kutib olindi",
-      "topic_key": "mirziyoyev-koreya-tashrifi",
-      "stems": [
-        "kutib",
-        "rasmiy",
-        "prezident",
-        "olin",
-        "ozbekiston",
-        "koreya"
-      ],
-      "posted_at": 1789616345.0798528
-    },
-    {
-      "title": "O'zbekiston va Koreya Prezidentlari muzokara o'tkazdi",
-      "summary": "",
-      "norm_title": "ozbekiston va koreya prezidentlari muzokara otkazdi",
-      "topic_key": "uzbekiston-koreya-muzokaralari",
-      "stems": [
-        "prezident",
-        "zbekiston",
-        "muzokara",
-        "koreya",
-        "tkaz"
-      ],
-      "posted_at": 1789616379.651651
-    },
-    {
-      "title": "Olmaliq hokimi Xitoyda investitsiya muzokaralarini o'tkazdi",
-      "summary": "",
-      "norm_title": "olmaliq hokimi xitoyda investitsiya muzokaralarini otkazdi",
-      "topic_key": "olmaliq-hokimi-xitoy-tashrifi",
-      "stems": [
-        "muzokara",
-        "xitoy",
-        "tkaz",
-        "investitsiya",
-        "hokim"
-      ],
-      "posted_at": 1789616404.98568
-    },
-    {
-      "title": "Olmaliq va Xitoy o'rtasida hamkorlik kuchaymoqda",
-      "summary": "",
-      "norm_title": "olmaliq va xitoy ortasida hamkorlik kuchaymoqda",
-      "topic_key": "olmaliq-xitoy-hamkorlik",
-      "stems": [
-        "xitoy",
-        "hamkor",
-        "kuchay",
-        "rta"
-      ],
-      "posted_at": 1789616434.2880542
-    },
-    {
-      "title": "Ixtisoslashtirilgan maktab-internatda 260 dan ortiq o'quvchi ta'lim ola boshladi",
-      "summary": "",
-      "norm_title": "ixtisoslashtirilgan maktabinternatda 260 dan ortiq oquvchi talim ola boshladi",
-      "topic_key": "ixtisoslashtirilgan-maktab-internat",
-      "stems": [
-        "boshl",
-        "quvch",
-        "ortiq",
-        "260",
-        "internat",
-        "lim",
-        "maktab",
-        "ixtisoslash",
-        "dan",
-        "ola"
-      ],
-      "posted_at": 1789616465.0329335
-    },
-    {
-      "title": "Olmaliq shahri uchun 15-sentyabr namoz vaqtlari",
-      "summary": "",
-      "norm_title": "olmaliq shahri uchun 15sentyabr namoz vaqtlari",
-      "topic_key": "namoz-vaqtlari-olmaliq",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt",
-        "sentyabr"
-      ],
-      "posted_at": 1789616494.5222118
-    },
     {
       "title": "Harbiy xizmatga nomzodlar uchun majburiy narkotest joriy etildi",
       "summary": "",
@@ -5799,6 +5727,91 @@
         "tasdiqlan"
       ],
       "posted_at": 1792045363.8711076
+    },
+    {
+      "title": "Jasorat maktabiga qabul qilingan o'quvchilar tantanali ravishda qasamyod qildi",
+      "summary": "Olmaliq shahrida imtihonlardan muvaffaqiyatli o'tgan 26 nafar o'quvchi \"Jasorat maktabi\"da o'qishni boshladi va ularning va'da berish marosimi bo'lib o'tdi.",
+      "norm_title": "jasorat maktabiga qabul qilingan oquvchilar tantanali ravishda qasamyod qildi",
+      "topic_key": "jasorat-maktabi-marosim",
+      "stems": [
+        "quvch",
+        "rav",
+        "qil",
+        "jasorat",
+        "qasamyod",
+        "maktab",
+        "qabul",
+        "tantanal"
+      ],
+      "posted_at": 1792064740.45608
+    },
+    {
+      "title": "Superliga: OKMK bugun «Mash’al» mehmoni bo‘ladi",
+      "summary": "Superliganing 24-turida OKMK jamoasi G‘uzorda «Mash’al»ga qarshi maydonga tushadi. Uchrashuv soat 19:00 da boshlanadi va «Sport TV» orqali jonli efirga uzatiladi.",
+      "norm_title": "superliga okmk bugun mashal mehmoni boladi",
+      "topic_key": "okmk-mashal-uyin",
+      "stems": [
+        "okmk",
+        "lad",
+        "mehmo",
+        "superl",
+        "mash"
+      ],
+      "posted_at": 1792064784.085652
+    },
+    {
+      "title": "Prezident Boku sammitida ishtirok etdi",
+      "summary": "O‘zbekiston Prezidenti Shavkat Mirziyoyev Boku shahrida bo‘lib o‘tgan Osiyoda hamkorlik va ishonch choralari bo‘yicha kengashning yettinchi sammitida qatnashdi.",
+      "norm_title": "prezident boku sammitida ishtirok etdi",
+      "topic_key": "prezident-boku-sammiti",
+      "stems": [
+        "sammit",
+        "ishtirok",
+        "boku",
+        "prezident",
+        "etd"
+      ],
+      "posted_at": 1792064801.739243
+    },
+    {
+      "title": "Xalq qabulxonasi rahbarlarining maqomi oshirildi",
+      "summary": "Prezident farmoniga ko'ra, Xalq qabulxonasi rahbarining maqomi Prezident Administratsiyasi departamenti boshlig'i o'rinbosariga tenglashtirildi. Shuningdek, ularning o'rinbosarlari boshqarma boshlig'i maqomini oldi.",
+      "norm_title": "xalq qabulxonasi rahbarlarining maqomi oshirildi",
+      "topic_key": "xalq-qabulxonasi-maqomi",
+      "stems": [
+        "qabulxona",
+        "rahbar",
+        "maqom",
+        "xalq"
+      ],
+      "posted_at": 1792064815.6308813
+    },
+    {
+      "title": "Ko'kdala hokimiga bolta bilan hujum qilindi",
+      "summary": "Ko'kdala tumanida do'koni buzilishi kutilayotgan tadbirkor tuman hokimiga bolta bilan jarohat yetkazdi. IIV hodisani tasdiqlab, prokuratura o'rganish ishlarini boshlaganini ma'lum qildi.",
+      "norm_title": "kokdala hokimiga bolta bilan hujum qilindi",
+      "topic_key": "kokdala-hokimiga-hujum",
+      "stems": [
+        "kdala",
+        "hujum",
+        "bolta",
+        "hokim"
+      ],
+      "posted_at": 1792064847.1376598
+    },
+    {
+      "title": "Yakkasaroy tumani hokimi lavozimidan ozod etildi",
+      "summary": "Yakkasaroy tumani hokimi Nilufar Allabergenova egallab turgan lavozimidan ozod qilindi.",
+      "norm_title": "yakkasaroy tumani hokimi lavozimidan ozod etildi",
+      "topic_key": "yakkasaroy-hokim-istifo",
+      "stems": [
+        "lavozim",
+        "ozod",
+        "tuma",
+        "yakkasaroy",
+        "hokim"
+      ],
+      "posted_at": 1792064858.9428236
     }
   ]
 }
