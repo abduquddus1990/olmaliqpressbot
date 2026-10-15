@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85773,
-    "ao_agmk": 49570,
-    "olmaliqshaharpressa": 12662,
-    "olmaliq": 43338
+    "olmaliqhayoti": 85781,
+    "ao_agmk": 49580,
+    "olmaliqshaharpressa": 12663,
+    "olmaliq": 43341
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2883,65 +2883,17 @@
     "olmaliq:43327": 1792064831.9173806,
     "olmaliq:43336": 1792064847.132441,
     "olmaliq:43337": 1792064858.9376273,
-    "olmaliq:43338": 1792064861.9532137
+    "olmaliq:43338": 1792064861.9532137,
+    "olmaliqhayoti:85774": 1792079234.364095,
+    "olmaliqhayoti:85781": 1792079250.996054,
+    "ao_agmk:49577": 1792079264.8495178,
+    "ao_agmk:49580": 1792079271.66528,
+    "olmaliqshaharpressa:12663": 1792079279.118051,
+    "olmaliq:43339": 1792079290.031161,
+    "olmaliq:43340": 1792079297.9073927,
+    "olmaliq:43341": 1792079307.5954509
   },
   "posted_articles": [
-    {
-      "title": "Harbiy xizmatga nomzodlar uchun majburiy narkotest joriy etildi",
-      "summary": "",
-      "norm_title": "harbiy xizmatga nomzodlar uchun majburiy narkotest joriy etildi",
-      "topic_key": "harbiy-xizmat-narkotest",
-      "stems": [
-        "majburiy",
-        "nomzod",
-        "narkotest",
-        "harbiy",
-        "xizmat",
-        "joriy"
-      ],
-      "posted_at": 1789616520.5475235
-    },
-    {
-      "title": "Yosh bo'yicha qon bosimi me'yori",
-      "summary": "",
-      "norm_title": "yosh boyicha qon bosimi meyori",
-      "topic_key": "qon-bosimi-meyori",
-      "stems": [
-        "yor",
-        "bosim",
-        "yosh",
-        "yicha",
-        "qon"
-      ],
-      "posted_at": 1789616556.3617282
-    },
-    {
-      "title": "O‘zbekistonda nikoh qurishlar soni kamaymoqda",
-      "summary": "",
-      "norm_title": "ozbekistonda nikoh qurishlar soni kamaymoqda",
-      "topic_key": "nikohlar-soni-kamayishi",
-      "stems": [
-        "zbekiston",
-        "nikoh",
-        "son",
-        "kamay",
-        "qur"
-      ],
-      "posted_at": 1789616633.3566384
-    },
-    {
-      "title": "O‘zbekneftgazda qish mavsumiga tayyorgarlik muhokama qilindi",
-      "summary": "",
-      "norm_title": "ozbekneftgazda qish mavsumiga tayyorgarlik muhokama qilindi",
-      "topic_key": "ozbekneftgaz-qishga-tayyorgarlik",
-      "stems": [
-        "zbekneftgaz",
-        "qish",
-        "mavsum",
-        "tayyorgar"
-      ],
-      "posted_at": 1789616698.6600115
-    },
     {
       "title": "Olmaliq rahbariyati Xitoyda xizmat safarida",
       "summary": "",
@@ -5812,6 +5764,63 @@
         "hokim"
       ],
       "posted_at": 1792064858.9428236
+    },
+    {
+      "title": "Saida Mirziyoyeva Istanbulda ilg'or ta'lim tajribasini o'rgandi",
+      "summary": "Saida Mirziyoyeva Turkiyada Ibn Haldun universiteti va \"Yenidoğu\" maktabi faoliyati bilan tanishib, ikki mamlakat ta'lim muassasalari o'rtasidagi hamkorlikni kengaytirishga kelishib oldi.",
+      "norm_title": "saida mirziyoyeva istanbulda ilgor talim tajribasini organdi",
+      "topic_key": "saida-mirziyoyeva-istanbul-talim",
+      "stems": [
+        "rgan",
+        "sai",
+        "tajriba",
+        "istanbul",
+        "ilg",
+        "mirziyoyeva",
+        "lim"
+      ],
+      "posted_at": 1792079234.3709168
+    },
+    {
+      "title": "Toshkent viloyati prokurorining aholiga murojaati",
+      "summary": "Toshkent viloyati prokurori A.E.Mirzayev viloyat aholisiga jinoyatchilikni barvaqt oldini olish va unga qarshi kurashish yuzasidan murojaat yo'lladi.",
+      "norm_title": "toshkent viloyati prokurorining aholiga murojaati",
+      "topic_key": "viloyat-prokurori-murojaati",
+      "stems": [
+        "murojaat",
+        "prokuror",
+        "ahol"
+      ],
+      "posted_at": 1792079279.1249127
+    },
+    {
+      "title": "Go'zal ayollar bilan muloqot erkaklarning diqqatini pasaytiradi",
+      "summary": "Olimlarning aniqlashicha, erkaklar jozibali ayollar bilan muloqot qilganda fikrlashi sekinlashadi va testlarda ko'proq xatolarga yo'l qo'yishadi.",
+      "norm_title": "gozal ayollar bilan muloqot erkaklarning diqqatini pasaytiradi",
+      "topic_key": "erkaklar-tadqiqot-muloqot",
+      "stems": [
+        "ayol",
+        "pasaytir",
+        "zal",
+        "erkak",
+        "muloqot",
+        "diqqat"
+      ],
+      "posted_at": 1792079290.0437648
+    },
+    {
+      "title": "Taksi narxlari oshishi yuzasidan o'rganish boshlandi",
+      "summary": "Raqobat qo'mitasi taksi agregatorlarida narxlar oshishining asosliligini o'rganib, narx belgilash algoritmlarini qayta ko'rib chiqishni talab qildi.",
+      "norm_title": "taksi narxlari oshishi yuzasidan organish boshlandi",
+      "topic_key": "taksi-narxlari-raqobat",
+      "stems": [
+        "rgan",
+        "tak",
+        "yuza",
+        "narx",
+        "osh"
+      ],
+      "posted_at": 1792079307.6025858
     }
   ]
 }
