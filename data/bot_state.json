@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85750,
-    "ao_agmk": 49565,
+    "olmaliqhayoti": 85755,
+    "ao_agmk": 49568,
     "olmaliqshaharpressa": 12662,
-    "olmaliq": 43323
+    "olmaliq": 43325
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2857,64 +2857,19 @@
     "olmaliqshaharpressa:12661": 1792009262.5980184,
     "olmaliqshaharpressa:12662": 1792009270.3676722,
     "olmaliq:43323": 1792009285.228156,
-    "olmaliqhayoti:85750": 1792028024.7778358
+    "olmaliqhayoti:85750": 1792028024.7778358,
+    "olmaliqhayoti:85751": 1792045318.2348185,
+    "olmaliqhayoti:85752": 1792045325.4590776,
+    "olmaliqhayoti:85753": 1792045333.281663,
+    "olmaliqhayoti:85754": 1792045342.0083904,
+    "olmaliqhayoti:85755": 1792045352.8357394,
+    "ao_agmk:49566": 1792045363.8641849,
+    "ao_agmk:49567": 1792045366.8840451,
+    "ao_agmk:49568": 1792045366.8980072,
+    "olmaliq:43324": 1792045376.7741592,
+    "olmaliq:43325": 1792045382.7057502
   },
   "posted_articles": [
-    {
-      "title": "Prezident Koreyada vatanparvarlar xotirasiga ehtirom ko'rsatdi",
-      "summary": "",
-      "norm_title": "prezident koreyada vatanparvarlar xotirasiga ehtirom korsatdi",
-      "topic_key": "prezident-koreya-tashrif",
-      "stems": [
-        "ehtirom",
-        "prezident",
-        "vatanparvar",
-        "rsat",
-        "xotira",
-        "koreya"
-      ],
-      "posted_at": 1789616114.4505525
-    },
-    {
-      "title": "Buxoro maktabida o'quvchilar uchun sog'lom ovqatlanish sharoitlari yaxshilandi",
-      "summary": "",
-      "norm_title": "buxoro maktabida oquvchilar uchun soglom ovqatlanish sharoitlari yaxshilandi",
-      "topic_key": "buxoro-maktabi-oshxona",
-      "stems": [
-        "quvch",
-        "sog",
-        "ovqatlan",
-        "lom",
-        "maktab",
-        "buxoro",
-        "yaxshilan",
-        "sharoit"
-      ],
-      "posted_at": 1789616202.7240283
-    },
-    {
-      "title": "Olmaliq shahar ta'lim bo'limi boshlig'i сайёр қабул ўтказмоqda",
-      "summary": "",
-      "norm_title": "olmaliq shahar talim bolimi boshligi сайёр қабул ўтказмоqda",
-      "topic_key": "gorono-sayyor-qabul",
-      "stems": [
-        "boshlig",
-        "lim",
-        "qda"
-      ],
-      "posted_at": 1789616230.4113064
-    },
-    {
-      "title": "Olmaliqda navbatdagi сайёр қабул o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda navbatdagi сайёр қабул otkazildi",
-      "topic_key": "sayyor-qabul-olmaliq",
-      "stems": [
-        "navbat",
-        "tkazil"
-      ],
-      "posted_at": 1789616281.6603858
-    },
     {
       "title": "Oʻzbekiston Prezidenti Koreyada rasmiy kutib olindi",
       "summary": "",
@@ -5777,6 +5732,73 @@
         "eta"
       ],
       "posted_at": 1792028024.7850337
+    },
+    {
+      "title": "Ota-onalar va farzandlar o'rtasidagi muloqot vaqti keskin kamaygan",
+      "summary": "O'tkazilgan so'rovlarga ko'ra, ota-onalar farzandlariga kuniga o'rtacha 8-10 daqiqa vaqt ajratmoqda. Mutaxassislar bolalar bilan telefonlarsiz samimiy suhbatlashish va kitobxonlikni yo'lga qo'yish muhimligini ta'kidlashmoqda.",
+      "norm_title": "otaonalar va farzandlar ortasidagi muloqot vaqti keskin kamaygan",
+      "topic_key": "ota-ona-va-farzand-muloqoti",
+      "stems": [
+        "keskin",
+        "farzand",
+        "ona",
+        "rta",
+        "kamay",
+        "vaqt",
+        "ota",
+        "muloqot"
+      ],
+      "posted_at": 1792045325.4658532
+    },
+    {
+      "title": "Respublika fan olimpiadasi shahar bosqichiga 1382 nafar o'quvchi qatnashishi kutilmoqda",
+      "summary": "Olmaliq shahrida 9-10-11-sinf o'quvchilari o'rtasida o'tkaziladigan Respublika fan olimpiadasining shahar bosqichiga tayyorgarlik ko'rilmoqda.",
+      "norm_title": "respublika fan olimpiadasi shahar bosqichiga 1382 nafar oquvchi qatnashishi kutilmoqda",
+      "topic_key": "fan-olimpiadasi-shahar-bosqichi",
+      "stems": [
+        "kut",
+        "nafar",
+        "quvch",
+        "qatnash",
+        "1382",
+        "olimpia",
+        "bosqich",
+        "fan"
+      ],
+      "posted_at": 1792045333.288639
+    },
+    {
+      "title": "Samarqand noni tovar belgisi sifatida davlat ro'yxatidan o'tkazildi",
+      "summary": "Mashhur Samarqand noni brendi geografik ko'rsatkichdan tashqari rasman tovar belgisi sifatida ham ro'yxatga olindi. Bu milliy gastronomik merosni asrash va uning bozoridagi nufuzini oshirishga xizmat qiladi.",
+      "norm_title": "samarqand noni tovar belgisi sifatida davlat royxatidan otkazildi",
+      "topic_key": "samarqand-noni-brendi",
+      "stems": [
+        "samarqand",
+        "yxat",
+        "tkazil",
+        "belg",
+        "sifat",
+        "non",
+        "davlat",
+        "tovar"
+      ],
+      "posted_at": 1792045352.8431711
+    },
+    {
+      "title": "Ochiq eʼlon qilinishi shart bo‘lgan maʼlumotlar ro‘yxati tasdiqlandi",
+      "summary": "Davlat organlari va tashkilotlari Ochiq maʼlumotlar portalida 43 turdagi ijtimoiy ahamiyatga molik axborotlarni, jumladan, xarajatlar, davlat xaridlari va bo‘sh ish o‘rinlarini majburiy eʼlon qilishi belgilandi.",
+      "norm_title": "ochiq eʼlon qilinishi shart bolgan maʼlumotlar royxati tasdiqlandi",
+      "topic_key": "ochiq-malumotlar-royxati",
+      "stems": [
+        "malumot",
+        "ochiq",
+        "yxat",
+        "qilin",
+        "shart",
+        "lgan",
+        "tasdiqlan"
+      ],
+      "posted_at": 1792045363.8711076
     }
   ]
 }
