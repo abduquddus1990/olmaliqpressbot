@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85814,
-    "ao_agmk": 49591,
-    "olmaliqshaharpressa": 12686,
-    "olmaliq": 43369
+    "olmaliqhayoti": 85816,
+    "ao_agmk": 49603,
+    "olmaliqshaharpressa": 12688,
+    "olmaliq": 43379
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2929,51 +2929,18 @@
     "olmaliqshaharpressa:12680": 1792160282.8341541,
     "olmaliqshaharpressa:12686": 1792160321.1935482,
     "olmaliq:43368": 1792160329.615243,
-    "olmaliq:43369": 1792160344.2165034
+    "olmaliq:43369": 1792160344.2165034,
+    "olmaliqhayoti:85815": 1792173723.9034216,
+    "olmaliqhayoti:85816": 1792173736.926968,
+    "ao_agmk:49592": 1792173747.6502197,
+    "ao_agmk:49603": 1792173761.3034956,
+    "olmaliqshaharpressa:12687": 1792173773.1320643,
+    "olmaliqshaharpressa:12688": 1792173783.3915668,
+    "olmaliq:43377": 1792173797.4671028,
+    "olmaliq:43378": 1792173802.1620042,
+    "olmaliq:43379": 1792173818.850957
   },
   "posted_articles": [
-    {
-      "title": "Prezident Koreya Bosh vazirini qabul qildi",
-      "summary": "",
-      "norm_title": "prezident koreya bosh vazirini qabul qildi",
-      "topic_key": "prezident-koreya-boshvaziri",
-      "stems": [
-        "vazir",
-        "prezident",
-        "qil",
-        "bosh",
-        "qabul",
-        "koreya"
-      ],
-      "posted_at": 1789617919.0934463
-    },
-    {
-      "title": "O'zbekiston va Koreya biznes-forum",
-      "summary": "",
-      "norm_title": "ozbekiston va koreya biznesforum",
-      "topic_key": "uzbekiston-koreya-biznes-forum",
-      "stems": [
-        "forum",
-        "zbekiston",
-        "koreya",
-        "biznes"
-      ],
-      "posted_at": 1789617966.964846
-    },
-    {
-      "title": "Hokimlikda fuqarolarni qabul qilish grafigi e'lon qilindi",
-      "summary": "",
-      "norm_title": "hokimlikda fuqarolarni qabul qilish grafigi elon qilindi",
-      "topic_key": "hokimiyat-qabul-grafigi",
-      "stems": [
-        "qabul",
-        "fuqaro",
-        "grafig",
-        "lon",
-        "hokim"
-      ],
-      "posted_at": 1789617997.1239564
-    },
     {
       "title": "Nurafshonda mini-texnologiyalar yarmarkasi o‘tkaziladi",
       "summary": "",
@@ -5865,6 +5832,51 @@
         "minlan"
       ],
       "posted_at": 1792160282.841382
+    },
+    {
+      "title": "Pedagoglar attestatsiya natijalarini Telegram-bot orqali tekshirishlari mumkin",
+      "summary": "MMTV pedagoglar uchun yangi @pedagoginfo_bot xizmatini ishga tushirdi. Ushbu bot orqali attestatsiya natijalari, ariza holati va ustama sertifikatlari haqida ma'lumot olish mumkin.",
+      "norm_title": "pedagoglar attestatsiya natijalarini telegrambot orqali tekshirishlari mumkin",
+      "topic_key": "pedagog-attestatsiya-boti",
+      "stems": [
+        "mumkin",
+        "telegram",
+        "bot",
+        "natija",
+        "attestatsiya",
+        "tekshir",
+        "pedagog"
+      ],
+      "posted_at": 1792173723.9700098
+    },
+    {
+      "title": "Shahar prokurori fuqarolarni kiberjinoyatlardan ogohlikka chaqirdi",
+      "summary": "Olmaliq shahar prokurori Abdumalik Kuldashev aholiga murojaat yo'llab, internet firibgarligidan saqlanish uchun bank kartasi ma'lumotlarini hech kimga bermaslik va shubhali havolalarni ochmaslikni so'radi.",
+      "norm_title": "shahar prokurori fuqarolarni kiberjinoyatlardan ogohlikka chaqirdi",
+      "topic_key": "prokuror-murojaati-kiberjinoyat",
+      "stems": [
+        "fuqaro",
+        "ogoh",
+        "prokuror",
+        "kiberjinoyat",
+        "chaqir"
+      ],
+      "posted_at": 1792173783.3982563
+    },
+    {
+      "title": "Toshkentning to'rtta ko'chasida maxsus avtobus yo'laklari tashkil etiladi",
+      "summary": "Poytaxt hokimligi qaroriga ko'ra, jamoat transporti harakatini tezlashtirish maqsadida 17,9 km yo'lda yangi avtobus yo'laklari paydo bo'ladi. Loyiha uchun taxminan 6,5 milliard so'm sarflanishi rejalashtirilgan.",
+      "norm_title": "toshkentning tortta kochasida maxsus avtobus yolaklari tashkil etiladi",
+      "topic_key": "toshkent-avtobus-yolakalari",
+      "stems": [
+        "cha",
+        "tashkil",
+        "lak",
+        "maxsus",
+        "rtta",
+        "avtobus"
+      ],
+      "posted_at": 1792173818.857925
     }
   ]
 }
