@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85786,
-    "ao_agmk": 49581,
+    "olmaliqhayoti": 85806,
+    "ao_agmk": 49585,
     "olmaliqshaharpressa": 12666,
-    "olmaliq": 43345
+    "olmaliq": 43358
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2904,68 +2904,19 @@
     "olmaliq:43342": 1792126792.2185297,
     "olmaliq:43343": 1792126795.4286242,
     "olmaliq:43344": 1792126803.3885071,
-    "olmaliq:43345": 1792126805.926605
+    "olmaliq:43345": 1792126805.926605,
+    "olmaliqhayoti:85787": 1792143260.4495056,
+    "olmaliqhayoti:85796": 1792143273.2444327,
+    "olmaliqhayoti:85806": 1792143285.0002463,
+    "ao_agmk:49583": 1792143288.5061133,
+    "ao_agmk:49584": 1792143288.5193846,
+    "ao_agmk:49585": 1792143298.1996913,
+    "olmaliq:43347": 1792143317.004325,
+    "olmaliq:43356": 1792143341.20625,
+    "olmaliq:43357": 1792143355.0505364,
+    "olmaliq:43358": 1792143365.0896513
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqdagi maktabda vatanparvarlik tadbiri o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqdagi maktabda vatanparvarlik tadbiri otkazildi",
-      "topic_key": "vatan-tayanchi-targibot",
-      "stems": [
-        "maktab",
-        "vatanparvar",
-        "tkazil",
-        "tadbir"
-      ],
-      "posted_at": 1789616963.0735965
-    },
-    {
-      "title": "Xorijiy tillarga ixtisoslashtirilgan maktab-internati o'z faoliyatini boshladi",
-      "summary": "",
-      "norm_title": "xorijiy tillarga ixtisoslashtirilgan maktabinternati oz faoliyatini boshladi",
-      "topic_key": "maktab-internat-faoliyati",
-      "stems": [
-        "boshl",
-        "til",
-        "internat",
-        "maktab",
-        "ixtisoslash",
-        "xorijiy",
-        "faoliyat"
-      ],
-      "posted_at": 1789617007.1397605
-    },
-    {
-      "title": "Sun'iy intellekt davrida mehnat bozori va xodimlar mas'uliyati",
-      "summary": "",
-      "norm_title": "suniy intellekt davrida mehnat bozori va xodimlar masuliyati",
-      "topic_key": "chatgpt-mehnat-bozori",
-      "stems": [
-        "mehnat",
-        "uliyat",
-        "davr",
-        "xodim",
-        "intellekt",
-        "bozor",
-        "sun",
-        "mas"
-      ],
-      "posted_at": 1789617083.4141555
-    },
-    {
-      "title": "AGMK avtoparki yangi texnikalar bilan boyidi",
-      "summary": "",
-      "norm_title": "agmk avtoparki yangi texnikalar bilan boyidi",
-      "topic_key": "agmk-avtopark-texnika",
-      "stems": [
-        "agmk",
-        "tex",
-        "boy",
-        "avtopark"
-      ],
-      "posted_at": 1789617125.9208298
-    },
     {
       "title": "Olmaliqda tadbirkorlar bilan navbatdagi uchrashuv o'tkazildi",
       "summary": "",
@@ -5840,6 +5791,65 @@
         "jazo"
       ],
       "posted_at": 1792126795.4352717
+    },
+    {
+      "title": "Olmaliqda rahbar va xodimlar o‘rtasida ommaviy diktant o‘tkazildi",
+      "summary": "«Savodxon tashkilot — savodli jamiyat» tashabbusi doirasida Olmaliq shahar hokimi Barhayot Meliyev va korxona-tashkilotlar rahbarlari ishtirokida ommaviy diktant tadbiri bo‘lib o‘tdi.",
+      "norm_title": "olmaliqda rahbar va xodimlar ortasida ommaviy diktant otkazildi",
+      "topic_key": "olmaliq-ommaviy-diktant",
+      "stems": [
+        "ommaviy",
+        "diktant",
+        "rahbar",
+        "rta",
+        "tkazil",
+        "xodim"
+      ],
+      "posted_at": 1792143273.2512312
+    },
+    {
+      "title": "Olmaliqda o'quvchilar bilan ta'lim va sport masalalarida muloqot o'tkazildi",
+      "summary": "Shahar Maktabgacha va maktab ta'limi bo'limi boshlig'i 7-maktab o'quvchilari bilan uchrashib, 'Zakovat', futbol va boshqa sport musobaqalarini tashkil etish masalalarini muhokama qildi.",
+      "norm_title": "olmaliqda oquvchilar bilan talim va sport masalalarida muloqot otkazildi",
+      "topic_key": "maktab-yoshlar-tashabbus",
+      "stems": [
+        "lim",
+        "masala",
+        "tkazil",
+        "quvch",
+        "sport",
+        "muloqot"
+      ],
+      "posted_at": 1792143285.006776
+    },
+    {
+      "title": "Markaziy ta'mirlash mexanika zavodida O'zbek tili bayrami nishonlandi",
+      "summary": "Markaziy ta'mirlash mexanika zavodida 21-oktyabr – O'zbek tiliga davlat tili maqomi berilgan kun munosabati bilan ma'naviyat soati tashkil etilib, faol xodimlarga kitoblar sovg'a qilindi.",
+      "norm_title": "markaziy tamirlash mexanika zavodida ozbek tili bayrami nishonlandi",
+      "topic_key": "mtmz-ozbek-tili-bayrami",
+      "stems": [
+        "nishonlan",
+        "til",
+        "zavod",
+        "zbek",
+        "markaziy",
+        "mirlash",
+        "bayram",
+        "mexa"
+      ],
+      "posted_at": 1792143298.2063696
+    },
+    {
+      "title": "Toshkentda havo sifati yomonlashdi",
+      "summary": "Kuchsiz shamol va harorat inversiyasi tufayli Toshkent shahrida PM2.5 va PM10 zarrachalari ko'payib, havo sifati 'nosog'lom' darajaga yetdi.",
+      "norm_title": "toshkentda havo sifati yomonlashdi",
+      "topic_key": "toshkent-havo-sifati",
+      "stems": [
+        "yomonlash",
+        "havo",
+        "sifat"
+      ],
+      "posted_at": 1792143341.2129085
     }
   ]
 }
