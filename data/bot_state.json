@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85806,
-    "ao_agmk": 49585,
-    "olmaliqshaharpressa": 12666,
-    "olmaliq": 43358
+    "olmaliqhayoti": 85814,
+    "ao_agmk": 49591,
+    "olmaliqshaharpressa": 12686,
+    "olmaliq": 43369
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2914,69 +2914,24 @@
     "olmaliq:43347": 1792143317.004325,
     "olmaliq:43356": 1792143341.20625,
     "olmaliq:43357": 1792143355.0505364,
-    "olmaliq:43358": 1792143365.0896513
+    "olmaliq:43358": 1792143365.0896513,
+    "olmaliqhayoti:85808": 1792159925.443949,
+    "olmaliqhayoti:85809": 1792159997.0182462,
+    "olmaliqhayoti:85810": 1792160011.6044621,
+    "olmaliqhayoti:85811": 1792160111.1197662,
+    "olmaliqhayoti:85812": 1792160168.9508655,
+    "olmaliqhayoti:85813": 1792160207.4087927,
+    "olmaliqhayoti:85814": 1792160216.2857552,
+    "ao_agmk:49589": 1792160248.3172963,
+    "ao_agmk:49590": 1792160248.3329036,
+    "ao_agmk:49591": 1792160256.9401052,
+    "olmaliqshaharpressa:12667": 1792160272.338835,
+    "olmaliqshaharpressa:12680": 1792160282.8341541,
+    "olmaliqshaharpressa:12686": 1792160321.1935482,
+    "olmaliq:43368": 1792160329.615243,
+    "olmaliq:43369": 1792160344.2165034
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda tadbirkorlar bilan navbatdagi uchrashuv o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda tadbirkorlar bilan navbatdagi uchrashuv otkazildi",
-      "topic_key": "tadbirkorlar-qabuli-hokimlik",
-      "stems": [
-        "navbat",
-        "tkazil",
-        "uchrashuv",
-        "tadbirkor"
-      ],
-      "posted_at": 1789617708.3810034
-    },
-    {
-      "title": "Olmaliq shahrida nikohlanuvchi yoshlar uchun o'quv mashg'uloti o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliq shahrida nikohlanuvchi yoshlar uchun oquv mashguloti otkazildi",
-      "topic_key": "nikohlanuvchi-yoshlar-mashguloti",
-      "stems": [
-        "yosh",
-        "ulot",
-        "quv",
-        "mashg",
-        "nikohlanuvch",
-        "tkazil"
-      ],
-      "posted_at": 1789617743.5625994
-    },
-    {
-      "title": "Talabalar uchun ijara kompensatsiyasini olish tartibi",
-      "summary": "",
-      "norm_title": "talabalar uchun ijara kompensatsiyasini olish tartibi",
-      "topic_key": "talaba-ijara-soliq",
-      "stems": [
-        "tartib",
-        "kompensatsiya",
-        "talaba",
-        "ijara",
-        "olish"
-      ],
-      "posted_at": 1789617850.396326
-    },
-    {
-      "title": "Peniya jamg'armalaridan muddatidan oldin foydalanishga ruxsat berilishi mumkin",
-      "summary": "",
-      "norm_title": "peniya jamgarmalaridan muddatidan oldin foydalanishga ruxsat berilishi mumkin",
-      "topic_key": "pensiya-jamgarmasi-islohoti",
-      "stems": [
-        "peniya",
-        "ruxsat",
-        "oldin",
-        "ber",
-        "muddat",
-        "foydalan",
-        "jamg",
-        "arma",
-        "mumkin"
-      ],
-      "posted_at": 1789617880.6116345
-    },
     {
       "title": "Prezident Koreya Bosh vazirini qabul qildi",
       "summary": "",
@@ -5850,6 +5805,66 @@
         "sifat"
       ],
       "posted_at": 1792143341.2129085
+    },
+    {
+      "title": "Green Card lotereyasiga arizalar 1 noyabrdan boshlanadi",
+      "summary": "AQSh sudi qaroriga ko'ra, DV-2027 Green Card dasturi uchun arizalar 1 noyabrdan boshlab 30 kun davomida qabul qilinadi. Bu yil ishtirok etish uchun 1 dollar to'lov va xorijga chiqish pasporti talab etiladi.",
+      "norm_title": "green card lotereyasiga arizalar 1 noyabrdan boshlanadi",
+      "topic_key": "green-card-2027-ariza",
+      "stems": [
+        "card",
+        "noyabr",
+        "green",
+        "boshlan",
+        "ariza",
+        "lotereya"
+      ],
+      "posted_at": 1792159997.0262055
+    },
+    {
+      "title": "Olmaliqda mahallalar uyushmasi boshlig'ining sayyor qabuli bo'lib o'tadi",
+      "summary": "17-oktabr kuni O'zbekiston mahallalar uyushmasi Olmaliq shahar bo'limi boshlig'i Navro'zbek Alimov Mirzo Ulug'bek va Zarbuloq mahallalarida fuqarolar uchun sayyor qabul o'tkazadi.",
+      "norm_title": "olmaliqda mahallalar uyushmasi boshligining sayyor qabuli bolib otadi",
+      "topic_key": "sayyor-qabul-mahallalar",
+      "stems": [
+        "mahalla",
+        "sayyor",
+        "qabul",
+        "lib",
+        "uyushma",
+        "tad",
+        "ining",
+        "boshlig"
+      ],
+      "posted_at": 1792160111.1260345
+    },
+    {
+      "title": "AGMK 3-mis boyitish fabrikasiga bo'sh ish o'rni e'lon qilindi",
+      "summary": "AGMK AJ 3-mis boyitish fabrikasi agronom lavozimi uchun 2026-yil 16-23-oktyabr kunlari rezyumelar qabul qilinishini ma'lum qildi.",
+      "norm_title": "agmk 3mis boyitish fabrikasiga bosh ish orni elon qilindi",
+      "topic_key": "agmk-3-mob-vakansiya",
+      "stems": [
+        "boyit",
+        "rni",
+        "mis",
+        "agmk",
+        "fabr",
+        "ish",
+        "lon"
+      ],
+      "posted_at": 1792160256.9465096
+    },
+    {
+      "title": "Olmaliqda yoshlar bandligi ta'minlandi",
+      "summary": "\"Yoshlar kuni\" doirasida ATMZ AJga tashrif buyurgan 15 nafar yoshdan 5 nafari korxonaga ishga joylashtirildi.",
+      "norm_title": "olmaliqda yoshlar bandligi taminlandi",
+      "topic_key": "olmaliq-yoshlar-bandligi",
+      "stems": [
+        "yosh",
+        "band",
+        "minlan"
+      ],
+      "posted_at": 1792160282.841382
     }
   ]
 }
