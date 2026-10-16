@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85782,
-    "ao_agmk": 49580,
-    "olmaliqshaharpressa": 12663,
-    "olmaliq": 43341
+    "olmaliqhayoti": 85786,
+    "ao_agmk": 49581,
+    "olmaliqshaharpressa": 12666,
+    "olmaliq": 43345
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2892,68 +2892,21 @@
     "olmaliq:43339": 1792079290.031161,
     "olmaliq:43340": 1792079297.9073927,
     "olmaliq:43341": 1792079307.5954509,
-    "olmaliqhayoti:85782": 1792092351.3823075
+    "olmaliqhayoti:85782": 1792092351.3823075,
+    "olmaliqhayoti:85783": 1792126757.001628,
+    "olmaliqhayoti:85784": 1792126764.0692787,
+    "olmaliqhayoti:85785": 1792126764.083171,
+    "olmaliqhayoti:85786": 1792126769.3428354,
+    "ao_agmk:49581": 1792126777.260538,
+    "olmaliqshaharpressa:12664": 1792126783.2298634,
+    "olmaliqshaharpressa:12665": 1792126785.7767875,
+    "olmaliqshaharpressa:12666": 1792126788.0186932,
+    "olmaliq:43342": 1792126792.2185297,
+    "olmaliq:43343": 1792126795.4286242,
+    "olmaliq:43344": 1792126803.3885071,
+    "olmaliq:43345": 1792126805.926605
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq rahbariyati Xitoyda xizmat safarida",
-      "summary": "",
-      "norm_title": "olmaliq rahbariyati xitoyda xizmat safarida",
-      "topic_key": "olmaliq-hokimi-xitoy-safar",
-      "stems": [
-        "xizmat",
-        "xitoy",
-        "rahbariyat",
-        "safar"
-      ],
-      "posted_at": 1789616722.352839
-    },
-    {
-      "title": "O‘zbekistonda pensiya yoshini bosqichma-bosqich oshirish rejalashtirilmoqda",
-      "summary": "",
-      "norm_title": "ozbekistonda pensiya yoshini bosqichmabosqich oshirish rejalashtirilmoqda",
-      "topic_key": "pensiya-yoshi-oshishi",
-      "stems": [
-        "bosqichma",
-        "pensiya",
-        "zbekiston",
-        "yosh",
-        "bosqich",
-        "rejalash",
-        "oshir"
-      ],
-      "posted_at": 1789616742.2757962
-    },
-    {
-      "title": "Olmaliq shahridagi kunlik ob-havo, namoz vaqtlari va valyuta kurslari",
-      "summary": "",
-      "norm_title": "olmaliq shahridagi kunlik obhavo namoz vaqtlari va valyuta kurslari",
-      "topic_key": "ob-havo-namoz-valyuta",
-      "stems": [
-        "vaqt",
-        "kurs",
-        "shahr",
-        "havo",
-        "namoz",
-        "valyuta"
-      ],
-      "posted_at": 1789616896.1264513
-    },
-    {
-      "title": "Olmaliqda xotin-qizlar bandligi va salomatligi markazi ochildi",
-      "summary": "",
-      "norm_title": "olmaliqda xotinqizlar bandligi va salomatligi markazi ochildi",
-      "topic_key": "xotin-qizlar-salomatlik-markazi",
-      "stems": [
-        "xotin",
-        "salomat",
-        "qiz",
-        "band",
-        "ochil",
-        "markaz"
-      ],
-      "posted_at": 1789616920.8811429
-    },
     {
       "title": "Olmaliqdagi maktabda vatanparvarlik tadbiri o'tkazildi",
       "summary": "",
@@ -5822,6 +5775,71 @@
         "osh"
       ],
       "posted_at": 1792079307.6025858
+    },
+    {
+      "title": "O'zbekiston haydovchilik guvohnomasi Germaniyada tan olinishi mumkin",
+      "summary": "O'zbekiston guvohnomasini Germaniyada tan olish hamda nemis ish beruvchilari talabi bo'yicha haydovchilar tayyorlaydigan qo'shma maktab tashkil etish taklif qilindi.",
+      "norm_title": "ozbekiston haydovchilik guvohnomasi germaniyada tan olinishi mumkin",
+      "topic_key": "germaniya-haydovchilik-guvohnomasi",
+      "stems": [
+        "germaniya",
+        "haydovch",
+        "olin",
+        "zbekiston",
+        "guvohnoma",
+        "mumkin",
+        "tan"
+      ],
+      "posted_at": 1792126757.0082378
+    },
+    {
+      "title": "Olmaliq shahar IIB YHXBga yangi rahbar tayinlandi",
+      "summary": "Mirzamurod Saydaliev Olmaliq shahar IIB YHXB boshlig'i lavozimiga tayinlandi. U bunga qadar Ohangaron tumani YHXB boshlig'i lavozimida faoliyat yuritgan.",
+      "norm_title": "olmaliq shahar iib yhxbga yangi rahbar tayinlandi",
+      "topic_key": "olmaliq-iib-yhxb-rahbar",
+      "stems": [
+        "tayinlan",
+        "rahbar",
+        "iib",
+        "yhxb"
+      ],
+      "posted_at": 1792126769.349521
+    },
+    {
+      "title": "Rux zavodida davlat mulkini talon-toroj qilishning oldini olishga bag'ishlangan tadbir o'tkazildi",
+      "summary": "Olmaliq kon-metallurgiya kombinatining Rux zavodida yosh ishchi-xodimlarga davlat mulkini asrash va qonunbuzarliklarning oldini olish bo'yicha tushuntirishlar berildi.",
+      "norm_title": "rux zavodida davlat mulkini talontoroj qilishning oldini olishga bagishlangan tadbir otkazildi",
+      "topic_key": "rux-zavodi-profilaktika",
+      "stems": [
+        "old",
+        "tadbir",
+        "bag",
+        "talon",
+        "qil",
+        "toroj",
+        "rux",
+        "zavod",
+        "tkazil",
+        "davlat",
+        "mulk",
+        "olish",
+        "ishlan"
+      ],
+      "posted_at": 1792126777.2675135
+    },
+    {
+      "title": "O‘zbekistonda jinsiy shilqimlik uchun jazo kuchaytirildi",
+      "summary": "Prezident imzolagan qonunga ko'ra, endilikda SMS va ijtimoiy tarmoqlar orqali jinsiy shilqimlik qilganlar 10-15 sutkagacha ma'muriy qamoq yoki yirik miqdordagi jarimaga tortiladi.",
+      "norm_title": "ozbekistonda jinsiy shilqimlik uchun jazo kuchaytirildi",
+      "topic_key": "jinsiy-shilqimlik-jazo",
+      "stems": [
+        "jinsiy",
+        "kuchaytiril",
+        "zbekiston",
+        "shilqim",
+        "jazo"
+      ],
+      "posted_at": 1792126795.4352717
     }
   ]
 }
