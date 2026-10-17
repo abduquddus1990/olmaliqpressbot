@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85825,
-    "ao_agmk": 49620,
-    "olmaliqshaharpressa": 12694,
-    "olmaliq": 43394
+    "olmaliqhayoti": 85828,
+    "ao_agmk": 49623,
+    "olmaliqshaharpressa": 12695,
+    "olmaliq": 43395
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2961,22 +2961,17 @@
     "olmaliqshaharpressa:12694": 1792230071.1061664,
     "olmaliq:43384": 1792230081.8485923,
     "olmaliq:43393": 1792230087.8059635,
-    "olmaliq:43394": 1792230096.0731611
+    "olmaliq:43394": 1792230096.0731611,
+    "olmaliqhayoti:85826": 1792242690.6111465,
+    "olmaliqhayoti:85827": 1792242693.6319463,
+    "olmaliqhayoti:85828": 1792242699.609527,
+    "ao_agmk:49621": 1792242700.2139037,
+    "ao_agmk:49622": 1792242700.2270725,
+    "ao_agmk:49623": 1792242703.8883965,
+    "olmaliqshaharpressa:12695": 1792242709.2405066,
+    "olmaliq:43395": 1792242709.978399
   },
   "posted_articles": [
-    {
-      "title": "Raqamli texnologiyalar va sun'iy intellekt muhokama qilindi",
-      "summary": "",
-      "norm_title": "raqamli texnologiyalar va suniy intellekt muhokama qilindi",
-      "topic_key": "raqamli-texnologiyalar-seminari",
-      "stems": [
-        "intellekt",
-        "sun",
-        "raqaml",
-        "texnologiya"
-      ],
-      "posted_at": 1789619010.3452313
-    },
     {
       "title": "OKMK va Xorazm jamoalari O'zbekiston kubogida o'zaro bahs olib boradi",
       "summary": "",
@@ -5904,6 +5899,20 @@
         "muhim"
       ],
       "posted_at": 1792230096.0799098
+    },
+    {
+      "title": "Olmaliq shahar hokimi o‘rinbosari boshqa ishga o‘tdi",
+      "summary": "Olmaliq shahar hokimi Barhayot Meliev boshqa ishga o‘tayotgan o‘rinbosari Marhabo Minavvarovani samimiy tilaklar bilan yangi lavozimga kuzatdi.",
+      "norm_title": "olmaliq shahar hokimi orinbosari boshqa ishga otdi",
+      "topic_key": "olmaliq-hokimiyat-kadrlar",
+      "stems": [
+        "tdi",
+        "hokim",
+        "bosh",
+        "rinbosar",
+        "ish"
+      ],
+      "posted_at": 1792242690.6184855
     }
   ]
 }
