@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85816,
-    "ao_agmk": 49603,
+    "olmaliqhayoti": 85819,
+    "ao_agmk": 49615,
     "olmaliqshaharpressa": 12688,
-    "olmaliq": 43379
+    "olmaliq": 43381
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2938,38 +2938,17 @@
     "olmaliqshaharpressa:12688": 1792173783.3915668,
     "olmaliq:43377": 1792173797.4671028,
     "olmaliq:43378": 1792173802.1620042,
-    "olmaliq:43379": 1792173818.850957
+    "olmaliq:43379": 1792173818.850957,
+    "olmaliqhayoti:85817": 1792215640.490106,
+    "olmaliqhayoti:85818": 1792215647.75099,
+    "olmaliqhayoti:85819": 1792215650.4104717,
+    "ao_agmk:49613": 1792215654.1330252,
+    "ao_agmk:49614": 1792215654.1463497,
+    "ao_agmk:49615": 1792215654.1593213,
+    "olmaliq:43380": 1792215659.9722412,
+    "olmaliq:43381": 1792215668.3892417
   },
   "posted_articles": [
-    {
-      "title": "Nurafshonda mini-texnologiyalar yarmarkasi o‘tkaziladi",
-      "summary": "",
-      "norm_title": "nurafshonda minitexnologiyalar yarmarkasi otkaziladi",
-      "topic_key": "mini-texnologiyalar-yarmarkasi-nurafshon",
-      "stems": [
-        "min",
-        "nurafshon",
-        "texnologiya",
-        "yarmar",
-        "tkaz"
-      ],
-      "posted_at": 1789618017.504961
-    },
-    {
-      "title": "Talabalar uchun yakshanba kunlari ham darslar belgilanishi mumkin",
-      "summary": "",
-      "norm_title": "talabalar uchun yakshanba kunlari ham darslar belgilanishi mumkin",
-      "topic_key": "hemis-tizimi-yakshanba-dars",
-      "stems": [
-        "yakshanba",
-        "belgilan",
-        "kun",
-        "talaba",
-        "mumkin",
-        "dars"
-      ],
-      "posted_at": 1789618167.1708536
-    },
     {
       "title": "OKMK TV Mahalliy vaqt dasturi anonsi",
       "summary": "",
@@ -5877,6 +5856,33 @@
         "avtobus"
       ],
       "posted_at": 1792173818.857925
+    },
+    {
+      "title": "Endilikda peshlavha tashqi reklama hisoblanmaydi",
+      "summary": "Hukumatning yangi qaroriga ko'ra, bino va inshootlardagi peshlavhalar tashqi reklama hisoblanmaydi hamda ularga reklama pasporti talab etilmaydi.",
+      "norm_title": "endilikda peshlavha tashqi reklama hisoblanmaydi",
+      "topic_key": "tashqi-reklama-peshlavha",
+      "stems": [
+        "peshlavha",
+        "end",
+        "tashq",
+        "reklama",
+        "hisoblanma"
+      ],
+      "posted_at": 1792215640.496618
+    },
+    {
+      "title": "Komil Allamjonov Oq uy vakili bilan uchrashdi",
+      "summary": "Prezident maslahatchisi Komil Allamjonov AQSh Prezidentining maxsus yordamchisi Maykl Jerimayya bilan uchrashib, qo'shma tadbirlar va oliy darajadagi tashriflarni muhokama qildi.",
+      "norm_title": "komil allamjonov oq uy vakili bilan uchrashdi",
+      "topic_key": "allamjonov-aqsh-uchrashuv",
+      "stems": [
+        "vakil",
+        "komil",
+        "uchrash",
+        "allamjonov"
+      ],
+      "posted_at": 1792215668.3961847
     }
   ]
 }
