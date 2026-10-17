@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85819,
-    "ao_agmk": 49615,
-    "olmaliqshaharpressa": 12688,
-    "olmaliq": 43381
+    "olmaliqhayoti": 85825,
+    "ao_agmk": 49620,
+    "olmaliqshaharpressa": 12694,
+    "olmaliq": 43394
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2946,78 +2946,24 @@
     "ao_agmk:49614": 1792215654.1463497,
     "ao_agmk:49615": 1792215654.1593213,
     "olmaliq:43380": 1792215659.9722412,
-    "olmaliq:43381": 1792215668.3892417
+    "olmaliq:43381": 1792215668.3892417,
+    "olmaliqhayoti:85820": 1792230009.7577226,
+    "olmaliqhayoti:85821": 1792230019.5620594,
+    "olmaliqhayoti:85822": 1792230028.5711339,
+    "olmaliqhayoti:85824": 1792230032.1121078,
+    "olmaliqhayoti:85825": 1792230040.5228765,
+    "ao_agmk:49616": 1792230044.0596933,
+    "ao_agmk:49617": 1792230044.0730565,
+    "ao_agmk:49618": 1792230049.6300578,
+    "ao_agmk:49619": 1792230055.4547172,
+    "ao_agmk:49620": 1792230060.5371501,
+    "olmaliqshaharpressa:12689": 1792230066.5777206,
+    "olmaliqshaharpressa:12694": 1792230071.1061664,
+    "olmaliq:43384": 1792230081.8485923,
+    "olmaliq:43393": 1792230087.8059635,
+    "olmaliq:43394": 1792230096.0731611
   },
   "posted_articles": [
-    {
-      "title": "OKMK TV Mahalliy vaqt dasturi anonsi",
-      "summary": "",
-      "norm_title": "okmk tv mahalliy vaqt dasturi anonsi",
-      "topic_key": "okmk-tv-mahalliy-vaqt",
-      "stems": [
-        "okmk",
-        "vaqt",
-        "mahalliy",
-        "anon",
-        "dastur"
-      ],
-      "posted_at": 1789618503.646524
-    },
-    {
-      "title": "Mahalliylashtirish yo'nalishidagi yangi loyihalar",
-      "summary": "",
-      "norm_title": "mahalliylashtirish yonalishidagi yangi loyihalar",
-      "topic_key": "mahalliylashtirish-yangi-loyihalar",
-      "stems": [
-        "mahalliylash",
-        "nal",
-        "loyiha"
-      ],
-      "posted_at": 1789618817.600919
-    },
-    {
-      "title": "Shaxmat olimpiadasi qatnashchilariga tabrik",
-      "summary": "",
-      "norm_title": "shaxmat olimpiadasi qatnashchilariga tabrik",
-      "topic_key": "shaxmat-olimpiadasi-tabrik",
-      "stems": [
-        "olimpia",
-        "shaxmat",
-        "tabrik",
-        "qatnashch"
-      ],
-      "posted_at": 1789618838.2385771
-    },
-    {
-      "title": "Prezident Koreyadagi vatandoshlar bilan uchrashdi",
-      "summary": "",
-      "norm_title": "prezident koreyadagi vatandoshlar bilan uchrashdi",
-      "topic_key": "prezident-koreya-vatandoshlar",
-      "stems": [
-        "prezident",
-        "vatandosh",
-        "uchrash",
-        "koreya"
-      ],
-      "posted_at": 1789618905.1412687
-    },
-    {
-      "title": "Markaziy Osiyo va Koreya Respublikasi birinchi sammiti bo'lib o'tdi",
-      "summary": "",
-      "norm_title": "markaziy osiyo va koreya respublikasi birinchi sammiti bolib otdi",
-      "topic_key": "markaziy-osiyo-koreya-sammiti",
-      "stems": [
-        "tdi",
-        "birinch",
-        "osiyo",
-        "respubl",
-        "koreya",
-        "sammit",
-        "markaziy",
-        "lib"
-      ],
-      "posted_at": 1789618930.772293
-    },
     {
       "title": "Raqamli texnologiyalar va sun'iy intellekt muhokama qilindi",
       "summary": "",
@@ -5883,6 +5829,81 @@
         "allamjonov"
       ],
       "posted_at": 1792215668.3961847
+    },
+    {
+      "title": "Energetika sohasi uchun kadrlar tayyorlash ko'paytiriladi",
+      "summary": "Kelgusi o'quv yilidan oliygohlarda energetika yo'nalishlari bo'yicha qabul kvaotalari oshirilib, yoshlar uchun xorijiy grantlar va zamonaviy texnikumlar tashkil etiladi.",
+      "norm_title": "energetika sohasi uchun kadrlar tayyorlash kopaytiriladi",
+      "topic_key": "energetika-kadrlar-kavotasi",
+      "stems": [
+        "soha",
+        "kadr",
+        "pay",
+        "tayyorlash",
+        "energet"
+      ],
+      "posted_at": 1792230019.5699658
+    },
+    {
+      "title": "Xitoy maktablarida o'quvchilarga mukofot sifatida go'sht berilmoqda",
+      "summary": "Xitoy maktablarida a'lo baholarga o'qigan o'quvchilarga rag'bat sifatida 3-5 kg go'sht yoki tirik baliq topshirilmoqda. Bu esa oila uchun foydali va boshqa o'quvchilarda o'qishga motivatsiya uyg'otadi.",
+      "norm_title": "xitoy maktablarida oquvchilarga mukofot sifatida gosht berilmoqda",
+      "topic_key": "xitoy-maktab-mukofot-gosht",
+      "stems": [
+        "quvch",
+        "sifat",
+        "maktab",
+        "mukofot",
+        "sht",
+        "xitoy",
+        "ber"
+      ],
+      "posted_at": 1792230040.529572
+    },
+    {
+      "title": "AGMKda mis ishlab chiqarish salohiyati oshirilmoqda",
+      "summary": "Olmaliq kon-metallurgiya kombinatida mis ishlab chiqarish quvvatini oshirishga qaratilgan istiqbolli loyiha amaliyotga tatbiq etilmoqda.",
+      "norm_title": "agmkda mis ishlab chiqarish salohiyati oshirilmoqda",
+      "topic_key": "agmk-mis-ishlab-chiqarish",
+      "stems": [
+        "mis",
+        "agmk",
+        "salohiyat",
+        "chiqar",
+        "ishlab",
+        "oshir"
+      ],
+      "posted_at": 1792230049.6369154
+    },
+    {
+      "title": "Yoqilg'i-energetika sohasida investorlar kengashi tuzildi",
+      "summary": "Prezident qaroriga ko'ra, yoqilg'i-energetika sohasidagi investorlar kengashiga Said Mirziyoyeva rahbarlik qiladi. Kengash investorlarga yer ajratish va loyihalarni amalga oshirishda tezkor yechimlar topish bilan shug'ullanadi.",
+      "norm_title": "yoqilgienergetika sohasida investorlar kengashi tuzildi",
+      "topic_key": "energetika-investorlar-kengashi",
+      "stems": [
+        "yoqilg",
+        "investor",
+        "tuzil",
+        "soha",
+        "kengash",
+        "energet"
+      ],
+      "posted_at": 1792230087.812774
+    },
+    {
+      "title": "Muhim shoshilinch va kommunal xizmatlar telefon raqamlari",
+      "summary": "Gaz, elektr, suv, tibbiy yordam hamda boshqa shoshilinch masalalar bo'yicha murojaat qilish uchun kerakli qaynoq tarmoq raqamlari e'lon qilindi.",
+      "norm_title": "muhim shoshilinch va kommunal xizmatlar telefon raqamlari",
+      "topic_key": "muhim-telefon-raqamlari",
+      "stems": [
+        "telefon",
+        "shoshilinch",
+        "xizmat",
+        "kommunal",
+        "raqam",
+        "muhim"
+      ],
+      "posted_at": 1792230096.0799098
     }
   ]
 }
