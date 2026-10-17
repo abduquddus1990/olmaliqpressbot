@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85829,
+    "olmaliqhayoti": 85830,
     "ao_agmk": 49623,
     "olmaliqshaharpressa": 12695,
-    "olmaliq": 43395
+    "olmaliq": 43397
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2970,43 +2970,12 @@
     "ao_agmk:49623": 1792242703.8883965,
     "olmaliqshaharpressa:12695": 1792242709.2405066,
     "olmaliq:43395": 1792242709.978399,
-    "olmaliqhayoti:85829": 1792254241.778356
+    "olmaliqhayoti:85829": 1792254241.778356,
+    "olmaliqhayoti:85830": 1792262293.3690767,
+    "olmaliq:43396": 1792262303.577263,
+    "olmaliq:43397": 1792262311.4799044
   },
   "posted_articles": [
-    {
-      "title": "OKMK va Xorazm jamoalari O'zbekiston kubogida o'zaro bahs olib boradi",
-      "summary": "",
-      "norm_title": "okmk va xorazm jamoalari ozbekiston kubogida ozaro bahs olib boradi",
-      "topic_key": "okmk-xorazm-kubok",
-      "stems": [
-        "olib",
-        "okmk",
-        "xorazm",
-        "bahs",
-        "zbekiston",
-        "bor",
-        "jamoa",
-        "kubog",
-        "zaro"
-      ],
-      "posted_at": 1789619114.016865
-    },
-    {
-      "title": "OKMK milliy raqs san'atini qo'llab-quvvatlamoqda",
-      "summary": "",
-      "norm_title": "okmk milliy raqs sanatini qollabquvvatlamoqda",
-      "topic_key": "okmk-raqs-sanati",
-      "stems": [
-        "milliy",
-        "okmk",
-        "llab",
-        "ati",
-        "san",
-        "quvvatla",
-        "raqs"
-      ],
-      "posted_at": 1789619133.7897875
-    },
     {
       "title": "Mahalliy vaqt: OKMK TV dasturining bugungi anonsi",
       "summary": "",
@@ -5914,6 +5883,36 @@
         "ish"
       ],
       "posted_at": 1792242690.6184855
+    },
+    {
+      "title": "Olmaliq shahridagi bugungi ob-havo, namoz vaqtlari va valyuta kurslari",
+      "summary": "18-oktabr kuni Olmaliqda kunduzi havo harorati +21°C, kechasi +10°C bo'ladi. USD kursi 12055.90 so'mni tashkil etmoqda.",
+      "norm_title": "olmaliq shahridagi bugungi obhavo namoz vaqtlari va valyuta kurslari",
+      "topic_key": "ob-havo-namoz-valyuta",
+      "stems": [
+        "namoz",
+        "bugung",
+        "shahr",
+        "vaqt",
+        "havo",
+        "kurs",
+        "valyuta"
+      ],
+      "posted_at": 1792262293.376256
+    },
+    {
+      "title": "Maktablarda kuzgi ta'til sanalari ma'lum qilindi",
+      "summary": "Maktablarda kuzgi ta'til 4-noyabrdan boshlanib, o'quvchilar 6 kun dam oladi. Darslar 10-noyabrdan qayta boshlanadi.",
+      "norm_title": "maktablarda kuzgi tatil sanalari malum qilindi",
+      "topic_key": "maktab-kuzgi-tatil",
+      "stems": [
+        "lum",
+        "sana",
+        "maktab",
+        "kuzg",
+        "til"
+      ],
+      "posted_at": 1792262311.486634
     }
   ]
 }
