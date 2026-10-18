@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85835,
+    "olmaliqhayoti": 85840,
     "ao_agmk": 49624,
     "olmaliqshaharpressa": 12695,
-    "olmaliq": 43398
+    "olmaliq": 43399
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2980,23 +2980,12 @@
     "olmaliqhayoti:85834": 1792299335.5709515,
     "olmaliqhayoti:85835": 1792299347.803689,
     "ao_agmk:49624": 1792299353.9459639,
-    "olmaliq:43398": 1792299357.315995
+    "olmaliq:43398": 1792299357.315995,
+    "olmaliqhayoti:85839": 1792314954.4310637,
+    "olmaliqhayoti:85840": 1792314957.9635859,
+    "olmaliq:43399": 1792314963.8924825
   },
   "posted_articles": [
-    {
-      "title": "3-MBFda barqaror ishlab chiqarish ta'minlanmoqda",
-      "summary": "",
-      "norm_title": "3mbfda barqaror ishlab chiqarish taminlanmoqda",
-      "topic_key": "3-mbf-ishlab-chiqarish",
-      "stems": [
-        "ishlab",
-        "barqaror",
-        "mbf",
-        "chiqar",
-        "minlan"
-      ],
-      "posted_at": 1789619516.081003
-    },
     {
       "title": "Evropada bolalar uchun ijtimoiy tarmoqlarga qat'iy cheklovlar kiritilmoqda",
       "summary": "",
@@ -5918,6 +5907,21 @@
         "davolan"
       ],
       "posted_at": 1792299347.8116798
+    },
+    {
+      "title": "Maktab o'quvchilariga insult belgilarini aniqlash o'rgatiladi",
+      "summary": "1 noyabrdan boshlab respublika umumta'lim maktablarida o'quvchilarga insult belgilarini aniqlashni o'rgatish dasturi bosqichma-bosqich yo'lga qo'yiladi.",
+      "norm_title": "maktab oquvchilariga insult belgilarini aniqlash orgatiladi",
+      "topic_key": "maktab-insult-belgilari",
+      "stems": [
+        "aniqlash",
+        "belg",
+        "insult",
+        "maktab",
+        "rgat",
+        "quvch"
+      ],
+      "posted_at": 1792314963.899336
     }
   ]
 }
