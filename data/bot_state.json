@@ -2,8 +2,8 @@
   "channel_pointers": {
     "olmaliqhayoti": 85840,
     "ao_agmk": 49624,
-    "olmaliqshaharpressa": 12695,
-    "olmaliq": 43399
+    "olmaliqshaharpressa": 12709,
+    "olmaliq": 43400
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2983,69 +2983,15 @@
     "olmaliq:43398": 1792299357.315995,
     "olmaliqhayoti:85839": 1792314954.4310637,
     "olmaliqhayoti:85840": 1792314957.9635859,
-    "olmaliq:43399": 1792314963.8924825
+    "olmaliq:43399": 1792314963.8924825,
+    "olmaliqshaharpressa:12696": 1792329640.1732142,
+    "olmaliq:43400": 1792329653.512257,
+    "olmaliqshaharpressa:12697": 1792329728.5381002,
+    "olmaliqshaharpressa:12704": 1792329734.1471033,
+    "olmaliqshaharpressa:12705": 1792329744.15936,
+    "olmaliqshaharpressa:12709": 1792329747.9786015
   },
   "posted_articles": [
-    {
-      "title": "Evropada bolalar uchun ijtimoiy tarmoqlarga qat'iy cheklovlar kiritilmoqda",
-      "summary": "",
-      "norm_title": "evropada bolalar uchun ijtimoiy tarmoqlarga qatiy cheklovlar kiritilmoqda",
-      "topic_key": "evropa-ijtimoiy-tarmoq-cheklov",
-      "stems": [
-        "cheklov",
-        "tarmoq",
-        "qat",
-        "kirit",
-        "bola",
-        "ijtimoiy",
-        "evropa"
-      ],
-      "posted_at": 1789619658.0187235
-    },
-    {
-      "title": "Olmaliqda jamoat transporti tizimi isloh qilinadi",
-      "summary": "",
-      "norm_title": "olmaliqda jamoat transporti tizimi isloh qilinadi",
-      "topic_key": "olmaliq-jamoat-transporti",
-      "stems": [
-        "transport",
-        "isloh",
-        "qilin",
-        "tizim",
-        "jamoat"
-      ],
-      "posted_at": 1789620486.8253312
-    },
-    {
-      "title": "Olmaliq shahri delegatsiyasi Xitoyda yangi investitsiya loyihalariga kelishdi",
-      "summary": "",
-      "norm_title": "olmaliq shahri delegatsiyasi xitoyda yangi investitsiya loyihalariga kelishdi",
-      "topic_key": "olmaliq-xitoy-investitsiya-loyihalari",
-      "stems": [
-        "delegatsiya",
-        "loyiha",
-        "xitoy",
-        "shahr",
-        "investitsiya",
-        "kel"
-      ],
-      "posted_at": 1789620606.7068021
-    },
-    {
-      "title": "Olmaliqda hokim o'rinbosari boshchiligida fuqarolar qabuli o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda hokim orinbosari boshchiligida fuqarolar qabuli otkazildi",
-      "topic_key": "olmaliq-fuqarolar-qabuli",
-      "stems": [
-        "boshch",
-        "qabul",
-        "rinbosar",
-        "fuqaro",
-        "tkazil",
-        "hokim"
-      ],
-      "posted_at": 1790623681.1438656
-    },
     {
       "title": "Toshkentda yangi istirohat bog'i barpo etiladi",
       "summary": "",
@@ -5922,6 +5868,63 @@
         "quvch"
       ],
       "posted_at": 1792314963.899336
+    },
+    {
+      "title": "Prezident Shavkat Mirziyoyev Samarqand viloyatiga tashrif buyuradi",
+      "summary": "Davlat rahbari bugun Samarqanddagi transport va shaharsozlik loyihalari bilan tanishadi hamda 19-oktabr kuni Amerika – O‘zbekiston ishbilarmonlik kengashi yig‘ilishida ishtirok etadi.",
+      "norm_title": "prezident shavkat mirziyoyev samarqand viloyatiga tashrif buyuradi",
+      "topic_key": "prezident-samarqand-tashrif",
+      "stems": [
+        "prezident",
+        "shavkat",
+        "tashrif",
+        "buyur",
+        "mirziyoyev",
+        "samarqand"
+      ],
+      "posted_at": 1792329640.1775646
+    },
+    {
+      "title": "3-oilaviy poliklinikada ta'mirlash ishlari yakunlanmoqda",
+      "summary": "Olmaliq shahar hokimi o'rinbosari 3-oilaviy poliklinikadagi ta'mirlash ishlarini ko'zdan kechirdi. Mas'ullarga aniqlangan kamchiliklarni bartaraf etib, obyektni foydalanishga topshirish bo'yicha ko'rsatmalar berildi.",
+      "norm_title": "3oilaviy poliklinikada tamirlash ishlari yakunlanmoqda",
+      "topic_key": "3-poliklinika-tamirlash-ishlari",
+      "stems": [
+        "polikl",
+        "mirlash",
+        "ish",
+        "oilaviy",
+        "yakunlan"
+      ],
+      "posted_at": 1792329653.5165625
+    },
+    {
+      "title": "Prezident Imom Buxoriy maqbarasini ziyorat qildi",
+      "summary": "Davlatimiz rahbari Imom Buxoriy majmuasida bo'lib, ziyoratni amalga oshirdi.",
+      "norm_title": "prezident imom buxoriy maqbarasini ziyorat qildi",
+      "topic_key": "prezident-imom-buxoriy-ziyorati",
+      "stems": [
+        "prezident",
+        "imom",
+        "buxoriy",
+        "maqbara",
+        "qil",
+        "ziyorat"
+      ],
+      "posted_at": 1792329734.1512284
+    },
+    {
+      "title": "Birinchi Prezident xotirasi yod etildi",
+      "summary": "Mamlakatimizda Birinchi Prezidentning xotirasi hurmat bilan yod etilib, uning porloq xotirasiga ehtizo ko'rsatildi.",
+      "norm_title": "birinchi prezident xotirasi yod etildi",
+      "topic_key": "birinchi-prezident-xotirasi",
+      "stems": [
+        "yod",
+        "birinch",
+        "xotira",
+        "prezident"
+      ],
+      "posted_at": 1792329747.9827597
     }
   ]
 }
