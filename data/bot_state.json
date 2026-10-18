@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85830,
-    "ao_agmk": 49623,
+    "olmaliqhayoti": 85835,
+    "ao_agmk": 49624,
     "olmaliqshaharpressa": 12695,
-    "olmaliq": 43397
+    "olmaliq": 43398
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2973,55 +2973,16 @@
     "olmaliqhayoti:85829": 1792254241.778356,
     "olmaliqhayoti:85830": 1792262293.3690767,
     "olmaliq:43396": 1792262303.577263,
-    "olmaliq:43397": 1792262311.4799044
+    "olmaliq:43397": 1792262311.4799044,
+    "olmaliqhayoti:85831": 1792299313.866439,
+    "olmaliqhayoti:85832": 1792299319.5871396,
+    "olmaliqhayoti:85833": 1792299330.1050994,
+    "olmaliqhayoti:85834": 1792299335.5709515,
+    "olmaliqhayoti:85835": 1792299347.803689,
+    "ao_agmk:49624": 1792299353.9459639,
+    "olmaliq:43398": 1792299357.315995
   },
   "posted_articles": [
-    {
-      "title": "Mahalliy vaqt: OKMK TV dasturining bugungi anonsi",
-      "summary": "",
-      "norm_title": "mahalliy vaqt okmk tv dasturining bugungi anonsi",
-      "topic_key": "mahalliy-vaqt-okmk-tv",
-      "stems": [
-        "bugung",
-        "okmk",
-        "vaqt",
-        "mahalliy",
-        "anon",
-        "dastur"
-      ],
-      "posted_at": 1789619329.9404979
-    },
-    {
-      "title": "OKMK vakillari GEOMIN-2026 xalqaro konferensiyasida qatnashdi",
-      "summary": "",
-      "norm_title": "okmk vakillari geomin2026 xalqaro konferensiyasida qatnashdi",
-      "topic_key": "okmk-geomin-2026-konferensiya",
-      "stems": [
-        "2026",
-        "okmk",
-        "vakil",
-        "qatnash",
-        "geomin",
-        "xalqaro",
-        "konferensiya"
-      ],
-      "posted_at": 1789619459.8939817
-    },
-    {
-      "title": "Barot Isroil bilan ijodiy uchrashuv bo'lib o'tadi",
-      "summary": "",
-      "norm_title": "barot isroil bilan ijodiy uchrashuv bolib otadi",
-      "topic_key": "barot-isroil-kitob-taqdimoti",
-      "stems": [
-        "barot",
-        "uchrashuv",
-        "ijodiy",
-        "isroil",
-        "tad",
-        "lib"
-      ],
-      "posted_at": 1789619481.7705688
-    },
     {
       "title": "3-MBFda barqaror ishlab chiqarish ta'minlanmoqda",
       "summary": "",
@@ -5913,6 +5874,50 @@
         "til"
       ],
       "posted_at": 1792262311.486634
+    },
+    {
+      "title": "Bu qishda O'zbekistonda elektr energiyasi rejasiz o'chmaydi",
+      "summary": "Energetika vazirligi qishda elektr ta'minotida rejasiz uzilishlar bo'lmasligini bildirdi. Faqat ta'mirlash va uskunani almashtirish vaqtida vaqtincha uzilishlar bo'lishi mumkin.",
+      "norm_title": "bu qishda ozbekistonda elektr energiyasi rejasiz ochmaydi",
+      "topic_key": "qishki-elektr-ta'minoti",
+      "stems": [
+        "qish",
+        "elektr",
+        "zbekiston",
+        "rejasiz",
+        "chma",
+        "energiya"
+      ],
+      "posted_at": 1792299319.5938416
+    },
+    {
+      "title": "Olmaliqdagi ikki ulkan kon 2030-yilgacha birlashadi",
+      "summary": "\"Kalmoqqir\" va \"Yoshlik\" konlari kengayib, 2030-yillar boshida uzunligi 9 km bo'lgan yagona konga aylanadi. Ushbu hududda 45 million tonna mis va 5000 tonnadan ortiq oltin zaxirasi mavjud.",
+      "norm_title": "olmaliqdagi ikki ulkan kon 2030yilgacha birlashadi",
+      "topic_key": "agmk-mis-konlari",
+      "stems": [
+        "birlash",
+        "2030",
+        "ulkan",
+        "yilgacha",
+        "ikk",
+        "kon"
+      ],
+      "posted_at": 1792299330.1119711
+    },
+    {
+      "title": "Ozbekistonliklar Ozarbayjonda imtiyozli davolanishi mumkin",
+      "summary": "Ozbekiston va Ozarbayjon kasaba uyushmalari sanatoriyalarga imtiyozli yollanmalar almashish hamda hamkorlikni kengaytirishni taklif etdi. Fuqarolar Naftaalan va Duzdog kabi mashhur maskanlarda davolanish imkoniyatiga ega boladi.",
+      "norm_title": "ozbekistonliklar ozarbayjonda imtiyozli davolanishi mumkin",
+      "topic_key": "ozarbayjon-sanatoriya-imtiyoz",
+      "stems": [
+        "ozarbayjon",
+        "imtiyozl",
+        "mumkin",
+        "ozbekiston",
+        "davolan"
+      ],
+      "posted_at": 1792299347.8116798
     }
   ]
 }
