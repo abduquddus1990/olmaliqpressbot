@@ -2,7 +2,7 @@
   "channel_pointers": {
     "olmaliqhayoti": 85841,
     "ao_agmk": 49624,
-    "olmaliqshaharpressa": 12709,
+    "olmaliqshaharpressa": 12710,
     "olmaliq": 43405
   },
   "processed_messages": {
@@ -2991,21 +2991,10 @@
     "olmaliqshaharpressa:12705": 1792329744.15936,
     "olmaliqshaharpressa:12709": 1792329747.9786015,
     "olmaliqhayoti:85841": 1792341401.6194024,
-    "olmaliq:43405": 1792341408.3502584
+    "olmaliq:43405": 1792341408.3502584,
+    "olmaliqshaharpressa:12710": 1792349822.0699692
   },
   "posted_articles": [
-    {
-      "title": "Toshkentda yangi istirohat bog'i barpo etiladi",
-      "summary": "",
-      "norm_title": "toshkentda yangi istirohat bogi barpo etiladi",
-      "topic_key": "toshkent-yashil-maskanlar",
-      "stems": [
-        "bog",
-        "istirohat",
-        "barpo"
-      ],
-      "posted_at": 1790623695.97646
-    },
     {
       "title": "AGMK axborot xizmatiga suxandon qabul qilinadi",
       "summary": "",
@@ -5927,6 +5916,18 @@
         "prezident"
       ],
       "posted_at": 1792329747.9827597
+    },
+    {
+      "title": "Olmaliq IIB kiberjinoyatlardan ogohlantiradi",
+      "summary": "Olmaliq shahar IIB fuqarolarni kiberfiribgarlikdan himoyalanish uchun Android qurilmalariga «APK Qo‘riqchi» ilovasini o‘rnatishga chaqirdi.",
+      "norm_title": "olmaliq iib kiberjinoyatlardan ogohlantiradi",
+      "topic_key": "iib-kiberxavfsizlik-apk-qoriqchi",
+      "stems": [
+        "kiberjinoyat",
+        "iib",
+        "ogohlantir"
+      ],
+      "posted_at": 1792349822.0739145
     }
   ]
 }
