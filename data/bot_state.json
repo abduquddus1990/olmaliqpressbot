@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85854,
-    "ao_agmk": 49652,
-    "olmaliqshaharpressa": 12735,
-    "olmaliq": 43436
+    "olmaliqhayoti": 85865,
+    "ao_agmk": 49657,
+    "olmaliqshaharpressa": 12747,
+    "olmaliq": 43439
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3027,50 +3027,19 @@
     "olmaliq:43421": 1792414933.1850932,
     "olmaliq:43422": 1792414940.472267,
     "olmaliq:43426": 1792414974.3692617,
-    "olmaliq:43436": 1792414979.7676258
+    "olmaliq:43436": 1792414979.7676258,
+    "olmaliqhayoti:85855": 1792437041.4852333,
+    "olmaliqhayoti:85865": 1792437046.5258732,
+    "ao_agmk:49657": 1792437050.7710254,
+    "olmaliqshaharpressa:12736": 1792437055.9881487,
+    "olmaliqshaharpressa:12737": 1792437067.1458814,
+    "olmaliqshaharpressa:12746": 1792437073.180026,
+    "olmaliqshaharpressa:12747": 1792437076.5519102,
+    "olmaliq:43437": 1792437083.6601207,
+    "olmaliq:43438": 1792437089.476995,
+    "olmaliq:43439": 1792437097.285059
   },
   "posted_articles": [
-    {
-      "title": "Kiberfiribgarlardan ogoh bo'ling",
-      "summary": "",
-      "norm_title": "kiberfiribgarlardan ogoh boling",
-      "topic_key": "kiberxavfsizlik-apk-firibgarlik",
-      "stems": [
-        "ogoh",
-        "kiberfiribgar",
-        "ling"
-      ],
-      "posted_at": 1790639753.9347863
-    },
-    {
-      "title": "Olmaliqda maktab o‘quvchilari uchun yo‘l harakati xavfsizligi darsi o‘tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda maktab oquvchilari uchun yol harakati xavfsizligi darsi otkazildi",
-      "topic_key": "yol-harakati-xavfsizligi-maktab",
-      "stems": [
-        "quvch",
-        "xavfsiz",
-        "maktab",
-        "tkazil",
-        "dar",
-        "harakat"
-      ],
-      "posted_at": 1790639762.1014497
-    },
-    {
-      "title": "Xalqaro mis assotsiatsiyasi delegatsiyasi AGMKda",
-      "summary": "",
-      "norm_title": "xalqaro mis assotsiatsiyasi delegatsiyasi agmkda",
-      "topic_key": "agmk-ica-tashrif",
-      "stems": [
-        "delegatsiya",
-        "assotsiatsiya",
-        "mis",
-        "xalqaro",
-        "agmk"
-      ],
-      "posted_at": 1790639784.079822
-    },
     {
       "title": "Jahon bozorida rangli metallar narxi yangilandi",
       "summary": "",
@@ -5971,6 +5940,47 @@
         "marixuana"
       ],
       "posted_at": 1792414907.433711
+    },
+    {
+      "title": "Olmaliq rahbarlari shahar o‘lkashunoslik muzeyida bo‘ldi",
+      "summary": "Hokim va prokuror muzey holati va eksponatlar saqlanishini ko‘zdan kechirib, uning faoliyatini takomillashtirish bo‘yicha vazifalarni belgiladi.",
+      "norm_title": "olmaliq rahbarlari shahar olkashunoslik muzeyida boldi",
+      "topic_key": "olmaliq-muzey-tashrif",
+      "stems": [
+        "ldi",
+        "muzey",
+        "lkashunos",
+        "rahbar"
+      ],
+      "posted_at": 1792437067.1502926
+    },
+    {
+      "title": "Olmaliq shahridagi \"Oydin\" dehqon bozori o'rganildi",
+      "summary": "Shahar rahbarlari \"Oydin\" dehqon bozoridagi savdo rastalarini tartibga solish va tadbirkorlar muammolarini o'rganish maqsadida o'rganish o'tkazdi.",
+      "norm_title": "olmaliq shahridagi oydin dehqon bozori organildi",
+      "topic_key": "oydin-bozor-organish",
+      "stems": [
+        "bozor",
+        "oydin",
+        "dehqon",
+        "rganil",
+        "shahr"
+      ],
+      "posted_at": 1792437073.184391
+    },
+    {
+      "title": "Inson hayotidagi eng og'ir yosh aniqlandi",
+      "summary": "Olimlarning aniqlashicha, inson o'zini eng baxtsiz va qoniqmagan his qiladigan davr 47 yoshga to'g'ri keladi, 50 yoshdan keyin esa baxt hissi qayta tiklana boshlaydi.",
+      "norm_title": "inson hayotidagi eng ogir yosh aniqlandi",
+      "topic_key": "orta-yosh-inqirozi-47-yosh",
+      "stems": [
+        "aniqlan",
+        "inson",
+        "eng",
+        "yosh",
+        "hayot"
+      ],
+      "posted_at": 1792437083.6649263
     }
   ]
 }
