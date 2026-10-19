@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85846,
-    "ao_agmk": 49639,
-    "olmaliqshaharpressa": 12713,
-    "olmaliq": 43408
+    "olmaliqhayoti": 85854,
+    "ao_agmk": 49652,
+    "olmaliqshaharpressa": 12735,
+    "olmaliq": 43436
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3009,107 +3009,27 @@
     "olmaliqshaharpressa:12713": 1792390075.4521654,
     "olmaliq:43406": 1792390079.7909706,
     "olmaliq:43407": 1792390082.388927,
-    "olmaliq:43408": 1792390085.1143317
+    "olmaliq:43408": 1792390085.1143317,
+    "olmaliqhayoti:85847": 1792414795.2147732,
+    "olmaliqhayoti:85848": 1792414805.9017742,
+    "olmaliqhayoti:85851": 1792414812.319026,
+    "olmaliqhayoti:85852": 1792414815.3308299,
+    "olmaliqhayoti:85853": 1792414820.693693,
+    "olmaliqhayoti:85854": 1792414841.1559098,
+    "ao_agmk:49640": 1792414854.9377205,
+    "ao_agmk:49645": 1792414866.8799417,
+    "ao_agmk:49649": 1792414878.3084676,
+    "ao_agmk:49652": 1792414890.2255101,
+    "olmaliqshaharpressa:12724": 1792414902.1974978,
+    "olmaliqshaharpressa:12735": 1792414907.4296877,
+    "olmaliq:43411": 1792414921.58371,
+    "olmaliq:43420": 1792414926.5451963,
+    "olmaliq:43421": 1792414933.1850932,
+    "olmaliq:43422": 1792414940.472267,
+    "olmaliq:43426": 1792414974.3692617,
+    "olmaliq:43436": 1792414979.7676258
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq quyuv-mexanika zavodida import o'rnini bosuvchi mahsulotlar tayyorlanmoqda",
-      "summary": "",
-      "norm_title": "olmaliq quyuvmexanika zavodida import ornini bosuvchi mahsulotlar tayyorlanmoqda",
-      "topic_key": "mahalliylashtirish-quyuv-mexanika",
-      "stems": [
-        "rni",
-        "bosuvch",
-        "import",
-        "tayyorlan",
-        "mahsulot",
-        "zavod",
-        "mexa",
-        "quyuv"
-      ],
-      "posted_at": 1790623928.926119
-    },
-    {
-      "title": "Olmaliqda shahar hokimligi mutasaddilari sayyor qabul o'tkazdi",
-      "summary": "",
-      "norm_title": "olmaliqda shahar hokimligi mutasaddilari sayyor qabul otkazdi",
-      "topic_key": "hokimlik-sayyor-qabuli",
-      "stems": [
-        "mutasad",
-        "sayyor",
-        "qabul",
-        "tkaz",
-        "hokim"
-      ],
-      "posted_at": 1790623992.1789868
-    },
-    {
-      "title": "O'qituvchi va tarbiyachilarga yangi javobgarlik belgilandi",
-      "summary": "",
-      "norm_title": "oqituvchi va tarbiyachilarga yangi javobgarlik belgilandi",
-      "topic_key": "oqituvchilarga-yangi-jarima",
-      "stems": [
-        "javobgar",
-        "qituvch",
-        "belgilan",
-        "tarbiyach"
-      ],
-      "posted_at": 1790624090.1753318
-    },
-    {
-      "title": "Yo'l bo'ylariga chiqindi savatlari o'rnatilmoqda",
-      "summary": "",
-      "norm_title": "yol boylariga chiqindi savatlari ornatilmoqda",
-      "topic_key": "yol-chiqindi-savatlari",
-      "stems": [
-        "savat",
-        "ylar",
-        "chiqin",
-        "rnat"
-      ],
-      "posted_at": 1790639574.508947
-    },
-    {
-      "title": "Toshkent viloyatida ichimlik suvi narxi oshadi",
-      "summary": "",
-      "norm_title": "toshkent viloyatida ichimlik suvi narxi oshadi",
-      "topic_key": "suv-tarifi-oshishi",
-      "stems": [
-        "osh",
-        "ichim",
-        "narx",
-        "suv"
-      ],
-      "posted_at": 1790639606.5040655
-    },
-    {
-      "title": "Maktab baholarini endi my.gov.uz orqali kuzatish mumkin",
-      "summary": "",
-      "norm_title": "maktab baholarini endi mygovuz orqali kuzatish mumkin",
-      "topic_key": "maktab-baholari-mygovuz",
-      "stems": [
-        "end",
-        "gov",
-        "kuzat",
-        "baho",
-        "maktab",
-        "mumkin"
-      ],
-      "posted_at": 1790639621.3213592
-    },
-    {
-      "title": "Olmaliq shahridagi ob-havo va namoz vaqtlari",
-      "summary": "",
-      "norm_title": "olmaliq shahridagi obhavo va namoz vaqtlari",
-      "topic_key": "olmaliq-ob-havo-vaqtlar",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt",
-        "havo"
-      ],
-      "posted_at": 1790639670.7972472
-    },
     {
       "title": "Kiberfiribgarlardan ogoh bo'ling",
       "summary": "",
@@ -5942,6 +5862,115 @@
         "hafta"
       ],
       "posted_at": 1792390057.455893
+    },
+    {
+      "title": "Oʻzbekiston doimiy aholisi 39,5 million kishidan oshdi",
+      "summary": "Milliy statistika qoʻmitasi maʼlumotiga koʻra, respublika aholisi bir yilda 692 ming kishiga koʻpayib, 39,5 milliondan oshdi. Toshkent viloyati aholisi esa 3,80 million kishini tashkil etdi.",
+      "norm_title": "oʻzbekiston doimiy aholisi 395 million kishidan oshdi",
+      "topic_key": "ozbekiston-aholi-soni-statistika",
+      "stems": [
+        "ahol",
+        "osh",
+        "ozbekiston",
+        "million",
+        "doimiy",
+        "kish"
+      ],
+      "posted_at": 1792414795.2185917
+    },
+    {
+      "title": "Farzandingiz baholarini my.gov.uz orqali kuzatib boring",
+      "summary": "Endi my.gov.uz portali yoki MyGov ilovasidagi 'Mening oilam' bo'limi orqali farzandingizning maktabdagi baholari va o'zlashtirish ko'rsatkichlarini onlayn bilib olishingiz mumkin.",
+      "norm_title": "farzandingiz baholarini mygovuz orqali kuzatib boring",
+      "topic_key": "mygov-maktab-baholar",
+      "stems": [
+        "kuzatib",
+        "baho",
+        "farzand",
+        "boring",
+        "gov"
+      ],
+      "posted_at": 1792414812.3231537
+    },
+    {
+      "title": "Pensiya hisoblashda ish haqi davrini 20 yilgacha uzaytirish taklif etilmoqda",
+      "summary": "O'zbekistonda pensiya miqdorini hisob-kitob qilishda inobatga olinadigan o'rtacha oylik ish haqi davrini amaldagi 5 yildan 20 yilgacha bosqichma-bosqich oshirish rejalashtirilmoqda.",
+      "norm_title": "pensiya hisoblashda ish haqi davrini 20 yilgacha uzaytirish taklif etilmoqda",
+      "topic_key": "pensiya-ish-haqi-davri",
+      "stems": [
+        "pensiya",
+        "davr",
+        "ish",
+        "haq",
+        "uzay",
+        "hisoblash",
+        "taklif",
+        "etil",
+        "yilgacha"
+      ],
+      "posted_at": 1792414841.1658516
+    },
+    {
+      "title": "Olmaliq KMKda kasaba uyushmasi bilimdonlari aniqlandi",
+      "summary": "O‘zbekiston kasaba uyushmalari kuni munosabati bilan AGMK faollari o‘rtasida o‘tkazilgan viktorinada Mis eritish zavodi vakili Sitora Xalturayeva g‘olib bo‘ldi.",
+      "norm_title": "olmaliq kmkda kasaba uyushmasi bilimdonlari aniqlandi",
+      "topic_key": "agmk-kasaba-uyushmasi-viktorina",
+      "stems": [
+        "kasaba",
+        "uyushma",
+        "aniqlan",
+        "bilimdon",
+        "kmk"
+      ],
+      "posted_at": 1792414854.9423277
+    },
+    {
+      "title": "AGMK avtomobil transporti boshqarmasida davlat tiliga bag'ishlangan seminar o'tkazildi",
+      "summary": "21-oktyabr — o'zbek tiliga davlat tili maqomi berilgan kun munosabati bilan AGMK Avtomobil transporti boshqarmasida ma'naviy-ma'rifiy seminar tashkil etildi. Unda davlat tilida ish yuritish madaniyati va rasmiy hujjatlarni savodli rasmiylashtirish masalalari muhokama qilindi.",
+      "norm_title": "agmk avtomobil transporti boshqarmasida davlat tiliga bagishlangan seminar otkazildi",
+      "topic_key": "agmk-davlat-tili-seminari",
+      "stems": [
+        "boshqarma",
+        "ishlan",
+        "transport",
+        "tkazil",
+        "agmk",
+        "avtomobil",
+        "til",
+        "davlat",
+        "bag",
+        "seminar"
+      ],
+      "posted_at": 1792414866.883998
+    },
+    {
+      "title": "Angrenda AGMK rahbariyati sayyor qabul o'tkazdi",
+      "summary": "AGMK rahbariyati Angren kon boshqarmasi xodimlari uchun sayyor qabul o'tkazib, ularning murojaat va muammolarini joyida o'rgandi.",
+      "norm_title": "angrenda agmk rahbariyati sayyor qabul otkazdi",
+      "topic_key": "agmk-angren-sayyor-qabul",
+      "stems": [
+        "rahbariyat",
+        "sayyor",
+        "tkaz",
+        "agmk",
+        "angren",
+        "qabul"
+      ],
+      "posted_at": 1792414878.3125687
+    },
+    {
+      "title": "Qibrayda 7 kg marixuana va pnevmatik qurol topildi",
+      "summary": "Toshkent viloyatining Qibray tumanida o‘tkazilgan tezkor tadbirda konteynerdan 7 kg marixuana giyohvandlik vositasi, pnevmatik qurol va patronlar ashyoviy dalil sifatida olindi.",
+      "norm_title": "qibrayda 7 kg marixuana va pnevmatik qurol topildi",
+      "topic_key": "qibray-giyohvandlik-qurol",
+      "stems": [
+        "qibray",
+        "qurol",
+        "pnevmatik",
+        "topil",
+        "marixuana"
+      ],
+      "posted_at": 1792414907.433711
     }
   ]
 }
