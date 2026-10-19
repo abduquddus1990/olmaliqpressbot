@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85841,
-    "ao_agmk": 49625,
-    "olmaliqshaharpressa": 12710,
-    "olmaliq": 43405
+    "olmaliqhayoti": 85846,
+    "ao_agmk": 49639,
+    "olmaliqshaharpressa": 12713,
+    "olmaliq": 43408
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -2993,56 +2993,25 @@
     "olmaliqhayoti:85841": 1792341401.6194024,
     "olmaliq:43405": 1792341408.3502584,
     "olmaliqshaharpressa:12710": 1792349822.0699692,
-    "ao_agmk:49625": 1792372050.9741096
+    "ao_agmk:49625": 1792372050.9741096,
+    "olmaliqhayoti:85842": 1792390004.9829721,
+    "olmaliqhayoti:85843": 1792390014.1344187,
+    "olmaliqhayoti:85844": 1792390017.971811,
+    "olmaliqhayoti:85845": 1792390025.6186473,
+    "olmaliqhayoti:85846": 1792390025.6295624,
+    "ao_agmk:49626": 1792390035.2400005,
+    "ao_agmk:49632": 1792390038.3068213,
+    "ao_agmk:49633": 1792390047.2143393,
+    "ao_agmk:49637": 1792390053.8814285,
+    "ao_agmk:49638": 1792390057.4500463,
+    "ao_agmk:49639": 1792390065.9111862,
+    "olmaliqshaharpressa:12712": 1792390071.3920465,
+    "olmaliqshaharpressa:12713": 1792390075.4521654,
+    "olmaliq:43406": 1792390079.7909706,
+    "olmaliq:43407": 1792390082.388927,
+    "olmaliq:43408": 1792390085.1143317
   },
   "posted_articles": [
-    {
-      "title": "Rux zavodida ma'naviy-ma'rifiy tadbir tashkil etildi",
-      "summary": "",
-      "norm_title": "rux zavodida manaviymarifiy tadbir tashkil etildi",
-      "topic_key": "rux-zavodi-manaviyat-soati",
-      "stems": [
-        "tadbir",
-        "zavod",
-        "naviy",
-        "tashkil",
-        "rifiy",
-        "rux"
-      ],
-      "posted_at": 1790623752.0535073
-    },
-    {
-      "title": "Jahon birjasida rangli metallar narxi ko'tarildi",
-      "summary": "",
-      "norm_title": "jahon birjasida rangli metallar narxi kotarildi",
-      "topic_key": "lme-rangli-metallar",
-      "stems": [
-        "birja",
-        "taril",
-        "jahon",
-        "metal",
-        "rangl",
-        "narx"
-      ],
-      "posted_at": 1790623765.5388653
-    },
-    {
-      "title": "OKMK korxonalarida xotin-qizlar huquqlari va gender tengligi o'rganilmoqda",
-      "summary": "",
-      "norm_title": "okmk korxonalarida xotinqizlar huquqlari va gender tengligi organilmoqda",
-      "topic_key": "okmk-gender-tenglik",
-      "stems": [
-        "xotin",
-        "gender",
-        "okmk",
-        "rgan",
-        "qiz",
-        "huquq",
-        "teng",
-        "korxona"
-      ],
-      "posted_at": 1790623869.9261866
-    },
     {
       "title": "Olmaliq quyuv-mexanika zavodida import o'rnini bosuvchi mahsulotlar tayyorlanmoqda",
       "summary": "",
@@ -5930,6 +5899,49 @@
         "qil"
       ],
       "posted_at": 1792372050.9811342
+    },
+    {
+      "title": "O'zbekiston va AQSH munosabatlaridagi 11 yillik o'zgarishlar",
+      "summary": "AQSH Davlat kotibining Samarqandga tashrifi doirasida 200 dan ortiq Amerika kompaniyalari vakillari kelishi va asosiy e'tibor investitsiyaviy hamkorlikka qaratilishi kutilmoqda.",
+      "norm_title": "ozbekiston va aqsh munosabatlaridagi 11 yillik ozgarishlar",
+      "topic_key": "uzbekiston-aqsh-munosabatlari",
+      "stems": [
+        "aqsh",
+        "zgar",
+        "munosabat",
+        "zbekiston"
+      ],
+      "posted_at": 1792390004.9886932
+    },
+    {
+      "title": "Shavkat Mirziyoyev Islom Karimov xotirasiga hurmat bajo keltirdi",
+      "summary": "Davlat rahbari Samarqanddagi Hazrati Hizr majmuasini ziyaret etib, Birinchi Prezident Islom Karimov maqbarasiga gul qo'ydi hamda duolar qilindi.",
+      "norm_title": "shavkat mirziyoyev islom karimov xotirasiga hurmat bajo keltirdi",
+      "topic_key": "islom-karimov-xotirasi",
+      "stems": [
+        "keltir",
+        "hurmat",
+        "bajo",
+        "shavkat",
+        "mirziyoyev",
+        "islom",
+        "karimov",
+        "xotira"
+      ],
+      "posted_at": 1792390047.219798
+    },
+    {
+      "title": "AGMK haftalik yangiliklar dayjesti",
+      "summary": "Olmaliq kon-metallurgiya kombinatida o'tgan hafta davomida yirik xustoxranilisho qurilishi, xalqaro hamkorlik, sport yutuqlari hamda isitish mavsumiga tayyorgarlik bo'yicha muhim tadbirlar amalga oshirildi.",
+      "norm_title": "agmk haftalik yangiliklar dayjesti",
+      "topic_key": "agmk-haftalik-dayjest",
+      "stems": [
+        "agmk",
+        "dayjest",
+        "yang",
+        "hafta"
+      ],
+      "posted_at": 1792390057.455893
     }
   ]
 }
