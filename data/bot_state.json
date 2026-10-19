@@ -1,7 +1,7 @@
 {
   "channel_pointers": {
     "olmaliqhayoti": 85841,
-    "ao_agmk": 49624,
+    "ao_agmk": 49625,
     "olmaliqshaharpressa": 12710,
     "olmaliq": 43405
   },
@@ -2992,24 +2992,10 @@
     "olmaliqshaharpressa:12709": 1792329747.9786015,
     "olmaliqhayoti:85841": 1792341401.6194024,
     "olmaliq:43405": 1792341408.3502584,
-    "olmaliqshaharpressa:12710": 1792349822.0699692
+    "olmaliqshaharpressa:12710": 1792349822.0699692,
+    "ao_agmk:49625": 1792372050.9741096
   },
   "posted_articles": [
-    {
-      "title": "AGMK axborot xizmatiga suxandon qabul qilinadi",
-      "summary": "",
-      "norm_title": "agmk axborot xizmatiga suxandon qabul qilinadi",
-      "topic_key": "agmk-bosh-ish-orinlari",
-      "stems": [
-        "axborot",
-        "suxandon",
-        "qabul",
-        "qilin",
-        "agmk",
-        "xizmat"
-      ],
-      "posted_at": 1790623735.659827
-    },
     {
       "title": "Rux zavodida ma'naviy-ma'rifiy tadbir tashkil etildi",
       "summary": "",
@@ -5928,6 +5914,22 @@
         "ogohlantir"
       ],
       "posted_at": 1792349822.0739145
+    },
+    {
+      "title": "Marko Rubio Samarqanddagi muzokaralarda qanday masalalarni muhokama qiladi",
+      "summary": "AQSH delegatsiyasi Samarqandda o'tkaziladigan 'C5+1' sammitida investitsiyalar, nodir metallar hamkorligi, mintaqaviy xavfsizlik va biznes aloqalarini kengaytirish masalalarini ko'rib chiqadi.",
+      "norm_title": "marko rubio samarqanddagi muzokaralarda qanday masalalarni muhokama qiladi",
+      "topic_key": "marko-rubio-samarqand-tashrifi",
+      "stems": [
+        "muzokara",
+        "masala",
+        "rubio",
+        "marko",
+        "qanday",
+        "samarqand",
+        "qil"
+      ],
+      "posted_at": 1792372050.9811342
     }
   ]
 }
