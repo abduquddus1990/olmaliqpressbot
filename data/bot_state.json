@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85886,
-    "ao_agmk": 49703,
-    "olmaliqshaharpressa": 12768,
-    "olmaliq": 43454
+    "olmaliqhayoti": 85896,
+    "ao_agmk": 49706,
+    "olmaliqshaharpressa": 12775,
+    "olmaliq": 43464
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3065,68 +3065,18 @@
     "ao_agmk:49699": 1792495762.5219824,
     "ao_agmk:49703": 1792495764.1128058,
     "olmaliq:43453": 1792495775.9704952,
-    "olmaliq:43454": 1792495819.3288538
+    "olmaliq:43454": 1792495819.3288538,
+    "olmaliqhayoti:85887": 1792511050.979952,
+    "olmaliqhayoti:85888": 1792511050.9932573,
+    "olmaliqhayoti:85889": 1792511138.8938057,
+    "olmaliqhayoti:85896": 1792511155.984879,
+    "ao_agmk:49706": 1792511199.9993584,
+    "olmaliqshaharpressa:12775": 1792511203.424604,
+    "olmaliq:43462": 1792511203.8662276,
+    "olmaliq:43463": 1792511238.3412158,
+    "olmaliq:43464": 1792511292.1753142
   },
   "posted_articles": [
-    {
-      "title": "Politexnikumda yoshlar bilan profilaktik uchrashuv o'tkazildi",
-      "summary": "",
-      "norm_title": "politexnikumda yoshlar bilan profilaktik uchrashuv otkazildi",
-      "topic_key": "politexnikum-yoshlar-muloqoti",
-      "stems": [
-        "uchrashuv",
-        "yosh",
-        "profilaktik",
-        "politexnikum",
-        "tkazil"
-      ],
-      "posted_at": 1790639893.000842
-    },
-    {
-      "title": "Olmaliqda sayyor sud majlisi o'tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda sayyor sud majlisi otkazildi",
-      "topic_key": "sayyor-sud-probatsiya",
-      "stems": [
-        "majl",
-        "tkazil",
-        "sayyor",
-        "sud"
-      ],
-      "posted_at": 1790639899.697836
-    },
-    {
-      "title": "Olmaliqda jamoat transporti isloh qilinadi va Damas qatnovi to'xtatiladi",
-      "summary": "",
-      "norm_title": "olmaliqda jamoat transporti isloh qilinadi va damas qatnovi toxtatiladi",
-      "topic_key": "olmaliq-jamoat-transporti",
-      "stems": [
-        "transport",
-        "isloh",
-        "qilin",
-        "xtat",
-        "damas",
-        "qatnov",
-        "jamoat"
-      ],
-      "posted_at": 1790639906.4058743
-    },
-    {
-      "title": "Ohangaronda 83,5 ming dollar pora olgan pudratchi ushlandi",
-      "summary": "",
-      "norm_title": "ohangaronda 835 ming dollar pora olgan pudratchi ushlandi",
-      "topic_key": "ohangaron-pudratchi-pora",
-      "stems": [
-        "pora",
-        "olgan",
-        "ushlan",
-        "dol",
-        "ohangaron",
-        "ming",
-        "pudratch"
-      ],
-      "posted_at": 1790672834.596589
-    },
     {
       "title": "Yangi Toshkent aeroporti qurilishi sababli 7 ta qabriston ko'chiriladi",
       "summary": "",
@@ -6006,6 +5956,63 @@
         "tush"
       ],
       "posted_at": 1792495748.4923673
+    },
+    {
+      "title": "Olmaliq shahar rahbarlarining sayyor qabullar jadvali e'lon qilindi",
+      "summary": "Olmaliq shahar hokimi va uning o'rinbosarlari fuqarolarning murojaatlarini tinglash uchun 4-chorakda hududlarda rejali sayyor qabullar o'tkazadi.",
+      "norm_title": "olmaliq shahar rahbarlarining sayyor qabullar jadvali elon qilindi",
+      "topic_key": "olmaliq-hokim-sayyor-qabul",
+      "stems": [
+        "sayyor",
+        "qabul",
+        "jadval",
+        "rahbar",
+        "lon"
+      ],
+      "posted_at": 1792511138.90066
+    },
+    {
+      "title": "Is gazidan ehtiyot bo'ling",
+      "summary": "\"Hududgazta'minot\" is gazidan zaharlanishning oldini olish uchun morilarni muntazam tekshirish va gaz uskunalarini nazoratsiz qoldirmaslikni eslatmoqda.",
+      "norm_title": "is gazidan ehtiyot boling",
+      "topic_key": "is-gazi-xavfsizligi",
+      "stems": [
+        "ling",
+        "gaz",
+        "ehtiyot"
+      ],
+      "posted_at": 1792511155.9917345
+    },
+    {
+      "title": "Tanish-bilish orqali ish bitirmoqchi bo'lgan firibgarlarga ishonmang",
+      "summary": "AGMK va boshqa tashkilotlarda pul evaziga ishga kiritish yoki masalalarni hal qilishni va'da qiluvchi shaxslarga aldanmang. Shubhali holatlar haqida huquqni muhofaza qiluvchi organlarga xabar bering.",
+      "norm_title": "tanishbilish orqali ish bitirmoqchi bolgan firibgarlarga ishonmang",
+      "topic_key": "korrupsiya-firibgarlik-ogohlantirish",
+      "stems": [
+        "bil",
+        "firibgar",
+        "ish",
+        "ishonmang",
+        "bitirmoqch",
+        "tan",
+        "lgan"
+      ],
+      "posted_at": 1792511200.006529
+    },
+    {
+      "title": "O‘zbekistonda daromad va xarajatlar deklaratsiyasi joriy etilmoqda",
+      "summary": "Navoiy va Chirchiq shaharlarida yillik daromad va xarajatlarni majburiy deklaratsiya qilish bo‘yicha sinov loyihasi boshlandi. Deklaratsiya har yili 1-aprelgacha topshirilishi shart.",
+      "norm_title": "ozbekistonda daromad va xarajatlar deklaratsiyasi joriy etilmoqda",
+      "topic_key": "daromad-xarajat-deklaratsiya",
+      "stems": [
+        "xarajat",
+        "etil",
+        "zbekiston",
+        "deklaratsiya",
+        "daromad",
+        "joriy"
+      ],
+      "posted_at": 1792511238.3483124
     }
   ]
 }
