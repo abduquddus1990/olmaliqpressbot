@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85896,
+    "olmaliqhayoti": 85897,
     "ao_agmk": 49706,
     "olmaliqshaharpressa": 12775,
     "olmaliq": 43464
@@ -3074,22 +3074,10 @@
     "olmaliqshaharpressa:12775": 1792511203.424604,
     "olmaliq:43462": 1792511203.8662276,
     "olmaliq:43463": 1792511238.3412158,
-    "olmaliq:43464": 1792511292.1753142
+    "olmaliq:43464": 1792511292.1753142,
+    "olmaliqhayoti:85897": 1792525089.8041956
   },
   "posted_articles": [
-    {
-      "title": "Yangi Toshkent aeroporti qurilishi sababli 7 ta qabriston ko'chiriladi",
-      "summary": "",
-      "norm_title": "yangi toshkent aeroporti qurilishi sababli 7 ta qabriston kochiriladi",
-      "topic_key": "aeroport-qabriston-kochirish",
-      "stems": [
-        "chir",
-        "aeroport",
-        "qur",
-        "qabriston"
-      ],
-      "posted_at": 1790672843.8619967
-    },
     {
       "title": "Sūfi Olloyor mahallasida aholi uchun chuqurlashtirilgan tibbiy ko'rik o'tkazildi",
       "summary": "",
@@ -6013,6 +6001,21 @@
         "joriy"
       ],
       "posted_at": 1792511238.3483124
+    },
+    {
+      "title": "Olmaliq shahridagi ob-havo, namoz vaqtlari va valyuta kurslari",
+      "summary": "Olmaliqda bugun kunduzi havo harorati +21°C gacha isiydi, yog'ingarchilik kutilmaydi. AQSh dollari kursi 12044.72 so'mni tashkil etmoqda.",
+      "norm_title": "olmaliq shahridagi obhavo namoz vaqtlari va valyuta kurslari",
+      "topic_key": "olmaliq-ob-havo-valyuta",
+      "stems": [
+        "namoz",
+        "vaqt",
+        "shahr",
+        "havo",
+        "valyuta",
+        "kurs"
+      ],
+      "posted_at": 1792525089.811439
     }
   ]
 }
