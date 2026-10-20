@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85872,
-    "ao_agmk": 49685,
+    "olmaliqhayoti": 85886,
+    "ao_agmk": 49703,
     "olmaliqshaharpressa": 12768,
-    "olmaliq": 43450
+    "olmaliq": 43454
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3052,84 +3052,22 @@
     "olmaliqshaharpressa:12758": 1792476612.288914,
     "olmaliqshaharpressa:12768": 1792476622.8825257,
     "olmaliq:43449": 1792476640.9376442,
-    "olmaliq:43450": 1792476651.5462656
+    "olmaliq:43450": 1792476651.5462656,
+    "olmaliqhayoti:85873": 1792495676.7403572,
+    "olmaliqhayoti:85874": 1792495684.022121,
+    "olmaliqhayoti:85876": 1792495692.1848903,
+    "olmaliqhayoti:85877": 1792495699.1122007,
+    "olmaliqhayoti:85878": 1792495719.6606274,
+    "olmaliqhayoti:85886": 1792495733.2050228,
+    "ao_agmk:49692": 1792495743.9682038,
+    "ao_agmk:49697": 1792495748.485523,
+    "ao_agmk:49698": 1792495756.9534042,
+    "ao_agmk:49699": 1792495762.5219824,
+    "ao_agmk:49703": 1792495764.1128058,
+    "olmaliq:43453": 1792495775.9704952,
+    "olmaliq:43454": 1792495819.3288538
   },
   "posted_articles": [
-    {
-      "title": "OKMK TVda Mahalliy vaqt dasturi anonsi",
-      "summary": "",
-      "norm_title": "okmk tvda mahalliy vaqt dasturi anonsi",
-      "topic_key": "okmk-tv-mahalliy-vaqt",
-      "stems": [
-        "okmk",
-        "tvda",
-        "vaqt",
-        "mahalliy",
-        "anon",
-        "dastur"
-      ],
-      "posted_at": 1790639841.9145918
-    },
-    {
-      "title": "Barot Isroil bilan ijodiy uchrashuv bo'lib o'tadi",
-      "summary": "",
-      "norm_title": "barot isroil bilan ijodiy uchrashuv bolib otadi",
-      "topic_key": "barot-isroil-kitob-taqdimoti",
-      "stems": [
-        "barot",
-        "uchrashuv",
-        "ijodiy",
-        "isroil",
-        "tad",
-        "lib"
-      ],
-      "posted_at": 1790639847.9389865
-    },
-    {
-      "title": "Prezident Qoraqalpog'istonda yangi loyihalarni ishga tushirdi",
-      "summary": "",
-      "norm_title": "prezident qoraqalpogistonda yangi loyihalarni ishga tushirdi",
-      "topic_key": "prezident-qoraqalpogiston-tashrif",
-      "stems": [
-        "prezident",
-        "ish",
-        "iston",
-        "loyiha",
-        "qoraqalpog",
-        "tushir"
-      ],
-      "posted_at": 1790639867.3578565
-    },
-    {
-      "title": "Olmaliqning investitsiyaviy salohiyati Xitoyda namoyish etildi",
-      "summary": "",
-      "norm_title": "olmaliqning investitsiyaviy salohiyati xitoyda namoyish etildi",
-      "topic_key": "olmaliq-xitoy-investitsiya",
-      "stems": [
-        "xitoy",
-        "investitsiyaviy",
-        "namoy",
-        "salohiyat"
-      ],
-      "posted_at": 1790639878.7653034
-    },
-    {
-      "title": "Al-Baraka savdo majmuasi ishi bo'yicha rasmiy munosabat bildirildi",
-      "summary": "",
-      "norm_title": "albaraka savdo majmuasi ishi boyicha rasmiy munosabat bildirildi",
-      "topic_key": "al-baraka-savdo-majmuasi-hokimlik",
-      "stems": [
-        "bara",
-        "munosabat",
-        "rasmiy",
-        "ish",
-        "bildiril",
-        "savdo",
-        "yicha",
-        "majmua"
-      ],
-      "posted_at": 1790639884.8683064
-    },
     {
       "title": "Politexnikumda yoshlar bilan profilaktik uchrashuv o'tkazildi",
       "summary": "",
@@ -5996,6 +5934,78 @@
         "kuchl"
       ],
       "posted_at": 1792476640.9444818
+    },
+    {
+      "title": "Pensiya tayinlash tizimi o'zgaradi",
+      "summary": "2027 yil 1 yanvardan Pensiya jamg'armasi va G'aznachilikning tuman bo'limlari tugatilib, kichik o'lchamdagi ofislar tashkil etiladi. Yangi tartib joriy yil oxirida ayrim hududlarda sinovdan o'tkaziladi.",
+      "norm_title": "pensiya tayinlash tizimi ozgaradi",
+      "topic_key": "pensiya-tayinlash-tizimi",
+      "stems": [
+        "tayinlash",
+        "pensiya",
+        "tizim",
+        "zgar"
+      ],
+      "posted_at": 1792495684.1350226
+    },
+    {
+      "title": "Google Pay xizmati O'zbekistonda ishga tushdi",
+      "summary": "O'zbekistonda Google Pay to'lov xizmati rasman ishga tushdi. Fuqarolar Android va NFC yordamida telefon orqali kontaktsiz to'lov qilishlari mumkin, biroq buning uchun mahalliy banklar ham tizimni qo'llab-quvvatlashi kerak.",
+      "norm_title": "google pay xizmati ozbekistonda ishga tushdi",
+      "topic_key": "google-pay-uzbekistan",
+      "stems": [
+        "zbekiston",
+        "google",
+        "xizmat",
+        "tush",
+        "ish",
+        "pay"
+      ],
+      "posted_at": 1792495699.1211312
+    },
+    {
+      "title": "Olmaliq ta'lim bo'limi va gazetasi o'rtasida memorandum imzolandi",
+      "summary": "Olmaliq shahar Maktabgacha va maktab ta'limi bo'limi hamda \"Olmaliq hayoti\" gazetasi tahririyati o'zaro hamkorlik memorandumini imzoladi. Unga ko'ra, ta'limdagi yangiliklar, qo'shma media loyihalar va iqtidorli o'quvchilar ijodini keng yoritish ko'zda tutilgan.",
+      "norm_title": "olmaliq talim bolimi va gazetasi ortasida memorandum imzolandi",
+      "topic_key": "ta'lim-va-matbuot-hamkorligi",
+      "stems": [
+        "rta",
+        "imzolan",
+        "memorandum",
+        "lim",
+        "gazeta"
+      ],
+      "posted_at": 1792495719.667545
+    },
+    {
+      "title": "O'zbekistonda mikroelektronika bo'yicha mutaxassislar tayyorlanadi",
+      "summary": "Kambag'allikni qisqartirish va bandlik vazirligi hamda Malayziyaning PSDC markazi hamkorligida mikroelektronika bo'yicha o'quv markazlari tashkil etiladi. Fuqarolar \"Kasb vaucheri\" tizimi orqali zamonaviy kasblarni egallash imkoniga ega bo'lishadi.",
+      "norm_title": "ozbekistonda mikroelektronika boyicha mutaxassislar tayyorlanadi",
+      "topic_key": "mikroelektronika-mutaxassislar-tayyorlash",
+      "stems": [
+        "zbekiston",
+        "mutaxassis",
+        "yicha",
+        "tayyorlan",
+        "mikroelektro"
+      ],
+      "posted_at": 1792495733.2118535
+    },
+    {
+      "title": "O'zbekiston kubogi: OKMK 'Guliston'ga qarshi maydonga tushadi",
+      "summary": "Bugun, 20-oktabr kuni soat 18:30 da 'OKMK SM' stadionida O'zbekiston kubogining 1/4 final uchrashuvi bo'lib o'tadi. Muxlislar uchun o'yinga kirish bepul.",
+      "norm_title": "ozbekiston kubogi okmk gulistonga qarshi maydonga tushadi",
+      "topic_key": "okmk-guliston-futbol",
+      "stems": [
+        "kubog",
+        "okmk",
+        "zbekiston",
+        "qarsh",
+        "maydon",
+        "guliston",
+        "tush"
+      ],
+      "posted_at": 1792495748.4923673
     }
   ]
 }
