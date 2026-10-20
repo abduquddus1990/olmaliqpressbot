@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85865,
-    "ao_agmk": 49657,
-    "olmaliqshaharpressa": 12747,
-    "olmaliq": 43448
+    "olmaliqhayoti": 85872,
+    "ao_agmk": 49685,
+    "olmaliqshaharpressa": 12768,
+    "olmaliq": 43450
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3038,39 +3038,23 @@
     "olmaliq:43437": 1792437083.6601207,
     "olmaliq:43438": 1792437089.476995,
     "olmaliq:43439": 1792437097.285059,
-    "olmaliq:43448": 1792459215.8671641
+    "olmaliq:43448": 1792459215.8671641,
+    "olmaliqhayoti:85866": 1792476477.0082562,
+    "olmaliqhayoti:85867": 1792476482.9299047,
+    "olmaliqhayoti:85868": 1792476489.3302937,
+    "olmaliqhayoti:85871": 1792476498.2850065,
+    "olmaliqhayoti:85872": 1792476498.64326,
+    "ao_agmk:49664": 1792476562.6984296,
+    "ao_agmk:49674": 1792476576.5465374,
+    "ao_agmk:49684": 1792476583.6666133,
+    "ao_agmk:49685": 1792476591.7464592,
+    "olmaliqshaharpressa:12755": 1792476601.2704225,
+    "olmaliqshaharpressa:12758": 1792476612.288914,
+    "olmaliqshaharpressa:12768": 1792476622.8825257,
+    "olmaliq:43449": 1792476640.9376442,
+    "olmaliq:43450": 1792476651.5462656
   },
   "posted_articles": [
-    {
-      "title": "Jahon bozorida rangli metallar narxi yangilandi",
-      "summary": "",
-      "norm_title": "jahon bozorida rangli metallar narxi yangilandi",
-      "topic_key": "rangli-metallar-narxi-lme",
-      "stems": [
-        "yangilan",
-        "jahon",
-        "bozor",
-        "metal",
-        "rangl",
-        "narx"
-      ],
-      "posted_at": 1790639802.3113067
-    },
-    {
-      "title": "Xotin-qizlar uchun innovatsion loyihalar tanlovi e'lon qilindi",
-      "summary": "",
-      "norm_title": "xotinqizlar uchun innovatsion loyihalar tanlovi elon qilindi",
-      "topic_key": "innovatsion-loyiha-tanlovi",
-      "stems": [
-        "xotin",
-        "innovatsion",
-        "qiz",
-        "loyiha",
-        "tanlov",
-        "lon"
-      ],
-      "posted_at": 1790639815.516491
-    },
     {
       "title": "OKMK TVda Mahalliy vaqt dasturi anonsi",
       "summary": "",
@@ -5982,6 +5966,36 @@
         "hayot"
       ],
       "posted_at": 1792437083.6649263
+    },
+    {
+      "title": "Amerika - O'zbekiston ishbilarmonlik kengashi yig'ilishi o'tdi",
+      "summary": "Prezident Shavkat Mirziyoyev ishtirokidagiikkinchi yig'ilishda hujjatlarni almashish marosimi bo'lib o'tdi.",
+      "norm_title": "amerika  ozbekiston ishbilarmonlik kengashi yigilishi otdi",
+      "topic_key": "aqsh-ozbekiston-investitsiya-kengashi",
+      "stems": [
+        "zbekiston",
+        "ishbilarmon",
+        "amer",
+        "yig",
+        "ilish",
+        "tdi",
+        "kengash"
+      ],
+      "posted_at": 1792476622.8894517
+    },
+    {
+      "title": "O‘zbekistonda kuchli magnit bo‘roni kutilmoqda",
+      "summary": "Bugun mamlakatimizda 5 ballik geomagnit bo‘roni kuzatilishi prognoz qilinmoqda. Mutaxassislar bu vaqtda bosh og‘rig‘i va salbiy ta'sirlar bo‘lishi mumkinligidan ogohlantirmoqda.",
+      "norm_title": "ozbekistonda kuchli magnit boroni kutilmoqda",
+      "topic_key": "magnit-boroni-ogohlantirish",
+      "stems": [
+        "zbekiston",
+        "kut",
+        "magnit",
+        "ron",
+        "kuchl"
+      ],
+      "posted_at": 1792476640.9444818
     }
   ]
 }
