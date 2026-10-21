@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85945,
-    "ao_agmk": 49739,
-    "olmaliqshaharpressa": 12779,
-    "olmaliq": 43491
+    "olmaliqhayoti": 85946,
+    "ao_agmk": 49740,
+    "olmaliqshaharpressa": 12782,
+    "olmaliq": 43502
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3112,23 +3112,15 @@
     "olmaliqshaharpressa:12779": 1792596726.1880913,
     "olmaliq:43482": 1792596744.4720423,
     "olmaliq:43491": 1792596758.402976,
-    "ao_agmk:49739": 1792596796.1852632
+    "ao_agmk:49739": 1792596796.1852632,
+    "olmaliqhayoti:85946": 1792611015.6531394,
+    "ao_agmk:49740": 1792611020.1746554,
+    "olmaliqshaharpressa:12780": 1792611052.231248,
+    "olmaliqshaharpressa:12782": 1792611057.9228034,
+    "olmaliq:43501": 1792611061.3322098,
+    "olmaliq:43502": 1792611064.4345338
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahriga yangi mahallalar uyushmasi rahbari tayinlandi",
-      "summary": "",
-      "norm_title": "olmaliq shahriga yangi mahallalar uyushmasi rahbari tayinlandi",
-      "topic_key": "tayinlov-mahallalar-uyushmasi",
-      "stems": [
-        "mahalla",
-        "rahbar",
-        "uyushma",
-        "shahr",
-        "tayinlan"
-      ],
-      "posted_at": 1790696801.2942991
-    },
     {
       "title": "Olmaliq shahar hokimi o'rinbosari gorkov va g'assollar bilan uchrashdi",
       "summary": "",
@@ -6048,6 +6040,24 @@
         "avtomobilch"
       ],
       "posted_at": 1792596796.1896732
+    },
+    {
+      "title": "Olmaliqda yashayotgan rus millatiga mansub onaxon o'zbek tilini mukammal o'rgandi",
+      "summary": "Rossiyada tug'ilib, 50 yildan buyon Olmaliqda yashayotgan 70 yoshli Faniza Shakirova o'zbek tili, urf-odatlari va qadriyatlariga chuqur hurmat ko'rsatib kelmoqda.",
+      "norm_title": "olmaliqda yashayotgan rus millatiga mansub onaxon ozbek tilini mukammal organdi",
+      "topic_key": "faniza-shakirova-ozbek-tili",
+      "stems": [
+        "mansub",
+        "millat",
+        "yash",
+        "zbek",
+        "rus",
+        "til",
+        "onaxon",
+        "rgan",
+        "mukammal"
+      ],
+      "posted_at": 1792611052.236919
     }
   ]
 }
