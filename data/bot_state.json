@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85907,
-    "ao_agmk": 49708,
-    "olmaliqshaharpressa": 12775,
-    "olmaliq": 43466
+    "olmaliqhayoti": 85932,
+    "ao_agmk": 49724,
+    "olmaliqshaharpressa": 12777,
+    "olmaliq": 43481
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3083,66 +3083,24 @@
     "ao_agmk:49707": 1792560575.2920532,
     "ao_agmk:49708": 1792560581.5610209,
     "olmaliq:43465": 1792560598.0318651,
-    "olmaliq:43466": 1792560605.16549
+    "olmaliq:43466": 1792560605.16549,
+    "olmaliqhayoti:85915": 1792578531.0280356,
+    "olmaliqhayoti:85923": 1792578539.128398,
+    "olmaliqhayoti:85924": 1792578602.9990246,
+    "olmaliqhayoti:85932": 1792578618.5597456,
+    "ao_agmk:49709": 1792578620.3864424,
+    "ao_agmk:49711": 1792578620.399587,
+    "ao_agmk:49712": 1792578630.301733,
+    "ao_agmk:49720": 1792578647.8888001,
+    "ao_agmk:49723": 1792578650.6770656,
+    "ao_agmk:49724": 1792578651.0429356,
+    "olmaliqshaharpressa:12776": 1792578662.8519592,
+    "olmaliqshaharpressa:12777": 1792578671.5722442,
+    "olmaliq:43470": 1792578688.4428587,
+    "olmaliq:43479": 1792578694.0898762,
+    "olmaliq:43481": 1792578701.8435233
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda “Yangi O‘zbekiston ovozlari” ko‘rik-tanlovi g‘oliblari aniqlandi",
-      "summary": "",
-      "norm_title": "olmaliqda yangi ozbekiston ovozlari koriktanlovi goliblari aniqlandi",
-      "topic_key": "yangi-ozbekiston-ovozlari-tanlov",
-      "stems": [
-        "ovoz",
-        "olib",
-        "zbekiston",
-        "aniqlan",
-        "tanlov",
-        "rik"
-      ],
-      "posted_at": 1790672989.38003
-    },
-    {
-      "title": "Toshkentda avtobusda ayolga shilqimlik qilgan shaxs qamaldi",
-      "summary": "",
-      "norm_title": "toshkentda avtobusda ayolga shilqimlik qilgan shaxs qamaldi",
-      "topic_key": "avtobus-shilqimlik-qamoq",
-      "stems": [
-        "shaxs",
-        "qil",
-        "avtobus",
-        "ayol",
-        "qamal",
-        "shilqim"
-      ],
-      "posted_at": 1790673022.4625092
-    },
-    {
-      "title": "Olmaliq shahrining 18-sentabrdagi namoz vaqtlari",
-      "summary": "",
-      "norm_title": "olmaliq shahrining 18sentabrdagi namoz vaqtlari",
-      "topic_key": "olmaliq-namoz-vaqtlari",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt",
-        "sentabr"
-      ],
-      "posted_at": 1790673041.1818018
-    },
-    {
-      "title": "Olmaliq shahrida xotin-qizlar bilan ishlash tizimi o'rganildi",
-      "summary": "",
-      "norm_title": "olmaliq shahrida xotinqizlar bilan ishlash tizimi organildi",
-      "topic_key": "xotin-qizlar-balansi-olmaliq",
-      "stems": [
-        "xotin",
-        "qiz",
-        "rganil",
-        "tizim",
-        "ishlash"
-      ],
-      "posted_at": 1790696637.5420036
-    },
     {
       "title": "Olmaliqda kiberjinoyatchilikka qarshi targ‘ibot tadbiri o‘tkazildi",
       "summary": "",
@@ -6021,6 +5979,64 @@
         "vazir"
       ],
       "posted_at": 1792560605.1711826
+    },
+    {
+      "title": "Olmaliqda hokim va mas'ullar tadbirkorlar bilan uchrashdi",
+      "summary": "Olmaliq shahar hokimi Barhayot Meliyev boshchiligida 12 nafar tadbirkor bilan uchrashuv o'tkazilib, yer, joy va kredit masalalaridagi murojaatlar nazoratga olindi.",
+      "norm_title": "olmaliqda hokim va masullar tadbirkorlar bilan uchrashdi",
+      "topic_key": "olmaliq-tadbirkorlar-qabuli",
+      "stems": [
+        "uchrash",
+        "tadbirkor",
+        "mas",
+        "hokim",
+        "ullar"
+      ],
+      "posted_at": 1792578531.0345507
+    },
+    {
+      "title": "Olmaliqda «Buvijonlar maktabi» faoliyati o'rganildi",
+      "summary": "Olmaliq shahridagi 3-sonli MTMda «Buvijonlar maktabi» faoliyati bilan tanishuv tadbiri bo'lib o'tdi. Unda yosh avlodni milliy qadriyatlar ruhida tarbiyalash masalalari muhokama qilindi.",
+      "norm_title": "olmaliqda buvijonlar maktabi faoliyati organildi",
+      "topic_key": "buvijonlar-maktabi-olmaliq",
+      "stems": [
+        "rganil",
+        "buvijon",
+        "faoliyat",
+        "maktab"
+      ],
+      "posted_at": 1792578603.0058362
+    },
+    {
+      "title": "Lotin yozuviga asoslangan o'zbek alifbosini takomillashtirish to'g'risidagi qonun imzolandi",
+      "summary": "Prezident lotin yozuvidagi o'zbek alifbosini takomillashtirishga oid qonunni imzoladi. Hujjatlarga o'zgartirish kiritilmaydi, amaldagi hujjatlar o'z kuchida qoladi va bosqichma-bosqich yangilanadi.",
+      "norm_title": "lotin yozuviga asoslangan ozbek alifbosini takomillashtirish togrisidagi qonun imzolandi",
+      "topic_key": "ozbek-alifbosi-qonuni",
+      "stems": [
+        "imzolan",
+        "takomillash",
+        "alifbo",
+        "qonun",
+        "yozuv",
+        "zbek",
+        "ris",
+        "asoslan",
+        "lotin"
+      ],
+      "posted_at": 1792578671.5798635
+    },
+    {
+      "title": "Toshkentda maxsus yo'laklar qoidabuzarligi uchun jarimalar boshlandi",
+      "summary": "Toshkent shahridagi kameralar avtobus va velosiped yo'laklarida harakatlangan hamda to'xtagan haydovchilarga nisbatan 440 ming so'mdan boshlab jarimalar yozishni boshladi.",
+      "norm_title": "toshkentda maxsus yolaklar qoidabuzarligi uchun jarimalar boshlandi",
+      "topic_key": "maxsus-yolvak-jarima-toshkent",
+      "stems": [
+        "lak",
+        "qoidabuzar",
+        "maxsus",
+        "jarima"
+      ],
+      "posted_at": 1792578694.0964715
     }
   ]
 }
