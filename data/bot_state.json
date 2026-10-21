@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85898,
-    "ao_agmk": 49706,
+    "olmaliqhayoti": 85907,
+    "ao_agmk": 49708,
     "olmaliqshaharpressa": 12775,
-    "olmaliq": 43464
+    "olmaliq": 43466
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3076,41 +3076,16 @@
     "olmaliq:43463": 1792511238.3412158,
     "olmaliq:43464": 1792511292.1753142,
     "olmaliqhayoti:85897": 1792525089.8041956,
-    "olmaliqhayoti:85898": 1792544217.1897962
+    "olmaliqhayoti:85898": 1792544217.1897962,
+    "olmaliqhayoti:85905": 1792560537.9941864,
+    "olmaliqhayoti:85906": 1792560559.7231152,
+    "olmaliqhayoti:85907": 1792560568.7833276,
+    "ao_agmk:49707": 1792560575.2920532,
+    "ao_agmk:49708": 1792560581.5610209,
+    "olmaliq:43465": 1792560598.0318651,
+    "olmaliq:43466": 1792560605.16549
   },
   "posted_articles": [
-    {
-      "title": "Sūfi Olloyor mahallasida aholi uchun chuqurlashtirilgan tibbiy ko'rik o'tkazildi",
-      "summary": "",
-      "norm_title": "sūfi olloyor mahallasida aholi uchun chuqurlashtirilgan tibbiy korik otkazildi",
-      "topic_key": "tibbiy-korik-sufi-olloyor",
-      "stems": [
-        "mahalla",
-        "ahol",
-        "tibbiy",
-        "sfi",
-        "chuqurlash",
-        "olloyor",
-        "rik",
-        "tkazil"
-      ],
-      "posted_at": 1790672899.9469671
-    },
-    {
-      "title": "Prezident Nukusdagi Coals KS korxonasiga tashrif buyurdi",
-      "summary": "",
-      "norm_title": "prezident nukusdagi coals ks korxonasiga tashrif buyurdi",
-      "topic_key": "prezident-nukus-tashrif",
-      "stems": [
-        "prezident",
-        "nukus",
-        "buyur",
-        "tashrif",
-        "korxona",
-        "coals"
-      ],
-      "posted_at": 1790672920.4409
-    },
     {
       "title": "Olmaliqda “Yangi O‘zbekiston ovozlari” ko‘rik-tanlovi g‘oliblari aniqlandi",
       "summary": "",
@@ -6017,6 +5992,35 @@
         "kurs"
       ],
       "posted_at": 1792525089.811439
+    },
+    {
+      "title": "IT sohasida yangi ish o'rinlari va o'qitish rejalari",
+      "summary": "O'zbekistonda 2030 yilgacha IT sohasida 500 mingta ish o'rni yaratilib, 5,5 million yoshni zamonaviy kasblarga o'qitish rejalashtirildi.",
+      "norm_title": "it sohasida yangi ish orinlari va oqitish rejalari",
+      "topic_key": "it-sohasi-rivoji",
+      "stems": [
+        "soha",
+        "reja",
+        "qit",
+        "rin",
+        "ish"
+      ],
+      "posted_at": 1792560568.7889638
+    },
+    {
+      "title": "Ta'lim va ilm-fan vaziriga yangi o'rinbosarlar tayinlandi",
+      "summary": "Ta'lim va ilm-fan vazirining birinchi o'rinbosari hamda o'rinbosarlari lavozimlariga yangi nomzodlar tasdiqlandi.",
+      "norm_title": "talim va ilmfan vaziriga yangi orinbosarlar tayinlandi",
+      "topic_key": "talim-vaziri-orinbosarlari",
+      "stems": [
+        "tayinlan",
+        "rinbosar",
+        "ilm",
+        "fan",
+        "lim",
+        "vazir"
+      ],
+      "posted_at": 1792560605.1711826
     }
   ]
 }
