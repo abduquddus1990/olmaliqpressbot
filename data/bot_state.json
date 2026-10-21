@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85932,
-    "ao_agmk": 49724,
-    "olmaliqshaharpressa": 12777,
-    "olmaliq": 43481
+    "olmaliqhayoti": 85945,
+    "ao_agmk": 49739,
+    "olmaliqshaharpressa": 12779,
+    "olmaliq": 43491
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3098,40 +3098,23 @@
     "olmaliqshaharpressa:12777": 1792578671.5722442,
     "olmaliq:43470": 1792578688.4428587,
     "olmaliq:43479": 1792578694.0898762,
-    "olmaliq:43481": 1792578701.8435233
+    "olmaliq:43481": 1792578701.8435233,
+    "olmaliqhayoti:85941": 1792596585.8351886,
+    "olmaliqhayoti:85942": 1792596585.8433864,
+    "olmaliqhayoti:85943": 1792596592.3678389,
+    "olmaliqhayoti:85944": 1792596601.286947,
+    "olmaliqhayoti:85945": 1792596608.875921,
+    "ao_agmk:49725": 1792596632.2847238,
+    "ao_agmk:49736": 1792596652.6251605,
+    "ao_agmk:49737": 1792596686.7426045,
+    "ao_agmk:49738": 1792596702.536199,
+    "olmaliqshaharpressa:12778": 1792596721.106613,
+    "olmaliqshaharpressa:12779": 1792596726.1880913,
+    "olmaliq:43482": 1792596744.4720423,
+    "olmaliq:43491": 1792596758.402976,
+    "ao_agmk:49739": 1792596796.1852632
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda kiberjinoyatchilikka qarshi targ‘ibot tadbiri o‘tkazildi",
-      "summary": "",
-      "norm_title": "olmaliqda kiberjinoyatchilikka qarshi targibot tadbiri otkazildi",
-      "topic_key": "kiberjinoyatchilikka-qarshi-targibot",
-      "stems": [
-        "ibot",
-        "tadbir",
-        "qarsh",
-        "targ",
-        "tkazil",
-        "kiberjinoyatch"
-      ],
-      "posted_at": 1790696759.5954628
-    },
-    {
-      "title": "Olmaliq shahar IIB boshlig'ining sayyor qabuli bo'lib o'tadi",
-      "summary": "",
-      "norm_title": "olmaliq shahar iib boshligining sayyor qabuli bolib otadi",
-      "topic_key": "iib-sayyor-qabul",
-      "stems": [
-        "sayyor",
-        "iib",
-        "ining",
-        "qabul",
-        "tad",
-        "boshlig",
-        "lib"
-      ],
-      "posted_at": 1790696793.5290499
-    },
     {
       "title": "Olmaliq shahriga yangi mahallalar uyushmasi rahbari tayinlandi",
       "summary": "",
@@ -6037,6 +6020,34 @@
         "jarima"
       ],
       "posted_at": 1792578694.0964715
+    },
+    {
+      "title": "OKMKning xorijiy mutaxassislari o‘zbek tilida tabrik yo‘llashdi",
+      "summary": "OKMKning 3- va 4-Mis boyitish fabrikalari loyiha ofisida ishlayotgan xorijiy mutaxassislar o‘zbek tili munosabati bilan samimiy tabrik yo‘llashdi.",
+      "norm_title": "okmkning xorijiy mutaxassislari ozbek tilida tabrik yollashdi",
+      "topic_key": "okmk-xorijiy-mutaxassislar-tabrigi",
+      "stems": [
+        "til",
+        "xorijiy",
+        "mutaxassis",
+        "llash",
+        "tabrik",
+        "zbek",
+        "okmk"
+      ],
+      "posted_at": 1792596702.5405662
+    },
+    {
+      "title": "OKMKda Avtomobilchilar kuni nishonlanadi",
+      "summary": "Olmaliq shahridagi \"Oltin\" MFY hududida Avtomobilchilar kuniga bag'ishlangan bayram sayli bo'lib o'tadi.",
+      "norm_title": "okmkda avtomobilchilar kuni nishonlanadi",
+      "topic_key": "okmk-avtomobilchilar-kuni",
+      "stems": [
+        "okmk",
+        "nishonlan",
+        "avtomobilch"
+      ],
+      "posted_at": 1792596796.1896732
     }
   ]
 }
