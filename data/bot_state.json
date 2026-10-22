@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85951,
-    "ao_agmk": 49745,
-    "olmaliqshaharpressa": 12788,
-    "olmaliq": 43516
+    "olmaliqhayoti": 85965,
+    "ao_agmk": 49760,
+    "olmaliqshaharpressa": 12791,
+    "olmaliq": 43520
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3138,94 +3138,22 @@
     "olmaliqshaharpressa:12787": 1792665111.9090912,
     "olmaliqshaharpressa:12788": 1792665120.7039957,
     "olmaliq:43507": 1792665132.3322804,
-    "olmaliq:43516": 1792665138.376543
+    "olmaliq:43516": 1792665138.376543,
+    "olmaliqhayoti:85954": 1792683112.7209227,
+    "olmaliqhayoti:85962": 1792683129.8562174,
+    "olmaliqhayoti:85963": 1792683155.882576,
+    "olmaliqhayoti:85964": 1792683162.1600506,
+    "olmaliqhayoti:85965": 1792683199.6545808,
+    "ao_agmk:49755": 1792683208.8344622,
+    "ao_agmk:49760": 1792683217.7950478,
+    "olmaliqshaharpressa:12789": 1792683260.1973393,
+    "olmaliqshaharpressa:12791": 1792683268.788397,
+    "olmaliq:43517": 1792683273.2381818,
+    "olmaliq:43518": 1792683279.6318152,
+    "olmaliq:43519": 1792683308.7263503,
+    "olmaliq:43520": 1792683317.3878818
   },
   "posted_articles": [
-    {
-      "title": "Ustozlar va murabbiylar mehnati haqida mulohaza",
-      "summary": "",
-      "norm_title": "ustozlar va murabbiylar mehnati haqida mulohaza",
-      "topic_key": "ustoz-va-murabbiy-minnatdorchilik",
-      "stems": [
-        "murabbiy",
-        "mehnat",
-        "ustoz",
-        "mulohaza"
-      ],
-      "posted_at": 1790877121.4206982
-    },
-    {
-      "title": "Olmaliq shahridagi ob-havo, namoz vaqtlari va valyuta kurslari",
-      "summary": "",
-      "norm_title": "olmaliq shahridagi obhavo namoz vaqtlari va valyuta kurslari",
-      "topic_key": "olmaliq-ob-havo-namoz",
-      "stems": [
-        "vaqt",
-        "kurs",
-        "shahr",
-        "havo",
-        "namoz",
-        "valyuta"
-      ],
-      "posted_at": 1790877200.1136582
-    },
-    {
-      "title": "Angren kon boshqarmasida ustozlar e'zozlandi",
-      "summary": "",
-      "norm_title": "angren kon boshqarmasida ustozlar ezozlandi",
-      "topic_key": "angren-kb-ustozlar-kuni",
-      "stems": [
-        "angren",
-        "zozlan",
-        "ustoz",
-        "kon",
-        "boshqarma"
-      ],
-      "posted_at": 1790877230.2200418
-    },
-    {
-      "title": "MISIS universitetining Olmaliq filiali jamoasi xalqaro olimpiadada g'olib bo'ldi",
-      "summary": "",
-      "norm_title": "misis universitetining olmaliq filiali jamoasi xalqaro olimpiadada golib boldi",
-      "topic_key": "misis-olmaliq-mingeomod-golib",
-      "stems": [
-        "olib",
-        "olimpia",
-        "misis",
-        "xalqaro",
-        "jamoa",
-        "universitet",
-        "ldi",
-        "filial"
-      ],
-      "posted_at": 1790877269.947364
-    },
-    {
-      "title": "Shahar hokimi o'qituvchilarni tabrikladi",
-      "summary": "",
-      "norm_title": "shahar hokimi oqituvchilarni tabrikladi",
-      "topic_key": "hokim-oqituvchilar-tabrigi",
-      "stems": [
-        "tabrikl",
-        "qituvch",
-        "hokim"
-      ],
-      "posted_at": 1790877292.1206033
-    },
-    {
-      "title": "Firibgarlar yangi zararli APK fayllarni tarqatmoqda",
-      "summary": "",
-      "norm_title": "firibgarlar yangi zararli apk fayllarni tarqatmoqda",
-      "topic_key": "kiberxavfsizlik-apk-firibgarlik",
-      "stems": [
-        "fayl",
-        "zararl",
-        "apk",
-        "tarqat",
-        "firibgar"
-      ],
-      "posted_at": 1790877338.060984
-    },
     {
       "title": "Toshkentda ob-havo keskin sovib, ёмғир ёgadi",
       "summary": "",
@@ -6089,6 +6017,94 @@
         "nikoh"
       ],
       "posted_at": 1792665138.3844044
+    },
+    {
+      "title": "Olmaliqda yangi xususiy bog'cha faoliyat boshladi",
+      "summary": "Olmaliq shahrida 21 yoshli tadbirkor tashabbusi bilan 70 o'ringa mo'ljallangan 'Aqlli bolajonlar saltanati' xususiy bog'chasi ochildi. Muassasa ingliz va rus tillarini chuqurlashtirilgan holda o'rgatishga ixtisoslashgan.",
+      "norm_title": "olmaliqda yangi xususiy bogcha faoliyat boshladi",
+      "topic_key": "olmaliq-xususiy-bogcha-ochilishi",
+      "stems": [
+        "cha",
+        "bog",
+        "xususiy",
+        "boshl",
+        "faoliyat"
+      ],
+      "posted_at": 1792683112.725465
+    },
+    {
+      "title": "Erkinjon Turdimov ta'lim va o'qituvchilar masalasida bayonot berdi",
+      "summary": "Erkinjon Turdimov ota-onalarni o'qituvchilarni ayblashdan oldin farzandlari ta'limi bilan shug'ullanishga hamda soha rivojiga birgalikda hissa qo'shishga chaqirdi.",
+      "norm_title": "erkinjon turdimov talim va oqituvchilar masalasida bayonot berdi",
+      "topic_key": "turdimov-talim-bayonoti",
+      "stems": [
+        "erkinjon",
+        "ber",
+        "bayonot",
+        "turdimov",
+        "masala",
+        "lim",
+        "qituvch"
+      ],
+      "posted_at": 1792683155.8870566
+    },
+    {
+      "title": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni zo'rlaganlikda gumonlanmoqda",
+      "summary": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni qo'rqitib, u bilan bir necha bor jinsiy aloqada bo'lgani ma'lum bo'ldi. Hozircha inspektorga nisbatan jinoyat ishi qo'zg'atilgani haqida rasmiy ma'lumot mavjud emas.",
+      "norm_title": "toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni zorlaganlikda gumonlanmoqda",
+      "topic_key": "profilaktika-inspektori-jinoyati",
+      "stems": [
+        "rla",
+        "voya",
+        "profilakt",
+        "yetma",
+        "inspektor",
+        "gumonlan",
+        "qiz"
+      ],
+      "posted_at": 1792683199.6590877
+    },
+    {
+      "title": "OKMK TV telekanalida profilaktika ishlari o'tkaziladi",
+      "summary": "2026-yil 23-oktyabr kuni soat 8:00 dan 18:00 gacha “OKMK TV” telekanali efirga uzatilishi vaqtincha to'xtatiladi.",
+      "norm_title": "okmk tv telekanalida profilaktika ishlari otkaziladi",
+      "topic_key": "okmk-tv-profilaktika",
+      "stems": [
+        "okmk",
+        "telekanal",
+        "ish",
+        "tkaz",
+        "profilakt"
+      ],
+      "posted_at": 1792683217.7994308
+    },
+    {
+      "title": "Metrodagi tirbandliklar",
+      "summary": "Toshkent metropolitenida tirbandliklar yuzaga kelmoqda.",
+      "norm_title": "metrodagi tirbandliklar",
+      "topic_key": "metro-tirbandlik-transport",
+      "stems": [
+        "metro",
+        "tirband"
+      ],
+      "posted_at": 1792683308.7309074
+    },
+    {
+      "title": "Kam ta'minlangan oilalarga beriladigan nafaqa va yordam puli miqdorlari",
+      "summary": "Kam ta'minlangan oilalarga bolalar soniga qarab 118 mingdan 386 ming so'mgacha nafaqa va 450 ming so'm moddiy yordam to'lanadi. Arizalarni my.gov.uz portali orqali yuborish mumkin.",
+      "norm_title": "kam taminlangan oilalarga beriladigan nafaqa va yordam puli miqdorlari",
+      "topic_key": "kam-taminlangan-nafaqa",
+      "stems": [
+        "ber",
+        "minlan",
+        "kam",
+        "pul",
+        "nafa",
+        "oila",
+        "yordam",
+        "miqdor"
+      ],
+      "posted_at": 1792683317.3922906
     }
   ]
 }
