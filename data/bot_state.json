@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85965,
+    "olmaliqhayoti": 85966,
     "ao_agmk": 49760,
     "olmaliqshaharpressa": 12791,
-    "olmaliq": 43520
+    "olmaliq": 43522
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3151,22 +3151,12 @@
     "olmaliq:43517": 1792683273.2381818,
     "olmaliq:43518": 1792683279.6318152,
     "olmaliq:43519": 1792683308.7263503,
-    "olmaliq:43520": 1792683317.3878818
+    "olmaliq:43520": 1792683317.3878818,
+    "olmaliqhayoti:85966": 1792697023.187318,
+    "olmaliq:43521": 1792697028.0871031,
+    "olmaliq:43522": 1792697035.727457
   },
   "posted_articles": [
-    {
-      "title": "Toshkentda ob-havo keskin sovib, ёмғир ёgadi",
-      "summary": "",
-      "norm_title": "toshkentda obhavo keskin sovib ёмғир ёgadi",
-      "topic_key": "toshkent-ob-havo-sovish",
-      "stems": [
-        "gad",
-        "sovib",
-        "keskin",
-        "havo"
-      ],
-      "posted_at": 1790877406.722405
-    },
     {
       "title": "Ozodbek Nazarbekov ilk o'qituvchisi bilan uchrashdi",
       "summary": "",
@@ -6105,6 +6095,23 @@
         "miqdor"
       ],
       "posted_at": 1792683317.3922906
+    },
+    {
+      "title": "Farzandiga beparvo ota-onalarga 13,2 million so'mgacha jarima belgilanadi",
+      "summary": "O'zbekistonda bolaning ehtiyojlarini qasddan qondirmagan yoki uni qarovsiz qoldirgan ota-onalarga nisbatan 13,2 million so'mgacha jarima jazosi joriy etildi.",
+      "norm_title": "farzandiga beparvo otaonalarga 132 million somgacha jarima belgilanadi",
+      "topic_key": "ota-ona-ma'suliyati-jarima",
+      "stems": [
+        "million",
+        "beparvo",
+        "ota",
+        "jarima",
+        "belgilan",
+        "farzand",
+        "ona",
+        "mgacha"
+      ],
+      "posted_at": 1792697035.734227
     }
   ]
 }
