@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85948,
-    "ao_agmk": 49742,
-    "olmaliqshaharpressa": 12784,
-    "olmaliq": 43506
+    "olmaliqhayoti": 85951,
+    "ao_agmk": 49745,
+    "olmaliqshaharpressa": 12788,
+    "olmaliq": 43516
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3127,78 +3127,20 @@
     "olmaliq:43503": 1792647043.835507,
     "olmaliq:43504": 1792647046.4983273,
     "olmaliq:43505": 1792647051.6551101,
-    "olmaliq:43506": 1792647051.6700613
+    "olmaliq:43506": 1792647051.6700613,
+    "olmaliqhayoti:85949": 1792665051.6089334,
+    "olmaliqhayoti:85950": 1792665058.3906214,
+    "olmaliqhayoti:85951": 1792665066.7665827,
+    "ao_agmk:49744": 1792665074.5082664,
+    "ao_agmk:49745": 1792665090.0694566,
+    "olmaliqshaharpressa:12785": 1792665091.6784496,
+    "olmaliqshaharpressa:12786": 1792665103.4130347,
+    "olmaliqshaharpressa:12787": 1792665111.9090912,
+    "olmaliqshaharpressa:12788": 1792665120.7039957,
+    "olmaliq:43507": 1792665132.3322804,
+    "olmaliq:43516": 1792665138.376543
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahar hokimi o'rinbosari gorkov va g'assollar bilan uchrashdi",
-      "summary": "",
-      "norm_title": "olmaliq shahar hokimi orinbosari gorkov va gassollar bilan uchrashdi",
-      "topic_key": "gorkov-gassollar-uchrashuv",
-      "stems": [
-        "gorkov",
-        "assol",
-        "uchrash",
-        "rinbosar",
-        "hokim"
-      ],
-      "posted_at": 1790696809.7066884
-    },
-    {
-      "title": "Olib kelingan avtomobillarning asosiy qismini elektromobillar tashkil etdi",
-      "summary": "",
-      "norm_title": "olib kelingan avtomobillarning asosiy qismini elektromobillar tashkil etdi",
-      "topic_key": "elektromobil-import-statistika",
-      "stems": [
-        "olib",
-        "qism",
-        "avtomobil",
-        "kelin",
-        "tashkil",
-        "asosiy",
-        "elektromobil",
-        "etd"
-      ],
-      "posted_at": 1790696846.2621775
-    },
-    {
-      "title": "Olmaliq shahri uchun 19-sentabr namoz vaqtlari",
-      "summary": "",
-      "norm_title": "olmaliq shahri uchun 19sentabr namoz vaqtlari",
-      "topic_key": "namoz-vaqtlari-olmaliq",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt",
-        "sentabr"
-      ],
-      "posted_at": 1790696899.6958113
-    },
-    {
-      "title": "Propan narxi keskin oshdi",
-      "summary": "",
-      "norm_title": "propan narxi keskin oshdi",
-      "topic_key": "propan-narxi-oshishi",
-      "stems": [
-        "propan",
-        "keskin",
-        "narx",
-        "osh"
-      ],
-      "posted_at": 1790696942.5564184
-    },
-    {
-      "title": "Olmaliq ta'lim xodimlari tabrlandi",
-      "summary": "",
-      "norm_title": "olmaliq talim xodimlari tabrlandi",
-      "topic_key": "oqituvchilar-kuni-tabrik",
-      "stems": [
-        "tabrlan",
-        "lim",
-        "xodim"
-      ],
-      "posted_at": 1790877044.277145
-    },
     {
       "title": "Ustozlar va murabbiylar mehnati haqida mulohaza",
       "summary": "",
@@ -6067,6 +6009,86 @@
         "mukammal"
       ],
       "posted_at": 1792611052.236919
+    },
+    {
+      "title": "Jamiyatda davlat tiliga bo'lgan hurmat va jamoatchilik nazorati oshmoqda",
+      "summary": "Davlat tilini rivojlantirish departamenti rahbari Nodir Jonuzoqov so'nggi yillarda aholining davlat tiliga bo'lgan e'tibori hamda huquqiy madaniyati sezilarli darajada oshganini ta'kidladi.",
+      "norm_title": "jamiyatda davlat tiliga bolgan hurmat va jamoatchilik nazorati oshmoqda",
+      "topic_key": "davlat-tili-jamoatchilik",
+      "stems": [
+        "jamoatch",
+        "jamiyat",
+        "nazorat",
+        "davlat",
+        "hurmat",
+        "til",
+        "lgan",
+        "osh"
+      ],
+      "posted_at": 1792665051.6164813
+    },
+    {
+      "title": "AGMK O'quv markazi og'ir kon texnikasi haydovchiligi bo'yicha kurslarga qabul e'lon qildi",
+      "summary": "Olmaliq KMK buldozer mashinisti va BelAZ haydovchisi yo'nalishlarida o'quv kurslariga hujjatlar qabul qilmoqda. Nomzodlar rezyumelarini 26-30-oktyabr kunlari elektron pochta orqali yuborishlari lozim.",
+      "norm_title": "agmk oquv markazi ogir kon texnikasi haydovchiligi boyicha kurslarga qabul elon qildi",
+      "topic_key": "agmk-oquv-kurslari",
+      "stems": [
+        "markaz",
+        "kurs",
+        "haydovch",
+        "qil",
+        "lon",
+        "kon",
+        "tex",
+        "quv",
+        "agmk",
+        "yicha",
+        "qabul"
+      ],
+      "posted_at": 1792665074.516702
+    },
+    {
+      "title": "Buxoroda yirik narkolaboratoriya fosh etildi",
+      "summary": "DXX va Bojxona qo'mitasi Buxoroda sintetik narkotik tayyorlash bilan shug'ullangan 2 nafar shaxsni ushladi, ulardan 10,8 kg dan ortiq 'spays' moddasi musodara qilindi.",
+      "norm_title": "buxoroda yirik narkolaboratoriya fosh etildi",
+      "topic_key": "buxoro-narkolaboratoriya-ushlandi",
+      "stems": [
+        "fosh",
+        "yirik",
+        "buxoro",
+        "narkolaboratoriya"
+      ],
+      "posted_at": 1792665103.4209619
+    },
+    {
+      "title": "Olmaliq shahar hokimi yoshlarni ishga joylashtirishda shaxsan ishtirok etdi",
+      "summary": "Olmaliq shahar hokimi Barhayot Meliyev yoshlar bilan birgalikda korxonalarga borib, ularning ishga joylashish jarayonida boshidan oxirigacha bevosita qatnashdi va bo'sh ish o'rinlariga joylashtirdi.",
+      "norm_title": "olmaliq shahar hokimi yoshlarni ishga joylashtirishda shaxsan ishtirok etdi",
+      "topic_key": "hokim-yoshlar-bandligi",
+      "stems": [
+        "shaxsan",
+        "etd",
+        "yosh",
+        "ish",
+        "ishtirok",
+        "joylash",
+        "hokim"
+      ],
+      "posted_at": 1792665111.9166703
+    },
+    {
+      "title": "O'zbekistonda nikohlar soni yil sayin kamaymoqda",
+      "summary": "Aholi soni o'sayotganiga qaramay, O'zbekistonda rasmiy nikohlar soni so'nggi yillarda qariyb 38 mingtaga kamayib, 2025-yilda 267,1 mingtani tashkil etdi.",
+      "norm_title": "ozbekistonda nikohlar soni yil sayin kamaymoqda",
+      "topic_key": "nikoh-statistikasi-kamayish",
+      "stems": [
+        "son",
+        "sayin",
+        "zbekiston",
+        "kamay",
+        "nikoh"
+      ],
+      "posted_at": 1792665138.3844044
     }
   ]
 }
