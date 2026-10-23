@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85978,
-    "ao_agmk": 49779,
-    "olmaliqshaharpressa": 12791,
-    "olmaliq": 43536
+    "olmaliqhayoti": 85999,
+    "ao_agmk": 49784,
+    "olmaliqshaharpressa": 12792,
+    "olmaliq": 43538
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3180,41 +3180,19 @@
     "ao_agmk:49779": 1792751112.1859138,
     "olmaliq:43526": 1792751126.1816907,
     "olmaliq:43535": 1792751131.508505,
-    "olmaliq:43536": 1792751135.8181155
+    "olmaliq:43536": 1792751135.8181155,
+    "olmaliqhayoti:85980": 1792768510.9881778,
+    "olmaliqhayoti:85981": 1792768522.390239,
+    "olmaliqhayoti:85988": 1792768544.8683333,
+    "olmaliqhayoti:85998": 1792768571.637887,
+    "olmaliqhayoti:85999": 1792768604.563637,
+    "ao_agmk:49783": 1792768604.9867947,
+    "ao_agmk:49784": 1792768615.5992842,
+    "olmaliqshaharpressa:12792": 1792768616.5357578,
+    "olmaliq:43537": 1792768623.048508,
+    "olmaliq:43538": 1792768632.2006335
   },
   "posted_articles": [
-    {
-      "title": "AGMKga raqs sanati ustalari tashrif buyurdi",
-      "summary": "",
-      "norm_title": "agmkga raqs sanati ustalari tashrif buyurdi",
-      "topic_key": "agmk-raqs-sanati-tashrif",
-      "stems": [
-        "usta",
-        "sanat",
-        "buyur",
-        "tashrif",
-        "agmk",
-        "raqs"
-      ],
-      "posted_at": 1790955119.188193
-    },
-    {
-      "title": "Magistr xotin-qizlar uchun kontraktni qoplash arizalari muddati uzaytirildi",
-      "summary": "",
-      "norm_title": "magistr xotinqizlar uchun kontraktni qoplash arizalari muddati uzaytirildi",
-      "topic_key": "magistratura-kontrakt-qoplash-muddati",
-      "stems": [
-        "xotin",
-        "ariza",
-        "kontrakt",
-        "uzaytiril",
-        "qiz",
-        "qoplash",
-        "muddat",
-        "magistr"
-      ],
-      "posted_at": 1790955193.7163508
-    },
     {
       "title": "Toshkentning Yashnobod tumanida gaz ta'minoti vaqtincha to'xtatildi",
       "summary": "",
@@ -6138,6 +6116,33 @@
         "qabul"
       ],
       "posted_at": 1792751112.192519
+    },
+    {
+      "title": "Olmaliqdagi maktabda til bayrami nishonlandi",
+      "summary": "Olmaliq shahridagi 14-maktabda o'zbek tiliga davlat tili maqomi berilganining 37 yilligiga bag'ishlangan ma'naviy-ma'rifiy tadbir o'tkazildi.",
+      "norm_title": "olmaliqdagi maktabda til bayrami nishonlandi",
+      "topic_key": "til-bayrami-maktab",
+      "stems": [
+        "til",
+        "bayram",
+        "nishonlan",
+        "maktab"
+      ],
+      "posted_at": 1792768522.397363
+    },
+    {
+      "title": "Olmaliq shahar Kengashining navbatdagi sessiyasi bo'lib o'tdi",
+      "summary": "Xalq deputatlari Olmaliq shahar Kengashining 55-sessiyasida murojaatlar, huquqbuzarliklarning oldini olish va mahalliy budjet masalalari muhokama qilinib, tegishli qarorlar qabul qilindi.",
+      "norm_title": "olmaliq shahar kengashining navbatdagi sessiyasi bolib otdi",
+      "topic_key": "olmaliq-shahar-kengash-sessiyasi",
+      "stems": [
+        "lib",
+        "tdi",
+        "navbat",
+        "sessiya",
+        "kengash"
+      ],
+      "posted_at": 1792768544.8754883
     }
   ]
 }
