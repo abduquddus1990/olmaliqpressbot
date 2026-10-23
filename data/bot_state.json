@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85966,
+    "olmaliqhayoti": 85967,
     "ao_agmk": 49760,
     "olmaliqshaharpressa": 12791,
     "olmaliq": 43522
@@ -3154,23 +3154,10 @@
     "olmaliq:43520": 1792683317.3878818,
     "olmaliqhayoti:85966": 1792697023.187318,
     "olmaliq:43521": 1792697028.0871031,
-    "olmaliq:43522": 1792697035.727457
+    "olmaliq:43522": 1792697035.727457,
+    "olmaliqhayoti:85967": 1792716739.9271383
   },
   "posted_articles": [
-    {
-      "title": "Ozodbek Nazarbekov ilk o'qituvchisi bilan uchrashdi",
-      "summary": "",
-      "norm_title": "ozodbek nazarbekov ilk oqituvchisi bilan uchrashdi",
-      "topic_key": "ozodbek-nazarbekov-oqituvchi",
-      "stems": [
-        "uchrash",
-        "qituvch",
-        "ozodbek",
-        "ilk",
-        "nazarbekov"
-      ],
-      "posted_at": 1790877462.2401967
-    },
     {
       "title": "Shahar hokimining navbatdagi fuqarolar qabuli bo'lib o'tadi",
       "summary": "",
@@ -6112,6 +6099,21 @@
         "mgacha"
       ],
       "posted_at": 1792697035.734227
+    },
+    {
+      "title": "O‘zbekiston paxta rejasini 103 foizga bajardi",
+      "summary": "22-oktabr holatiga ko‘ra mamlakatimizda 4,63 million tonna paxta yig‘ib olindi. Hosilning 76 foizi texnika yordamida terilgan bo‘lib, terim ishlari hali davom etmoqda.",
+      "norm_title": "ozbekiston paxta rejasini 103 foizga bajardi",
+      "topic_key": "paxta-yigim-terimi",
+      "stems": [
+        "103",
+        "reja",
+        "bajar",
+        "foiz",
+        "zbekiston",
+        "paxta"
+      ],
+      "posted_at": 1792716739.9325504
     }
   ]
 }
