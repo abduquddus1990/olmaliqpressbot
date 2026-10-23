@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85972,
-    "ao_agmk": 49761,
+    "olmaliqhayoti": 85978,
+    "ao_agmk": 49779,
     "olmaliqshaharpressa": 12791,
-    "olmaliq": 43525
+    "olmaliq": 43536
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3164,83 +3164,25 @@
     "ao_agmk:49761": 1792733334.4808183,
     "olmaliq:43523": 1792733342.7163134,
     "olmaliq:43524": 1792733345.3399758,
-    "olmaliq:43525": 1792733345.3510897
+    "olmaliq:43525": 1792733345.3510897,
+    "olmaliqhayoti:85973": 1792751055.1352086,
+    "olmaliqhayoti:85974": 1792751058.1541364,
+    "olmaliqhayoti:85975": 1792751062.236956,
+    "olmaliqhayoti:85976": 1792751066.5197294,
+    "olmaliqhayoti:85977": 1792751072.3080888,
+    "olmaliqhayoti:85978": 1792751079.0400612,
+    "ao_agmk:49769": 1792751079.5783057,
+    "ao_agmk:49770": 1792751079.5915,
+    "ao_agmk:49771": 1792751085.6033247,
+    "ao_agmk:49772": 1792751091.2422938,
+    "ao_agmk:49773": 1792751094.2352188,
+    "ao_agmk:49774": 1792751101.9323695,
+    "ao_agmk:49779": 1792751112.1859138,
+    "olmaliq:43526": 1792751126.1816907,
+    "olmaliq:43535": 1792751131.508505,
+    "olmaliq:43536": 1792751135.8181155
   },
   "posted_articles": [
-    {
-      "title": "Dual ta'lim talabalari OTMga test sinovlarisiz qabul qilinadi",
-      "summary": "",
-      "norm_title": "dual talim talabalari otmga test sinovlarisiz qabul qilinadi",
-      "topic_key": "dual-talim-otm-qabul",
-      "stems": [
-        "otm",
-        "test",
-        "sinovlarisiz",
-        "talaba",
-        "qabul",
-        "qilin",
-        "lim",
-        "dual"
-      ],
-      "posted_at": 1790877496.0535305
-    },
-    {
-      "title": "Olmaliq shahri uchun ertangi namoz vaqtlari",
-      "summary": "",
-      "norm_title": "olmaliq shahri uchun ertangi namoz vaqtlari",
-      "topic_key": "namoz-vaqtlari-olmaliq",
-      "stems": [
-        "namoz",
-        "ertang",
-        "shahr",
-        "vaqt"
-      ],
-      "posted_at": 1790877514.1590118
-    },
-    {
-      "title": "Olmaliqda o'tkazilgan yarmarkada 457 ta bo'sh ish o'rni taklif etildi",
-      "summary": "",
-      "norm_title": "olmaliqda otkazilgan yarmarkada 457 ta bosh ish orni taklif etildi",
-      "topic_key": "olmaliq-mehnat-yarmarkasi",
-      "stems": [
-        "rni",
-        "taklif",
-        "457",
-        "ish",
-        "yarmar",
-        "tkaz"
-      ],
-      "posted_at": 1790954595.5911078
-    },
-    {
-      "title": "Respublika ishchi guruhi Olmaliqda xavfsizlik va profilaktika faoliyatini o'rgandi",
-      "summary": "",
-      "norm_title": "respublika ishchi guruhi olmaliqda xavfsizlik va profilaktika faoliyatini organdi",
-      "topic_key": "respublika-ishchi-guruhi-olmaliq",
-      "stems": [
-        "rgan",
-        "ishch",
-        "xavfsiz",
-        "guruh",
-        "profilakt",
-        "faoliyat"
-      ],
-      "posted_at": 1790954680.3598862
-    },
-    {
-      "title": "Kelajak muhandislari tanlovi g'oliblari taqdirlandi",
-      "summary": "",
-      "norm_title": "kelajak muhandislari tanlovi goliblari taqdirlandi",
-      "topic_key": "kelajak-muhandislari-tanlovi",
-      "stems": [
-        "olib",
-        "taqdirlan",
-        "muhandis",
-        "tanlov",
-        "kelajak"
-      ],
-      "posted_at": 1790954809.1341033
-    },
     {
       "title": "AGMKga raqs sanati ustalari tashrif buyurdi",
       "summary": "",
@@ -6124,6 +6066,78 @@
         "uyushma"
       ],
       "posted_at": 1792733334.4864347
+    },
+    {
+      "title": "Piskentda Olmaliq – Sirdaryo yo'li vaqtincha yopiladi",
+      "summary": "25-oktabr kuni soat 12:00 dan 14:00 gacha Olmaliq – Sirdaryo yo'lining Piskent tumanidan o'tuvchi 25-kilometri temir yo'l ko'prigi qurilishi sababli harakat uchun yopiladi.",
+      "norm_title": "piskentda olmaliq  sirdaryo yoli vaqtincha yopiladi",
+      "topic_key": "olmaliq-sirdaryo-yoli-yopilishi",
+      "stems": [
+        "vaqtincha",
+        "piskent",
+        "sirdaryo",
+        "yop"
+      ],
+      "posted_at": 1792751055.1413555
+    },
+    {
+      "title": "\"Jadidlar izidan\" tanlovining Olmaliq shahar bosqichi boshlandi",
+      "summary": "Olmaliq shahrida yoshlar o'rtasida jadid bobolarimizning boy ma'naviy merosini o'rganishga qaratilgan \"Jadidlar izidan\" respublika tanlovining shahar bosqichiga start berildi.",
+      "norm_title": "jadidlar izidan tanlovining olmaliq shahar bosqichi boshlandi",
+      "topic_key": "jadidlar-izidan-tanlovi",
+      "stems": [
+        "tanlov",
+        "bosqich",
+        "izi",
+        "jadid"
+      ],
+      "posted_at": 1792751072.3170166
+    },
+    {
+      "title": "Olmaliq KMK UIMF 2026 forumining strategik hamkoriga aylandi",
+      "summary": "Olmaliq KMK AJ 2026-yil 27–28-oktabr kunlari Toshkentda bo‘lib o‘tadigan 8-xalqaro kon-metallurgiya forumiga strategik hamkorlik qiladi.",
+      "norm_title": "olmaliq kmk uimf 2026 forumining strategik hamkoriga aylandi",
+      "topic_key": "agmk-uimf-2026-hamkorlik",
+      "stems": [
+        "kmk",
+        "strategik",
+        "aylan",
+        "uimf",
+        "2026",
+        "hamkor",
+        "forum"
+      ],
+      "posted_at": 1792751085.6100256
+    },
+    {
+      "title": "Avtomobil transporti xodimlari kuni munosabati bilan osh tanlovi o'tkazildi",
+      "summary": "Avtomobil transporti boshqarmasida soha xodimlari kuni munosabati bilan osh ko'rik-tanlovi tashkil etilib, g'oliblarga esdalik sovg'alari topshirildi.",
+      "norm_title": "avtomobil transporti xodimlari kuni munosabati bilan osh tanlovi otkazildi",
+      "topic_key": "avtomobil-transporti-osh-tanlovi",
+      "stems": [
+        "avtomobil",
+        "xodim",
+        "transport",
+        "munosabat",
+        "osh",
+        "tanlov",
+        "tkazil"
+      ],
+      "posted_at": 1792751101.938915
+    },
+    {
+      "title": "Prezident Todd Boelini qabul qildi",
+      "summary": "Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev “Eldridge Industries” kompaniyasi raisi Todd Boelini qabul qilib, o'zaro hamkorlik masalalarini muhokama qildi.",
+      "norm_title": "prezident todd boelini qabul qildi",
+      "topic_key": "mirziyoyev-todd-boeli",
+      "stems": [
+        "qil",
+        "boel",
+        "todd",
+        "prezident",
+        "qabul"
+      ],
+      "posted_at": 1792751112.192519
     }
   ]
 }
