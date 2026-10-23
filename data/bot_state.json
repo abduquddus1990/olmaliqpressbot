@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 85967,
-    "ao_agmk": 49760,
+    "olmaliqhayoti": 85972,
+    "ao_agmk": 49761,
     "olmaliqshaharpressa": 12791,
-    "olmaliq": 43522
+    "olmaliq": 43525
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3155,24 +3155,18 @@
     "olmaliqhayoti:85966": 1792697023.187318,
     "olmaliq:43521": 1792697028.0871031,
     "olmaliq:43522": 1792697035.727457,
-    "olmaliqhayoti:85967": 1792716739.9271383
+    "olmaliqhayoti:85967": 1792716739.9271383,
+    "olmaliqhayoti:85968": 1792733310.329948,
+    "olmaliqhayoti:85969": 1792733316.0167632,
+    "olmaliqhayoti:85970": 1792733319.047082,
+    "olmaliqhayoti:85971": 1792733319.0579894,
+    "olmaliqhayoti:85972": 1792733322.4971142,
+    "ao_agmk:49761": 1792733334.4808183,
+    "olmaliq:43523": 1792733342.7163134,
+    "olmaliq:43524": 1792733345.3399758,
+    "olmaliq:43525": 1792733345.3510897
   },
   "posted_articles": [
-    {
-      "title": "Shahar hokimining navbatdagi fuqarolar qabuli bo'lib o'tadi",
-      "summary": "",
-      "norm_title": "shahar hokimining navbatdagi fuqarolar qabuli bolib otadi",
-      "topic_key": "hokim-fuqarolar-qabuli",
-      "stems": [
-        "navbat",
-        "lib",
-        "qabul",
-        "tad",
-        "fuqaro",
-        "hokim"
-      ],
-      "posted_at": 1790877480.2540362
-    },
     {
       "title": "Dual ta'lim talabalari OTMga test sinovlarisiz qabul qilinadi",
       "summary": "",
@@ -6114,6 +6108,22 @@
         "paxta"
       ],
       "posted_at": 1792716739.9325504
+    },
+    {
+      "title": "AGMK Kasaba uyushmasi 9 oylik faoliyatini sarhisob qildi",
+      "summary": "Olmaliq kon-metallurgiya kombinati xodimlari kasaba uyushmasi Kengashining 9 oylik faoliyati sarhisob qilinib, kelgusidagi ustuvor vazifalar belgilandi.",
+      "norm_title": "agmk kasaba uyushmasi 9 oylik faoliyatini sarhisob qildi",
+      "topic_key": "agmk-kasaba-uyushmasi-hisobot",
+      "stems": [
+        "agmk",
+        "faoliyat",
+        "oylik",
+        "qil",
+        "kasaba",
+        "sarhisob",
+        "uyushma"
+      ],
+      "posted_at": 1792733334.4864347
     }
   ]
 }
