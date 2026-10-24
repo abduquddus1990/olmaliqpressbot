@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86005,
-    "ao_agmk": 49788,
+    "olmaliqhayoti": 86016,
+    "ao_agmk": 49808,
     "olmaliqshaharpressa": 12792,
-    "olmaliq": 43548
+    "olmaliq": 43549
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3204,25 +3204,14 @@
     "ao_agmk:49787": 1792818343.6010509,
     "olmaliq:43547": 1792818349.225861,
     "olmaliq:43548": 1792818353.063872,
-    "ao_agmk:49788": 1792818432.0648286
+    "ao_agmk:49788": 1792818432.0648286,
+    "olmaliqhayoti:86006": 1792834029.987506,
+    "olmaliqhayoti:86016": 1792834040.0757608,
+    "ao_agmk:49798": 1792834055.0850842,
+    "ao_agmk:49808": 1792834059.7441785,
+    "olmaliq:43549": 1792834068.4101825
   },
   "posted_articles": [
-    {
-      "title": "Donald Trampga Shavkat Mirziyoyevning ezgu tilaklari yetkazildi",
-      "summary": "",
-      "norm_title": "donald trampga shavkat mirziyoyevning ezgu tilaklari yetkazildi",
-      "topic_key": "tramp-mirziyoyev-tilak",
-      "stems": [
-        "tilak",
-        "donald",
-        "shavkat",
-        "yetkazil",
-        "tramp",
-        "ezgu",
-        "mirziyoyev"
-      ],
-      "posted_at": 1790964290.9698138
-    },
     {
       "title": "Toshkent viloyatida kiberxavfsizlik bo'yicha o'quv-seminari o'tkazildi",
       "summary": "",
@@ -6158,6 +6147,22 @@
         "zbekiston"
       ],
       "posted_at": 1792818353.0684946
+    },
+    {
+      "title": "Parkentda zamonaviy Qo'shchinor-ma'rifat markazi foydalanishga topshirildi",
+      "summary": "Parkent tumanida ochilgan yangi markaz 60 mingdan ziyod kitob fondi, turli to'garak xonalari va yoshlar uchun barcha zamonaviy sharoitlarga ega.",
+      "norm_title": "parkentda zamonaviy qoshchinormarifat markazi foydalanishga topshirildi",
+      "topic_key": "parkent-marifat-markazi",
+      "stems": [
+        "topshiril",
+        "foydalan",
+        "zamonaviy",
+        "shchinor",
+        "markaz",
+        "parkent",
+        "rifat"
+      ],
+      "posted_at": 1792834040.0829697
     }
   ]
 }
