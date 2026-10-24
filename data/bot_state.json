@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86032,
+    "olmaliqhayoti": 86033,
     "ao_agmk": 49826,
     "olmaliqshaharpressa": 12794,
-    "olmaliq": 43554
+    "olmaliq": 43555
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3220,39 +3220,11 @@
     "ao_agmk:49826": 1792848559.2262902,
     "olmaliqshaharpressa:12793": 1792848564.8727503,
     "olmaliqshaharpressa:12794": 1792848576.4649887,
-    "olmaliq:43554": 1792848585.8236887
+    "olmaliq:43554": 1792848585.8236887,
+    "olmaliqhayoti:86033": 1792860537.5854378,
+    "olmaliq:43555": 1792860549.1885571
   },
   "posted_articles": [
-    {
-      "title": "Bank kartalari va SIM-kartalarni tekshirish tavsiya etiladi",
-      "summary": "",
-      "norm_title": "bank kartalari va simkartalarni tekshirish tavsiya etiladi",
-      "topic_key": "mygov-kartalarni-tekshirish",
-      "stems": [
-        "tekshir",
-        "karta",
-        "sim",
-        "bank",
-        "tavsiya"
-      ],
-      "posted_at": 1791210579.5618904
-    },
-    {
-      "title": "Samarqanddan Toshkentgacha 350 km masofaga elektr tarmog'i tortilmoqda",
-      "summary": "",
-      "norm_title": "samarqanddan toshkentgacha 350 km masofaga elektr tarmogi tortilmoqda",
-      "topic_key": "elektr-tarmoq-qurilishi",
-      "stems": [
-        "samarqand",
-        "tarmog",
-        "tort",
-        "masofa",
-        "350",
-        "elektr",
-        "toshkentgacha"
-      ],
-      "posted_at": 1791210602.7882853
-    },
     {
       "title": "Mol-mulk va yer soliqlarini to'lash muddati",
       "summary": "",
@@ -6174,6 +6146,32 @@
         "ayol"
       ],
       "posted_at": 1792848534.2172124
+    },
+    {
+      "title": "25-oktabr uchun ob-havo va valyuta kurslari",
+      "summary": "Olmaliqda 25-oktabr kuni havo harorati kunduzi +17°C, kechasi +5°C bo'ladi. AQSh dollari kursi 11 838,92 so'm, rubl esa 147,05 so'm etib belgilandi.",
+      "norm_title": "25oktabr uchun obhavo va valyuta kurslari",
+      "topic_key": "ob-havo-valyuta-kurslari",
+      "stems": [
+        "oktabr",
+        "valyuta",
+        "havo",
+        "kurs"
+      ],
+      "posted_at": 1792860537.5913055
+    },
+    {
+      "title": "Olmaliq shahri uchun 25-oktabr kunlik namoz vaqtlari",
+      "summary": "Olmaliq shahri bo'yicha 25-oktabr kunidagi namoz vaqtlari e'lon qilindi: Bomdod — 05:28, Peshin — 12:07, Asr — 15:45, Shom — 17:27, Xufton — 18:43.",
+      "norm_title": "olmaliq shahri uchun 25oktabr kunlik namoz vaqtlari",
+      "topic_key": "namoz-vaqti-25-oktabr",
+      "stems": [
+        "shahr",
+        "oktabr",
+        "vaqt",
+        "namoz"
+      ],
+      "posted_at": 1792860549.1978002
     }
   ]
 }
