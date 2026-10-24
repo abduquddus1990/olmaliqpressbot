@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86002,
-    "ao_agmk": 49785,
+    "olmaliqhayoti": 86005,
+    "ao_agmk": 49788,
     "olmaliqshaharpressa": 12792,
-    "olmaliq": 43546
+    "olmaliq": 43548
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3196,38 +3196,17 @@
     "ao_agmk:49785": 1792783038.6912093,
     "olmaliq:43545": 1792783042.4356477,
     "olmaliq:43546": 1792783045.2698476,
-    "olmaliqhayoti:86002": 1792802817.1990538
+    "olmaliqhayoti:86002": 1792802817.1990538,
+    "olmaliqhayoti:86003": 1792818330.5421603,
+    "olmaliqhayoti:86004": 1792818336.7674453,
+    "olmaliqhayoti:86005": 1792818342.6262577,
+    "ao_agmk:49786": 1792818343.4242942,
+    "ao_agmk:49787": 1792818343.6010509,
+    "olmaliq:43547": 1792818349.225861,
+    "olmaliq:43548": 1792818353.063872,
+    "ao_agmk:49788": 1792818432.0648286
   },
   "posted_articles": [
-    {
-      "title": "Toshkentning Yashnobod tumanida gaz ta'minoti vaqtincha to'xtatildi",
-      "summary": "",
-      "norm_title": "toshkentning yashnobod tumanida gaz taminoti vaqtincha toxtatildi",
-      "topic_key": "yashnobod-gaz-uzilishi",
-      "stems": [
-        "vaqtincha",
-        "xtatil",
-        "tuman",
-        "gaz",
-        "yashnobod",
-        "minot"
-      ],
-      "posted_at": 1790955235.2914426
-    },
-    {
-      "title": "Manzil-koloniyasida saqlanayotgan mahkumlarga yengillik berildi",
-      "summary": "",
-      "norm_title": "manzilkoloniyasida saqlanayotgan mahkumlarga yengillik berildi",
-      "topic_key": "manzil-koloniya-mahkumlar",
-      "stems": [
-        "mahkum",
-        "saqlan",
-        "yengil",
-        "koloniya",
-        "manzil"
-      ],
-      "posted_at": 1790955403.8409085
-    },
     {
       "title": "Donald Trampga Shavkat Mirziyoyevning ezgu tilaklari yetkazildi",
       "summary": "",
@@ -6149,6 +6128,36 @@
         "kengash"
       ],
       "posted_at": 1792768544.8754883
+    },
+    {
+      "title": "Xorijlik sayyoh o'zbekistonlik taksi haydovchilarini tanqid qildi",
+      "summary": "Chet ellik turist O'zbekistondagi taksi haydovchilarining haydash uslubini keskin tanqid qilib, ularni o'ta tajovuzkor harakatlanishda aybladi.",
+      "norm_title": "xorijlik sayyoh ozbekistonlik taksi haydovchilarini tanqid qildi",
+      "topic_key": "taksi-haydovchilari-tanqid",
+      "stems": [
+        "tanqid",
+        "tak",
+        "qil",
+        "sayyoh",
+        "xorij",
+        "zbekiston",
+        "haydovch"
+      ],
+      "posted_at": 1792818336.7728553
+    },
+    {
+      "title": "O'zbekiston Respublikasi Bojxona qo'mitasiga 33 yil to'ldi",
+      "summary": "1991-yil 24-oktyabrda O'zbekiston Respublikasi Bojxona qo'mitasi tashkil etilgan bo'lib, bugun ushbu idora o'zining professional bayramini nishonlamoqda.",
+      "norm_title": "ozbekiston respublikasi bojxona qomitasiga 33 yil toldi",
+      "topic_key": "bojxona-qomitasi-tashkil-topgan-kun",
+      "stems": [
+        "mita",
+        "ldi",
+        "bojxona",
+        "respubl",
+        "zbekiston"
+      ],
+      "posted_at": 1792818353.0684946
     }
   ]
 }
