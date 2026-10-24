@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86016,
-    "ao_agmk": 49808,
-    "olmaliqshaharpressa": 12792,
-    "olmaliq": 43549
+    "olmaliqhayoti": 86032,
+    "ao_agmk": 49826,
+    "olmaliqshaharpressa": 12794,
+    "olmaliq": 43554
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3209,23 +3209,20 @@
     "olmaliqhayoti:86016": 1792834040.0757608,
     "ao_agmk:49798": 1792834055.0850842,
     "ao_agmk:49808": 1792834059.7441785,
-    "olmaliq:43549": 1792834068.4101825
+    "olmaliq:43549": 1792834068.4101825,
+    "olmaliqhayoti:86021": 1792848514.5555196,
+    "olmaliqhayoti:86022": 1792848526.6927738,
+    "olmaliqhayoti:86032": 1792848534.212763,
+    "ao_agmk:49809": 1792848545.6415465,
+    "ao_agmk:49814": 1792848555.5520627,
+    "ao_agmk:49824": 1792848555.5612679,
+    "ao_agmk:49825": 1792848555.5699046,
+    "ao_agmk:49826": 1792848559.2262902,
+    "olmaliqshaharpressa:12793": 1792848564.8727503,
+    "olmaliqshaharpressa:12794": 1792848576.4649887,
+    "olmaliq:43554": 1792848585.8236887
   },
   "posted_articles": [
-    {
-      "title": "Toshkent viloyatida kiberxavfsizlik bo'yicha o'quv-seminari o'tkazildi",
-      "summary": "",
-      "norm_title": "toshkent viloyatida kiberxavfsizlik boyicha oquvseminari otkazildi",
-      "topic_key": "kiberxavfsizlik-oquv-seminari",
-      "stems": [
-        "seminar",
-        "quv",
-        "yicha",
-        "tkazil",
-        "kiberxavfsiz"
-      ],
-      "posted_at": 1790964331.2495773
-    },
     {
       "title": "Bank kartalari va SIM-kartalarni tekshirish tavsiya etiladi",
       "summary": "",
@@ -6163,6 +6160,20 @@
         "rifat"
       ],
       "posted_at": 1792834040.0829697
+    },
+    {
+      "title": "Olmaliqlik ayol yongʻindan ikki bolani qutqardi",
+      "summary": "Olmaliqda qoʻshnisining xonadonidagi yongʻindan ikki bolaning hayotini saqlab qolgan ayolga shahar hokimi va mutasaddilar tashrif buyurib, esdalik sovgʻalarini topshirdilar.",
+      "norm_title": "olmaliqlik ayol yongʻindan ikki bolani qutqardi",
+      "topic_key": "olmaliq-jasoratli-ayol-yongin",
+      "stems": [
+        "qutqar",
+        "yongin",
+        "bola",
+        "ikk",
+        "ayol"
+      ],
+      "posted_at": 1792848534.2172124
     }
   ]
 }
