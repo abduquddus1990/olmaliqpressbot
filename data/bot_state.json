@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
     "olmaliqhayoti": 86035,
-    "ao_agmk": 49829,
+    "ao_agmk": 49831,
     "olmaliqshaharpressa": 12794,
-    "olmaliq": 43569
+    "olmaliq": 43570
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3233,26 +3233,12 @@
     "olmaliq:43558": 1792910817.0140865,
     "olmaliq:43559": 1792910820.6887782,
     "olmaliq:43560": 1792910831.9792528,
-    "olmaliq:43569": 1792910835.259393
+    "olmaliq:43569": 1792910835.259393,
+    "ao_agmk:49830": 1792929828.8509316,
+    "ao_agmk:49831": 1792929833.6539423,
+    "olmaliq:43570": 1792929845.2620227
   },
   "posted_articles": [
-    {
-      "title": "Ikkita vazirlik yagona Ta'lim va ilm-fan vazirligiga birlashtirildi",
-      "summary": "",
-      "norm_title": "ikkita vazirlik yagona talim va ilmfan vazirligiga birlashtirildi",
-      "topic_key": "talim-va-ilm-fan-vazirligi",
-      "stems": [
-        "fan",
-        "vazir",
-        "ilm",
-        "ikkita",
-        "birlashtiril",
-        "vazirlig",
-        "lim",
-        "yagona"
-      ],
-      "posted_at": 1791210705.2113523
-    },
     {
       "title": "Soliq to'lash muddati eslatildi",
       "summary": "",
@@ -6184,6 +6170,22 @@
         "aldanmang"
       ],
       "posted_at": 1792910810.3739743
+    },
+    {
+      "title": "Superliga: OKMK va Qo‘qon 1912 uchrashuvi bo‘lib o‘tadi",
+      "summary": "25-oktyabr kuni soat 16:00 da Olmaliqdagi OKMK sport majmuasida OKMK hamda Qo‘qon 1912 jamoalari o‘rtasida o‘yin o‘tkaziladi. Chipta narxi 15 000 so‘m.",
+      "norm_title": "superliga okmk va qoqon 1912 uchrashuvi bolib otadi",
+      "topic_key": "okmk-qoqon-futbol-oini",
+      "stems": [
+        "uchrashuv",
+        "tad",
+        "okmk",
+        "1912",
+        "qon",
+        "superl",
+        "lib"
+      ],
+      "posted_at": 1792929833.6588144
     }
   ]
 }
