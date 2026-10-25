@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86035,
-    "ao_agmk": 49831,
-    "olmaliqshaharpressa": 12794,
-    "olmaliq": 43570
+    "olmaliqhayoti": 86038,
+    "ao_agmk": 49832,
+    "olmaliqshaharpressa": 12796,
+    "olmaliq": 43571
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3236,34 +3236,14 @@
     "olmaliq:43569": 1792910835.259393,
     "ao_agmk:49830": 1792929828.8509316,
     "ao_agmk:49831": 1792929833.6539423,
-    "olmaliq:43570": 1792929845.2620227
+    "olmaliq:43570": 1792929845.2620227,
+    "olmaliqhayoti:86038": 1792944126.6221993,
+    "ao_agmk:49832": 1792944133.4402866,
+    "olmaliqshaharpressa:12795": 1792944140.9434204,
+    "olmaliqshaharpressa:12796": 1792944149.7981644,
+    "olmaliq:43571": 1792944158.4285972
   },
   "posted_articles": [
-    {
-      "title": "Soliq to'lash muddati eslatildi",
-      "summary": "",
-      "norm_title": "soliq tolash muddati eslatildi",
-      "topic_key": "mol-mulk-yer-soligi",
-      "stems": [
-        "lash",
-        "soliq",
-        "muddat",
-        "eslatil"
-      ],
-      "posted_at": 1791210741.4259837
-    },
-    {
-      "title": "Prezident sportchilarni tabrikladi",
-      "summary": "",
-      "norm_title": "prezident sportchilarni tabrikladi",
-      "topic_key": "osiyo-oyinlari-tabrik",
-      "stems": [
-        "prezident",
-        "tabrikl",
-        "sportch"
-      ],
-      "posted_at": 1791210762.0085275
-    },
     {
       "title": "OKMK 9 oyda byudjetga 26,1 trillion so'm yo'naltirdi",
       "summary": "",
@@ -6186,6 +6166,34 @@
         "lib"
       ],
       "posted_at": 1792929833.6588144
+    },
+    {
+      "title": "Olmaliqlik sportchilarning ota-onalariga hokim tashakkurnomasi topshirildi",
+      "summary": "Prezident olimpiadasida qatnashadigan 7 nafar olmaliqlik yosh sportchining ota-onalariga shahar hokimining tashakkurnomalari topshirildi.",
+      "norm_title": "olmaliqlik sportchilarning otaonalariga hokim tashakkurnomasi topshirildi",
+      "topic_key": "prezident-olimpiadasi-sportchilar",
+      "stems": [
+        "sportch",
+        "tashakkurnoma",
+        "ota",
+        "ona",
+        "hokim",
+        "topshiril"
+      ],
+      "posted_at": 1792944140.9507906
+    },
+    {
+      "title": "Olmaliq mahallalarida obodonlashtirish hashari o‘tkazildi",
+      "summary": "Olmaliq shahri mahallalarida raislar boshchiligida hududlarni ozoda tutish va chiqindilardan tozalash bo‘yicha obodonlashtirish hasharlari tashkil etildi.",
+      "norm_title": "olmaliq mahallalarida obodonlashtirish hashari otkazildi",
+      "topic_key": "olmaliq-hashar-obodonlashtirish",
+      "stems": [
+        "mahalla",
+        "tkazil",
+        "hashar",
+        "obodonlash"
+      ],
+      "posted_at": 1792944149.8053653
     }
   ]
 }
