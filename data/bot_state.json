@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86034,
-    "ao_agmk": 49826,
+    "olmaliqhayoti": 86035,
+    "ao_agmk": 49829,
     "olmaliqshaharpressa": 12794,
-    "olmaliq": 43555
+    "olmaliq": 43569
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3223,38 +3223,19 @@
     "olmaliq:43554": 1792848585.8236887,
     "olmaliqhayoti:86033": 1792860537.5854378,
     "olmaliq:43555": 1792860549.1885571,
-    "olmaliqhayoti:86034": 1792892069.6770077
+    "olmaliqhayoti:86034": 1792892069.6770077,
+    "olmaliqhayoti:86035": 1792910731.0922332,
+    "ao_agmk:49827": 1792910741.858205,
+    "ao_agmk:49828": 1792910746.8747268,
+    "ao_agmk:49829": 1792910753.7234015,
+    "olmaliq:43556": 1792910771.4757774,
+    "olmaliq:43557": 1792910810.3656301,
+    "olmaliq:43558": 1792910817.0140865,
+    "olmaliq:43559": 1792910820.6887782,
+    "olmaliq:43560": 1792910831.9792528,
+    "olmaliq:43569": 1792910835.259393
   },
   "posted_articles": [
-    {
-      "title": "Mol-mulk va yer soliqlarini to'lash muddati",
-      "summary": "",
-      "norm_title": "molmulk va yer soliqlarini tolash muddati",
-      "topic_key": "soliq-tolash-muddati",
-      "stems": [
-        "lash",
-        "yer",
-        "mol",
-        "soliq",
-        "muddat",
-        "mulk"
-      ],
-      "posted_at": 1791210622.9394886
-    },
-    {
-      "title": "AGMK haftalik yangiliklar dayjesti e'lon qilindi",
-      "summary": "",
-      "norm_title": "agmk haftalik yangiliklar dayjesti elon qilindi",
-      "topic_key": "agmk-haftalik-dayjest",
-      "stems": [
-        "hafta",
-        "yang",
-        "agmk",
-        "dayjest",
-        "lon"
-      ],
-      "posted_at": 1791210668.5618522
-    },
     {
       "title": "Ikkita vazirlik yagona Ta'lim va ilm-fan vazirligiga birlashtirildi",
       "summary": "",
@@ -6173,6 +6154,36 @@
         "namoz"
       ],
       "posted_at": 1792860549.1978002
+    },
+    {
+      "title": "Olmaliqlik yosh futbolchi O'zbekiston chempioni bo'ldi",
+      "summary": "Namanganda o'tkazilgan O'zbekiston chempionatida Olmaliq sport maktabi o'quvchisi Abdulloh Mirzoyev Toshkent viloyati jamoasi safida g'oliblikni qo'lga kiritdi. Shuningdek, joriy yilda maktabning 5 nafar o'quvchisi AGMK futbol akademiyasiga qabul qilingan.",
+      "norm_title": "olmaliqlik yosh futbolchi ozbekiston chempioni boldi",
+      "topic_key": "olmaliq-futbol-chempion",
+      "stems": [
+        "zbekiston",
+        "futbolch",
+        "ldi",
+        "chempio",
+        "yosh"
+      ],
+      "posted_at": 1792910731.0999675
+    },
+    {
+      "title": "Favqulodda vaziyatlar xodimlari nomidan pul so'raganlarga aldanmang",
+      "summary": "Namangan FVV boshlig'i uyma-uy yurib xizmat ko'rsatmasdan pul talab qilayotgan shaxslarga aldanmaslikni so'radi. Hech kimning xizmat ko'rsatmasdan pul olishga haqqi yo'q.",
+      "norm_title": "favqulodda vaziyatlar xodimlari nomidan pul soraganlarga aldanmang",
+      "topic_key": "fvv-pul-talab-qilish",
+      "stems": [
+        "pul",
+        "vaziyat",
+        "xodim",
+        "nom",
+        "favqulod",
+        "ragan",
+        "aldanmang"
+      ],
+      "posted_at": 1792910810.3739743
     }
   ]
 }
