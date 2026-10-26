@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86046,
-    "ao_agmk": 49841,
-    "olmaliqshaharpressa": 12797,
-    "olmaliq": 43581
+    "olmaliqhayoti": 86059,
+    "ao_agmk": 49847,
+    "olmaliqshaharpressa": 12798,
+    "olmaliq": 43582
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3261,41 +3261,16 @@
     "ao_agmk:49841": 1793021156.3473954,
     "olmaliqshaharpressa:12797": 1793021169.4209862,
     "olmaliq:43580": 1793021189.7180872,
-    "olmaliq:43581": 1793021205.9157069
+    "olmaliq:43581": 1793021205.9157069,
+    "olmaliqhayoti:86056": 1793042847.377454,
+    "olmaliqhayoti:86057": 1793042858.2607565,
+    "olmaliqhayoti:86058": 1793042867.9079716,
+    "olmaliqhayoti:86059": 1793042875.4818938,
+    "ao_agmk:49847": 1793042881.8798223,
+    "olmaliqshaharpressa:12798": 1793042892.0951786,
+    "olmaliq:43582": 1793042895.788209
   },
   "posted_articles": [
-    {
-      "title": "Buxorodagi Karvon bozori yong'ini bo'yicha jinoyat ishi qo'zg'atildi",
-      "summary": "Buxorodagi 'Karvon' bozoridagi yong'in yuzasidan jinoyat ishi qo'zg'atildi. Jabrlangan tadbirkorlarning kreditlari 1 yilgacha muzlatiladi va ularga bepul savdo joylari ajratiladi.",
-      "norm_title": "buxorodagi karvon bozori yongini boyicha jinoyat ishi qozgatildi",
-      "topic_key": "",
-      "stems": [
-        "karvon",
-        "ini",
-        "jinoyat",
-        "yong",
-        "ish",
-        "bozor",
-        "yicha",
-        "buxoro",
-        "atil"
-      ],
-      "posted_at": 1791112801.0
-    },
-    {
-      "title": "Ta'lim tizimida yirik islohotlar amalga oshiriladi",
-      "summary": "O'zbekistonda Ta'lim va ilm-fan vazirligi hamda Ta'lim sifatini ta'minlash milliy agentligi tashkil etilib, oliygohlar mustaqilligi kengaytiriladi.",
-      "norm_title": "talim tizimida yirik islohotlar amalga oshiriladi",
-      "topic_key": "",
-      "stems": [
-        "islohot",
-        "yirik",
-        "oshir",
-        "lim",
-        "tizim"
-      ],
-      "posted_at": 1791112810.0
-    },
     {
       "title": "Inson kapitalini rivojlantirish bo'yicha yangi ishchi guruh tuzilmoqda",
       "summary": "Prezident Administratsiyasi huzurida Inson kapitalini rivojlantirish strategiyasini ishlab chiquvchi ishchi guruh tashkil etilib, unga tadbirkor Zafar Hoshimov rahbar etib tayinlandi.",
@@ -6214,6 +6189,40 @@
         "zbekiston"
       ],
       "posted_at": 1793021189.7255547
+    },
+    {
+      "title": "O'zbekiston Paraosiyo o'yinlarida tarixiy natijani qayd etdi",
+      "summary": "Yaponiyadagi V yozgi Paraosiyo o'yinlarida O'zbekiston delegatsiyasi 145 ta medal bilan umumjamoa hisobida 3-o'rinni egalladi. 15 yoshli Boburbek Toshtemirov musobaqaning eng yosh chempioniga aylandi.",
+      "norm_title": "ozbekiston paraosiyo oyinlarida tarixiy natijani qayd etdi",
+      "topic_key": "paraosiyo-uyinlari-natija",
+      "stems": [
+        "yin",
+        "etd",
+        "qayd",
+        "paraosiyo",
+        "zbekiston",
+        "natija",
+        "tarixiy"
+      ],
+      "posted_at": 1793042858.2696228
+    },
+    {
+      "title": "Ausenco rahbari AGMKning 3-Mis boyitish fabrikasiga yuqori baho berdi",
+      "summary": "Xalqaro 'Ausenco' kompaniyasi asoschisi Zimi Meka 3-Mis boyitish fabrikasining zamonaviy texnologiyalari va ulkan ko'lamini e'tirof etdi.",
+      "norm_title": "ausenco rahbari agmkning 3mis boyitish fabrikasiga yuqori baho berdi",
+      "topic_key": "3-mbf-xalqaro-e-tirof",
+      "stems": [
+        "ber",
+        "rahbar",
+        "yuqor",
+        "boyit",
+        "agmk",
+        "baho",
+        "ausenco",
+        "fabr",
+        "mis"
+      ],
+      "posted_at": 1793042881.887885
     }
   ]
 }
