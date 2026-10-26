@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86040,
-    "ao_agmk": 49832,
+    "olmaliqhayoti": 86046,
+    "ao_agmk": 49834,
     "olmaliqshaharpressa": 12796,
-    "olmaliq": 43575
+    "olmaliq": 43579
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3247,81 +3247,17 @@
     "olmaliq:43573": 1792954445.139712,
     "olmaliq:43574": 1792954445.1537812,
     "olmaliqhayoti:86040": 1792977656.7129252,
-    "olmaliq:43575": 1792977664.4943995
+    "olmaliq:43575": 1792977664.4943995,
+    "olmaliqhayoti:86041": 1792995955.9722433,
+    "olmaliqhayoti:86046": 1792996013.4659417,
+    "ao_agmk:49833": 1792996019.7191722,
+    "ao_agmk:49834": 1792996046.426322,
+    "olmaliq:43576": 1792996069.8701787,
+    "olmaliq:43577": 1792996072.8873045,
+    "olmaliq:43578": 1792996076.359577,
+    "olmaliq:43579": 1792996093.5732296
   },
   "posted_articles": [
-    {
-      "title": "OKMK 9 oyda byudjetga 26,1 trillion so'm yo'naltirdi",
-      "summary": "",
-      "norm_title": "okmk 9 oyda byudjetga 261 trillion som yonaltirdi",
-      "topic_key": "okmk-byudjet-tushumlari",
-      "stems": [
-        "okmk",
-        "naltir",
-        "oyda",
-        "trillion",
-        "byudjet"
-      ],
-      "posted_at": 1791210783.7615018
-    },
-    {
-      "title": "3 va 4-misni boyitish fabrikalaridagi qurilish ishlari muhokama qilindi",
-      "summary": "",
-      "norm_title": "3 va 4misni boyitish fabrikalaridagi qurilish ishlari muhokama qilindi",
-      "topic_key": "agmk-mbf-qurilish-yigilish",
-      "stems": [
-        "boyit",
-        "fabr",
-        "quril",
-        "ish",
-        "mis"
-      ],
-      "posted_at": 1791210798.0893734
-    },
-    {
-      "title": "OKMKda 4-mis boyitish fabrikasi loyihasi muhokama qilindi",
-      "summary": "",
-      "norm_title": "okmkda 4mis boyitish fabrikasi loyihasi muhokama qilindi",
-      "topic_key": "okmk-mob-4-loyiha",
-      "stems": [
-        "boyit",
-        "okmk",
-        "fabr",
-        "mis",
-        "loyiha"
-      ],
-      "posted_at": 1791210816.4694788
-    },
-    {
-      "title": "Ishdan bo'shatilgan xodimlarga uchinchi oy uchun ham haq to'lanishi belgilandi",
-      "summary": "",
-      "norm_title": "ishdan boshatilgan xodimlarga uchinchi oy uchun ham haq tolanishi belgilandi",
-      "topic_key": "ishdan-boshatish-kompensatsiya",
-      "stems": [
-        "uchinch",
-        "belgilan",
-        "haq",
-        "ish",
-        "lan",
-        "shat",
-        "xodim"
-      ],
-      "posted_at": 1791210881.739604
-    },
-    {
-      "title": "Chiqindilarni olib ketish tartibi tasdiqlandi",
-      "summary": "",
-      "norm_title": "chiqindilarni olib ketish tartibi tasdiqlandi",
-      "topic_key": "chiqindi-olib-ketish-tartibi",
-      "stems": [
-        "olib",
-        "tartib",
-        "ket",
-        "chiqin",
-        "tasdiqlan"
-      ],
-      "posted_at": 1791210914.388268
-    },
     {
       "title": "Toshkentda dorilar belgilangan narxdan qimmat sotilayotgani aniqlandi",
       "summary": "",
@@ -6200,6 +6136,84 @@
         "obodonlash"
       ],
       "posted_at": 1792944149.8053653
+    },
+    {
+      "title": "Olmaliqda yong'in xavfsizligi bo'yicha targ'ibot o'tkazildi",
+      "summary": "Olmaliq shahar FVB xodimlari Ko'rpasoy va Temur Malik MFYlarida aholiga yong'in xavfsizligi va is gazidan zaharlanishning oldini olish bo'yicha tushuntirish ishlarini olib bordi.",
+      "norm_title": "olmaliqda yongin xavfsizligi boyicha targibot otkazildi",
+      "topic_key": "fvb-xavfsizlik-targiboti",
+      "stems": [
+        "targ",
+        "ibot",
+        "tkazil",
+        "xavfsiz",
+        "yong",
+        "yicha"
+      ],
+      "posted_at": 1792995955.9777725
+    },
+    {
+      "title": "Ziroat Mirziyoyeva Global tarmoq raisi etib saylandi",
+      "summary": "Samarqanddagi xalqaro kongressda Ziroat Mirziyoyeva og'ir xastalikka chalingan bolalarni qo'llab-quvvatlash bo'yicha Global tarmoq raisi etib saylandi. U ushbu lavozimda ikki yil davomida faoliyat yuritadi.",
+      "norm_title": "ziroat mirziyoyeva global tarmoq raisi etib saylandi",
+      "topic_key": "ziroat-mirziyoyeva-global-tarmoq",
+      "stems": [
+        "global",
+        "rai",
+        "mirziyoyeva",
+        "tarmoq",
+        "ziroat",
+        "saylan",
+        "etib"
+      ],
+      "posted_at": 1792996013.4717424
+    },
+    {
+      "title": "4-transport sexi yillik rejasini muddatidan avval bajardi",
+      "summary": "AGMK Texnologik transport boshqarmasiga qarashli 4-transport sexi jamoasi yillik reja ko'rsatkichlarini muddatidan oldin uddaladi.",
+      "norm_title": "4transport sexi yillik rejasini muddatidan avval bajardi",
+      "topic_key": "agmk-4-transport-sexi",
+      "stems": [
+        "transport",
+        "sex",
+        "bajar",
+        "muddat",
+        "reja",
+        "avval"
+      ],
+      "posted_at": 1792996046.4322777
+    },
+    {
+      "title": "Kommunal to'lov ilovasida uy egasining ismini to'g'rilash usuli",
+      "summary": "Kommunal to'lov ilovalarida xonadon egasining ismi noto'g'ri ko'rinsa, uni ko'rsatilgan yo'riqnoma orqali osongina to'g'rilash mumkin.",
+      "norm_title": "kommunal tolov ilovasida uy egasining ismini togrilash usuli",
+      "topic_key": "kommunal-tolov-ism-ozgartirish",
+      "stems": [
+        "lov",
+        "ilova",
+        "ism",
+        "usul",
+        "ega",
+        "rilash",
+        "kommunal"
+      ],
+      "posted_at": 1792996069.875955
+    },
+    {
+      "title": "Eron elchixonasi Samarqand haqidagi bahsli postini o'chirdi",
+      "summary": "O'zbekiston TIVning qat'iy e'tirozidan so'ng, Eronning Armanistondagi elchixonasi Samarqandning tarixiy merosini buzib talqin qilgan postini o'chirib tashladi.",
+      "norm_title": "eron elchixonasi samarqand haqidagi bahsli postini ochirdi",
+      "topic_key": "eron-elchixonasi-samarqand-posti",
+      "stems": [
+        "eron",
+        "elchixona",
+        "bahsl",
+        "haq",
+        "post",
+        "chir",
+        "samarqand"
+      ],
+      "posted_at": 1792996093.579135
     }
   ]
 }
