@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
     "olmaliqhayoti": 86046,
-    "ao_agmk": 49834,
-    "olmaliqshaharpressa": 12796,
-    "olmaliq": 43579
+    "ao_agmk": 49841,
+    "olmaliqshaharpressa": 12797,
+    "olmaliq": 43581
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3255,71 +3255,15 @@
     "olmaliq:43576": 1792996069.8701787,
     "olmaliq:43577": 1792996072.8873045,
     "olmaliq:43578": 1792996076.359577,
-    "olmaliq:43579": 1792996093.5732296
+    "olmaliq:43579": 1792996093.5732296,
+    "ao_agmk:49838": 1793021125.4627404,
+    "ao_agmk:49839": 1793021138.0834017,
+    "ao_agmk:49841": 1793021156.3473954,
+    "olmaliqshaharpressa:12797": 1793021169.4209862,
+    "olmaliq:43580": 1793021189.7180872,
+    "olmaliq:43581": 1793021205.9157069
   },
   "posted_articles": [
-    {
-      "title": "Toshkentda dorilar belgilangan narxdan qimmat sotilayotgani aniqlandi",
-      "summary": "",
-      "norm_title": "toshkentda dorilar belgilangan narxdan qimmat sotilayotgani aniqlandi",
-      "topic_key": "dorixona-narx-nazorati",
-      "stems": [
-        "belgilan",
-        "aniqlan",
-        "dor",
-        "sotilayot",
-        "narx",
-        "qimmat"
-      ],
-      "posted_at": 1791210945.454533
-    },
-    {
-      "title": "O'zbekistonda ikki ta'lim vazirligi birlashtirildi",
-      "summary": "Maktabgacha va maktab ta'limi hamda Oliy ta'lim, fan va innovatsiyalar vazirliklari negizida yagona Ta'lim va ilm-fan vazirligi tashkil etildi.",
-      "norm_title": "ozbekistonda ikki talim vazirligi birlashtirildi",
-      "topic_key": "",
-      "stems": [
-        "ikk",
-        "vazir",
-        "zbekiston",
-        "birlashtiril",
-        "lim"
-      ],
-      "posted_at": 1791092666.0
-    },
-    {
-      "title": "Inson kapitalini rivojlantirish bo'yicha maxsus ishchi guruh tuzilmoqda",
-      "summary": "Prezident Administratsiyasi huzurida uzluksiz ta'lim strategiyasini ishlab chiquvchi maxsus ishchi guruh tashkil etilmoqda. Unga tadbirkor Zafar Hoshimov rahbarlik qiladi.",
-      "norm_title": "inson kapitalini rivojlantirish boyicha maxsus ishchi guruh tuzilmoqda",
-      "topic_key": "",
-      "stems": [
-        "rivojlan",
-        "ishch",
-        "kapital",
-        "maxsus",
-        "inson",
-        "yicha",
-        "tuz",
-        "guruh"
-      ],
-      "posted_at": 1791092687.0
-    },
-    {
-      "title": "Buxorodagi Karvon bozorida yirik yong'in yuz berdi",
-      "summary": "Buxoro shahridagi mashhur \"Karvon\" buyum bozorida kuchli yong'in sodir bo'lganligi xabar qilindi.",
-      "norm_title": "buxorodagi karvon bozorida yirik yongin yuz berdi",
-      "topic_key": "",
-      "stems": [
-        "karvon",
-        "yong",
-        "yirik",
-        "yuz",
-        "bozor",
-        "ber",
-        "buxoro"
-      ],
-      "posted_at": 1791112780.0
-    },
     {
       "title": "Buxorodagi Karvon bozori yong'ini bo'yicha jinoyat ishi qo'zg'atildi",
       "summary": "Buxorodagi 'Karvon' bozoridagi yong'in yuzasidan jinoyat ishi qo'zg'atildi. Jabrlangan tadbirkorlarning kreditlari 1 yilgacha muzlatiladi va ularga bepul savdo joylari ajratiladi.",
@@ -6214,6 +6158,62 @@
         "samarqand"
       ],
       "posted_at": 1792996093.579135
+    },
+    {
+      "title": "AGMKning 9 oylik ko'rsatkichlari e'lon qilindi",
+      "summary": "Olmaliq kon-metallurgiya kombinatining 2026-yilning o'tgan 9 oyi yakunlari bo'yicha asosiy iqtisodiy va ishlab chiqarish ko'rsatkichlari ma'lum qilindi.",
+      "norm_title": "agmkning 9 oylik korsatkichlari elon qilindi",
+      "topic_key": "agmk-9-oylik-natijalar",
+      "stems": [
+        "lon",
+        "oylik",
+        "rsatkich",
+        "agmk"
+      ],
+      "posted_at": 1793021138.0927832
+    },
+    {
+      "title": "AQSH investorlari OKMK salohiyatini yuqori baholadi",
+      "summary": "Prezident Shavkat Mirziyoyev va OKMK raisi Abdulla Xursanov AQSHning \"Eldridge Industries\" kompaniyasi rahbari Todd Boeli bilan tog'-kon sanoati va metallurgiya sohasidagi hamkorlikni kengaytirishni muhokama qildi.",
+      "norm_title": "aqsh investorlari okmk salohiyatini yuqori baholadi",
+      "topic_key": "okmk-aqsh-hamkorlik",
+      "stems": [
+        "yuqor",
+        "investor",
+        "okmk",
+        "salohiyat",
+        "bahol",
+        "aqsh"
+      ],
+      "posted_at": 1793021156.354677
+    },
+    {
+      "title": "Shavkat Mirziyoyev Qatar Amiri bilan uchrashdi",
+      "summary": "Prezident Shavkat Mirziyoyev va Qatar Amiri Shayx Tamim bin Hamad Ol Soniy o'rtasida rasmiy uchrashuv bo'lib o'tdi.",
+      "norm_title": "shavkat mirziyoyev qatar amiri bilan uchrashdi",
+      "topic_key": "prezident-qatar-amiri-uchrashuvi",
+      "stems": [
+        "uchrash",
+        "mirziyoyev",
+        "qatar",
+        "shavkat",
+        "amir"
+      ],
+      "posted_at": 1793021169.428416
+    },
+    {
+      "title": "O'zbekistonda ilk islomiy bank litsenziyasi berildi",
+      "summary": "Markaziy bank Boshqaruvi qarori bilan \"Open bank\" aksiyadorlik jamiyatiga mamlakatimizda islomiy bank faoliyatini amalga oshirish uchun birinchi litsenziya berildi.",
+      "norm_title": "ozbekistonda ilk islomiy bank litsenziyasi berildi",
+      "topic_key": "islomiy-bank-litsenziya",
+      "stems": [
+        "islomiy",
+        "bank",
+        "ilk",
+        "litsenziya",
+        "zbekiston"
+      ],
+      "posted_at": 1793021189.7255547
     }
   ]
 }
