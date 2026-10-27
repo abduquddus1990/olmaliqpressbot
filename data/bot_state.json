@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86067,
-    "ao_agmk": 49851,
-    "olmaliqshaharpressa": 12802,
-    "olmaliq": 43594
+    "olmaliqhayoti": 86085,
+    "ao_agmk": 49867,
+    "olmaliqshaharpressa": 12817,
+    "olmaliq": 43619
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3288,151 +3288,42 @@
     "olmaliq:43584": 1793087080.3708556,
     "olmaliq:43585": 1793087083.3935473,
     "olmaliq:43586": 1793087093.0754976,
-    "olmaliq:43594": 1793087097.948769
+    "olmaliq:43594": 1793087097.948769,
+    "olmaliqhayoti:86068": 1793108144.8364184,
+    "olmaliqhayoti:86069": 1793108149.0319104,
+    "olmaliqhayoti:86070": 1793108158.9881968,
+    "olmaliqhayoti:86071": 1793108170.1110709,
+    "olmaliqhayoti:86072": 1793108184.0662346,
+    "olmaliqhayoti:86080": 1793108191.0631444,
+    "olmaliqhayoti:86081": 1793108199.729939,
+    "olmaliqhayoti:86082": 1793108202.7538989,
+    "olmaliqhayoti:86083": 1793108202.7694201,
+    "olmaliqhayoti:86084": 1793108222.8544521,
+    "olmaliqhayoti:86085": 1793108231.0457065,
+    "ao_agmk:49857": 1793108238.8525128,
+    "ao_agmk:49862": 1793108250.699888,
+    "ao_agmk:49867": 1793108266.0247743,
+    "olmaliqshaharpressa:12803": 1793108271.4793787,
+    "olmaliqshaharpressa:12804": 1793108279.7182822,
+    "olmaliqshaharpressa:12805": 1793108284.8171914,
+    "olmaliqshaharpressa:12806": 1793108302.2702863,
+    "olmaliqshaharpressa:12807": 1793108312.3570824,
+    "olmaliqshaharpressa:12808": 1793108332.400792,
+    "olmaliqshaharpressa:12809": 1793108335.2324045,
+    "olmaliqshaharpressa:12810": 1793108339.273099,
+    "olmaliqshaharpressa:12811": 1793108345.746017,
+    "olmaliqshaharpressa:12812": 1793108362.012075,
+    "olmaliqshaharpressa:12813": 1793108365.896243,
+    "olmaliqshaharpressa:12814": 1793108371.7184708,
+    "olmaliqshaharpressa:12815": 1793108377.3402784,
+    "olmaliqshaharpressa:12817": 1793108397.8966286,
+    "olmaliq:43595": 1793108414.7833793,
+    "olmaliq:43601": 1793108438.9827979,
+    "olmaliq:43602": 1793108475.5674696,
+    "olmaliq:43610": 1793108485.188296,
+    "olmaliq:43619": 1793108485.20293
   },
   "posted_articles": [
-    {
-      "title": "Ta'lim sohasida yangi islohotlar boshlanmoqda",
-      "summary": "Yangi tashkil etiladigan Ta'lim va ilm-fan vazirligi barcha ta'lim muassasalari faoliyatiga mas'ul bo'ladi, dasturlarni esa Ta'lim sifatini ta'minlash milliy agentligi ishlab chiqadi. Oliy ta'limda davlat aralashuvi qisqartirilib, oliygohlar mustaqilligi kengaytiriladi.",
-      "norm_title": "talim sohasida yangi islohotlar boshlanmoqda",
-      "topic_key": "",
-      "stems": [
-        "soha",
-        "boshlan",
-        "islohot",
-        "lim"
-      ],
-      "posted_at": 1791139858.0
-    },
-    {
-      "title": "O‘zbekistonga nam havo oqimi kirib keldi",
-      "summary": "Qo‘shni Turkmaniston hududidan kirib kelgan nam havo oqimi hisobiga Qizilqum cho‘l stansiyalarida kuchli jala yomg‘irlari kuzatilmoqda.",
-      "norm_title": "ozbekistonga nam havo oqimi kirib keldi",
-      "topic_key": "",
-      "stems": [
-        "oqim",
-        "zbekiston",
-        "nam",
-        "havo",
-        "kirib",
-        "kel"
-      ],
-      "posted_at": 1791139865.0
-    },
-    {
-      "title": "Olmaliq shahri uchun 5-oktyabr kungi namoz vaqtlari",
-      "summary": "2026-yil 5-oktyabr dushanba kuni Olmaliqda bomdod 05:02, peshin 12:11, asr 16:13, shom 18:03 va xufton vaqti 19:13 ga belgilandi.",
-      "norm_title": "olmaliq shahri uchun 5oktyabr kungi namoz vaqtlari",
-      "topic_key": "",
-      "stems": [
-        "kung",
-        "vaqt",
-        "shahr",
-        "oktyabr",
-        "namoz"
-      ],
-      "posted_at": 1791139890.0
-    },
-    {
-      "title": "Karvon bozoridagi yong'in yuzasidan jinoyat ishi qo'zg'atildi",
-      "summary": "Buxorodagi 'Karvon' bozorida yuz bergan yong'in yuzasidan jinoyat ishi qo'zg'atildi. Talofat ko'rgan tadbirkorlarning kreditlari 1 yilgacha muzlatiladi va ularga bepul vaqtinchalik joylar ajratiladi.",
-      "norm_title": "karvon bozoridagi yongin yuzasidan jinoyat ishi qozgatildi",
-      "topic_key": "",
-      "stems": [
-        "karvon",
-        "jinoyat",
-        "yong",
-        "ish",
-        "yuza",
-        "bozor",
-        "atil"
-      ],
-      "posted_at": 1791151235.0
-    },
-    {
-      "title": "Buyuk ma'rifatparvar Abdulla Avoliy haqida",
-      "summary": "Taniqli jadid namoyandasi, shoir va olim Abdulla Avloniyning hayoti, mashaqqatli bolaligi hamda Turkistonda ma'rifat va ta'lim tizimini rivojlantirishdagi ulkan xizmatlari esga olindi.",
-      "norm_title": "buyuk marifatparvar abdulla avoliy haqida",
-      "topic_key": "",
-      "stems": [
-        "rifatparvar",
-        "buyuk",
-        "abdulla",
-        "avoliy"
-      ],
-      "posted_at": 1791151244.0
-    },
-    {
-      "title": "Buyuk ma'rifatparvar Abdulla Avloniy tavalludi",
-      "summary": "Toshkentda tug'ilib, jadidchilik harakatiga asos solgan, ilk darsliklar muallifi va jamoat arbobi Abdulla Avloniyning hayot yo'li va ma'rifiy merosi yodga olindi.",
-      "norm_title": "buyuk marifatparvar abdulla avloniy tavalludi",
-      "topic_key": "",
-      "stems": [
-        "buyuk",
-        "abdulla",
-        "rifatparvar",
-        "avloniy",
-        "tavallu"
-      ],
-      "posted_at": 1791160413.0
-    },
-    {
-      "title": "Olmaliq shahri uchun 5-oktyabr kunlik namoz vaqtlari",
-      "summary": "2026-yil 5-oktyabr dushanba kuni Olmaliq shahri uchun bomdod, peshin, asr, shom va xufton namozlarining vaqtlari e'lon qilindi.",
-      "norm_title": "olmaliq shahri uchun 5oktyabr kunlik namoz vaqtlari",
-      "topic_key": "",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt",
-        "oktyabr"
-      ],
-      "posted_at": 1791160445.0
-    },
-    {
-      "title": "Ozbekiston sportchilari Osiyo oinlarida yuqori natijani qolga kiritdi",
-      "summary": "Nagoyadagi XX Osiyo oinlarida Ozbekiston delegatsiyasi qariyb 5 milliard aholiga ega qitada 5-orinni egalladi.",
-      "norm_title": "ozbekiston sportchilari osiyo oinlarida yuqori natijani qolga kiritdi",
-      "topic_key": "",
-      "stems": [
-        "yuqor",
-        "oin",
-        "qol",
-        "sportch",
-        "osiyo",
-        "ozbekiston",
-        "kirit",
-        "natija"
-      ],
-      "posted_at": 1791180526.0
-    },
-    {
-      "title": "Bank kartalari va SIM-kartalarni MyGov orqali tekshiring",
-      "summary": "Fuqarolar o'z nomiga rasmiylashtirilgan barcha faol bank kartalari va SIM-kartalarni MyGov xizmati orqali bepul tekshirib, ishlatilmayotganlarini o'chirtirishlari tavsiya etiladi.",
-      "norm_title": "bank kartalari va simkartalarni mygov orqali tekshiring",
-      "topic_key": "",
-      "stems": [
-        "tekshiring",
-        "karta",
-        "sim",
-        "bank",
-        "mygov"
-      ],
-      "posted_at": 1791180578.0
-    },
-    {
-      "title": "AGMK haftalik yangiliklar dayjesti",
-      "summary": "Olmaliq kon-metallurgiya kombinatida o'tgan haftada O'qituvchi va murabbiylar kuni nishonlandi, yangi metallurgiya majmuasi qurilishi davom ettirildi hamda \"Kelajak muhandislari\" tanlovi g'oliblari taqdirlandi.",
-      "norm_title": "agmk haftalik yangiliklar dayjesti",
-      "topic_key": "",
-      "stems": [
-        "agmk",
-        "dayjest",
-        "hafta",
-        "yang"
-      ],
-      "posted_at": 1791180623.0
-    },
     {
       "title": "Yagona Ta'lim va ilm-fan vazirligi tashkil etildi",
       "summary": "Prezident farmoni bilan Maktabgacha va maktab ta'limi vazirligi hamda Oliy ta'lim, fan va innovatsiyalar vazirligi yagona Ta'lim va ilm-fan vazirligiga birlashtirildi. Islohot ta'lim tizimini zamon talablari asosida takomillashtirish va boshqaruv samaradorligini oshirishga qaratilgan.",
@@ -6245,6 +6136,152 @@
         "xodim"
       ],
       "posted_at": 1793087097.956249
+    },
+    {
+      "title": "Nogironligi bo'lgan bolalar uchun so'rovnoma",
+      "summary": "\"Sog'lom rivojlanish sari\" loyihasi doirasida Olmaliqda nogironligi bo'lgan bolalarning reabilitatsiya xizmatlariga ehtiyoji o'rganilmoqda.",
+      "norm_title": "nogironligi bolgan bolalar uchun sorovnoma",
+      "topic_key": "nogironlik-reabilitatsiya-sorovnoma",
+      "stems": [
+        "rovnoma",
+        "nogiron",
+        "lgan",
+        "bola"
+      ],
+      "posted_at": 1793108158.9959557
+    },
+    {
+      "title": "Olmaliqdagi 15-DMTTda ma'naviy-ma'rifiy ishlar holati o'rganildi",
+      "summary": "Respublika Ma'naviyat va ma'rifat markazi shahar bo'linmasi 15-maktabgacha ta'lim tashkilotida hujjatlar yuritilishi va sohaga oid qarorlar ijrosini tahlil qildi. Yakunda aniqlangan kamchiliklarni bartaraf etish yuzasidan tavsiyalar berildi.",
+      "norm_title": "olmaliqdagi 15dmttda manaviymarifiy ishlar holati organildi",
+      "topic_key": "15-dmtt-manaviyat-organish",
+      "stems": [
+        "ish",
+        "holat",
+        "naviy",
+        "dmtt",
+        "rifiy",
+        "rganil"
+      ],
+      "posted_at": 1793108184.0733714
+    },
+    {
+      "title": "Tibbiyot rezidenturasi bepul bo'ladi va stipendiya belgilanadi",
+      "summary": "2027 yildan tibbiyot rezidenturasi bepulga o'tkazilib, talabalarga 3 million so'm stipendiya beriladi. O'qish muddati mutaxassisligiga qarab 2 yildan 5 yilgacha etib belgilandi.",
+      "norm_title": "tibbiyot rezidenturasi bepul boladi va stipendiya belgilanadi",
+      "topic_key": "tibbiyot-rezidenturasi-stipendiya",
+      "stems": [
+        "bepul",
+        "belgilan",
+        "lad",
+        "rezidentura",
+        "tibbiyot",
+        "stipendiya"
+      ],
+      "posted_at": 1793108199.7386186
+    },
+    {
+      "title": "Poliklinika xodimlariga bepul kiyim va pul mukofotlari beriladi",
+      "summary": "Poliklinika shifokorlari va hamshiralariga bepul maxsus kiyim beriladi. Shuningdek, eng yaxshi xodimlar 30 mln so'm pul mukofoti hamda elektromobillar bilan taqdirlanadi.",
+      "norm_title": "poliklinika xodimlariga bepul kiyim va pul mukofotlari beriladi",
+      "topic_key": "shifokorlar-mukofot-bepul-kiyim",
+      "stems": [
+        "kiyim",
+        "bepul",
+        "mukofot",
+        "xodim",
+        "ber",
+        "pul",
+        "polikl"
+      ],
+      "posted_at": 1793108231.053444
+    },
+    {
+      "title": "AGMK korxonalarida profilaktik tadbir o'tkazildi",
+      "summary": "Markaziy ta'mirlash-mexanika zavodi va 2-Mis boyitish fabrikasida ishchi-xodimlar uchun zo'ravonlik hamda kiberjinoyatlarning oldini olishga qaratilgan uchrashuv bo'lib o'tdi.",
+      "norm_title": "agmk korxonalarida profilaktik tadbir otkazildi",
+      "topic_key": "agmk-zoravonlik-profilaktika",
+      "stems": [
+        "tkazil",
+        "profilaktik",
+        "tadbir",
+        "agmk",
+        "korxona"
+      ],
+      "posted_at": 1793108250.7077558
+    },
+    {
+      "title": "Tibbiyotning birlamchi bo'g'ini yangi bosqichga o'tmoqda",
+      "summary": "Birlamchi tibbiy yordam sifatini oshirish bo'yicha sinovdan o'tgan yangi tizim kelasi yildan yana 100 ta tumanda joriy etiladi. Ushbu tizim doirasida aholi oilaviy shifokorlarga biriktirilib, bemorlarga 69 turdagi dori bepul berilmoqda.",
+      "norm_title": "tibbiyotning birlamchi bogini yangi bosqichga otmoqda",
+      "topic_key": "tibbiyot-birlamchi-bogin-tizimi",
+      "stems": [
+        "birlamch",
+        "tibbiyot",
+        "bosqich",
+        "tmoq",
+        "ini"
+      ],
+      "posted_at": 1793108271.4872324
+    },
+    {
+      "title": "Tibbiyot oliygohlari talabalari uchun amaliyot tizimi o'zgaradi",
+      "summary": "Kelasi yildan tibbiyot talabalari haftada uch kun bemor bilan ishlashni o'rganadi, bitiruvchilarga esa qo'shimcha oylik ustamalari belgilanadi.",
+      "norm_title": "tibbiyot oliygohlari talabalari uchun amaliyot tizimi ozgaradi",
+      "topic_key": "tibbiyot-talabalari-amaliyot",
+      "stems": [
+        "oliygoh",
+        "amaliyot",
+        "zgar",
+        "tibbiyot",
+        "talaba",
+        "tizim"
+      ],
+      "posted_at": 1793108302.2785835
+    },
+    {
+      "title": "O‘zbekistonda xususiy tibbiyot sohasi rivojlanmoqda",
+      "summary": "Mamlakatimizda xususiy klinikalar soni 9 mingtadan oshdi. Shunga qaramay, hududlar o‘rtasida statsionar o‘rinlar bo‘yicha tafovutlar saqlanib qolmoqda.",
+      "norm_title": "ozbekistonda xususiy tibbiyot sohasi rivojlanmoqda",
+      "topic_key": "xususiy-tibbiyot-rivoji",
+      "stems": [
+        "rivojlan",
+        "soha",
+        "tibbiyot",
+        "xususiy",
+        "zbekiston"
+      ],
+      "posted_at": 1793108339.2806835
+    },
+    {
+      "title": "Tibbiyot muassasalari master-reja asosida tashkil etiladi",
+      "summary": "O‘zbekistonda tibbiyot infratuzilmasini yaxshilash maqsadida yangi muassasalar master-reja asosida quriladi va tibbiy xizmatlar bosqichma-bosqich xususiy sektordan xarid qilinadi.",
+      "norm_title": "tibbiyot muassasalari masterreja asosida tashkil etiladi",
+      "topic_key": "tibbiyot-master-reja-autsorsing",
+      "stems": [
+        "aso",
+        "reja",
+        "tibbiyot",
+        "master",
+        "tashkil",
+        "muassasa"
+      ],
+      "posted_at": 1793108345.7544324
+    },
+    {
+      "title": "Tibbiyotda hududlarga yaxlit mutaxassislar jamoasi yuboriladi",
+      "summary": "Prezident tashabbusi bilan hududlarda tibbiy xizmat sifatini oshirish uchun jarroh, anesteziolog va hamshiralardan iborat yaxlit jamoalar joylarga yuboriladi hamda xodimlar markazlarda stajirovkadan o'tkaziladi.",
+      "norm_title": "tibbiyotda hududlarga yaxlit mutaxassislar jamoasi yuboriladi",
+      "topic_key": "tibbiyot-jamoalari-stajirovka",
+      "stems": [
+        "yaxlit",
+        "jamoa",
+        "tibbiyot",
+        "yubor",
+        "mutaxassis",
+        "hudud"
+      ],
+      "posted_at": 1793108365.9035294
     }
   ]
 }
