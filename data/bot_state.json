@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86059,
-    "ao_agmk": 49847,
-    "olmaliqshaharpressa": 12798,
-    "olmaliq": 43583
+    "olmaliqhayoti": 86067,
+    "ao_agmk": 49851,
+    "olmaliqshaharpressa": 12802,
+    "olmaliq": 43594
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3269,141 +3269,28 @@
     "ao_agmk:49847": 1793042881.8798223,
     "olmaliqshaharpressa:12798": 1793042892.0951786,
     "olmaliq:43582": 1793042895.788209,
-    "olmaliq:43583": 1793066770.7259643
+    "olmaliq:43583": 1793066770.7259643,
+    "olmaliqhayoti:86060": 1793086988.9212675,
+    "olmaliqhayoti:86061": 1793086997.3512278,
+    "olmaliqhayoti:86062": 1793087000.3742204,
+    "olmaliqhayoti:86063": 1793087000.3889284,
+    "olmaliqhayoti:86064": 1793087000.4030464,
+    "olmaliqhayoti:86065": 1793087000.417185,
+    "olmaliqhayoti:86066": 1793087005.188041,
+    "olmaliqhayoti:86067": 1793087005.203772,
+    "ao_agmk:49848": 1793087012.0818956,
+    "ao_agmk:49849": 1793087022.709172,
+    "ao_agmk:49851": 1793087036.9495885,
+    "olmaliqshaharpressa:12799": 1793087043.1773279,
+    "olmaliqshaharpressa:12800": 1793087048.7930524,
+    "olmaliqshaharpressa:12801": 1793087057.040886,
+    "olmaliqshaharpressa:12802": 1793087066.9597116,
+    "olmaliq:43584": 1793087080.3708556,
+    "olmaliq:43585": 1793087083.3935473,
+    "olmaliq:43586": 1793087093.0754976,
+    "olmaliq:43594": 1793087097.948769
   },
   "posted_articles": [
-    {
-      "title": "Inson kapitalini rivojlantirish bo'yicha yangi ishchi guruh tuzilmoqda",
-      "summary": "Prezident Administratsiyasi huzurida Inson kapitalini rivojlantirish strategiyasini ishlab chiquvchi ishchi guruh tashkil etilib, unga tadbirkor Zafar Hoshimov rahbar etib tayinlandi.",
-      "norm_title": "inson kapitalini rivojlantirish boyicha yangi ishchi guruh tuzilmoqda",
-      "topic_key": "",
-      "stems": [
-        "rivojlan",
-        "ishch",
-        "kapital",
-        "inson",
-        "yicha",
-        "tuz",
-        "guruh"
-      ],
-      "posted_at": 1791112825.0
-    },
-    {
-      "title": "O'zbekistonga nam havo oqimi kirib kelmoqda",
-      "summary": "Turkmaniston hududidan kirib kelgan nam havo oqimi natijasida mamlakatning ayrim hududlarida, xususan Qizilqum cho'l stansiyalarida kuchli jala yomg'irlari boshlandi.",
-      "norm_title": "ozbekistonga nam havo oqimi kirib kelmoqda",
-      "topic_key": "",
-      "stems": [
-        "oqim",
-        "zbekiston",
-        "nam",
-        "havo",
-        "kirib",
-        "kel"
-      ],
-      "posted_at": 1791112834.0
-    },
-    {
-      "title": "Buxorodagi Karvon bozori yonib ketdi",
-      "summary": "Buxoro shahridagi mashhur 'Karvon' buyum bozorida yirik yong'in sodir bo'lgani ma'lum qilindi.",
-      "norm_title": "buxorodagi karvon bozori yonib ketdi",
-      "topic_key": "",
-      "stems": [
-        "karvon",
-        "yonib",
-        "ket",
-        "bozor",
-        "buxoro"
-      ],
-      "posted_at": 1791129081.0
-    },
-    {
-      "title": "Karvon bozoridagi yong'in bo'yicha jinoyat ishi qo'zg'atildi",
-      "summary": "Buxorodagi 'Karvon' bozorida yuz bergan yong'in yuzasidan jinoyat ishi qo'zg'atildi. Jabrlangan tadbirkorlarning kreditlari bir yilgacha muzlatiladi va ularga bepul vaqtinchalik joylar ajratiladi.",
-      "norm_title": "karvon bozoridagi yongin boyicha jinoyat ishi qozgatildi",
-      "topic_key": "",
-      "stems": [
-        "karvon",
-        "jinoyat",
-        "yong",
-        "ish",
-        "bozor",
-        "yicha",
-        "atil"
-      ],
-      "posted_at": 1791129105.0
-    },
-    {
-      "title": "Abdulla Avloniy hayoti va serqirra faoliyati haqida",
-      "summary": "O'zbek milliy ta'limi va matbuoti rivojiga ulkan hissa qo'shgan buyuk jadid ma'rifatparvari Abdulla Avloniyning hayot yo'li va ta'lim tizimidagi islohotlari haqida ma'lumot berildi.",
-      "norm_title": "abdulla avloniy hayoti va serqirra faoliyati haqida",
-      "topic_key": "",
-      "stems": [
-        "serqirra",
-        "abdulla",
-        "hayot",
-        "avloniy",
-        "faoliyat"
-      ],
-      "posted_at": 1791129119.0
-    },
-    {
-      "title": "AGMKda Ustozlarga ehtirom tanlovi g'oliblari taqdirlandi",
-      "summary": "O'qituvchi va murabbiylar kuni munosabati bilan Mis boyitish fabrikasida o'tkazilgan tanlovda eng yaxshi tabrik mualliflari kasaba uyushmasi tomonidan esdalik sovg'alari bilan taqdirlandi.",
-      "norm_title": "agmkda ustozlarga ehtirom tanlovi goliblari taqdirlandi",
-      "topic_key": "",
-      "stems": [
-        "ehtirom",
-        "olib",
-        "taqdirlan",
-        "ustoz",
-        "tanlov",
-        "agmk"
-      ],
-      "posted_at": 1791129131.0
-    },
-    {
-      "title": "Ta'lim tizimida yangi islohotlar boshlanmoqda",
-      "summary": "O'zbekistonda ikki vazirlik birlashtirilib, Ta'lim va ilm-fan vazirligi tashkil etiladi hamda oliygohlar mustaqilligi kengaytirilib, davlat aralashuvi keskin qisqartiriladi.",
-      "norm_title": "talim tizimida yangi islohotlar boshlanmoqda",
-      "topic_key": "",
-      "stems": [
-        "islohot",
-        "boshlan",
-        "lim",
-        "tizim"
-      ],
-      "posted_at": 1791129141.0
-    },
-    {
-      "title": "Ma'rifatparvar Abdulla Avloniy hayoti va merosi",
-      "summary": "Taniqli jadid adibi Abdulla Avloniyning bolaligi, quruvchilikdan elchilikgacha bo'lgan hayot yo'li hamda o'zbek maktablariga kiritgan islohotlari haqida ma'lumot berildi.",
-      "norm_title": "marifatparvar abdulla avloniy hayoti va merosi",
-      "topic_key": "",
-      "stems": [
-        "mero",
-        "abdulla",
-        "hayot",
-        "rifatparvar",
-        "avloniy"
-      ],
-      "posted_at": 1791139839.0
-    },
-    {
-      "title": "Mis boyitish fabrikasida ustozlarga ehtirom ko'rsatildi",
-      "summary": "1-oktabr munosabati bilan Mis boyitish fabrikasi xodimlari o'rtasida o'tkazilgan \"Ustozlarga ehtirom\" tanlovi g'oliblari aniqlandi va kasaba uyushmasi tomonidan taqdirlandi.",
-      "norm_title": "mis boyitish fabrikasida ustozlarga ehtirom korsatildi",
-      "topic_key": "",
-      "stems": [
-        "boyit",
-        "ehtirom",
-        "fabr",
-        "rsatil",
-        "mis",
-        "ustoz"
-      ],
-      "posted_at": 1791139850.0
-    },
     {
       "title": "Ta'lim sohasida yangi islohotlar boshlanmoqda",
       "summary": "Yangi tashkil etiladigan Ta'lim va ilm-fan vazirligi barcha ta'lim muassasalari faoliyatiga mas'ul bo'ladi, dasturlarni esa Ta'lim sifatini ta'minlash milliy agentligi ishlab chiqadi. Oliy ta'limda davlat aralashuvi qisqartirilib, oliygohlar mustaqilligi kengaytiriladi.",
@@ -6224,6 +6111,140 @@
         "mis"
       ],
       "posted_at": 1793042881.887885
+    },
+    {
+      "title": "Shahlo Turdiqulova TWAS vitse-prezidenti etib saylandi",
+      "summary": "O'zbekiston Fanlar akademiyasi vitse-prezidenti Shahlo Turdiqulova Butunjahon fanlar akademiyasi (TWAS) vitse-prezidenti etib saylandi. Bu Markaziy Osiyo tarixi davomidagi ilk shunday yuqori natijadir.",
+      "norm_title": "shahlo turdiqulova twas vitseprezidenti etib saylandi",
+      "topic_key": "shahlo-turdiqulova-twas-saylov",
+      "stems": [
+        "saylan",
+        "vitse",
+        "prezident",
+        "turdiqulova",
+        "twas",
+        "shahlo",
+        "etib"
+      ],
+      "posted_at": 1793086997.358637
+    },
+    {
+      "title": "Ohak zavodida tosh ko'tarish musobaqasi o'tkazildi",
+      "summary": "Ohak zavodi ishchi-xodimlari o'rtasida o'tkazilgan tosh ko'tarish musobaqasida Elektrosex elektromontyori D. Karimov 1-o'rinni egalladi.",
+      "norm_title": "ohak zavodida tosh kotarish musobaqasi otkazildi",
+      "topic_key": "ohak-zavodi-tosh-kotarish",
+      "stems": [
+        "tkazil",
+        "ohak",
+        "tar",
+        "tosh",
+        "zavod",
+        "musoba"
+      ],
+      "posted_at": 1793087012.0893497
+    },
+    {
+      "title": "Chodak kon boshqarmasida sayyor qabul o‘tkazildi",
+      "summary": "AGMK Kasaba uyushmasi kengashi Chodak kon boshqarmasida ishchilarning mehnat sharoitlari va ijtimoiy masalalar bo‘yicha murojaatlarini o‘rganish uchun sayyor qabul tashkil etdi.",
+      "norm_title": "chodak kon boshqarmasida sayyor qabul otkazildi",
+      "topic_key": "chodak-sayyor-qabul",
+      "stems": [
+        "sayyor",
+        "kon",
+        "tkazil",
+        "boshqarma",
+        "chodak",
+        "qabul"
+      ],
+      "posted_at": 1793087022.7165499
+    },
+    {
+      "title": "OKMKda harbiylashtirilgan qo'riqlash xizmati kuni nishonlandi",
+      "summary": "OKMK Idoraviy harbiylashtirilgan qo'riqlash xizmati tashkil etilganligi munosabati bilan o'tkazilgan tantanali tadbirda 30 nafar ilf'or xodim faxriy yorliqlar bilan taqdirlandi.",
+      "norm_title": "okmkda harbiylashtirilgan qoriqlash xizmati kuni nishonlandi",
+      "topic_key": "okmk-qoriqlash-xizmati-bayram",
+      "stems": [
+        "xizmat",
+        "harbiylash",
+        "riqlash",
+        "okmk",
+        "nishonlan"
+      ],
+      "posted_at": 1793087036.9567888
+    },
+    {
+      "title": "Prezident tibbiyot xodimlarini kasb bayrami bilan tabrikladi",
+      "summary": "Shavkat Mirziyoyev soha xodimlari bilan uchrashuvda so'nggi 10 yilda 10 million aholiga xizmat ko'rsatadigan yangi shifoxonalar ochilganini va tibbiy xizmatlar hajmi 3 karra oshganini ta'kidladi.",
+      "norm_title": "prezident tibbiyot xodimlarini kasb bayrami bilan tabrikladi",
+      "topic_key": "prezident-tibbiyot-uchrashuv",
+      "stems": [
+        "tibbiyot",
+        "tabrikl",
+        "kasb",
+        "prezident",
+        "bayram",
+        "xodim"
+      ],
+      "posted_at": 1793087048.8004568
+    },
+    {
+      "title": "Tibbiyotda sun'iy intellekt qo'llanadi va farmatsevtika rivojlantiriladi",
+      "summary": "Tibbiyot tizimi sun'iy intellekt imkoniyatlari bilan boyitilib, farmatsevtika mahsulotlarining 70 foizini mahalliy ishlab chiqarish maqsad qilingan. Toshkent viloyati va boshqa hududlardagi erkin zonalarda 1,2 milliard dollarlik loyihalar amalga oshirilmoqda.",
+      "norm_title": "tibbiyotda suniy intellekt qollanadi va farmatsevtika rivojlantiriladi",
+      "topic_key": "tibbiyot-raqamlashtirish-farmatsevtika",
+      "stems": [
+        "tibbiyot",
+        "rivojlan",
+        "sun",
+        "farmatsevt",
+        "intellekt",
+        "llan"
+      ],
+      "posted_at": 1793087057.0483084
+    },
+    {
+      "title": "Tibbiyot xodimlari uchun Ibn Sino nomidagi davlat mukofoti ta'sis etiladi",
+      "summary": "Prezident sohaga hissa qo'shgan bir guruh xodimlarga mukofotlarni topshirdi hamda tibbiyot sohasi uchun Ibn Sino nomidagi alohida davlat mukofotini ta'sis etish taklifini bildirdi.",
+      "norm_title": "tibbiyot xodimlari uchun ibn sino nomidagi davlat mukofoti tasis etiladi",
+      "topic_key": "ibn-sino-mukofoti",
+      "stems": [
+        "tibbiyot",
+        "nom",
+        "davlat",
+        "sino",
+        "xodim",
+        "ibn",
+        "mukofot",
+        "sis"
+      ],
+      "posted_at": 1793087066.9671416
+    },
+    {
+      "title": "Qamchiq dovonida yangi radar o'rnatildi",
+      "summary": "Qamchiq dovonining \"Chinor\" postiga yetmasdan yangi rusumdagi radar moslamasi o'rnatildi.",
+      "norm_title": "qamchiq dovonida yangi radar ornatildi",
+      "topic_key": "qamchiq-yangi-radar",
+      "stems": [
+        "radar",
+        "dovon",
+        "qamchiq",
+        "rnatil"
+      ],
+      "posted_at": 1793087080.3782964
+    },
+    {
+      "title": "Tibbiyot xodimlari uchun yangi qo'shimcha ustamalar belgilandi",
+      "summary": "Bakalavr hamshira va tibbiyot og'alariga 1,5 mln so'm, magistrlarga 2,5 mln so'm hamda oilaviy tor soha mutaxassislariga 5,5 mln so'm qo'shimcha ustama to'lanadi.",
+      "norm_title": "tibbiyot xodimlari uchun yangi qoshimcha ustamalar belgilandi",
+      "topic_key": "tibbiyot-xodimlari-ustama",
+      "stems": [
+        "tibbiyot",
+        "belgilan",
+        "shimcha",
+        "ustama",
+        "xodim"
+      ],
+      "posted_at": 1793087097.956249
     }
   ]
 }
