@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86085,
-    "ao_agmk": 49867,
+    "olmaliqhayoti": 86086,
+    "ao_agmk": 49878,
     "olmaliqshaharpressa": 12817,
-    "olmaliq": 43619
+    "olmaliq": 43622
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3321,53 +3321,15 @@
     "olmaliq:43601": 1793108438.9827979,
     "olmaliq:43602": 1793108475.5674696,
     "olmaliq:43610": 1793108485.188296,
-    "olmaliq:43619": 1793108485.20293
+    "olmaliq:43619": 1793108485.20293,
+    "olmaliqhayoti:86086": 1793127325.8665,
+    "ao_agmk:49877": 1793127339.6783178,
+    "ao_agmk:49878": 1793127342.2456582,
+    "olmaliq:43620": 1793127346.6209579,
+    "olmaliq:43621": 1793127357.7643223,
+    "olmaliq:43622": 1793127367.6899304
   },
   "posted_articles": [
-    {
-      "title": "Yagona Ta'lim va ilm-fan vazirligi tashkil etildi",
-      "summary": "Prezident farmoni bilan Maktabgacha va maktab ta'limi vazirligi hamda Oliy ta'lim, fan va innovatsiyalar vazirligi yagona Ta'lim va ilm-fan vazirligiga birlashtirildi. Islohot ta'lim tizimini zamon talablari asosida takomillashtirish va boshqaruv samaradorligini oshirishga qaratilgan.",
-      "norm_title": "yagona talim va ilmfan vazirligi tashkil etildi",
-      "topic_key": "",
-      "stems": [
-        "fan",
-        "vazir",
-        "ilm",
-        "tashkil",
-        "lim",
-        "yagona"
-      ],
-      "posted_at": 1791180677.0
-    },
-    {
-      "title": "Olmaliq shahri uchun 6-oktyabr kungi namoz vaqtlari",
-      "summary": "2026-yil 6-oktyabr seshanba kuni Olmaliqda bomdod 05:03, peshin 12:11, asr 16:11, shom 18:01 va xufton 19:11 da o'qiladi.",
-      "norm_title": "olmaliq shahri uchun 6oktyabr kungi namoz vaqtlari",
-      "topic_key": "",
-      "stems": [
-        "kung",
-        "vaqt",
-        "shahr",
-        "oktyabr",
-        "namoz"
-      ],
-      "posted_at": 1791236169.0
-    },
-    {
-      "title": "Yoshlarning xalqaro imtihon xarajatlari davlat tomonidan qoplab berildi",
-      "summary": "Xalqaro imtihonlarda yuqori natija ko'rsatgan 74 mingdan ortiq yoshlarga 151 milliard so'm xarajat qoplab berildi. Eng ko'p kompensatsiya IELTS topshirgan yoshlarga (54 mingdan ortiq) to'langan.",
-      "norm_title": "yoshlarning xalqaro imtihon xarajatlari davlat tomonidan qoplab berildi",
-      "topic_key": "",
-      "stems": [
-        "imtihon",
-        "yosh",
-        "qoplab",
-        "davlat",
-        "xalqaro",
-        "xarajat"
-      ],
-      "posted_at": 1791251577.0
-    },
     {
       "title": "Olmaliq shahri uchun namoz vaqtlari",
       "summary": "2026-yil 6-oktyabr seshanba kuni uchun Olmaliq shahridagi kundalik namoz vaqtlari e'lon qilindi.",
@@ -6282,6 +6244,52 @@
         "hudud"
       ],
       "posted_at": 1793108365.9035294
+    },
+    {
+      "title": "Olmaliq shahridagi ob-havo, namoz vaqtlari va valyuta kurslari",
+      "summary": "Olmaliqda bugun kunduzi havo harorati +17°C gacha iliq bo'ladi, yog'ingarchilik ehtimoli past. Shuningdek, kunlik namoz vaqtlari va Markaziy bank valyuta kurslari e'lon qilindi.",
+      "norm_title": "olmaliq shahridagi obhavo namoz vaqtlari va valyuta kurslari",
+      "topic_key": "olmaliq-ob-havo-namoz",
+      "stems": [
+        "valyuta",
+        "namoz",
+        "shahr",
+        "kurs",
+        "havo",
+        "vaqt"
+      ],
+      "posted_at": 1793127325.8738024
+    },
+    {
+      "title": "Toshkentda o'rtacha oylik maosh miqdori ma'lum qilindi",
+      "summary": "Statistika qo'mitasi ma'lumotiga ko'ra, Toshkent shahrida o'rtacha oylik ish haqi 12,3 million so'mdan oshdi. Respublika bo'yicha esa bu ko'rsatkich 7,27 million so'mni tashkil etdi.",
+      "norm_title": "toshkentda ortacha oylik maosh miqdori malum qilindi",
+      "topic_key": "toshkent-ortacha-ish-haqi",
+      "stems": [
+        "maosh",
+        "lum",
+        "oylik",
+        "rtacha",
+        "miqdor"
+      ],
+      "posted_at": 1793127346.628266
+    },
+    {
+      "title": "Xorijdan qaytgan shifokorlarga har oylik 50 million so'm ustama beriladi",
+      "summary": "Chet elda ishlab yurgan o'zbekistonlik shifokorlar vatanga qaytsa, ularning oyligiga har oy 50 million so'm qo'shimcha ustama to'lanadi. Shuningdek, olis hududlarda ishlovchi shifokorlarga ham qo'shimcha rag'bat pullari ajratiladi.",
+      "norm_title": "xorijdan qaytgan shifokorlarga har oylik 50 million som ustama beriladi",
+      "topic_key": "shifokorlar-ustama-maosh",
+      "stems": [
+        "million",
+        "oylik",
+        "xorij",
+        "ber",
+        "shifokor",
+        "qayt",
+        "ustama",
+        "har"
+      ],
+      "posted_at": 1793127357.7718983
     }
   ]
 }
