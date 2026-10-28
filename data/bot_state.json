@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86094,
-    "ao_agmk": 49882,
-    "olmaliqshaharpressa": 12855,
-    "olmaliq": 43639
+    "olmaliqhayoti": 86115,
+    "ao_agmk": 49892,
+    "olmaliqshaharpressa": 12860,
+    "olmaliq": 43660
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3350,86 +3350,25 @@
     "olmaliq:43626": 1793172910.4833453,
     "olmaliq:43627": 1793172916.70337,
     "olmaliq:43630": 1793172925.695373,
-    "olmaliq:43639": 1793172932.1256459
+    "olmaliq:43639": 1793172932.1256459,
+    "olmaliqhayoti:86095": 1793197436.5201201,
+    "olmaliqhayoti:86105": 1793197446.687548,
+    "olmaliqhayoti:86106": 1793197479.3834753,
+    "olmaliqhayoti:86114": 1793197530.1338873,
+    "olmaliqhayoti:86115": 1793197538.6117454,
+    "ao_agmk:49885": 1793197561.5412076,
+    "ao_agmk:49888": 1793197630.2829268,
+    "ao_agmk:49889": 1793197662.4442747,
+    "ao_agmk:49892": 1793197669.9817429,
+    "olmaliqshaharpressa:12856": 1793197683.574743,
+    "olmaliqshaharpressa:12857": 1793197698.4275105,
+    "olmaliqshaharpressa:12860": 1793197733.336516,
+    "olmaliq:43640": 1793197765.3722003,
+    "olmaliq:43650": 1793197797.3318927,
+    "olmaliq:43659": 1793197833.4053402,
+    "olmaliq:43660": 1793197843.910318
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda shahar hokimi o'rinbosari fuqarolar qabulini o'tkazdi",
-      "summary": "Olmaliq shahar Xalq qabulxonasida hokim o'rinbosari M.Minavarova tomonidan fuqarolarning bandlik, ijtimoiy himoya va tadbirkorlik masalalari bo'yicha murojaatlari tinglandi.",
-      "norm_title": "olmaliqda shahar hokimi orinbosari fuqarolar qabulini otkazdi",
-      "topic_key": "hokim-orinbosari-fuqarolar-qabuli",
-      "stems": [
-        "tkaz",
-        "hokim",
-        "fuqaro",
-        "qabul",
-        "rinbosar"
-      ],
-      "posted_at": 1791299447.6461844
-    },
-    {
-      "title": "Ekologik huquqbuzarliklar haqida xabar bering",
-      "summary": "Fuqarolar daraxtlarning noqonuniy kesilishi va chiqindi tashlash kabi ekologik qonunbuzarliklar haqida 1157 ishonch telefoni yoki @ecogovuz_bot orqali xabar berishlari mumkin.",
-      "norm_title": "ekologik huquqbuzarliklar haqida xabar bering",
-      "topic_key": "ekologiya-ishonch-telefoni",
-      "stems": [
-        "huquqbuzar",
-        "ekologik",
-        "bering"
-      ],
-      "posted_at": 1791299455.1207101
-    },
-    {
-      "title": "AGMK atrof-muhitni muhofaza qilish bo'limi boshlig'i lavozimiga rezyumelar qabul qilmoqda",
-      "summary": "AGMKning Atrof-muhitni muhofaza qilish bo'limi boshlig'i lavozimi uchun 2026-yil 6-15-oktyabr kunlari rezyumelar qabul qilinadi.",
-      "norm_title": "agmk atrofmuhitni muhofaza qilish bolimi boshligi lavozimiga rezyumelar qabul qilmoqda",
-      "topic_key": "agmk-vakansiya-ekologiya",
-      "stems": [
-        "atrof",
-        "agmk",
-        "rezyume",
-        "muhofaza",
-        "qabul",
-        "lim",
-        "lavozim",
-        "boshlig",
-        "qil",
-        "muhit"
-      ],
-      "posted_at": 1791299472.6077995
-    },
-    {
-      "title": "Olmaliq maktablarida xalqaro mutaxassislar dars o'tishni boshladi",
-      "summary": "Olmaliq shahridagi umumta'lim maktablariga xorijiy tillarni o'rgatish uchun Filippin, Xitoy va Misrdan 4 nafar mutaxassis jalb etildi. Ular 5, 11, 17 va 19-maktablarda ingliz hamda xitoy tillaridan saboq bermoqda.",
-      "norm_title": "olmaliq maktablarida xalqaro mutaxassislar dars otishni boshladi",
-      "topic_key": "olmaliq-maktablar-xorijiy-mutaxassislar",
-      "stems": [
-        "boshl",
-        "dars",
-        "xalqaro",
-        "tish",
-        "mutaxassis",
-        "maktab"
-      ],
-      "posted_at": 1791341085.137082
-    },
-    {
-      "title": "Samarqand 2028-yilgi Xalqaro astronomiya kongressiga mezbonlik qilishi mumkin",
-      "summary": "Samarqand shahrida 2028-yilgi Xalqaro астронавтика kongressini o'tkazish bo'yicha Халқаро астронавтика федерацияси bilan dastlabki shartnoma imzolandi. Mazkur nufuzli tadbirga Elon Musk tashrif buyurishi kutilmoqda.",
-      "norm_title": "samarqand 2028yilgi xalqaro astronomiya kongressiga mezbonlik qilishi mumkin",
-      "topic_key": "samarqand-astronavtika-kongress",
-      "stems": [
-        "mumkin",
-        "2028",
-        "xalqaro",
-        "mezbon",
-        "kongres",
-        "qil",
-        "samarqand",
-        "astronomiya"
-      ],
-      "posted_at": 1791341121.4987924
-    },
     {
       "title": "Moped va skuterlarni boshqarishda haydovchilik guvohnomasi talab etilishining sababi ma'lum qilindi",
       "summary": "Yo'l harakati xavfsizligi xizmati ma'lumotlariga ko'ra, moped va skuterlar ishtirokidagi qoidabuzarliklar keskin oshgan: 2026-yilning 9 oyida 563 ta YTH sodir bo'lib, 89 kishi halok bo'lgan. Shu sababli ushbu transport vositalarini boshqarishda xavfsizlik talablari kuchaytirilmoqda.",
@@ -6322,6 +6261,80 @@
         "kattaxonova"
       ],
       "posted_at": 1793172932.1313493
+    },
+    {
+      "title": "Olmaliqda 3-sonli oilaviy poliklinika foydalanishga topshirildi",
+      "summary": "Olmaliq shahrining «Koinot» mahallasida 11,5 milliard so‘m evaziga to‘liq rekonstruksiya qilingan 3-sonli oilaviy poliklinika foydalanishga topshirildi. U 8 ta mahalladagi 30,4 mingdan ziyod aholiga xizmat ko‘rsatadi.",
+      "norm_title": "olmaliqda 3sonli oilaviy poliklinika foydalanishga topshirildi",
+      "topic_key": "3-poliklinika-qayta-ochildi",
+      "stems": [
+        "foydalan",
+        "oilaviy",
+        "topshiril",
+        "polikl",
+        "sonl"
+      ],
+      "posted_at": 1793197436.5258455
+    },
+    {
+      "title": "Firibgarlar yangi klaviatura bahonasida karta ma’lumotlarini o‘g‘irlamoqda",
+      "summary": "Firibgarlar shaxsiy xabarlar orqali «yangi o‘zbek alifbosi klaviaturasi» ilovasini o‘rnatishni taklif qilib, plastik karta ma’lumotlarini o‘g‘irlamoqda.",
+      "norm_title": "firibgarlar yangi klaviatura bahonasida karta malumotlarini ogirlamoqda",
+      "topic_key": "firibgarlik-klaviatura-karta",
+      "stems": [
+        "karta",
+        "bahona",
+        "lumot",
+        "firibgar",
+        "klaviatura",
+        "irla"
+      ],
+      "posted_at": 1793197446.693562
+    },
+    {
+      "title": "Olmaliqdagi 5-maktabda o'zbek tili sinfi ochilmoqda",
+      "summary": "Olmaliq shahri 5-sonli umumta'lim maktabida o'zbek tilida o'qitiladigan sinf ochilmoqda. Hozirda 0-sinf guruhi uchun o'quvchilarni qabul qilish boshlandi.",
+      "norm_title": "olmaliqdagi 5maktabda ozbek tili sinfi ochilmoqda",
+      "topic_key": "maktab-ozbek-sinfi-qabul",
+      "stems": [
+        "maktab",
+        "och",
+        "zbek",
+        "til",
+        "sinf"
+      ],
+      "posted_at": 1793197538.6176593
+    },
+    {
+      "title": "\"Ilk qadam\" o'quv dasturiga bag'ishlangan seminar o'tkazildi",
+      "summary": "AGMK hamda Toshkent viloyati Maktabgacha ta'lim boshqarmasi hamkorligida \"Ilk qadam\" milliy o'quv dasturining 3-nashrini amaliyotga tatbiq etish bo'yicha ilmiy-metodik seminar o'tkazildi.",
+      "norm_title": "ilk qadam oquv dasturiga bagishlangan seminar otkazildi",
+      "topic_key": "ilk-qadam-seminar",
+      "stems": [
+        "qadam",
+        "ishlan",
+        "ilk",
+        "tkazil",
+        "quv",
+        "dastur",
+        "bag",
+        "seminar"
+      ],
+      "posted_at": 1793197561.5477548
+    },
+    {
+      "title": "Olmaliqda Ichki ishlar organlari xodimlari kuni nishonlandi",
+      "summary": "“Nurnigor” to‘yxonasida shahar hokimi va mas'ul rahbarlar ishtirokida kasb bayrami tantanali nishonlanib, faol xodimlar taqdirlandi.",
+      "norm_title": "olmaliqda ichki ishlar organlari xodimlari kuni nishonlandi",
+      "topic_key": "iichki-ishlar-kuni-olmaliq",
+      "stems": [
+        "xodim",
+        "organ",
+        "ichk",
+        "ish",
+        "nishonlan"
+      ],
+      "posted_at": 1793197765.3782175
     }
   ]
 }
