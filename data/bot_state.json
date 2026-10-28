@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86088,
-    "ao_agmk": 49878,
-    "olmaliqshaharpressa": 12817,
-    "olmaliq": 43622
+    "olmaliqhayoti": 86094,
+    "ao_agmk": 49882,
+    "olmaliqshaharpressa": 12855,
+    "olmaliq": 43639
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3329,75 +3329,30 @@
     "olmaliq:43621": 1793127357.7643223,
     "olmaliq:43622": 1793127367.6899304,
     "olmaliqhayoti:86087": 1793152125.9527519,
-    "olmaliqhayoti:86088": 1793152125.9645
+    "olmaliqhayoti:86088": 1793152125.9645,
+    "olmaliqhayoti:86089": 1793172704.1051624,
+    "olmaliqhayoti:86090": 1793172762.5860295,
+    "olmaliqhayoti:86091": 1793172791.5946405,
+    "olmaliqhayoti:86092": 1793172794.6117682,
+    "olmaliqhayoti:86093": 1793172823.566321,
+    "olmaliqhayoti:86094": 1793172826.5831847,
+    "ao_agmk:49879": 1793172827.525511,
+    "ao_agmk:49880": 1793172827.5366592,
+    "ao_agmk:49881": 1793172827.5495691,
+    "ao_agmk:49882": 1793172834.9170468,
+    "olmaliqshaharpressa:12829": 1793172850.2582545,
+    "olmaliqshaharpressa:12839": 1793172861.1519077,
+    "olmaliqshaharpressa:12849": 1793172867.956731,
+    "olmaliqshaharpressa:12855": 1793172874.7611117,
+    "olmaliq:43623": 1793172885.3052664,
+    "olmaliq:43624": 1793172905.070101,
+    "olmaliq:43625": 1793172910.472225,
+    "olmaliq:43626": 1793172910.4833453,
+    "olmaliq:43627": 1793172916.70337,
+    "olmaliq:43630": 1793172925.695373,
+    "olmaliq:43639": 1793172932.1256459
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahri uchun namoz vaqtlari",
-      "summary": "2026-yil 6-oktyabr seshanba kuni uchun Olmaliq shahridagi kundalik namoz vaqtlari e'lon qilindi.",
-      "norm_title": "olmaliq shahri uchun namoz vaqtlari",
-      "topic_key": "",
-      "stems": [
-        "namoz",
-        "shahr",
-        "vaqt"
-      ],
-      "posted_at": 1791251584.0
-    },
-    {
-      "title": "Yangi tayinlov haqida xabar berildi",
-      "summary": "E’zozaxon Karimova Respublika ma’naviyat va ma’rifat markazi direktori etib tayinlangani aytilmoqda, biroq xabar rasman tasdiqlanmagan.",
-      "norm_title": "yangi tayinlov haqida xabar berildi",
-      "topic_key": "",
-      "stems": [
-        "tayinlov"
-      ],
-      "posted_at": 1791251624.0
-    },
-    {
-      "title": "Davlat korxonalarida korrupsiyaga qarshi nazorat tizimi kuchaytiriladi",
-      "summary": "Davlat tashkilotlari va korxonalarida, jumladan AGMKda korrupsiyaga qarshi ichki nazorat tuzilmalari faoliyatining namunaviy nizomi tasdiqlandi. Hujjat bilan ushbu tuzilmalarning huquqiy maqomi, vazifalari va xodimlarini himoya qilish tartibi belgilandi.",
-      "norm_title": "davlat korxonalarida korrupsiyaga qarshi nazorat tizimi kuchaytiriladi",
-      "topic_key": "",
-      "stems": [
-        "korrupsiya",
-        "davlat",
-        "qarsh",
-        "korxona",
-        "nazorat",
-        "kuchay",
-        "tizim"
-      ],
-      "posted_at": 1791274398.0
-    },
-    {
-      "title": "Respublika ma'naviyat va ma'rifat markaziga yangi rahbar tayinlangani aytilmoqda",
-      "summary": "E'zozaxon Karimova Respublika ma'naviyat va ma'rifat markazi direktori etib tayinlangani xabar qilinmoqda. Biroq ushbu ma'lumot hozircha rasman tasdiqlanmagan.",
-      "norm_title": "respublika manaviyat va marifat markaziga yangi rahbar tayinlangani aytilmoqda",
-      "topic_key": "",
-      "stems": [
-        "rifat",
-        "rahbar",
-        "ayt",
-        "tayinlan",
-        "naviyat",
-        "markaz"
-      ],
-      "posted_at": 1791274429.0
-    },
-    {
-      "title": "Olmaliqda imomlar muammoli oilalarga biriktirildi",
-      "summary": "Oilaaviy ajrimlarning oldini olish maqsadida Olmaliq shahridagi mavzelar va mahallalarga imom-xatiblar biriktirilib, 'xonadonbay' targ'ibot ishlari boshlandi.",
-      "norm_title": "olmaliqda imomlar muammoli oilalarga biriktirildi",
-      "topic_key": "imomlar-ajrimlar-targiboti",
-      "stems": [
-        "muammol",
-        "imom",
-        "oila",
-        "biriktiril"
-      ],
-      "posted_at": 1791281973.8988185
-    },
     {
       "title": "Olmaliqda shahar hokimi o'rinbosari fuqarolar qabulini o'tkazdi",
       "summary": "Olmaliq shahar Xalq qabulxonasida hokim o'rinbosari M.Minavarova tomonidan fuqarolarning bandlik, ijtimoiy himoya va tadbirkorlik masalalari bo'yicha murojaatlari tinglandi.",
@@ -6292,6 +6247,81 @@
         "har"
       ],
       "posted_at": 1793127357.7718983
+    },
+    {
+      "title": "Oydin bekatida avtobus yo'lini to'sgan Damas haydovchisi javobgarlikka tortildi",
+      "summary": "15-oktabr kuni «Oydin» bekatida avtobus harakatiga halaqit berib, haydovchini haqorat qilgan Damas haydovchisining qilmishi sudda ko'rib chiqildi va u o'z aybiga to'liq iqror bo'ldi.",
+      "norm_title": "oydin bekatida avtobus yolini tosgan damas haydovchisi javobgarlikka tortildi",
+      "topic_key": "damas-avtobus-nizosi",
+      "stems": [
+        "damas",
+        "tortil",
+        "oydin",
+        "haydovch",
+        "lin",
+        "avtobus",
+        "sgan",
+        "bekat",
+        "javobgar"
+      ],
+      "posted_at": 1793172791.6004806
+    },
+    {
+      "title": "Noyabr boshida namgarchilik kutilmoqda",
+      "summary": "Noyabr oyining dastlabki kunlarida ob-havo o'zgarib, namgarchilik bo'lishi prognoz qilinmoqda.",
+      "norm_title": "noyabr boshida namgarchilik kutilmoqda",
+      "topic_key": "noyabr-ob-havo-prognoz",
+      "stems": [
+        "noyabr",
+        "kut",
+        "namgarch",
+        "bosh"
+      ],
+      "posted_at": 1793172823.571953
+    },
+    {
+      "title": "AGMKda BelAZ haydovchilarini ishga qabul qilish sinovlari boshlandi",
+      "summary": "Texnologik transport boshqarmasida og‘ir yuk ko‘taruvchi avtotransport vositalarini boshqarish tajribasiga ega nomzodlar uchun BelAZ haydovchisi kasbi bo‘yicha sinov jarayonlari o‘tkazilmoqda.",
+      "norm_title": "agmkda belaz haydovchilarini ishga qabul qilish sinovlari boshlandi",
+      "topic_key": "agmk-belaz-ishga-qabul",
+      "stems": [
+        "qabul",
+        "agmk",
+        "haydovch",
+        "belaz",
+        "sinov",
+        "ish"
+      ],
+      "posted_at": 1793172834.9225883
+    },
+    {
+      "title": "Hokim va hokim o'rinbosarlarining fuqarolarni qabul qilish grafigi e'lon qilindi",
+      "summary": "Olmaliq shahar hokimi hamda hokim o'rinbosarlarining jismoniy va yuridik shaxslarni qabul qilish grafigi tasdiqlandi.",
+      "norm_title": "hokim va hokim orinbosarlarining fuqarolarni qabul qilish grafigi elon qilindi",
+      "topic_key": "hokim-qabul-grafigi",
+      "stems": [
+        "qabul",
+        "grafig",
+        "hokim",
+        "rinbosar",
+        "fuqaro",
+        "lon"
+      ],
+      "posted_at": 1793172874.766686
+    },
+    {
+      "title": "Dilnoza Kattaxonova nomidan soxta xabarlar tarqatilmoqda",
+      "summary": "Telegram'da Oila va xotin-qizlar qo'mitasi raisi Dilnoza Kattaxonova nomidan soxta akkaunt ochilib, firibgarlik xabarlari yuborilmoqda. Qo'mita ogohlikka chaqirib, shubhali xabarlarga javob bermaslik va shaxsiy ma'lumotlarni ulashmaslikni so'radi.",
+      "norm_title": "dilnoza kattaxonova nomidan soxta xabarlar tarqatilmoqda",
+      "topic_key": "kattaxonova-soxta-akkaunt",
+      "stems": [
+        "dilnoza",
+        "nom",
+        "soxta",
+        "tarqat",
+        "kattaxonova"
+      ],
+      "posted_at": 1793172932.1313493
     }
   ]
 }
