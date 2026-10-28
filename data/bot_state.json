@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86086,
+    "olmaliqhayoti": 86088,
     "ao_agmk": 49878,
     "olmaliqshaharpressa": 12817,
     "olmaliq": 43622
@@ -3327,7 +3327,9 @@
     "ao_agmk:49878": 1793127342.2456582,
     "olmaliq:43620": 1793127346.6209579,
     "olmaliq:43621": 1793127357.7643223,
-    "olmaliq:43622": 1793127367.6899304
+    "olmaliq:43622": 1793127367.6899304,
+    "olmaliqhayoti:86087": 1793152125.9527519,
+    "olmaliqhayoti:86088": 1793152125.9645
   },
   "posted_articles": [
     {
