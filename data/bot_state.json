@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86118,
-    "ao_agmk": 49892,
-    "olmaliqshaharpressa": 12860,
-    "olmaliq": 43661
+    "olmaliqhayoti": 86133,
+    "ao_agmk": 49898,
+    "olmaliqshaharpressa": 12861,
+    "olmaliq": 43666
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3370,84 +3370,26 @@
     "olmaliqhayoti:86116": 1793216480.9944189,
     "olmaliq:43661": 1793216486.2549634,
     "olmaliqhayoti:86117": 1793241959.6867242,
-    "olmaliqhayoti:86118": 1793241964.3949003
+    "olmaliqhayoti:86118": 1793241964.3949003,
+    "olmaliqhayoti:86119": 1793264220.409336,
+    "olmaliqhayoti:86120": 1793264226.1155503,
+    "olmaliqhayoti:86121": 1793264229.0381088,
+    "olmaliqhayoti:86122": 1793264229.0499537,
+    "olmaliqhayoti:86123": 1793264233.0374527,
+    "olmaliqhayoti:86124": 1793264233.0468256,
+    "olmaliqhayoti:86125": 1793264247.3809986,
+    "olmaliqhayoti:86133": 1793264259.6151004,
+    "ao_agmk:49893": 1793264270.1362102,
+    "ao_agmk:49894": 1793264281.4370513,
+    "ao_agmk:49898": 1793264290.8541305,
+    "olmaliqshaharpressa:12861": 1793264296.2552466,
+    "olmaliq:43662": 1793264307.6006844,
+    "olmaliq:43663": 1793264314.6364012,
+    "olmaliq:43664": 1793264320.6519117,
+    "olmaliq:43665": 1793264320.6618774,
+    "olmaliq:43666": 1793264335.532538
   },
   "posted_articles": [
-    {
-      "title": "Moped va skuterlarni boshqarishda haydovchilik guvohnomasi talab etilishining sababi ma'lum qilindi",
-      "summary": "Yo'l harakati xavfsizligi xizmati ma'lumotlariga ko'ra, moped va skuterlar ishtirokidagi qoidabuzarliklar keskin oshgan: 2026-yilning 9 oyida 563 ta YTH sodir bo'lib, 89 kishi halok bo'lgan. Shu sababli ushbu transport vositalarini boshqarishda xavfsizlik talablari kuchaytirilmoqda.",
-      "norm_title": "moped va skuterlarni boshqarishda haydovchilik guvohnomasi talab etilishining sababi malum qilindi",
-      "topic_key": "moped-skuter-guvohnoma",
-      "stems": [
-        "skuter",
-        "talab",
-        "haydovch",
-        "moped",
-        "lum",
-        "guvohnoma",
-        "boshqar",
-        "etil",
-        "sabab"
-      ],
-      "posted_at": 1791364818.117113
-    },
-    {
-      "title": "Jazoir tog-kon sanoati vaziri AGMKga tashrif buyurdi",
-      "summary": "Olmaliq kon-metallurgiya kombinatiga Jazoir Respublikasi Tog-kon sanoati vaziri boshchiligidagi delegatsiya tashrif buyurdi.",
-      "norm_title": "jazoir togkon sanoati vaziri agmkga tashrif buyurdi",
-      "topic_key": "jazoir-vaziri-agmk-tashrif",
-      "stems": [
-        "jazoir",
-        "agmk",
-        "tog",
-        "tashrif",
-        "sanoat",
-        "buyur",
-        "vazir",
-        "kon"
-      ],
-      "posted_at": 1791364829.8411438
-    },
-    {
-      "title": "Olmaliqda yo'qolgan hujjatlar topildi",
-      "summary": "Reymov Xurmatboy To'xtaboyevichga tegishli hujjatlar topib olindi. Hujjat egalari 93-616-23-59 telefon raqamiga bog'lanishlari so'raladi.",
-      "norm_title": "olmaliqda yoqolgan hujjatlar topildi",
-      "topic_key": "topilgan-hujjatlar-reymov",
-      "stems": [
-        "hujjat",
-        "qol",
-        "topil"
-      ],
-      "posted_at": 1791364846.9420311
-    },
-    {
-      "title": "Toshkent viloyatida kiberjinoyatlarning oldini olish tajribasi yaratiladi",
-      "summary": "Toshkent viloyatida aholining kibermaданиятини yuksaltirish va kiberjinoyatlarga qarshi kurashish bo'yicha янги targ'ibot tizimini joriy etish masalalari muhokama qilindi.",
-      "norm_title": "toshkent viloyatida kiberjinoyatlarning oldini olish tajribasi yaratiladi",
-      "topic_key": "toshkent-viloyati-kiberjinoyat",
-      "stems": [
-        "kiberjinoyat",
-        "olish",
-        "yarat",
-        "old",
-        "tajriba"
-      ],
-      "posted_at": 1791364896.8332958
-    },
-    {
-      "title": "Ijtimoiy himoya choralari ko'rib chiqildi",
-      "summary": "Prezident Shavkat Mirziyoyev kuz-qish mavsumida ehtiyojmand oilalarni ijtimoiy himoya qilish bo'yicha takliflar taqdimoti bilan tanishdi.",
-      "norm_title": "ijtimoiy himoya choralari korib chiqildi",
-      "topic_key": "ijtimoiy-himoya-qish-mavsumi",
-      "stems": [
-        "rib",
-        "chora",
-        "chiqil",
-        "ijtimoiy",
-        "himoya"
-      ],
-      "posted_at": 1791364908.7902086
-    },
     {
       "title": "Prezident FAOning oliy mukofoti bilan taqdirlandi",
       "summary": "Davlatimiz rahbari samarali agrar islohotlari uchun BMTning Oziq-ovqat va qishloq xo‘jaligi tashkilotining (FAO) \"Agrikola\" medali bilan taqdirlandi.",
@@ -6339,6 +6281,88 @@
         "nishonlan"
       ],
       "posted_at": 1793197765.3782175
+    },
+    {
+      "title": "Olmaliqda tadbirkorlar bilan ochiq muloqot o'tkazildi",
+      "summary": "Shahar hokimligi va Xalq banki rahbarlari ishtirokidagi uchrashuvda tadbirkorlarning kadastr va kredit olishga oid murojaatlari ko'rib chiqilib, ularni hal etish choralari muhokama qilindi.",
+      "norm_title": "olmaliqda tadbirkorlar bilan ochiq muloqot otkazildi",
+      "topic_key": "tadbirkorlar-muloqoti-xalq-banki",
+      "stems": [
+        "tadbirkor",
+        "ochiq",
+        "tkazil",
+        "muloqot"
+      ],
+      "posted_at": 1793264247.3856604
+    },
+    {
+      "title": "Piskentda zamonaviy aqlli ko'chatxona ishga tushirildi",
+      "summary": "Piskent tumanida KOICA ko'magida qiymati 7,7 million dollarlik 7 gektarlik zamonaviy aqlli ko'chatxonalar majmuasi foydalanishga topshirildi.",
+      "norm_title": "piskentda zamonaviy aqlli kochatxona ishga tushirildi",
+      "topic_key": "piskent-aqlli-kochatxona",
+      "stems": [
+        "tushiril",
+        "piskent",
+        "aqll",
+        "zamonaviy",
+        "chatxona",
+        "ish"
+      ],
+      "posted_at": 1793264259.6197937
+    },
+    {
+      "title": "AGMKda kuz-qish mavsumiga tayyorgarlik yuzasidan onlayn muloqot o'tkaziladi",
+      "summary": "2026-yil 29-oktyabr kuni soat 15:00 da kombinatning rasmiy Telegram kanalida kuz-qish mavsumiga tayyorgarlik mavzusida onlayn muloqot bo'lib o'tadi. Fuqarolar o'zlarini qiziqtirgan savollarni mas'ullarga to'g'ridan-to'g'ri berishlari mumkin.",
+      "norm_title": "agmkda kuzqish mavsumiga tayyorgarlik yuzasidan onlayn muloqot otkaziladi",
+      "topic_key": "agmk-kuz-qish-tayyorgarlik",
+      "stems": [
+        "tayyorgar",
+        "onlayn",
+        "mavsum",
+        "agmk",
+        "kuz",
+        "qish",
+        "yuza",
+        "muloqot",
+        "tkaz"
+      ],
+      "posted_at": 1793264270.140868
+    },
+    {
+      "title": "OKMKda mehnat muhofazasi bo'yicha 9 oylik faoliyat tahlil qilindi",
+      "summary": "OKMKda o'tkazilgan yig'ilishda 9 oy davomida mehnatni muhofaza qilish va sanoat xavfsizligi bo'yicha amalga oshirilgan ishlar sarhisob qilinib, IV chorak uchun ustuvor vazifalar belgilandi.",
+      "norm_title": "okmkda mehnat muhofazasi boyicha 9 oylik faoliyat tahlil qilindi",
+      "topic_key": "okmk-mehnat-muhofazasi",
+      "stems": [
+        "okmk",
+        "mehnat",
+        "faoliyat",
+        "yicha",
+        "muhofaza",
+        "tahlil",
+        "oylik"
+      ],
+      "posted_at": 1793264281.441561
+    },
+    {
+      "title": "Olmaliqlik yosh tadbirkor 100 million so'm kredit evaziga mebel ishlab chiqarishni yo'lga qo'ydi",
+      "summary": "Olmaliq shahrida yashovchi Ulug'bek Hamraliyev 100 million so'm imtiyozli kredit olib, mebel ishlab chiqarish faoliyatini boshladi. Bugungi kunda uning sifatli va nafis dizaynli mahsulotlari xaridorlar e'tiborini qozonmoqda.",
+      "norm_title": "olmaliqlik yosh tadbirkor 100 million som kredit evaziga mebel ishlab chiqarishni yolga qoydi",
+      "topic_key": "yoshlar-tadbirkorligi-kredit-mebel",
+      "stems": [
+        "ishlab",
+        "evaz",
+        "kredit",
+        "tadbirkor",
+        "100",
+        "million",
+        "mebel",
+        "chiqar",
+        "lga",
+        "ydi",
+        "yosh"
+      ],
+      "posted_at": 1793264296.2600234
     }
   ]
 }
