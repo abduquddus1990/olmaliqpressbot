@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86133,
-    "ao_agmk": 49898,
-    "olmaliqshaharpressa": 12861,
-    "olmaliq": 43666
+    "olmaliqhayoti": 86150,
+    "ao_agmk": 49910,
+    "olmaliqshaharpressa": 12863,
+    "olmaliq": 43677
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3387,86 +3387,31 @@
     "olmaliq:43663": 1793264314.6364012,
     "olmaliq:43664": 1793264320.6519117,
     "olmaliq:43665": 1793264320.6618774,
-    "olmaliq:43666": 1793264335.532538
+    "olmaliq:43666": 1793264335.532538,
+    "olmaliqhayoti:86138": 1793289045.1741447,
+    "olmaliqhayoti:86139": 1793289069.5055923,
+    "olmaliqhayoti:86140": 1793289069.5204692,
+    "olmaliqhayoti:86141": 1793289079.9693334,
+    "olmaliqhayoti:86146": 1793289110.8025758,
+    "olmaliqhayoti:86147": 1793289144.8453805,
+    "olmaliqhayoti:86148": 1793289177.238637,
+    "olmaliqhayoti:86149": 1793289232.4066873,
+    "olmaliqhayoti:86150": 1793289259.4735491,
+    "ao_agmk:49902": 1793289263.1878023,
+    "ao_agmk:49903": 1793289263.2025743,
+    "ao_agmk:49904": 1793289263.2169662,
+    "ao_agmk:49905": 1793289273.2858195,
+    "ao_agmk:49908": 1793289306.0371869,
+    "ao_agmk:49909": 1793289332.6493297,
+    "ao_agmk:49910": 1793289359.8331828,
+    "olmaliqshaharpressa:12862": 1793289396.6986945,
+    "olmaliqshaharpressa:12863": 1793289424.858152,
+    "olmaliq:43674": 1793289438.120417,
+    "olmaliq:43675": 1793289491.076171,
+    "olmaliq:43676": 1793289520.4441826,
+    "olmaliq:43677": 1793289545.2236328
   },
   "posted_articles": [
-    {
-      "title": "Prezident FAOning oliy mukofoti bilan taqdirlandi",
-      "summary": "Davlatimiz rahbari samarali agrar islohotlari uchun BMTning Oziq-ovqat va qishloq xo‘jaligi tashkilotining (FAO) \"Agrikola\" medali bilan taqdirlandi.",
-      "norm_title": "prezident faoning oliy mukofoti bilan taqdirlandi",
-      "topic_key": "prezident-fao-agrikola-medali",
-      "stems": [
-        "mukofot",
-        "prezident",
-        "fao",
-        "oliy",
-        "taqdirlan"
-      ],
-      "posted_at": 1791364951.0989916
-    },
-    {
-      "title": "STTBda favqulodda vaziyatlar bo'yicha o'quv mashg'uloti o'tkazildi",
-      "summary": "AGMK Sanoat temir yo'l transporti boshqarmasida yong'inni bartaraf etish va evakuatsiya qilish bo'yicha o'tkazilgan o'quv mashg'uloti mas'ullar tomonidan a'lo baholandi.",
-      "norm_title": "sttbda favqulodda vaziyatlar boyicha oquv mashguloti otkazildi",
-      "topic_key": "agmk-favqulodda-mashgulot",
-      "stems": [
-        "mashg",
-        "tkazil",
-        "ulot",
-        "sttb",
-        "favqulod",
-        "yicha",
-        "vaziyat",
-        "quv"
-      ],
-      "posted_at": 1791364990.29812
-    },
-    {
-      "title": "Sun'iy intellekt yordamida ovozli firibgarlikdan ogoh bo'ling",
-      "summary": "Firibgarlar sun'iy intellekt orqali yaqinlaringiz ovozini soxtalashtirib pul so'rashi mumkin. Pul o'tkazishdan avval o'sha shaxs bilan bog'lanib, ma'lumotni tekshiring.",
-      "norm_title": "suniy intellekt yordamida ovozli firibgarlikdan ogoh boling",
-      "topic_key": "ovozli-firibgarlik-ogohlantirish",
-      "stems": [
-        "firibgar",
-        "ovozl",
-        "ling",
-        "sun",
-        "intellekt",
-        "yordam",
-        "ogoh"
-      ],
-      "posted_at": 1791365053.9096198
-    },
-    {
-      "title": "Maktablarda sun'iy intellekt orqali davomat nazorati joriy etiladi",
-      "summary": "Toshkent shahridagi maktablarda o'quvchilarning darsga kelishini sun'iy intellekt va smart kameralar nazorat qiladi. Sababsiz darsga kelmagan o'quvchilar uchun ota-onalarga ma'muriy jarima qo'llanilishi mumkin.",
-      "norm_title": "maktablarda suniy intellekt orqali davomat nazorati joriy etiladi",
-      "topic_key": "maktab-davomat-suniy-intellekt",
-      "stems": [
-        "joriy",
-        "davomat",
-        "maktab",
-        "sun",
-        "intellekt",
-        "nazorat"
-      ],
-      "posted_at": 1791365066.0180736
-    },
-    {
-      "title": "O‘zbekistonda o‘lat bo‘yicha epidemiologik vaziyat barqaror",
-      "summary": "Sanitariya-epidemiologik qo‘mita mamlakatda o‘lat kasalligi bo‘yicha vaziyat barqaror ekanini bildirdi. Chegaralarda 53 ta sanitariya nazorat punkti ishlamoqda.",
-      "norm_title": "ozbekistonda olat boyicha epidemiologik vaziyat barqaror",
-      "topic_key": "olat-epidemiologik-vaziyat",
-      "stems": [
-        "barqaror",
-        "vaziyat",
-        "zbekiston",
-        "yicha",
-        "lat",
-        "epidemiologik"
-      ],
-      "posted_at": 1791391189.4990327
-    },
     {
       "title": "Olmaliqda nikohlanuvchi yoshlar bilan muloqot o'tkazildi",
       "summary": "Olmaliq shahar Oila va xotin-qizlar markazida bo'lajak kelin-kuyovlar uchun dars tashkil etildi. Tadbir yakunida 16 soatlik mashg'ulotni tamomlagan yoshlarga sertifikatlar topshirildi.",
@@ -6363,6 +6308,80 @@
         "yosh"
       ],
       "posted_at": 1793264296.2600234
+    },
+    {
+      "title": "Mehnat huquqlari va tovon pullari undirildi",
+      "summary": "Davlat mehnat inspeksiyasi aralashuvi bilan ish joyida vafot etgan 205 nafar shaxs uchun 16 mlrd so‘mdan ortiq tovon puli undirildi, shuningdek, xodimlarning millionlab so‘mlik oylik maoshlari qoplab berildi.",
+      "norm_title": "mehnat huquqlari va tovon pullari undirildi",
+      "topic_key": "mehnat-inspeksiyasi-tovon-puli",
+      "stems": [
+        "huquq",
+        "undiril",
+        "tovon",
+        "pul",
+        "mehnat"
+      ],
+      "posted_at": 1793289144.8527684
+    },
+    {
+      "title": "O'zbekistonda ilk qor kuzatildi",
+      "summary": "Qashqadaryoning Maydanak hududida ilk qor yog'di. Noyabr oyining boshidan boshlab respublika bo'ylab kuchli yomg'irlar kutilmoqda.",
+      "norm_title": "ozbekistonda ilk qor kuzatildi",
+      "topic_key": "ilk-qor-yomgir-ob-havo",
+      "stems": [
+        "zbekiston",
+        "ilk",
+        "kuzatil",
+        "qor"
+      ],
+      "posted_at": 1793289259.4811738
+    },
+    {
+      "title": "Kanada elchisi O'zbekiston bilan hamkorlikni rivojlantirishga tayyor",
+      "summary": "Kanadaning O'zbekistondagi elchisi Kristofer Daggan ikki mamlakat o'rtasidagi munosabatlarni, xususan, o'zbek korxonalari bilan hamkorlik qilishni qo'llab-quvvatlashga tayyorligini bildirdi.",
+      "norm_title": "kanada elchisi ozbekiston bilan hamkorlikni rivojlantirishga tayyor",
+      "topic_key": "kanada-ozbekiston-hamkorlik",
+      "stems": [
+        "rivojlan",
+        "elch",
+        "zbekiston",
+        "hamkor",
+        "tayyor",
+        "kana"
+      ],
+      "posted_at": 1793289306.0452
+    },
+    {
+      "title": "O‘zbekiston Prezidenti Anqaraga tashrif buyurdi",
+      "summary": "O‘zbekiston Respublikasi Prezidenti rafiqasi hamrohligida amaliy tashrif bilan Anqara shahriga keldi.",
+      "norm_title": "ozbekiston prezidenti anqaraga tashrif buyurdi",
+      "topic_key": "prezident-ankara-tashrifi",
+      "stems": [
+        "buyur",
+        "anqara",
+        "zbekiston",
+        "prezident",
+        "tashrif"
+      ],
+      "posted_at": 1793289332.657068
+    },
+    {
+      "title": "Surxondaryoda ayol yangi tug‘ilgan chaqalog‘ini hojatxonada tashlab ketdi",
+      "summary": "Surxondaryoda ayol hovlidagi hojatxonada dunyoga keltirgan chaqalog‘ini shu yerda qoldirgani oqibatida go‘dak bo‘g‘ilib vafot etdi. Sud qaroriga ko‘ra, ayolga 3 yil muddatga ozodlikni cheklash jazosi tayinlandi.",
+      "norm_title": "surxondaryoda ayol yangi tugilgan chaqalogini hojatxonada tashlab ketdi",
+      "topic_key": "surxondaryo-chaqaloq-olimi",
+      "stems": [
+        "ilgan",
+        "ayol",
+        "tug",
+        "ket",
+        "tashlab",
+        "ini",
+        "surxondaryo",
+        "chaqalog",
+        "hojatxona"
+      ],
+      "posted_at": 1793289438.1279871
     }
   ]
 }
