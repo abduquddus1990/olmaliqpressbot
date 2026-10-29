@@ -1,8 +1,8 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86150,
-    "ao_agmk": 49910,
-    "olmaliqshaharpressa": 12863,
+    "olmaliqhayoti": 86151,
+    "ao_agmk": 49921,
+    "olmaliqshaharpressa": 12864,
     "olmaliq": 43677
   },
   "processed_messages": {
@@ -3409,22 +3409,13 @@
     "olmaliq:43674": 1793289438.120417,
     "olmaliq:43675": 1793289491.076171,
     "olmaliq:43676": 1793289520.4441826,
-    "olmaliq:43677": 1793289545.2236328
+    "olmaliq:43677": 1793289545.2236328,
+    "olmaliqhayoti:86151": 1793306489.914301,
+    "ao_agmk:49914": 1793306499.981928,
+    "ao_agmk:49921": 1793306511.36835,
+    "olmaliqshaharpressa:12864": 1793306517.6009052
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda nikohlanuvchi yoshlar bilan muloqot o'tkazildi",
-      "summary": "Olmaliq shahar Oila va xotin-qizlar markazida bo'lajak kelin-kuyovlar uchun dars tashkil etildi. Tadbir yakunida 16 soatlik mashg'ulotni tamomlagan yoshlarga sertifikatlar topshirildi.",
-      "norm_title": "olmaliqda nikohlanuvchi yoshlar bilan muloqot otkazildi",
-      "topic_key": "nikohlanuvchi-yoshlar-muloqoti",
-      "stems": [
-        "tkazil",
-        "yosh",
-        "muloqot",
-        "nikohlanuvch"
-      ],
-      "posted_at": 1791391201.557573
-    },
     {
       "title": "Zulfiya nomidagi Davlat mukofotiga shahar bosqichi boshlanmoqda",
       "summary": "14 dan 30 yoshgacha bo'lgan iqtidorli xotin-qizlar 20-oktabr kuni soat 14:00 da 19-maktabda o'tkaziladigan shahar tanlovida o'z hujjatlari bilan qatnashishlari mumkin.",
@@ -6382,6 +6373,22 @@
         "hojatxona"
       ],
       "posted_at": 1793289438.1279871
+    },
+    {
+      "title": "O'zbekiston va Turkiya biznesni qo'llab-quvvatlash kengashini tuzdi",
+      "summary": "Prezidentlar Shavkat Mirziyoyev va Rejep Tayyip Erdog'an muzokaralar yakunida Biznesni qo'llab-quvvatlash bo'yicha yuqori darajadagi kengashni ta'sis etish to'g'risidagi bitimni imzoladilar.",
+      "norm_title": "ozbekiston va turkiya biznesni qollabquvvatlash kengashini tuzdi",
+      "topic_key": "uzbekistan-turkiya-biznes-kengash",
+      "stems": [
+        "zbekiston",
+        "turkiya",
+        "quvvatlash",
+        "tuz",
+        "kengash",
+        "biznes",
+        "llab"
+      ],
+      "posted_at": 1793306511.3764343
     }
   ]
 }
