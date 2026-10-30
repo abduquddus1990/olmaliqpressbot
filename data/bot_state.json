@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86151,
-    "ao_agmk": 49921,
+    "olmaliqhayoti": 86156,
+    "ao_agmk": 49940,
     "olmaliqshaharpressa": 12864,
-    "olmaliq": 43677
+    "olmaliq": 43679
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3413,38 +3413,19 @@
     "olmaliqhayoti:86151": 1793306489.914301,
     "ao_agmk:49914": 1793306499.981928,
     "ao_agmk:49921": 1793306511.36835,
-    "olmaliqshaharpressa:12864": 1793306517.6009052
+    "olmaliqshaharpressa:12864": 1793306517.6009052,
+    "olmaliqhayoti:86152": 1793340335.5002177,
+    "olmaliqhayoti:86154": 1793340340.8569505,
+    "olmaliqhayoti:86155": 1793340343.5398464,
+    "olmaliqhayoti:86156": 1793340351.2124422,
+    "ao_agmk:49927": 1793340357.8975918,
+    "ao_agmk:49934": 1793340361.7969654,
+    "ao_agmk:49935": 1793340369.3642058,
+    "ao_agmk:49940": 1793340374.9648454,
+    "olmaliq:43678": 1793340382.1508398,
+    "olmaliq:43679": 1793340386.6339025
   },
   "posted_articles": [
-    {
-      "title": "Zulfiya nomidagi Davlat mukofotiga shahar bosqichi boshlanmoqda",
-      "summary": "14 dan 30 yoshgacha bo'lgan iqtidorli xotin-qizlar 20-oktabr kuni soat 14:00 da 19-maktabda o'tkaziladigan shahar tanlovida o'z hujjatlari bilan qatnashishlari mumkin.",
-      "norm_title": "zulfiya nomidagi davlat mukofotiga shahar bosqichi boshlanmoqda",
-      "topic_key": "zulfiya-mukofoti-shahar-tanlovi",
-      "stems": [
-        "davlat",
-        "boshlan",
-        "bosqich",
-        "zulfiya",
-        "mukofot",
-        "nom"
-      ],
-      "posted_at": 1791391208.0771759
-    },
-    {
-      "title": "Chiqindi ombori qurilishi va loyihalash ishlari muhokama qilindi",
-      "summary": "Loyiha ofisida «O’zGEORANGMETLITI» mutaxassislari ishtirokida o'tgan yig'ilishda chiqindi omborining 1-xaritasidagi qurilish ishlari va 3-MBF 2-xaritasini loyihalash masalalari ko'rib chiqildi. Ishlarni jadallashtirish va xavfsizlik standartlariga rioya qilish bo'yicha hamkorlik kelishib olindi.",
-      "norm_title": "chiqindi ombori qurilishi va loyihalash ishlari muhokama qilindi",
-      "topic_key": "chiqindi-ombori-loyihasi",
-      "stems": [
-        "ish",
-        "qur",
-        "chiqin",
-        "loyihalash",
-        "ombor"
-      ],
-      "posted_at": 1791391264.8508348
-    },
     {
       "title": "Jamoat joyida qoidalarni buzganlarga chora ko'riladi",
       "summary": "Ommaviy joylarda odob-axloq qoidalarini buzgan shaxslar Face ID orqali aniqlanib, jarima yoki 15 sutkagacha qamoq jazosiga tortiladi.",
@@ -6389,6 +6370,38 @@
         "llab"
       ],
       "posted_at": 1793306511.3764343
+    },
+    {
+      "title": "Prezident Turkiya kompaniyalari rahbarlarini qabul qildi",
+      "summary": "Davlat rahbari Turkiyaning yetakchi kompaniyalari rahbarlari bilan uchrashuv o'tkazdi.",
+      "norm_title": "prezident turkiya kompaniyalari rahbarlarini qabul qildi",
+      "topic_key": "prezident-turkiya-kompaniyalari",
+      "stems": [
+        "qil",
+        "kompaniya",
+        "turkiya",
+        "rahbar",
+        "qabul",
+        "prezident"
+      ],
+      "posted_at": 1793340361.802803
+    },
+    {
+      "title": "Kaleydoskop ansambli xalqaro tanlovda bosh sovrinni qo'lga kiritdi",
+      "summary": "Toshkentda o'tgan «Fortuna Fest Tashkent» tanlovida Nasiba Mambetova boshchiligidagi «Kaleydoskop» ansamblining kichik guruhi Gran-pri, o'rta guruhi esa 1-o'rinni egalladi.",
+      "norm_title": "kaleydoskop ansambli xalqaro tanlovda bosh sovrinni qolga kiritdi",
+      "topic_key": "kaleydoskop-ansambl-gala",
+      "stems": [
+        "bosh",
+        "kaleydoskop",
+        "sovrin",
+        "xalqaro",
+        "lga",
+        "tanlov",
+        "ansambl",
+        "kirit"
+      ],
+      "posted_at": 1793340374.9707327
     }
   ]
 }
