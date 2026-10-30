@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86156,
-    "ao_agmk": 49940,
-    "olmaliqshaharpressa": 12864,
-    "olmaliq": 43679
+    "olmaliqhayoti": 86172,
+    "ao_agmk": 49964,
+    "olmaliqshaharpressa": 12865,
+    "olmaliq": 43695
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3423,94 +3423,24 @@
     "ao_agmk:49935": 1793340369.3642058,
     "ao_agmk:49940": 1793340374.9648454,
     "olmaliq:43678": 1793340382.1508398,
-    "olmaliq:43679": 1793340386.6339025
+    "olmaliq:43679": 1793340386.6339025,
+    "olmaliqhayoti:86160": 1793364193.9996712,
+    "olmaliqhayoti:86170": 1793364199.5432758,
+    "olmaliqhayoti:86171": 1793364207.5466487,
+    "olmaliqhayoti:86172": 1793364217.802561,
+    "ao_agmk:49945": 1793364227.877567,
+    "ao_agmk:49949": 1793364238.8430269,
+    "ao_agmk:49955": 1793364248.3525817,
+    "ao_agmk:49956": 1793364258.0393283,
+    "ao_agmk:49963": 1793364263.2104483,
+    "ao_agmk:49964": 1793364268.183022,
+    "olmaliqshaharpressa:12865": 1793364275.1853337,
+    "olmaliq:43684": 1793364286.7327669,
+    "olmaliq:43693": 1793364292.2577753,
+    "olmaliq:43694": 1793364295.2797387,
+    "olmaliq:43695": 1793364312.5732021
   },
   "posted_articles": [
-    {
-      "title": "Jamoat joyida qoidalarni buzganlarga chora ko'riladi",
-      "summary": "Ommaviy joylarda odob-axloq qoidalarini buzgan shaxslar Face ID orqali aniqlanib, jarima yoki 15 sutkagacha qamoq jazosiga tortiladi.",
-      "norm_title": "jamoat joyida qoidalarni buzganlarga chora koriladi",
-      "topic_key": "face-id-jamoat-tartibi",
-      "stems": [
-        "ril",
-        "jamoat",
-        "chora",
-        "joy",
-        "buz",
-        "qoi"
-      ],
-      "posted_at": 1791391285.2714937
-    },
-    {
-      "title": "Olmaliq shahridagi ob-havo va namoz vaqtlari",
-      "summary": "Bugun Olmaliqda kunduzi havo harorati +23°C gacha isiydi, kechasi +10°C bo'ladi. Shuningdek, kunlik namoz vaqtlari va valyuta kurslari e'lon qilindi.",
-      "norm_title": "olmaliq shahridagi obhavo va namoz vaqtlari",
-      "topic_key": "olmaliq-ob-havo-namoz",
-      "stems": [
-        "vaqt",
-        "havo",
-        "shahr",
-        "namoz"
-      ],
-      "posted_at": 1791864740.4987183
-    },
-    {
-      "title": "Xitoydan O‘zbekistonga minglab nasldor qoramollar keltirildi",
-      "summary": "2026 yilning dastlabki 8 oyida Xitoydan O‘zbekistonga 3 ming boshdan ortiq golshtin va simmental zotli nasldor qoramollar olib kelindi. Bu chorvachilik va sutchilik tarmog‘i samaradorligini oshirishga xizmat qiladi.",
-      "norm_title": "xitoydan ozbekistonga minglab nasldor qoramollar keltirildi",
-      "topic_key": "xitoydan-nasldor-qoramol-importi",
-      "stems": [
-        "minglab",
-        "zbekiston",
-        "keltiril",
-        "xitoy",
-        "nasldor",
-        "qoramol"
-      ],
-      "posted_at": 1791864851.4682016
-    },
-    {
-      "title": "OKMKda Xalqaro mehnat tashkiloti ishtirokida seminar o'tkazildi",
-      "summary": "Metallurg madaniyat saroyida kasaba uyushmalari faollari uchun xalqaro mehnat standartlari va xodimlar huquqlarini himoya qilishga bag'ishlangan seminar bo'lib o'tdi.",
-      "norm_title": "okmkda xalqaro mehnat tashkiloti ishtirokida seminar otkazildi",
-      "topic_key": "okmk-xmt-seminar",
-      "stems": [
-        "seminar",
-        "mehnat",
-        "ishtirok",
-        "okmk",
-        "tkazil",
-        "xalqaro",
-        "tashkilot"
-      ],
-      "posted_at": 1791864985.1557696
-    },
-    {
-      "title": "Mas'ul rahbarlarga biriktirilgan tashkilotlar ro'yxati e'lon qilindi",
-      "summary": "Ta'lim, ilm-fan va sog'liqni saqlash masalalari bo'yicha bosh vazir birinchi o'rinbosariga biriktirilgan respublika hamda mahalliy ijro etuvchi hokimiyat organlari ro'yxati tasdiqlandi.",
-      "norm_title": "masul rahbarlarga biriktirilgan tashkilotlar royxati elon qilindi",
-      "topic_key": "hukumat-rahbarlari-biriktiruvi",
-      "stems": [
-        "yxat",
-        "rahbar",
-        "lon",
-        "mas",
-        "birik",
-        "tashkilot"
-      ],
-      "posted_at": 1791865032.6734006
-    },
-    {
-      "title": "Xayrli tong, Olmaliq!",
-      "summary": "Seшанба тонги муборак бўлсин, янги кунингиз файзли ва барокатли ўтсин.",
-      "norm_title": "xayrli tong olmaliq",
-      "topic_key": "xayrli-tong-olmaliq",
-      "stems": [
-        "tong",
-        "xayrl"
-      ],
-      "posted_at": 1791865143.4912462
-    },
     {
       "title": "2026-yil Ichki ishlar vazirligida Kiberjinoyatlarga qarshi kurashish yili deb e'lon qilindi",
       "summary": "O'tgan 9 oyda 17,5 mingdan ortiq kiberjinoyat fosh etilib, 77 mlrd so'mdan ortiq mablag'ning noqonuniy chiqib ketishi oldi olindi va ayrim hududlardagi kamchiliklar tanqid qilindi.",
@@ -6402,6 +6332,103 @@
         "kirit"
       ],
       "posted_at": 1793340374.9707327
+    },
+    {
+      "title": "Turkiy davlatlarga ID-karta orqali borish taklif qilindi",
+      "summary": "Prezident Shavkat Mirziyoyev Anqaradagi yig‘ilishda turkiy mamlakatlar fuqarolari uchun chet el pasportisiz, faqat ID-karta bilan o‘zaro safar qilish imkoniyatini kengaytirishni taklif etdi.",
+      "norm_title": "turkiy davlatlarga idkarta orqali borish taklif qilindi",
+      "topic_key": "id-karta-turkiy-davlatlar",
+      "stems": [
+        "karta",
+        "davlat",
+        "taklif",
+        "bor",
+        "turkiy"
+      ],
+      "posted_at": 1793364199.5504453
+    },
+    {
+      "title": "Gender tenglik masalalari bo'yicha tarmoq kengashi majlisi o'tkazildi",
+      "summary": "Tog'-kon sanoati va geologiya vazirligida xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlarni ta'minlashga bag'ishlangan tarmoq kengashi majlisi bo'lib o'tdi. Unda \"Uzbekistan-Europe Women Leaders Network\" hamjamiyati tashkil etilgani e'lon qilindi.",
+      "norm_title": "gender tenglik masalalari boyicha tarmoq kengashi majlisi otkazildi",
+      "topic_key": "gender-tenglik-kengashi",
+      "stems": [
+        "kengash",
+        "yicha",
+        "tarmoq",
+        "gender",
+        "masala",
+        "teng",
+        "majl",
+        "tkazil"
+      ],
+      "posted_at": 1793364227.8857863
+    },
+    {
+      "title": "AGMK xodimlari MMG kompaniyasida raqamlashtirish tajribasini o'rgandi",
+      "summary": "AGMK Sun'iy intellektni rivojlantirish va joriy etish bo'limi mutaxassislari Multinational Mine Group (MMG) kompaniyasiga tashrif buyurib, sohadagi raqamli tajriba bilan tanishdilar.",
+      "norm_title": "agmk xodimlari mmg kompaniyasida raqamlashtirish tajribasini organdi",
+      "topic_key": "agmk-mmg-raqamlashtirish",
+      "stems": [
+        "kompaniya",
+        "rgan",
+        "agmk",
+        "mmg",
+        "tajriba",
+        "xodim",
+        "raqamlash"
+      ],
+      "posted_at": 1793364238.850346
+    },
+    {
+      "title": "MBFda Eng yaxshi yosh mexanik-2026 tanlovi g'oliblari aniqlandi",
+      "summary": "Mis boyitish fabrikasida o'tkazilgan kasb-mahorat tanlovida Mirzabek Masharov 1-o'rinni egalladi. G'olib va sovrindorlar diplom hamda esdalik sovg'alari bilan taqdirlandi.",
+      "norm_title": "mbfda eng yaxshi yosh mexanik2026 tanlovi goliblari aniqlandi",
+      "topic_key": "mbf-yosh-mexanik-tanlovi",
+      "stems": [
+        "mexanik",
+        "yosh",
+        "eng",
+        "olib",
+        "mbf",
+        "tanlov",
+        "2026",
+        "yaxsh",
+        "aniqlan"
+      ],
+      "posted_at": 1793364248.3599567
+    },
+    {
+      "title": "Olmaliqda shahar IIB boshlig'ining sayyor qabullari o'tkaziladi",
+      "summary": "31-oktabr kuni shahar IIB binosida hamda 1-noyabr kuni «O'zbekiston» MFYda Olmaliq shahar IIB boshlig'i Sherzod Shermatov fuqarolar murojaatlari bo'yicha sayyor qabul o'tkazadi.",
+      "norm_title": "olmaliqda shahar iib boshligining sayyor qabullari otkaziladi",
+      "topic_key": "iib-boshligi-sayyor-qabul",
+      "stems": [
+        "qabul",
+        "sayyor",
+        "tkaz",
+        "boshlig",
+        "ining",
+        "iib"
+      ],
+      "posted_at": 1793364275.1927106
+    },
+    {
+      "title": "Ehtiyojmand oilalarga 1 million so'mdan bir martalik yordam beriladi",
+      "summary": "Prezident farmoniga ko'ra, 2026/2027-yilgi isitish mavsumida Ijtimoiy reyestrdagi hamda ehtiyojmand deb topilgan boshqa oilalarga noyabr oyida 1 million so'mdan bir martalik moddiy yordam ajratiladi.",
+      "norm_title": "ehtiyojmand oilalarga 1 million somdan bir martalik yordam beriladi",
+      "topic_key": "ehtiyojmand-oilalar-moddiy-yordam",
+      "stems": [
+        "ber",
+        "ehtiyojmand",
+        "million",
+        "marta",
+        "bir",
+        "yordam",
+        "mdan",
+        "oila"
+      ],
+      "posted_at": 1793364292.2653115
     }
   ]
 }
