@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86182,
+    "olmaliqhayoti": 86190,
     "ao_agmk": 49966,
     "olmaliqshaharpressa": 12867,
     "olmaliq": 43706
@@ -3447,24 +3447,10 @@
     "olmaliq:43696": 1793384098.466657,
     "olmaliq:43697": 1793384109.882606,
     "olmaliq:43705": 1793384124.4030592,
-    "olmaliq:43706": 1793384133.4815521
+    "olmaliq:43706": 1793384133.4815521,
+    "olmaliqhayoti:86190": 1793398955.6518867
   },
   "posted_articles": [
-    {
-      "title": "Robototexnika bo'yicha xalqaro musobaqa g'oliblari mukofotlandi",
-      "summary": "Prezident Farmoniga muvofiq, robototexnika bo'yicha xalqaro musobaqada g'olib bo'lgan ishtirokchilar va ularning murabbiylari davlat mukofotlari bilan taqdirlandi.",
-      "norm_title": "robototexnika boyicha xalqaro musobaqa goliblari mukofotlandi",
-      "topic_key": "robototexnika-goliblar-mukofotlash",
-      "stems": [
-        "yicha",
-        "robototex",
-        "xalqaro",
-        "musoba",
-        "mukofotlan",
-        "olib"
-      ],
-      "posted_at": 1791889437.195665
-    },
     {
       "title": "\"Kartoshka puli\" kimlarga beriladi",
       "summary": "Qishloq xo'jaligi mahsulotlarini xarid qilish uchun beriladigan bir martalik moddiy yordam faqat sohaaviy hujjatlar yoki jamoa shartnomasida belgilangan xodimlarga to'lanadi.",
@@ -6433,6 +6419,21 @@
         "ichim"
       ],
       "posted_at": 1793384124.4103825
+    },
+    {
+      "title": "Olmaliqda 31-oktabr uchun ob-havo, valyuta kursi va namoz vaqtlari",
+      "summary": "31-oktabr kuni Olmaliqda havo harorati kunduzi +19°C, kechasi +10°C bo'ladi, yog'ingarchilik ehtimoli 25%. AQSh dollari kursi 12 023,46 so'mgacha pasaygan.",
+      "norm_title": "olmaliqda 31oktabr uchun obhavo valyuta kursi va namoz vaqtlari",
+      "topic_key": "ob-havo-valyuta-namoz",
+      "stems": [
+        "havo",
+        "valyuta",
+        "oktabr",
+        "namoz",
+        "kur",
+        "vaqt"
+      ],
+      "posted_at": 1793398955.6559901
     }
   ]
 }
