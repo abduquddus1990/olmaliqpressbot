@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86172,
-    "ao_agmk": 49964,
-    "olmaliqshaharpressa": 12865,
-    "olmaliq": 43695
+    "olmaliqhayoti": 86182,
+    "ao_agmk": 49966,
+    "olmaliqshaharpressa": 12867,
+    "olmaliq": 43706
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3438,87 +3438,18 @@
     "olmaliq:43684": 1793364286.7327669,
     "olmaliq:43693": 1793364292.2577753,
     "olmaliq:43694": 1793364295.2797387,
-    "olmaliq:43695": 1793364312.5732021
+    "olmaliq:43695": 1793364312.5732021,
+    "olmaliqhayoti:86182": 1793384055.5344923,
+    "ao_agmk:49965": 1793384066.5483701,
+    "ao_agmk:49966": 1793384075.2467487,
+    "olmaliqshaharpressa:12866": 1793384085.5402439,
+    "olmaliqshaharpressa:12867": 1793384092.7023644,
+    "olmaliq:43696": 1793384098.466657,
+    "olmaliq:43697": 1793384109.882606,
+    "olmaliq:43705": 1793384124.4030592,
+    "olmaliq:43706": 1793384133.4815521
   },
   "posted_articles": [
-    {
-      "title": "2026-yil Ichki ishlar vazirligida Kiberjinoyatlarga qarshi kurashish yili deb e'lon qilindi",
-      "summary": "O'tgan 9 oyda 17,5 mingdan ortiq kiberjinoyat fosh etilib, 77 mlrd so'mdan ortiq mablag'ning noqonuniy chiqib ketishi oldi olindi va ayrim hududlardagi kamchiliklar tanqid qilindi.",
-      "norm_title": "2026yil ichki ishlar vazirligida kiberjinoyatlarga qarshi kurashish yili deb elon qilindi",
-      "topic_key": "kiberjinoyat-iim-2026",
-      "stems": [
-        "ish",
-        "qarsh",
-        "kiberjinoyat",
-        "kurash",
-        "ichk",
-        "deb",
-        "2026",
-        "lon",
-        "vazir"
-      ],
-      "posted_at": 1791889350.2270274
-    },
-    {
-      "title": "Boshqirdistondagi musobaqada OKMK sportchilari 1-o'rinni egallashdi",
-      "summary": "Toshkent viloyati delegatsiyasi tarkibida Boshqirdistonda o'tkazilgan musobaqalarda ishtirok etgan OKMK belbog'li kurashchilari 1 ta oltin va 4 ta kumush medalni qo'lga kiritib, umumjamoa hisobida g'olib bo'lishdi.",
-      "norm_title": "boshqirdistondagi musobaqada okmk sportchilari 1orinni egallashdi",
-      "topic_key": "okmk-sportchilar-boshqirdiston",
-      "stems": [
-        "egallash",
-        "boshqirdiston",
-        "rin",
-        "okmk",
-        "sportch",
-        "musoba"
-      ],
-      "posted_at": 1791889380.6981945
-    },
-    {
-      "title": "Soxta ehson sahifalaridan ogoh bo'ling",
-      "summary": "Ijtimoiy tarmoqlarda bemorlar va muhtojlar nomidan soxta ehson sahifalari ko'paymoqda. Pul o'tkazishdan avval hisob raqamlari va ma'lumotlarni albatta tekshiring.",
-      "norm_title": "soxta ehson sahifalaridan ogoh boling",
-      "topic_key": "ehson-firibgarlari-ogohlantirish",
-      "stems": [
-        "ehson",
-        "sahifa",
-        "ling",
-        "soxta",
-        "ogoh"
-      ],
-      "posted_at": 1791889391.252138
-    },
-    {
-      "title": "Eng yaxshi yosh BelAZ haydovchisi aniqlandi",
-      "summary": "AGMK Texnologik transport boshqarmasida o'tkazilgan kasb mahorati tanlovida 3-sonli transport sexi haydovchisi Jaloliddin Normatov 1-o'rinni egalladi.",
-      "norm_title": "eng yaxshi yosh belaz haydovchisi aniqlandi",
-      "topic_key": "belaz-haydovchilari-tanlovi",
-      "stems": [
-        "haydovch",
-        "yaxsh",
-        "yosh",
-        "belaz",
-        "eng",
-        "aniqlan"
-      ],
-      "posted_at": 1791889410.6800117
-    },
-    {
-      "title": "Olmaliqda yirik qarzdorlik evaziga korxona mol-mulki xatlandi",
-      "summary": "MIB Olmaliq shahar bo‘limi tomonidan \"Almaliq Quyuv Mexanika\" MCHJdan elektr tarmoqlari foydasiga 656,7 million so‘m qarzdorlik undirilib, korxonaning mol-mulklari xatlandi. Hozirda ularni auksion savdolariga chiqarish choralari ko‘rilmoqda.",
-      "norm_title": "olmaliqda yirik qarzdorlik evaziga korxona molmulki xatlandi",
-      "topic_key": "mib-almaliq-qarz-undiruv",
-      "stems": [
-        "mol",
-        "yirik",
-        "korxona",
-        "xatlan",
-        "qarzdor",
-        "mulk",
-        "evaz"
-      ],
-      "posted_at": 1791889428.3776085
-    },
     {
       "title": "Robototexnika bo'yicha xalqaro musobaqa g'oliblari mukofotlandi",
       "summary": "Prezident Farmoniga muvofiq, robototexnika bo'yicha xalqaro musobaqada g'olib bo'lgan ishtirokchilar va ularning murabbiylari davlat mukofotlari bilan taqdirlandi.",
@@ -6429,6 +6360,79 @@
         "oila"
       ],
       "posted_at": 1793364292.2653115
+    },
+    {
+      "title": "\"Hilol\" MFYga yangi rais saylandi",
+      "summary": "O‘zbekiston mahallalar uyushmasi raisi boshchiligida o‘tkazilgan saylov natijalariga ko‘ra, Nodirov Sarvar Abduqodirovich \"Hilol\" mahalla fuqarolar yig‘ini raisi etib tasdiqlandi.",
+      "norm_title": "hilol mfyga yangi rais saylandi",
+      "topic_key": "hilol-mfy-rais-saylov",
+      "stems": [
+        "mfy",
+        "hilol",
+        "rais",
+        "saylan"
+      ],
+      "posted_at": 1793384055.5415921
+    },
+    {
+      "title": "3-MBF qurilish obyektiga qorovullar ishga taklif etiladi",
+      "summary": "AGMK 3-Mis boyitish fabrikasi qurilishida ishlash uchun 18 yoshdan 45 yoshgacha bo'lgan harbiy xizmatni o'tagan fuqarolar qorovullikka taklif etiladi. Hujjatlar 10-noyabrga qadar vvo.ok@agmk.uz pochtasi orqali qabul qilinadi.",
+      "norm_title": "3mbf qurilish obyektiga qorovullar ishga taklif etiladi",
+      "topic_key": "agmk-qorovul-vakansiya",
+      "stems": [
+        "obyekt",
+        "mbf",
+        "ish",
+        "taklif",
+        "quril",
+        "qorovul"
+      ],
+      "posted_at": 1793384075.25394
+    },
+    {
+      "title": "Olmaliqda yuguriş marafoni munosabati bilan yöl harakati vaqtinça çeklanadi",
+      "summary": "2026-yil 31-oktyabr kuni soat 10:00 dan 11:00 gaça Abdulla Qahhor köçasidagi yangi yölda avtomobillar harakati vaqtinça töxtatiladi.",
+      "norm_title": "olmaliqda yuguriş marafoni munosabati bilan yöl harakati vaqtinça çeklanadi",
+      "topic_key": "olmaliq-marafon-yol-yopilishi",
+      "stems": [
+        "vaqtina",
+        "harakat",
+        "munosabat",
+        "yugur",
+        "marafo",
+        "eklan"
+      ],
+      "posted_at": 1793384085.5477474
+    },
+    {
+      "title": "Suvdan qarzdorlarga elektr uchun to‘lov qilish cheklanishi mumkin",
+      "summary": "2027-yil 1-yanvardan ichimlik va oqova suvdan qarzdorligi bor iste'molchilarning elektr energiyasi uchun to‘lov qilish imkoniyati cheklanishi mumkin. Bu tartib ijtimoiy reestrga kiritilgan oilalarga tatbiq etilmaydi.",
+      "norm_title": "suvdan qarzdorlarga elektr uchun tolov qilish cheklanishi mumkin",
+      "topic_key": "suv-qarz-elektr-cheklov",
+      "stems": [
+        "qarzdor",
+        "cheklan",
+        "elektr",
+        "lov",
+        "mumkin",
+        "suv"
+      ],
+      "posted_at": 1793384098.4739943
+    },
+    {
+      "title": "Energetik ichimliklar bepushtlikka olib kelishi mumkin",
+      "summary": "Shifokorlar ogohlantirishicha, energetik ichimliklarni tez-tez iste'mol qilish gormonal muvozanatni buzib, reproduktiv tizimga va homiladorlik ehtimoliga salbiy ta'sir ko'rsatadi.",
+      "norm_title": "energetik ichimliklar bepushtlikka olib kelishi mumkin",
+      "topic_key": "energetik-ichimlik-bepushtlik",
+      "stems": [
+        "olib",
+        "bepusht",
+        "mumkin",
+        "kel",
+        "energetik",
+        "ichim"
+      ],
+      "posted_at": 1793384124.4103825
     }
   ]
 }
