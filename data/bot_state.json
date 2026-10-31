@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86197,
-    "ao_agmk": 49969,
-    "olmaliqshaharpressa": 12867,
-    "olmaliq": 43710
+    "olmaliqhayoti": 86200,
+    "ao_agmk": 49973,
+    "olmaliqshaharpressa": 12869,
+    "olmaliq": 43723
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3462,69 +3462,21 @@
     "ao_agmk:49969": 1793431827.577595,
     "olmaliq:43708": 1793431835.961048,
     "olmaliq:43709": 1793431843.9463537,
-    "olmaliq:43710": 1793431855.0336668
+    "olmaliq:43710": 1793431855.0336668,
+    "olmaliqhayoti:86198": 1793454524.53644,
+    "olmaliqhayoti:86199": 1793454546.6355236,
+    "olmaliqhayoti:86200": 1793454567.0970006,
+    "ao_agmk:49970": 1793454570.957597,
+    "ao_agmk:49971": 1793454570.9717205,
+    "ao_agmk:49972": 1793454570.9854321,
+    "ao_agmk:49973": 1793454570.9994018,
+    "olmaliqshaharpressa:12868": 1793454588.2766833,
+    "olmaliqshaharpressa:12869": 1793454604.4035957,
+    "olmaliq:43713": 1793454612.584535,
+    "olmaliq:43714": 1793454641.7493575,
+    "olmaliq:43723": 1793454658.5148559
   },
   "posted_articles": [
-    {
-      "title": "Sanitariya inspektorlari planshet va body-kameralar bilan ta'minlandi",
-      "summary": "O'zbekistonda sanitariya tekshiruvlari endi body-kameralarga yozib olinadi va aniqlangan qoidabuzarliklar planshet orqali elektron tizimga kiritiladi.",
-      "norm_title": "sanitariya inspektorlari planshet va bodykameralar bilan taminlandi",
-      "topic_key": "sanitariya-inspeksiya-texnika",
-      "stems": [
-        "minlan",
-        "inspektor",
-        "planshet",
-        "kamera",
-        "body",
-        "sanitariya"
-      ],
-      "posted_at": 1791958588.9725368
-    },
-    {
-      "title": "Chirchiqda giyohvand modda tarqatayotgan qizlar ushlandi",
-      "summary": "Chirchiq shahrida 19 va 17 yoshli qizlar hamda ularning sheriklaridan 4 kilogrammdan ortiq turli giyohvandlik vositalari musodara qilindi.",
-      "norm_title": "chirchiqda giyohvand modda tarqatayotgan qizlar ushlandi",
-      "topic_key": "chirchiq-giyohvandlik-ushlandi",
-      "stems": [
-        "chirchiq",
-        "ushlan",
-        "giyohvand",
-        "mod",
-        "qiz",
-        "tarqat"
-      ],
-      "posted_at": 1791979139.8924458
-    },
-    {
-      "title": "Olmaliqda 458 nafar o'quvchi Vatan tayanchi harakatiga qabul qilindi",
-      "summary": "Olmaliq shahridagi 22 ta maktab hamda 2 ta tehnikumning 458 nafar o'quvchisiga \"Vatan tayanchi\" harakati a'zolik guvohnomalari topshirildi.",
-      "norm_title": "olmaliqda 458 nafar oquvchi vatan tayanchi harakatiga qabul qilindi",
-      "topic_key": "vatan-tayanchi-azolar",
-      "stems": [
-        "quvch",
-        "tayanch",
-        "vatan",
-        "458",
-        "qabul",
-        "harakat",
-        "nafar"
-      ],
-      "posted_at": 1791979160.832109
-    },
-    {
-      "title": "Qashqadaryoda yangi gaz-kondensat koni ochildi",
-      "summary": "G‘uzor tumanidagi Sho‘rtan hududida yangi «Bo‘risoy» koni topildi. Yangi quduqdan kuniga 300-400 ming kub metr tabiiy gaz olinmoqda.",
-      "norm_title": "qashqadaryoda yangi gazkondensat koni ochildi",
-      "topic_key": "shurtan-borisoy-gaz-koni",
-      "stems": [
-        "gaz",
-        "kondensat",
-        "ochil",
-        "kon",
-        "qashqadaryo"
-      ],
-      "posted_at": 1791979187.3712935
-    },
     {
       "title": "Shohruxbek Xalikulov Olmaliq shahar hokimining matbuot kotibi etib tayinlandi",
       "summary": "Shohruxbek Xalikulov Olmaliq shahar hokimining matbuot kotibi – axborot siyosati masalalari bo‘yicha maslahatchisi lavozimiga tayinlandi.",
@@ -6454,6 +6406,68 @@
         "minora"
       ],
       "posted_at": 1793431855.0408087
+    },
+    {
+      "title": "Chorraha va qayrilib olish joylarida yo'l chiziqlarini bosganlik uchun jarima solinmaydi",
+      "summary": "Hukumat qaroriga ko'ra, 1-noyabrdan chorrahagacha 50 metr va qayrilib olish joyigacha 20 metr masofada 1.1 va 1.3 chiziqlarini bosganlik uchun YPX xodimlari ma'muriy bayonnoma rasmiylashtirmaydi.",
+      "norm_title": "chorraha va qayrilib olish joylarida yol chiziqlarini bosganlik uchun jarima solinmaydi",
+      "topic_key": "ypx-yol-chizigi-jarima",
+      "stems": [
+        "chiziq",
+        "olish",
+        "joy",
+        "bos",
+        "chorraha",
+        "qayrilib",
+        "jarima",
+        "solinma"
+      ],
+      "posted_at": 1793454546.6428728
+    },
+    {
+      "title": "Olmaliqda 2 million so'm mukofotli milliy sport musobaqasi bo'lib o'tadi",
+      "summary": "2-noyabr kuni soat 18:00 da 'Shum bola' parkida tosh ko'tarish, lanka tepish va kamon otish bo'yicha sovringoh musobaqasi o'tkaziladi.",
+      "norm_title": "olmaliqda 2 million som mukofotli milliy sport musobaqasi bolib otadi",
+      "topic_key": "olmaliq-sport-musobaqasi",
+      "stems": [
+        "tad",
+        "mukofotl",
+        "milliy",
+        "lib",
+        "sport",
+        "musoba",
+        "million"
+      ],
+      "posted_at": 1793454567.1041963
+    },
+    {
+      "title": "Olmaliqdagi \"Oydin\" bozorida yong'in oqibatlarini bartaraf etish muhokama qilindi",
+      "summary": "Olmaliq shahar hokimi va mas'ullar \"Oydin\" dehqon bozorida yong'indan zarar ko'rgan rastalarni qayta tiklash hamda bozor faoliyatini yo'lga qo'yish bo'yicha tadbirkorlar bilan uchrashuv o'tkazdi.",
+      "norm_title": "olmaliqdagi oydin bozorida yongin oqibatlarini bartaraf etish muhokama qilindi",
+      "topic_key": "oydin-bozor-yongin-oqibatlari",
+      "stems": [
+        "bozor",
+        "bartaraf",
+        "etish",
+        "oydin",
+        "yong",
+        "oqibat"
+      ],
+      "posted_at": 1793454588.284085
+    },
+    {
+      "title": "Ekostiker bo'yicha tarqalgan jarima xabarlari rad etildi",
+      "summary": "Ijtimoiy tarmoqlarda ekostiker olmagan haydovchilarga 10 BHM miqdorida jarima solinishi haqida tarqalgan xabarlar haqiqatga to'g'ri kelmaydi. Yo'l harakati xavfsizligi xizmati bunday qonuniy asos mavjud emasligini ma'lum qildi.",
+      "norm_title": "ekostiker boyicha tarqalgan jarima xabarlari rad etildi",
+      "topic_key": "ekostiker-jarima-rad",
+      "stems": [
+        "ekostiker",
+        "tarqal",
+        "yicha",
+        "jarima",
+        "rad"
+      ],
+      "posted_at": 1793454658.522228
     }
   ]
 }
