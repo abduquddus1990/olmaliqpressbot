@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86192,
-    "ao_agmk": 49966,
+    "olmaliqhayoti": 86197,
+    "ao_agmk": 49969,
     "olmaliqshaharpressa": 12867,
-    "olmaliq": 43707
+    "olmaliq": 43710
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3451,37 +3451,20 @@
     "olmaliqhayoti:86190": 1793398955.6518867,
     "olmaliqhayoti:86191": 1793410815.2450082,
     "olmaliqhayoti:86192": 1793410821.4364903,
-    "olmaliq:43707": 1793410829.7196982
+    "olmaliq:43707": 1793410829.7196982,
+    "olmaliqhayoti:86193": 1793431790.3458757,
+    "olmaliqhayoti:86194": 1793431803.1967604,
+    "olmaliqhayoti:86195": 1793431809.1138847,
+    "olmaliqhayoti:86196": 1793431816.2121382,
+    "olmaliqhayoti:86197": 1793431823.827307,
+    "ao_agmk:49967": 1793431827.5498922,
+    "ao_agmk:49968": 1793431827.5639143,
+    "ao_agmk:49969": 1793431827.577595,
+    "olmaliq:43708": 1793431835.961048,
+    "olmaliq:43709": 1793431843.9463537,
+    "olmaliq:43710": 1793431855.0336668
   },
   "posted_articles": [
-    {
-      "title": "Pensiya tayinlash jarayonlari raqamlashtirilmoqda",
-      "summary": "2027 yil 1 yanvardan fuqarolarga pensiya yoshiga bir yil qolganda 'Mening pensiyam' xizmati orqali online xabarnoma yuboriladi, shuningdek ayrim pensiyalar proaktiv shaklda tayinlanadi.",
-      "norm_title": "pensiya tayinlash jarayonlari raqamlashtirilmoqda",
-      "topic_key": "online-pensiya-xabarnoma",
-      "stems": [
-        "tayinlash",
-        "raqamlash",
-        "jarayon",
-        "pensiya"
-      ],
-      "posted_at": 1791958555.314706
-    },
-    {
-      "title": "O‘zbekistonda bozorlar yonishi nima sababdan ko‘paydi",
-      "summary": "FVV ma'lumotiga ko'ra, bozorlardagi yong'inlarning asosiy 70 foizga yaqin qismi elektr jihozlaridagi nosozliklar va ortiqcha yuklamalar tufayli kelib chiqmoqda.",
-      "norm_title": "ozbekistonda bozorlar yonishi nima sababdan kopaydi",
-      "topic_key": "bozorlar-yongin-sabablari",
-      "stems": [
-        "sabab",
-        "pay",
-        "zbekiston",
-        "bozor",
-        "nima",
-        "yon"
-      ],
-      "posted_at": 1791958562.0932374
-    },
     {
       "title": "Sanitariya inspektorlari planshet va body-kameralar bilan ta'minlandi",
       "summary": "O'zbekistonda sanitariya tekshiruvlari endi body-kameralarga yozib olinadi va aniqlangan qoidabuzarliklar planshet orqali elektron tizimga kiritiladi.",
@@ -6440,6 +6423,37 @@
         "ochib"
       ],
       "posted_at": 1793410821.443759
+    },
+    {
+      "title": "Saratonni yengib yashayotgan ohangaronlik yigitcha hikoyasi",
+      "summary": "Ohangaronlik 17 yoshli Azizbek Rahimov og'ir suyak saratoni xastaligini matonat bilan yengib, bugunda texnikumda tahsil olmoqda hamda IT sohasini o'rganmoqda.",
+      "norm_title": "saratonni yengib yashayotgan ohangaronlik yigitcha hikoyasi",
+      "topic_key": "ohangaron-azizbek-hikoyasi",
+      "stems": [
+        "yengib",
+        "yash",
+        "hikoya",
+        "saraton",
+        "yigitcha",
+        "ohangaron"
+      ],
+      "posted_at": 1793431823.834434
+    },
+    {
+      "title": "Istanbuldagi Galata minorasi O'zbekiston bayrog'iga burkandi",
+      "summary": "Prezident Shavkat Mirziyoyevning Turkiyaga tashrifi doirasida Istanbuldagi mashhur Galata minorasi O'zbekiston bayrog'i ranglari bilan yoritildi.",
+      "norm_title": "istanbuldagi galata minorasi ozbekiston bayrogiga burkandi",
+      "topic_key": "galata-uzbekiston-bayrogi",
+      "stems": [
+        "bayrog",
+        "istanbul",
+        "iga",
+        "galata",
+        "zbekiston",
+        "bur",
+        "minora"
+      ],
+      "posted_at": 1793431855.0408087
     }
   ]
 }
