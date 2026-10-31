@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86200,
+    "olmaliqhayoti": 86202,
     "ao_agmk": 49973,
     "olmaliqshaharpressa": 12869,
-    "olmaliq": 43723
+    "olmaliq": 43725
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3474,41 +3474,13 @@
     "olmaliqshaharpressa:12869": 1793454604.4035957,
     "olmaliq:43713": 1793454612.584535,
     "olmaliq:43714": 1793454641.7493575,
-    "olmaliq:43723": 1793454658.5148559
+    "olmaliq:43723": 1793454658.5148559,
+    "olmaliqhayoti:86201": 1793469492.2581217,
+    "olmaliqhayoti:86202": 1793469496.9437282,
+    "olmaliq:43724": 1793469501.1875663,
+    "olmaliq:43725": 1793469509.5605505
   },
   "posted_articles": [
-    {
-      "title": "Shohruxbek Xalikulov Olmaliq shahar hokimining matbuot kotibi etib tayinlandi",
-      "summary": "Shohruxbek Xalikulov Olmaliq shahar hokimining matbuot kotibi – axborot siyosati masalalari bo‘yicha maslahatchisi lavozimiga tayinlandi.",
-      "norm_title": "shohruxbek xalikulov olmaliq shahar hokimining matbuot kotibi etib tayinlandi",
-      "topic_key": "olmaliq-hokimlik-tayinlov",
-      "stems": [
-        "shohruxbek",
-        "kotib",
-        "matbuot",
-        "etib",
-        "tayinlan",
-        "xalikulov",
-        "hokim"
-      ],
-      "posted_at": 1791979218.6584294
-    },
-    {
-      "title": "AGMK korrupsiyaga qarshi aloqa kanallarini eslatib o'tdi",
-      "summary": "Olmaliq KMK jamoatchilikni halollikka chaqirib, korrupsiya holatlari haqida xabar berish uchun maxsus bot, ishonch telefonlari va e-mail manzillarini taqdim etdi.",
-      "norm_title": "agmk korrupsiyaga qarshi aloqa kanallarini eslatib otdi",
-      "topic_key": "agmk-korrupsiyaga-qarshi",
-      "stems": [
-        "tdi",
-        "eslatib",
-        "agmk",
-        "qarsh",
-        "alo",
-        "kanal",
-        "korrupsiya"
-      ],
-      "posted_at": 1791979237.648243
-    },
     {
       "title": "Olmaliqda isitish mavsumiga tayyorgarlik yakunlandi",
       "summary": "Sovet ob-havo sharoitlarida shahar aholisini issiqlik energiyasi bilan uzluksiz ta'minlash uchun barcha kommunal xizmatlar tayyorgarlik ishlarini yakunladi.",
@@ -6468,6 +6440,35 @@
         "rad"
       ],
       "posted_at": 1793454658.522228
+    },
+    {
+      "title": "APK himoyasini o'chirish firibgarlikka olib kelmoqda",
+      "summary": "Telefonlardagi xavfsizlik dasturini o'chirib tashlagan fuqarolar noma'lum APK fayllar orqali firibgarlar qurboniga aylanib, pul mablag'laridan ayrilmoqda. Mutaxassislar tekshirilmagan fayllarni o'rnatmaslikdan ogohlantirmoqda.",
+      "norm_title": "apk himoyasini ochirish firibgarlikka olib kelmoqda",
+      "topic_key": "apk-xavfsizlik-firibgarlik",
+      "stems": [
+        "himoya",
+        "olib",
+        "chir",
+        "apk",
+        "kel",
+        "firibgar"
+      ],
+      "posted_at": 1793469501.19353
+    },
+    {
+      "title": "Olmaliq shahri uchun 1-noyabr kungi namoz vaqtlari",
+      "summary": "1-noyabr yakshanba kuni Olmaliq shahri bo'yicha namoz vaqtlari: Bomdod 05:35, Peshin 12:06, Asr 15:36, Shom 17:18 hamda Xufton 18:35 deb belgilandi.",
+      "norm_title": "olmaliq shahri uchun 1noyabr kungi namoz vaqtlari",
+      "topic_key": "olmaliq-namoz-vaqtlari",
+      "stems": [
+        "noyabr",
+        "vaqt",
+        "shahr",
+        "kung",
+        "namoz"
+      ],
+      "posted_at": 1793469509.5664065
     }
   ]
 }
