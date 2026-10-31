@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86190,
+    "olmaliqhayoti": 86192,
     "ao_agmk": 49966,
     "olmaliqshaharpressa": 12867,
-    "olmaliq": 43706
+    "olmaliq": 43707
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3448,22 +3448,12 @@
     "olmaliq:43697": 1793384109.882606,
     "olmaliq:43705": 1793384124.4030592,
     "olmaliq:43706": 1793384133.4815521,
-    "olmaliqhayoti:86190": 1793398955.6518867
+    "olmaliqhayoti:86190": 1793398955.6518867,
+    "olmaliqhayoti:86191": 1793410815.2450082,
+    "olmaliqhayoti:86192": 1793410821.4364903,
+    "olmaliq:43707": 1793410829.7196982
   },
   "posted_articles": [
-    {
-      "title": "\"Kartoshka puli\" kimlarga beriladi",
-      "summary": "Qishloq xo'jaligi mahsulotlarini xarid qilish uchun beriladigan bir martalik moddiy yordam faqat sohaaviy hujjatlar yoki jamoa shartnomasida belgilangan xodimlarga to'lanadi.",
-      "norm_title": "kartoshka puli kimlarga beriladi",
-      "topic_key": "kartoshka-puli-tolovi",
-      "stems": [
-        "kartosh",
-        "kim",
-        "pul",
-        "ber"
-      ],
-      "posted_at": 1791889458.3137488
-    },
     {
       "title": "Pensiya tayinlash jarayonlari raqamlashtirilmoqda",
       "summary": "2027 yil 1 yanvardan fuqarolarga pensiya yoshiga bir yil qolganda 'Mening pensiyam' xizmati orqali online xabarnoma yuboriladi, shuningdek ayrim pensiyalar proaktiv shaklda tayinlanadi.",
@@ -6434,6 +6424,22 @@
         "vaqt"
       ],
       "posted_at": 1793398955.6559901
+    },
+    {
+      "title": "Rustam G'oyipov ijrosidagi qo'shiqning tasavvufiy ma'nosi ochib berildi",
+      "summary": "Yosh tadqiqotchi Bekmurod Tolib o'g'li O'zbekiston xalq artisti Rustam G'oyipov ijro etgan qo'shiq va So'fi Olloyorning \"Sabot ul-ojizin\" asaridagi falsafiy-axloqiy g'oyalarning tahlilini taqdim etdi.",
+      "norm_title": "rustam goyipov ijrosidagi qoshiqning tasavvufiy manosi ochib berildi",
+      "topic_key": "rustam-goyipov-sofi-olloyor-tahlil",
+      "stems": [
+        "rustam",
+        "oyipov",
+        "nos",
+        "tasavvufiy",
+        "ijro",
+        "shiq",
+        "ochib"
+      ],
+      "posted_at": 1793410821.443759
     }
   ]
 }
