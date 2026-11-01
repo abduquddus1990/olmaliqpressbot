@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86202,
-    "ao_agmk": 49973,
-    "olmaliqshaharpressa": 12869,
-    "olmaliq": 43725
+    "olmaliqhayoti": 86204,
+    "ao_agmk": 49975,
+    "olmaliqshaharpressa": 12871,
+    "olmaliq": 43729
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3478,22 +3478,19 @@
     "olmaliqhayoti:86201": 1793469492.2581217,
     "olmaliqhayoti:86202": 1793469496.9437282,
     "olmaliq:43724": 1793469501.1875663,
-    "olmaliq:43725": 1793469509.5605505
+    "olmaliq:43725": 1793469509.5605505,
+    "olmaliqhayoti:86203": 1793512172.0794456,
+    "olmaliqhayoti:86204": 1793512174.9087777,
+    "ao_agmk:49974": 1793512175.6496794,
+    "ao_agmk:49975": 1793512175.6640162,
+    "olmaliqshaharpressa:12870": 1793512178.8555505,
+    "olmaliqshaharpressa:12871": 1793512195.515248,
+    "olmaliq:43726": 1793512199.3177927,
+    "olmaliq:43727": 1793512202.8474674,
+    "olmaliq:43728": 1793512208.3413446,
+    "olmaliq:43729": 1793512218.5193236
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda isitish mavsumiga tayyorgarlik yakunlandi",
-      "summary": "Sovet ob-havo sharoitlarida shahar aholisini issiqlik energiyasi bilan uzluksiz ta'minlash uchun barcha kommunal xizmatlar tayyorgarlik ishlarini yakunladi.",
-      "norm_title": "olmaliqda isitish mavsumiga tayyorgarlik yakunlandi",
-      "topic_key": "olmaliq-isitish-mavsumi",
-      "stems": [
-        "isit",
-        "tayyorgar",
-        "mavsum",
-        "yakunlan"
-      ],
-      "posted_at": 1791979259.9333975
-    },
     {
       "title": "Olmaliq shahriga yangi mudofaa ishlari bo'limi boshlig'i tayinlandi",
       "summary": "Podpolkovnik San'at Xudaybergenov Olmaliq shahar Mudofaa ishlari bo'limi boshlig'i lavozimiga tayinlandi.",
@@ -6469,6 +6466,20 @@
         "namoz"
       ],
       "posted_at": 1793469509.5664065
+    },
+    {
+      "title": "1 noyabrdan kuchga kiradigan muhim o'zgarishlar",
+      "summary": "1 noyabrdan boshlab SMS-xabarnomalar faqat abonent roziligi bilan yuboriladi, ayrim fuqarolarga pensiya murojaatsiz tayinlanadi hamda tadbirkorlar uchun energiya resurslariga oldindan to'lov miqdori kamaytiriladi.",
+      "norm_title": "1 noyabrdan kuchga kiradigan muhim ozgarishlar",
+      "topic_key": "noyabr-qonun-ozgarishlar",
+      "stems": [
+        "zgar",
+        "muhim",
+        "kuch",
+        "kir",
+        "noyabr"
+      ],
+      "posted_at": 1793512202.8547223
     }
   ]
 }
