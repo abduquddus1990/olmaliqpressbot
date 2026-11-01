@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86204,
-    "ao_agmk": 49975,
-    "olmaliqshaharpressa": 12871,
-    "olmaliq": 43729
+    "olmaliqhayoti": 86223,
+    "ao_agmk": 49979,
+    "olmaliqshaharpressa": 12879,
+    "olmaliq": 43739
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3488,112 +3488,22 @@
     "olmaliq:43726": 1793512199.3177927,
     "olmaliq:43727": 1793512202.8474674,
     "olmaliq:43728": 1793512208.3413446,
-    "olmaliq:43729": 1793512218.5193236
+    "olmaliq:43729": 1793512218.5193236,
+    "olmaliqhayoti:86205": 1793534649.013714,
+    "olmaliqhayoti:86206": 1793534656.1535845,
+    "olmaliqhayoti:86207": 1793534670.189011,
+    "olmaliqhayoti:86214": 1793534685.2283106,
+    "olmaliqhayoti:86223": 1793534692.2440877,
+    "ao_agmk:49976": 1793534692.971372,
+    "ao_agmk:49977": 1793534697.4075377,
+    "ao_agmk:49978": 1793534701.9225593,
+    "ao_agmk:49979": 1793534710.3127267,
+    "olmaliqshaharpressa:12872": 1793534723.910543,
+    "olmaliqshaharpressa:12879": 1793534727.8416445,
+    "olmaliq:43738": 1793534733.678817,
+    "olmaliq:43739": 1793534745.0257237
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahriga yangi mudofaa ishlari bo'limi boshlig'i tayinlandi",
-      "summary": "Podpolkovnik San'at Xudaybergenov Olmaliq shahar Mudofaa ishlari bo'limi boshlig'i lavozimiga tayinlandi.",
-      "norm_title": "olmaliq shahriga yangi mudofaa ishlari bolimi boshligi tayinlandi",
-      "topic_key": "olmaliq-mudofaa-boshlig-tayinlov",
-      "stems": [
-        "lim",
-        "tayinlan",
-        "shahr",
-        "boshlig",
-        "ish",
-        "mudofaa"
-      ],
-      "posted_at": 1791979292.606403
-    },
-    {
-      "title": "Olmaliqda noqonuniy qurilgan savdo shahobchasi MIB tomonidan buzdirildi",
-      "summary": "MIB Olmaliq shahar bo‘limi sud qaroriga asosan Primqulov shoh ko‘chasidagi 34 kv.m maydonga ega savdo shahobchasini fuqaro F. Yoqubov hisobidan to‘liq buzdirib, ijroni ta'minladi.",
-      "norm_title": "olmaliqda noqonuniy qurilgan savdo shahobchasi mib tomonidan buzdirildi",
-      "topic_key": "mib-savdo-shahobchasi-buzilishi",
-      "stems": [
-        "qur",
-        "mib",
-        "buzdiril",
-        "noqonuniy",
-        "savdo",
-        "shahobcha"
-      ],
-      "posted_at": 1791979316.3480213
-    },
-    {
-      "title": "Kommunal muammolar uchun maxsus bot ishga tushirildi",
-      "summary": "Aholi kuz-qish mavsumiga tayyorgarlikdagi kamchiliklar yuzasidan @Kommunalmurojaat_bot orqali murojaat qilishlari mumkin. Kelib tushgan murojaatlar vazirlik ishchi guruhi tomonidan o'rganilib, bartaraf etiladi.",
-      "norm_title": "kommunal muammolar uchun maxsus bot ishga tushirildi",
-      "topic_key": "kommunal-murojaat-bot",
-      "stems": [
-        "bot",
-        "muammo",
-        "tushiril",
-        "kommunal",
-        "maxsus",
-        "ish"
-      ],
-      "posted_at": 1791996405.3128133
-    },
-    {
-      "title": "Olmaliqda ajrim yoqasidagi 6 ta oila yarashtirildi",
-      "summary": "Olmaliq shahrida Oilaviy qadriyatlarni mustahkamlash komissiyasi tomonidan ajrim yoqasidagi 12 ta oilaning muammolari o'rganilib, 6 nafar oila yarashtirildi.",
-      "norm_title": "olmaliqda ajrim yoqasidagi 6 ta oila yarashtirildi",
-      "topic_key": "ajrim-yohasidagi-oilalar",
-      "stems": [
-        "yarashtiril",
-        "oila",
-        "ajrim",
-        "yoqa"
-      ],
-      "posted_at": 1791996424.6234186
-    },
-    {
-      "title": "Kiberjinoyatlar va ulardan himoyalanish haqida ko'rsatuv efirga uzatiladi",
-      "summary": "15-oktyabr kuni soat 19:00 da \"OKMK TV\" telekanalida virtual olam tuzoqlari va kiberxavfsizlik mavzusiga bag'ishlangan ko'rsatuv namoyish etiladi.",
-      "norm_title": "kiberjinoyatlar va ulardan himoyalanish haqida korsatuv efirga uzatiladi",
-      "topic_key": "okmktv-kiberjinoyat-korsatuv",
-      "stems": [
-        "rsatuv",
-        "uzat",
-        "efir",
-        "ular",
-        "kiberjinoyat",
-        "himoyalan"
-      ],
-      "posted_at": 1791996436.2647295
-    },
-    {
-      "title": "Olmaliq shahar hokimi tadbirkorlar bilan navbatdagi muloqotni o‘tkazdi",
-      "summary": "Olmaliq shahar hokimi Barhayot Meliyev tadbirkorlar murojaatlarini tinglab, yer maydonlari ajratish va faoliyatni kengaytirish masalalarini qonuniy hal etish bo‘yicha mas’ullarga topshiriq berdi.",
-      "norm_title": "olmaliq shahar hokimi tadbirkorlar bilan navbatdagi muloqotni otkazdi",
-      "topic_key": "olmaliq-hokim-tadbirkorlar-muloqoti",
-      "stems": [
-        "tadbirkor",
-        "hokim",
-        "navbat",
-        "tkaz",
-        "muloqot"
-      ],
-      "posted_at": 1791996442.8124263
-    },
-    {
-      "title": "Qozog'istonga kirish uchun ETA elektron ruxsatnomasi joriy etiladi",
-      "summary": "O'zbekiston fuqarolari Qozog'istonga borish uchun QazETA platformasi orqali bepul elektron ruxsatnoma olishlari kerak bo'ladi. Yangi tartib 2027 yil 1 iyuldan to'liq majburiy etib belgilanadi.",
-      "norm_title": "qozogistonga kirish uchun eta elektron ruxsatnomasi joriy etiladi",
-      "topic_key": "qozogiston-eta-ruxsatnomasi",
-      "stems": [
-        "kir",
-        "ruxsatnoma",
-        "iston",
-        "joriy",
-        "elektron",
-        "qozog",
-        "eta"
-      ],
-      "posted_at": 1792028024.7850337
-    },
     {
       "title": "Ota-onalar va farzandlar o'rtasidagi muloqot vaqti keskin kamaygan",
       "summary": "O'tkazilgan so'rovlarga ko'ra, ota-onalar farzandlariga kuniga o'rtacha 8-10 daqiqa vaqt ajratmoqda. Mutaxassislar bolalar bilan telefonlarsiz samimiy suhbatlashish va kitobxonlikni yo'lga qo'yish muhimligini ta'kidlashmoqda.",
@@ -6480,6 +6390,115 @@
         "noyabr"
       ],
       "posted_at": 1793512202.8547223
+    },
+    {
+      "title": "Xakerlar 27 million o'zbekistonlikning ma'lumotlari o'g'irlanganini da'vo qilmoqda",
+      "summary": "BUTTERFLY xakerlar guruhi sobiq Personallashtirish agentligi bazasini buzib kirganini aytib, 27 million fuqaroning ma'lumotlarini tarqatish bilan tahdid qilmoqda. Hozircha bu xabar rasman tasdiqlanmadi.",
+      "norm_title": "xakerlar 27 million ozbekistonlikning malumotlari ogirlanganini davo qilmoqda",
+      "topic_key": "xakerlar-baza-sizish",
+      "stems": [
+        "qil",
+        "zbekiston",
+        "lumot",
+        "million",
+        "xaker",
+        "irlan"
+      ],
+      "posted_at": 1793534656.1594808
+    },
+    {
+      "title": "Olmaliqda Koreys milliy madaniy markazi uchun yangi sharoitlar yaratildi",
+      "summary": "Olmaliq shahrida Koreys milliy madaniy markazi faoliyati kengaytirilib, koreys tili va sanat to'garaklari yo'lga qo'yildi.",
+      "norm_title": "olmaliqda koreys milliy madaniy markazi uchun yangi sharoitlar yaratildi",
+      "topic_key": "koreys-madaniy-markazi-olmaliq",
+      "stems": [
+        "markaz",
+        "koreys",
+        "sharoit",
+        "madaniy",
+        "milliy",
+        "yaratil"
+      ],
+      "posted_at": 1793534670.1959167
+    },
+    {
+      "title": "\"Buxoro maktabi\" sun'iy intellekt texnologiyasini joriy etish bo'yicha Xitoy kompaniyasi bilan kelishib oldi",
+      "summary": "Xitoydagi ko'rgazmada \"Buxoro maktabi\" vakillari Classin kompaniyasi bilan dars jarayonlari va o'quvchilar o'zlashtirishini sun'iy intellekt yordamida tahlil qilish tizimini yo'lga qo me'yorida kelishuvga erishdi.",
+      "norm_title": "buxoro maktabi suniy intellekt texnologiyasini joriy etish boyicha xitoy kompaniyasi bilan kelishib oldi",
+      "topic_key": "buxoro-maktabi-xitoy-kelishuv",
+      "stems": [
+        "kelishib",
+        "etish",
+        "yicha",
+        "maktab",
+        "buxoro",
+        "sun",
+        "intellekt",
+        "xitoy",
+        "kompaniya",
+        "old",
+        "texnologiya",
+        "joriy"
+      ],
+      "posted_at": 1793534685.2341707
+    },
+    {
+      "title": "OKMK issiqxonalarida sitrus mevalari yetishtirilmoqda",
+      "summary": "Olmaliq kon-metallurgiya kombinati issiqxona xo'jaligida 'Yashil makon' loyihasi doirasida limon va boshqa sitrus mevalari yetishtirish yo'lga qo'yilgan.",
+      "norm_title": "okmk issiqxonalarida sitrus mevalari yetishtirilmoqda",
+      "topic_key": "agmk-issiqxona-sitrus",
+      "stems": [
+        "issiqxona",
+        "yet",
+        "sitrus",
+        "meva",
+        "okmk"
+      ],
+      "posted_at": 1793534701.9287827
+    },
+    {
+      "title": "Superliga: OKMK «Lokomotiv»ga qarshi maydonga tushadi",
+      "summary": "Superliganing 26-turi doirasida OKMK jamoasi 1-noyabr kuni soat 16:00 da Toshkentda «Lokomotiv» mehmoni bo'ladi. Uchrashuv Futbol TV telekanalida jonli namoyish etiladi.",
+      "norm_title": "superliga okmk lokomotivga qarshi maydonga tushadi",
+      "topic_key": "okmk-lokomotiv-o-yini",
+      "stems": [
+        "lokomotiv",
+        "superl",
+        "maydon",
+        "tush",
+        "qarsh",
+        "okmk"
+      ],
+      "posted_at": 1793534710.3187933
+    },
+    {
+      "title": "Noyabrdan gaz uchun bazaviy me'yor 500 kub metrgacha oshirildi",
+      "summary": "Noyabrdan fevralgacha aholi uchun gazning oylik bazaviy me'yori 500 kub metrgacha oshiriladi (Qoraqalpog'iston va Xorazmda oktyabrdan fevralgacha). Qolgan oylarda esa 100 kub metr amalda bo'ladi.",
+      "norm_title": "noyabrdan gaz uchun bazaviy meyor 500 kub metrgacha oshirildi",
+      "topic_key": "gaz-bazaviy-meyor",
+      "stems": [
+        "500",
+        "metrgacha",
+        "noyabr",
+        "yor",
+        "kub",
+        "gaz",
+        "bazaviy"
+      ],
+      "posted_at": 1793534733.6848025
+    },
+    {
+      "title": "Ipoteka subsidiyalariga 1,2 trillion so'm ajratildi",
+      "summary": "To'qqiz oy davomida 67 mingdan ortiq fuqaroga 20,9 trillion so'mlik ipoteka krediti berilib, subsidiyalar uchun davlat byudjetidan 1,2 trillion so'm to'lab berildi.",
+      "norm_title": "ipoteka subsidiyalariga 12 trillion som ajratildi",
+      "topic_key": "ipoteka-subsidiyalari-byudjet",
+      "stems": [
+        "trillion",
+        "ajratil",
+        "subsidiya",
+        "ipote"
+      ],
+      "posted_at": 1793534745.0316699
     }
   ]
 }
