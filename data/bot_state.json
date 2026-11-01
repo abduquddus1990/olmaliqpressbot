@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86223,
-    "ao_agmk": 49979,
-    "olmaliqshaharpressa": 12879,
-    "olmaliq": 43739
+    "olmaliqhayoti": 86227,
+    "ao_agmk": 49980,
+    "olmaliqshaharpressa": 12880,
+    "olmaliq": 43742
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3501,43 +3501,18 @@
     "olmaliqshaharpressa:12872": 1793534723.910543,
     "olmaliqshaharpressa:12879": 1793534727.8416445,
     "olmaliq:43738": 1793534733.678817,
-    "olmaliq:43739": 1793534745.0257237
+    "olmaliq:43739": 1793534745.0257237,
+    "olmaliqhayoti:86224": 1793555622.6107318,
+    "olmaliqhayoti:86225": 1793555627.5104291,
+    "olmaliqhayoti:86226": 1793555635.2163985,
+    "olmaliqhayoti:86227": 1793555643.784991,
+    "ao_agmk:49980": 1793555649.5017128,
+    "olmaliqshaharpressa:12880": 1793555653.2724955,
+    "olmaliq:43740": 1793555659.121461,
+    "olmaliq:43741": 1793555662.5844347,
+    "olmaliq:43742": 1793555665.0158722
   },
   "posted_articles": [
-    {
-      "title": "Ota-onalar va farzandlar o'rtasidagi muloqot vaqti keskin kamaygan",
-      "summary": "O'tkazilgan so'rovlarga ko'ra, ota-onalar farzandlariga kuniga o'rtacha 8-10 daqiqa vaqt ajratmoqda. Mutaxassislar bolalar bilan telefonlarsiz samimiy suhbatlashish va kitobxonlikni yo'lga qo'yish muhimligini ta'kidlashmoqda.",
-      "norm_title": "otaonalar va farzandlar ortasidagi muloqot vaqti keskin kamaygan",
-      "topic_key": "ota-ona-va-farzand-muloqoti",
-      "stems": [
-        "keskin",
-        "farzand",
-        "ona",
-        "rta",
-        "kamay",
-        "vaqt",
-        "ota",
-        "muloqot"
-      ],
-      "posted_at": 1792045325.4658532
-    },
-    {
-      "title": "Respublika fan olimpiadasi shahar bosqichiga 1382 nafar o'quvchi qatnashishi kutilmoqda",
-      "summary": "Olmaliq shahrida 9-10-11-sinf o'quvchilari o'rtasida o'tkaziladigan Respublika fan olimpiadasining shahar bosqichiga tayyorgarlik ko'rilmoqda.",
-      "norm_title": "respublika fan olimpiadasi shahar bosqichiga 1382 nafar oquvchi qatnashishi kutilmoqda",
-      "topic_key": "fan-olimpiadasi-shahar-bosqichi",
-      "stems": [
-        "kut",
-        "nafar",
-        "quvch",
-        "qatnash",
-        "1382",
-        "olimpia",
-        "bosqich",
-        "fan"
-      ],
-      "posted_at": 1792045333.288639
-    },
     {
       "title": "Samarqand noni tovar belgisi sifatida davlat ro'yxatidan o'tkazildi",
       "summary": "Mashhur Samarqand noni brendi geografik ko'rsatkichdan tashqari rasman tovar belgisi sifatida ham ro'yxatga olindi. Bu milliy gastronomik merosni asrash va uning bozoridagi nufuzini oshirishga xizmat qiladi.",
@@ -6499,6 +6474,36 @@
         "ipote"
       ],
       "posted_at": 1793534745.0316699
+    },
+    {
+      "title": "Sherzodxon Qudratxo'ja turizmni rivojlantirish bo'yicha fikr bildirdi",
+      "summary": "O'zbekiston jurnalistika va ommaviy kommunikatsiyalar instituti rektori Sherzodxon Qudratxo'ja Turkiya tajribasi misolida turizmni rivojlantirish bo'yicha o'z takliflari bilan bo'lishdi.",
+      "norm_title": "sherzodxon qudratxoja turizmni rivojlantirish boyicha fikr bildirdi",
+      "topic_key": "turizmni-rivojlantirish-turkiya",
+      "stems": [
+        "fikr",
+        "yicha",
+        "rivojlan",
+        "bildir",
+        "turizm",
+        "sherzodxon",
+        "qudratxo"
+      ],
+      "posted_at": 1793555635.2237034
+    },
+    {
+      "title": "OKMK Superliganing 26-turida g'alaba qozondi",
+      "summary": "OKMK jamoasi \"Lokomotiv\" ustidan 2:1 hisobida g'alaba qozondi. O'yinda OKMK gollarini Aziz Xolmurodov va Siyavash Haqnazari kiritdi.",
+      "norm_title": "okmk superliganing 26turida galaba qozondi",
+      "topic_key": "okmk-lokomotiv-galaba",
+      "stems": [
+        "alaba",
+        "okmk",
+        "qozon",
+        "superl",
+        "tur"
+      ],
+      "posted_at": 1793555649.5091045
     }
   ]
 }
