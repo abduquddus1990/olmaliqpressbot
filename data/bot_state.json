@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86228,
-    "ao_agmk": 49980,
-    "olmaliqshaharpressa": 12880,
-    "olmaliq": 43742
+    "olmaliqhayoti": 86234,
+    "ao_agmk": 49982,
+    "olmaliqshaharpressa": 12882,
+    "olmaliq": 43747
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3511,100 +3511,24 @@
     "olmaliq:43740": 1793555659.121461,
     "olmaliq:43741": 1793555662.5844347,
     "olmaliq:43742": 1793555665.0158722,
-    "olmaliqhayoti:86228": 1793581045.5742154
+    "olmaliqhayoti:86228": 1793581045.5742154,
+    "olmaliqhayoti:86229": 1793603596.7370012,
+    "olmaliqhayoti:86230": 1793603599.4963665,
+    "olmaliqhayoti:86231": 1793603599.5105724,
+    "olmaliqhayoti:86232": 1793603599.5245528,
+    "olmaliqhayoti:86233": 1793603602.417339,
+    "olmaliqhayoti:86234": 1793603605.7176452,
+    "ao_agmk:49981": 1793603612.4515145,
+    "ao_agmk:49982": 1793603621.3897676,
+    "olmaliqshaharpressa:12881": 1793603627.3878,
+    "olmaliqshaharpressa:12882": 1793603630.6365788,
+    "olmaliq:43743": 1793603637.2456157,
+    "olmaliq:43744": 1793603640.6829762,
+    "olmaliq:43745": 1793603643.1514156,
+    "olmaliq:43746": 1793603646.1025343,
+    "olmaliq:43747": 1793603657.0460055
   },
   "posted_articles": [
-    {
-      "title": "Samarqand noni tovar belgisi sifatida davlat ro'yxatidan o'tkazildi",
-      "summary": "Mashhur Samarqand noni brendi geografik ko'rsatkichdan tashqari rasman tovar belgisi sifatida ham ro'yxatga olindi. Bu milliy gastronomik merosni asrash va uning bozoridagi nufuzini oshirishga xizmat qiladi.",
-      "norm_title": "samarqand noni tovar belgisi sifatida davlat royxatidan otkazildi",
-      "topic_key": "samarqand-noni-brendi",
-      "stems": [
-        "samarqand",
-        "yxat",
-        "tkazil",
-        "belg",
-        "sifat",
-        "non",
-        "davlat",
-        "tovar"
-      ],
-      "posted_at": 1792045352.8431711
-    },
-    {
-      "title": "Ochiq eʼlon qilinishi shart bo‘lgan maʼlumotlar ro‘yxati tasdiqlandi",
-      "summary": "Davlat organlari va tashkilotlari Ochiq maʼlumotlar portalida 43 turdagi ijtimoiy ahamiyatga molik axborotlarni, jumladan, xarajatlar, davlat xaridlari va bo‘sh ish o‘rinlarini majburiy eʼlon qilishi belgilandi.",
-      "norm_title": "ochiq eʼlon qilinishi shart bolgan maʼlumotlar royxati tasdiqlandi",
-      "topic_key": "ochiq-malumotlar-royxati",
-      "stems": [
-        "malumot",
-        "ochiq",
-        "yxat",
-        "qilin",
-        "shart",
-        "lgan",
-        "tasdiqlan"
-      ],
-      "posted_at": 1792045363.8711076
-    },
-    {
-      "title": "Jasorat maktabiga qabul qilingan o'quvchilar tantanali ravishda qasamyod qildi",
-      "summary": "Olmaliq shahrida imtihonlardan muvaffaqiyatli o'tgan 26 nafar o'quvchi \"Jasorat maktabi\"da o'qishni boshladi va ularning va'da berish marosimi bo'lib o'tdi.",
-      "norm_title": "jasorat maktabiga qabul qilingan oquvchilar tantanali ravishda qasamyod qildi",
-      "topic_key": "jasorat-maktabi-marosim",
-      "stems": [
-        "quvch",
-        "rav",
-        "qil",
-        "jasorat",
-        "qasamyod",
-        "maktab",
-        "qabul",
-        "tantanal"
-      ],
-      "posted_at": 1792064740.45608
-    },
-    {
-      "title": "Superliga: OKMK bugun «Mash’al» mehmoni bo‘ladi",
-      "summary": "Superliganing 24-turida OKMK jamoasi G‘uzorda «Mash’al»ga qarshi maydonga tushadi. Uchrashuv soat 19:00 da boshlanadi va «Sport TV» orqali jonli efirga uzatiladi.",
-      "norm_title": "superliga okmk bugun mashal mehmoni boladi",
-      "topic_key": "okmk-mashal-uyin",
-      "stems": [
-        "okmk",
-        "lad",
-        "mehmo",
-        "superl",
-        "mash"
-      ],
-      "posted_at": 1792064784.085652
-    },
-    {
-      "title": "Prezident Boku sammitida ishtirok etdi",
-      "summary": "O‘zbekiston Prezidenti Shavkat Mirziyoyev Boku shahrida bo‘lib o‘tgan Osiyoda hamkorlik va ishonch choralari bo‘yicha kengashning yettinchi sammitida qatnashdi.",
-      "norm_title": "prezident boku sammitida ishtirok etdi",
-      "topic_key": "prezident-boku-sammiti",
-      "stems": [
-        "sammit",
-        "ishtirok",
-        "boku",
-        "prezident",
-        "etd"
-      ],
-      "posted_at": 1792064801.739243
-    },
-    {
-      "title": "Xalq qabulxonasi rahbarlarining maqomi oshirildi",
-      "summary": "Prezident farmoniga ko'ra, Xalq qabulxonasi rahbarining maqomi Prezident Administratsiyasi departamenti boshlig'i o'rinbosariga tenglashtirildi. Shuningdek, ularning o'rinbosarlari boshqarma boshlig'i maqomini oldi.",
-      "norm_title": "xalq qabulxonasi rahbarlarining maqomi oshirildi",
-      "topic_key": "xalq-qabulxonasi-maqomi",
-      "stems": [
-        "qabulxona",
-        "rahbar",
-        "maqom",
-        "xalq"
-      ],
-      "posted_at": 1792064815.6308813
-    },
     {
       "title": "Ko'kdala hokimiga bolta bilan hujum qilindi",
       "summary": "Ko'kdala tumanida do'koni buzilishi kutilayotgan tadbirkor tuman hokimiga bolta bilan jarohat yetkazdi. IIV hodisani tasdiqlab, prokuratura o'rganish ishlarini boshlaganini ma'lum qildi.",
@@ -6505,6 +6429,93 @@
         "tur"
       ],
       "posted_at": 1793555649.5091045
+    },
+    {
+      "title": "O‘zbekistonda Telegram asosiy yangilik manbaiga aylandi",
+      "summary": "Milliy tadqiqot natijalariga ko‘ra, aholining 51,6 foizi yangiliklarni Telegram kanallaridan, 44,6 foizi esa televidenie orqali olishini ma'lum qildi.",
+      "norm_title": "ozbekistonda telegram asosiy yangilik manbaiga aylandi",
+      "topic_key": "telegram-asosiy-yangilik-manbai",
+      "stems": [
+        "asosiy",
+        "aylan",
+        "telegram",
+        "yang",
+        "zbekiston",
+        "manba"
+      ],
+      "posted_at": 1793603605.7249277
+    },
+    {
+      "title": "AGMK haftalik yangiliklar dayjesti",
+      "summary": "Olmaliq kon-metallurgiya kombinatida ishlab chiqarish yutuqlari, xalqaro hamkorlik aloqalari, xodimlarning yutuqlari va o'tkazilgan muhim tadbirlar sarhisob qilindi.",
+      "norm_title": "agmk haftalik yangiliklar dayjesti",
+      "topic_key": "agmk-haftalik-dayjest",
+      "stems": [
+        "hafta",
+        "dayjest",
+        "yang",
+        "agmk"
+      ],
+      "posted_at": 1793603612.4587617
+    },
+    {
+      "title": "Rux zavodida bo‘sh ish o‘rinlari uchun sinovlar o‘tkazilmoqda",
+      "summary": "Rux zavodidagi vakant o‘rinlarga nomzodlarni saralash uchun shaffof tarzda nazariy va amaliy imtihon jarayonlari bo‘lib o‘tmoqda.",
+      "norm_title": "rux zavodida bosh ish orinlari uchun sinovlar otkazilmoqda",
+      "topic_key": "rux-zavodi-ishga-qabul",
+      "stems": [
+        "rin",
+        "zavod",
+        "sinov",
+        "ish",
+        "rux",
+        "tkaz"
+      ],
+      "posted_at": 1793603621.3974857
+    },
+    {
+      "title": "Hududlarda xorijdan pul o'tkazmalari hajmi turlicha",
+      "summary": "Toshkent viloyatida xorijdan kelayotgan o'rtacha pul o'tkazmasi 400 dollardan oshmayotgani ma'lum qilindi. Prezident hokimlar va elchilarga fuqarolarni yuqori daromadli xorijiy ishlarga tayyorlashni kuchaytirish vazifasini qo'ydi.",
+      "norm_title": "hududlarda xorijdan pul otkazmalari hajmi turlicha",
+      "topic_key": "xorijiy-pul-otkazmalari",
+      "stems": [
+        "hajm",
+        "xorij",
+        "pul",
+        "hudud",
+        "tkazma",
+        "turlicha"
+      ],
+      "posted_at": 1793603630.6439116
+    },
+    {
+      "title": "Xazon yoqish uchun jarima belgilandi",
+      "summary": "Xazonlarni yoqish havo ifloslanishiga va inson salomatligiga jiddiy zarar yetkazadi. Ushbu qoidabuzarlik uchun Ma'muriy javobgarlik to'g'risidagi kodeksga muvofiq jarima qo'llaniladi.",
+      "norm_title": "xazon yoqish uchun jarima belgilandi",
+      "topic_key": "xazon-yoqish-jarima",
+      "stems": [
+        "belgilan",
+        "yoq",
+        "jarima",
+        "xazon"
+      ],
+      "posted_at": 1793603646.109889
+    },
+    {
+      "title": "Mobil radarlar oldidan ogohlantiruvchi belgi o'rnatilmasligi mumkin",
+      "summary": "O'zbekistonda mobil radarlar uchun alohida ogohlantiruvchi yo'l belgisini o'rnatish talabi bekor qilindi. Ogohlantirish belgisi endi faqat statsionar radarlar uchun majburiy hisoblanadi.",
+      "norm_title": "mobil radarlar oldidan ogohlantiruvchi belgi ornatilmasligi mumkin",
+      "topic_key": "mobil-radarlar-ogohlantirish",
+      "stems": [
+        "rnatilmas",
+        "radar",
+        "belg",
+        "mobil",
+        "mumkin",
+        "ogohlantiruvch",
+        "old"
+      ],
+      "posted_at": 1793603657.0533626
     }
   ]
 }
