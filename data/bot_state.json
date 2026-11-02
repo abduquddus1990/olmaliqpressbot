@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86234,
-    "ao_agmk": 49982,
-    "olmaliqshaharpressa": 12882,
-    "olmaliq": 43747
+    "olmaliqhayoti": 86246,
+    "ao_agmk": 49999,
+    "olmaliqshaharpressa": 12896,
+    "olmaliq": 43758
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3526,217 +3526,38 @@
     "olmaliq:43744": 1793603640.6829762,
     "olmaliq:43745": 1793603643.1514156,
     "olmaliq:43746": 1793603646.1025343,
-    "olmaliq:43747": 1793603657.0460055
+    "olmaliq:43747": 1793603657.0460055,
+    "olmaliqhayoti:86235": 1793639048.8373542,
+    "olmaliqhayoti:86236": 1793639056.623168,
+    "olmaliqhayoti:86242": 1793639059.6444728,
+    "olmaliqhayoti:86243": 1793639065.3000681,
+    "olmaliqhayoti:86244": 1793639071.497895,
+    "olmaliqhayoti:86245": 1793639077.6318421,
+    "olmaliqhayoti:86246": 1793639077.6460633,
+    "ao_agmk:49984": 1793639078.1043494,
+    "ao_agmk:49985": 1793639090.3503659,
+    "ao_agmk:49995": 1793639099.322195,
+    "ao_agmk:49999": 1793639107.9988098,
+    "olmaliqshaharpressa:12883": 1793639116.4619374,
+    "olmaliqshaharpressa:12884": 1793639123.1483235,
+    "olmaliqshaharpressa:12885": 1793639131.5804663,
+    "olmaliqshaharpressa:12886": 1793639136.8638604,
+    "olmaliqshaharpressa:12887": 1793639145.4370515,
+    "olmaliqshaharpressa:12888": 1793639154.2906427,
+    "olmaliqshaharpressa:12889": 1793639168.3053014,
+    "olmaliqshaharpressa:12890": 1793639175.6414642,
+    "olmaliqshaharpressa:12891": 1793639183.0436497,
+    "olmaliqshaharpressa:12892": 1793639191.7854316,
+    "olmaliqshaharpressa:12895": 1793639199.1541893,
+    "olmaliqshaharpressa:12896": 1793639207.3022301,
+    "olmaliq:43748": 1793639210.925201,
+    "olmaliq:43749": 1793639221.0146217,
+    "olmaliq:43750": 1793639225.778407,
+    "olmaliq:43756": 1793639229.1758606,
+    "olmaliq:43757": 1793639234.8115404,
+    "olmaliq:43758": 1793639237.5764608
   },
   "posted_articles": [
-    {
-      "title": "Ko'kdala hokimiga bolta bilan hujum qilindi",
-      "summary": "Ko'kdala tumanida do'koni buzilishi kutilayotgan tadbirkor tuman hokimiga bolta bilan jarohat yetkazdi. IIV hodisani tasdiqlab, prokuratura o'rganish ishlarini boshlaganini ma'lum qildi.",
-      "norm_title": "kokdala hokimiga bolta bilan hujum qilindi",
-      "topic_key": "kokdala-hokimiga-hujum",
-      "stems": [
-        "kdala",
-        "hujum",
-        "bolta",
-        "hokim"
-      ],
-      "posted_at": 1792064847.1376598
-    },
-    {
-      "title": "Yakkasaroy tumani hokimi lavozimidan ozod etildi",
-      "summary": "Yakkasaroy tumani hokimi Nilufar Allabergenova egallab turgan lavozimidan ozod qilindi.",
-      "norm_title": "yakkasaroy tumani hokimi lavozimidan ozod etildi",
-      "topic_key": "yakkasaroy-hokim-istifo",
-      "stems": [
-        "lavozim",
-        "ozod",
-        "tuma",
-        "yakkasaroy",
-        "hokim"
-      ],
-      "posted_at": 1792064858.9428236
-    },
-    {
-      "title": "Saida Mirziyoyeva Istanbulda ilg'or ta'lim tajribasini o'rgandi",
-      "summary": "Saida Mirziyoyeva Turkiyada Ibn Haldun universiteti va \"Yenidoğu\" maktabi faoliyati bilan tanishib, ikki mamlakat ta'lim muassasalari o'rtasidagi hamkorlikni kengaytirishga kelishib oldi.",
-      "norm_title": "saida mirziyoyeva istanbulda ilgor talim tajribasini organdi",
-      "topic_key": "saida-mirziyoyeva-istanbul-talim",
-      "stems": [
-        "rgan",
-        "sai",
-        "tajriba",
-        "istanbul",
-        "ilg",
-        "mirziyoyeva",
-        "lim"
-      ],
-      "posted_at": 1792079234.3709168
-    },
-    {
-      "title": "Toshkent viloyati prokurorining aholiga murojaati",
-      "summary": "Toshkent viloyati prokurori A.E.Mirzayev viloyat aholisiga jinoyatchilikni barvaqt oldini olish va unga qarshi kurashish yuzasidan murojaat yo'lladi.",
-      "norm_title": "toshkent viloyati prokurorining aholiga murojaati",
-      "topic_key": "viloyat-prokurori-murojaati",
-      "stems": [
-        "murojaat",
-        "prokuror",
-        "ahol"
-      ],
-      "posted_at": 1792079279.1249127
-    },
-    {
-      "title": "Go'zal ayollar bilan muloqot erkaklarning diqqatini pasaytiradi",
-      "summary": "Olimlarning aniqlashicha, erkaklar jozibali ayollar bilan muloqot qilganda fikrlashi sekinlashadi va testlarda ko'proq xatolarga yo'l qo'yishadi.",
-      "norm_title": "gozal ayollar bilan muloqot erkaklarning diqqatini pasaytiradi",
-      "topic_key": "erkaklar-tadqiqot-muloqot",
-      "stems": [
-        "ayol",
-        "pasaytir",
-        "zal",
-        "erkak",
-        "muloqot",
-        "diqqat"
-      ],
-      "posted_at": 1792079290.0437648
-    },
-    {
-      "title": "Taksi narxlari oshishi yuzasidan o'rganish boshlandi",
-      "summary": "Raqobat qo'mitasi taksi agregatorlarida narxlar oshishining asosliligini o'rganib, narx belgilash algoritmlarini qayta ko'rib chiqishni talab qildi.",
-      "norm_title": "taksi narxlari oshishi yuzasidan organish boshlandi",
-      "topic_key": "taksi-narxlari-raqobat",
-      "stems": [
-        "rgan",
-        "tak",
-        "yuza",
-        "narx",
-        "osh"
-      ],
-      "posted_at": 1792079307.6025858
-    },
-    {
-      "title": "O'zbekiston haydovchilik guvohnomasi Germaniyada tan olinishi mumkin",
-      "summary": "O'zbekiston guvohnomasini Germaniyada tan olish hamda nemis ish beruvchilari talabi bo'yicha haydovchilar tayyorlaydigan qo'shma maktab tashkil etish taklif qilindi.",
-      "norm_title": "ozbekiston haydovchilik guvohnomasi germaniyada tan olinishi mumkin",
-      "topic_key": "germaniya-haydovchilik-guvohnomasi",
-      "stems": [
-        "germaniya",
-        "haydovch",
-        "olin",
-        "zbekiston",
-        "guvohnoma",
-        "mumkin",
-        "tan"
-      ],
-      "posted_at": 1792126757.0082378
-    },
-    {
-      "title": "Olmaliq shahar IIB YHXBga yangi rahbar tayinlandi",
-      "summary": "Mirzamurod Saydaliev Olmaliq shahar IIB YHXB boshlig'i lavozimiga tayinlandi. U bunga qadar Ohangaron tumani YHXB boshlig'i lavozimida faoliyat yuritgan.",
-      "norm_title": "olmaliq shahar iib yhxbga yangi rahbar tayinlandi",
-      "topic_key": "olmaliq-iib-yhxb-rahbar",
-      "stems": [
-        "tayinlan",
-        "rahbar",
-        "iib",
-        "yhxb"
-      ],
-      "posted_at": 1792126769.349521
-    },
-    {
-      "title": "Rux zavodida davlat mulkini talon-toroj qilishning oldini olishga bag'ishlangan tadbir o'tkazildi",
-      "summary": "Olmaliq kon-metallurgiya kombinatining Rux zavodida yosh ishchi-xodimlarga davlat mulkini asrash va qonunbuzarliklarning oldini olish bo'yicha tushuntirishlar berildi.",
-      "norm_title": "rux zavodida davlat mulkini talontoroj qilishning oldini olishga bagishlangan tadbir otkazildi",
-      "topic_key": "rux-zavodi-profilaktika",
-      "stems": [
-        "old",
-        "tadbir",
-        "bag",
-        "talon",
-        "qil",
-        "toroj",
-        "rux",
-        "zavod",
-        "tkazil",
-        "davlat",
-        "mulk",
-        "olish",
-        "ishlan"
-      ],
-      "posted_at": 1792126777.2675135
-    },
-    {
-      "title": "O‘zbekistonda jinsiy shilqimlik uchun jazo kuchaytirildi",
-      "summary": "Prezident imzolagan qonunga ko'ra, endilikda SMS va ijtimoiy tarmoqlar orqali jinsiy shilqimlik qilganlar 10-15 sutkagacha ma'muriy qamoq yoki yirik miqdordagi jarimaga tortiladi.",
-      "norm_title": "ozbekistonda jinsiy shilqimlik uchun jazo kuchaytirildi",
-      "topic_key": "jinsiy-shilqimlik-jazo",
-      "stems": [
-        "jinsiy",
-        "kuchaytiril",
-        "zbekiston",
-        "shilqim",
-        "jazo"
-      ],
-      "posted_at": 1792126795.4352717
-    },
-    {
-      "title": "Olmaliqda rahbar va xodimlar o‘rtasida ommaviy diktant o‘tkazildi",
-      "summary": "«Savodxon tashkilot — savodli jamiyat» tashabbusi doirasida Olmaliq shahar hokimi Barhayot Meliyev va korxona-tashkilotlar rahbarlari ishtirokida ommaviy diktant tadbiri bo‘lib o‘tdi.",
-      "norm_title": "olmaliqda rahbar va xodimlar ortasida ommaviy diktant otkazildi",
-      "topic_key": "olmaliq-ommaviy-diktant",
-      "stems": [
-        "ommaviy",
-        "diktant",
-        "rahbar",
-        "rta",
-        "tkazil",
-        "xodim"
-      ],
-      "posted_at": 1792143273.2512312
-    },
-    {
-      "title": "Olmaliqda o'quvchilar bilan ta'lim va sport masalalarida muloqot o'tkazildi",
-      "summary": "Shahar Maktabgacha va maktab ta'limi bo'limi boshlig'i 7-maktab o'quvchilari bilan uchrashib, 'Zakovat', futbol va boshqa sport musobaqalarini tashkil etish masalalarini muhokama qildi.",
-      "norm_title": "olmaliqda oquvchilar bilan talim va sport masalalarida muloqot otkazildi",
-      "topic_key": "maktab-yoshlar-tashabbus",
-      "stems": [
-        "lim",
-        "masala",
-        "tkazil",
-        "quvch",
-        "sport",
-        "muloqot"
-      ],
-      "posted_at": 1792143285.006776
-    },
-    {
-      "title": "Markaziy ta'mirlash mexanika zavodida O'zbek tili bayrami nishonlandi",
-      "summary": "Markaziy ta'mirlash mexanika zavodida 21-oktyabr – O'zbek tiliga davlat tili maqomi berilgan kun munosabati bilan ma'naviyat soati tashkil etilib, faol xodimlarga kitoblar sovg'a qilindi.",
-      "norm_title": "markaziy tamirlash mexanika zavodida ozbek tili bayrami nishonlandi",
-      "topic_key": "mtmz-ozbek-tili-bayrami",
-      "stems": [
-        "nishonlan",
-        "til",
-        "zavod",
-        "zbek",
-        "markaziy",
-        "mirlash",
-        "bayram",
-        "mexa"
-      ],
-      "posted_at": 1792143298.2063696
-    },
-    {
-      "title": "Toshkentda havo sifati yomonlashdi",
-      "summary": "Kuchsiz shamol va harorat inversiyasi tufayli Toshkent shahrida PM2.5 va PM10 zarrachalari ko'payib, havo sifati 'nosog'lom' darajaga yetdi.",
-      "norm_title": "toshkentda havo sifati yomonlashdi",
-      "topic_key": "toshkent-havo-sifati",
-      "stems": [
-        "yomonlash",
-        "havo",
-        "sifat"
-      ],
-      "posted_at": 1792143341.2129085
-    },
     {
       "title": "Green Card lotereyasiga arizalar 1 noyabrdan boshlanadi",
       "summary": "AQSh sudi qaroriga ko'ra, DV-2027 Green Card dasturi uchun arizalar 1 noyabrdan boshlab 30 kun davomida qabul qilinadi. Bu yil ishtirok etish uchun 1 dollar to'lov va xorijga chiqish pasporti talab etiladi.",
@@ -6516,6 +6337,215 @@
         "old"
       ],
       "posted_at": 1793603657.0533626
+    },
+    {
+      "title": "Yangi DSK yo'li to'liq asfaltlandi",
+      "summary": "Olmaliq shahridagi \"Yangi Bo'ston\" ko'chasining ta'mirtalab yo'llari to'liq asfaltlanib, foydalanishga topshirildi. Bu hududdagi 1-sonli avtobuslar harakati uchun qulaylik yaratdi.",
+      "norm_title": "yangi dsk yoli toliq asfaltlandi",
+      "topic_key": "yangi-dsk-yoli-asfalt",
+      "stems": [
+        "liq",
+        "asfaltlan",
+        "dsk"
+      ],
+      "posted_at": 1793639056.6304047
+    },
+    {
+      "title": "Tog-kon sanoati va geologiya vazirligida kengaytirilgan yigilish o'tkazildi",
+      "summary": "Tog-kon sanoati va geologiya vazirligida o'tkazilgan yig'ilishda 2026-yilning 9 oylik yakunlari muhokama qilinib, OKMK va boshqa tizim korxonalari rahbarlarining hisobotlari tinglandi.",
+      "norm_title": "togkon sanoati va geologiya vazirligida kengaytirilgan yigilish otkazildi",
+      "topic_key": "tog-kon-vazirligi-yigilishi",
+      "stems": [
+        "tkazil",
+        "kengay",
+        "sanoat",
+        "yigil",
+        "geologiya",
+        "vazir",
+        "kon",
+        "tog"
+      ],
+      "posted_at": 1793639090.3577023
+    },
+    {
+      "title": "Molibden konsentrati ishlab chiqarish rejasi muddatidan oldin bajarildi",
+      "summary": "Olmaliq kon-metallurgiya kombinati Mis boyitish fabrikasining molibdenni saralash va quritish sexi jamoasi yillik reja uddalanganini ma'lum qildi.",
+      "norm_title": "molibden konsentrati ishlab chiqarish rejasi muddatidan oldin bajarildi",
+      "topic_key": "agmk-molibden-reja",
+      "stems": [
+        "ishlab",
+        "molibden",
+        "reja",
+        "bajaril",
+        "muddat",
+        "konsentrat",
+        "oldin",
+        "chiqar"
+      ],
+      "posted_at": 1793639099.330581
+    },
+    {
+      "title": "Firibgarlikdan ogoh bo'ling: soxta akkauntlar ko'paydi",
+      "summary": "Ijtimoiy tarmoqlarda boshqalarning nomidan ochilgan soxta akkauntlar ko'paydi. Shubhali havolalarni bosmang, shaxsiy ma'lumotlar va bank karta kodlarini hech kimga bermang.",
+      "norm_title": "firibgarlikdan ogoh boling soxta akkauntlar kopaydi",
+      "topic_key": "firibgarlikdan-ogoh-boling",
+      "stems": [
+        "firibgar",
+        "ling",
+        "akkaunt",
+        "pay",
+        "ogoh",
+        "soxta"
+      ],
+      "posted_at": 1793639108.0062203
+    },
+    {
+      "title": "Texnikumlarda nemis tilini o‘qitish kengaytiriladi",
+      "summary": "Germaniyada kadrlar yetishmovchiligi sababli, respublika texnikumlarida yoshlarga kasb bilan birga nemis tilini o‘rgatish tizimi joriy etilmoqda. Kelasi yildan hududlarga nemis tili o‘qituvchilarini jalb qilish vazifasi qo‘yildi.",
+      "norm_title": "texnikumlarda nemis tilini oqitish kengaytiriladi",
+      "topic_key": "germaniya-til-kadrlar-tayyorlash",
+      "stems": [
+        "qit",
+        "kengay",
+        "texnikum",
+        "til",
+        "nemis"
+      ],
+      "posted_at": 1793639123.155561
+    },
+    {
+      "title": "Viloyatlardagi texnikumlar 15 yilga yirik tadbirkorlar boshqaruviga beriladi",
+      "summary": "Har bir viloyatdagi 2-3 tadan texnikum tadbirkorlar boshqaruviga berilib, yiliga 30 ming nafar malakali mutaxassis tayyorlanadi. Tadbirkorlarning kadrlar va uskunaga sarflagan xarajatlari soliqlardan chegiriladi.",
+      "norm_title": "viloyatlardagi texnikumlar 15 yilga yirik tadbirkorlar boshqaruviga beriladi",
+      "topic_key": "texnikumlar-tadbirkorlar-boshqaruvi",
+      "stems": [
+        "ber",
+        "texnikum",
+        "tadbirkor",
+        "yirik",
+        "boshqaruv"
+      ],
+      "posted_at": 1793639136.871199
+    },
+    {
+      "title": "Kelasi yildan fuqarolarni xorijga ishga yuborish to'liq xususiy agentliklarga o'tkaziladi",
+      "summary": "Kelgusi yildan chet elga ishga joylashtirish ishonchli xususiy agentliklarga topshiriladi va har bir fuqaro uchun ularga 1,5 million so'mdan rag'bat puli to'lanadi.",
+      "norm_title": "kelasi yildan fuqarolarni xorijga ishga yuborish toliq xususiy agentliklarga otkaziladi",
+      "topic_key": "xususiy-bandlik-agentliklari",
+      "stems": [
+        "liq",
+        "xususiy",
+        "tkaz",
+        "ish",
+        "fuqaro",
+        "yubor",
+        "agent",
+        "xorij",
+        "kela"
+      ],
+      "posted_at": 1793639145.4443467
+    },
+    {
+      "title": "O'zbekistonda 2 ta yirik xalqaro rekruting kompaniyasi ish boshlaydi",
+      "summary": "Kelasi yildan mamlakatimizda ikkita xalqaro rekruting kompaniyasi faoliyati yo'lga qo'yiladi. Prezident mehnat migratsiyasida asosiy e'tibor son emas, sifatga qaratilishini ta'kidladi.",
+      "norm_title": "ozbekistonda 2 ta yirik xalqaro rekruting kompaniyasi ish boshlaydi",
+      "topic_key": "xalqaro-rekruting-migratsiya",
+      "stems": [
+        "kompaniya",
+        "boshla",
+        "xalqaro",
+        "rekruting",
+        "yirik",
+        "zbekiston",
+        "ish"
+      ],
+      "posted_at": 1793639154.2979717
+    },
+    {
+      "title": "Xorijda ishlash istagidagilar uchun yangi tartib joriy etiladi",
+      "summary": "Prezident topshirig'iga ko'ra, chet elda ishlash istagidagilarni kasb va tilga o'qitish hamda \"Onlayn mahalla\" platformasi orqali ishga joylashtirish tizimi kuchaytiriladi.",
+      "norm_title": "xorijda ishlash istagidagilar uchun yangi tartib joriy etiladi",
+      "topic_key": "xorijda-ish-migratsiya-talab",
+      "stems": [
+        "istag",
+        "joriy",
+        "xorij",
+        "ishlash",
+        "tartib"
+      ],
+      "posted_at": 1793639168.3126261
+    },
+    {
+      "title": "Toshkentda 'Yangi O‘zbekiston' xalqaro forumi bo‘lib o‘tadi",
+      "summary": "30-noyabrdan 5-dekabrga qadar Toshkentda 52 davlat vakillari ishtirokida forum o‘tkazilib, unda eksport, turizm va mehnat migratsiyasi bo‘yicha aniq kelishuvlarga erishish rejalashtirilgan.",
+      "norm_title": "toshkentda yangi ozbekiston xalqaro forumi bolib otadi",
+      "topic_key": "yangi-ozbekiston-forumi",
+      "stems": [
+        "xalqaro",
+        "forum",
+        "lib",
+        "tad",
+        "zbekiston"
+      ],
+      "posted_at": 1793639183.0510018
+    },
+    {
+      "title": "Olmaliqda 14 nafar mahkum muddatidan oldin jazodan ozod qilindi",
+      "summary": "Olmaliq shahar sudi tomonidan o'tkazilgan sayyor sudda tuzalish yo'liga o'tgan 14 nafar probatsiya nazoratidagi mahkum muddatidan oldin jazodan ozod qilindi.",
+      "norm_title": "olmaliqda 14 nafar mahkum muddatidan oldin jazodan ozod qilindi",
+      "topic_key": "olmaliq-sayyor-sud-mahkum",
+      "stems": [
+        "ozod",
+        "jazo",
+        "muddat",
+        "mahkum",
+        "nafar",
+        "oldin"
+      ],
+      "posted_at": 1793639191.7927146
+    },
+    {
+      "title": "Olmaliq shahar FVB boshlig'i nafaqaga chiqdi",
+      "summary": "Olmaliq shahar Favqulodda vaziyatlar bo'limi boshlig'i lavozimida ishlab kelgan Akrom Yuldaşev nafaqaga chiqishi munosabati bilan taqdirlandi. Shahar hokimligi uning ko'p yillik samarali xizmatlari uchun minnatdorlik bildirdi.",
+      "norm_title": "olmaliq shahar fvb boshligi nafaqaga chiqdi",
+      "topic_key": "akrom-yuldashev-nafaqa",
+      "stems": [
+        "chiq",
+        "boshlig",
+        "fvb",
+        "nafa"
+      ],
+      "posted_at": 1793639199.1615667
+    },
+    {
+      "title": "Olmaliqda \"Xavfsiz va sog'lom yurt\" profilaktik tadbirlari boshlandi",
+      "summary": "Olmaliq shahrida jamoat tartibini saqlash va jinoyatchilikning oldini olishga qaratilgan \"Xavfsiz va sog'lom yurt\" tadbiri doirasida IIB xodimlari uchun xizmat oldi yo'riqnomasi o'tkazildi.",
+      "norm_title": "olmaliqda xavfsiz va soglom yurt profilaktik tadbirlari boshlandi",
+      "topic_key": "xavfsiz-soglom-yurt-tadbiri",
+      "stems": [
+        "sog",
+        "xavfsiz",
+        "profilaktik",
+        "yurt",
+        "lom",
+        "tadbir"
+      ],
+      "posted_at": 1793639207.3095884
+    },
+    {
+      "title": "Fuqarolar o'z mobil raqamlarini auktsion orqali sotishi mumkin",
+      "summary": "Endilikda oddiy fuqarolar o'z mobil raqamlarini auktsionga qo'yib sotishlari mumkin. Buning uchun boshlang'ich narxning 1 foizi miqdorida xizmat haqi to'lanadi.",
+      "norm_title": "fuqarolar oz mobil raqamlarini auktsion orqali sotishi mumkin",
+      "topic_key": "mobil-raqam-auktsion",
+      "stems": [
+        "raqam",
+        "auktsion",
+        "mumkin",
+        "mobil",
+        "fuqaro",
+        "sot"
+      ],
+      "posted_at": 1793639229.183349
     }
   ]
 }
