@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86246,
+    "olmaliqhayoti": 86247,
     "ao_agmk": 49999,
     "olmaliqshaharpressa": 12896,
     "olmaliq": 43758
@@ -3555,24 +3555,10 @@
     "olmaliq:43750": 1793639225.778407,
     "olmaliq:43756": 1793639229.1758606,
     "olmaliq:43757": 1793639234.8115404,
-    "olmaliq:43758": 1793639237.5764608
+    "olmaliq:43758": 1793639237.5764608,
+    "olmaliqhayoti:86247": 1793663451.875632
   },
   "posted_articles": [
-    {
-      "title": "Green Card lotereyasiga arizalar 1 noyabrdan boshlanadi",
-      "summary": "AQSh sudi qaroriga ko'ra, DV-2027 Green Card dasturi uchun arizalar 1 noyabrdan boshlab 30 kun davomida qabul qilinadi. Bu yil ishtirok etish uchun 1 dollar to'lov va xorijga chiqish pasporti talab etiladi.",
-      "norm_title": "green card lotereyasiga arizalar 1 noyabrdan boshlanadi",
-      "topic_key": "green-card-2027-ariza",
-      "stems": [
-        "card",
-        "noyabr",
-        "green",
-        "boshlan",
-        "ariza",
-        "lotereya"
-      ],
-      "posted_at": 1792159997.0262055
-    },
     {
       "title": "Olmaliqda mahallalar uyushmasi boshlig'ining sayyor qabuli bo'lib o'tadi",
       "summary": "17-oktabr kuni O'zbekiston mahallalar uyushmasi Olmaliq shahar bo'limi boshlig'i Navro'zbek Alimov Mirzo Ulug'bek va Zarbuloq mahallalarida fuqarolar uchun sayyor qabul o'tkazadi.",
@@ -6546,6 +6532,20 @@
         "sot"
       ],
       "posted_at": 1793639229.183349
+    },
+    {
+      "title": "Olmaliqda ob-havo, valyuta kurslari va namoz vaqtlari",
+      "summary": "3-noyabr kuni Olmaliqda havo harorati kunduzi +21°C, kechasi +12°C bo'ladi. Dollar kursi 11 941,65 so'm, rubl esa 147,65 so'mni tashkil etmoqda.",
+      "norm_title": "olmaliqda obhavo valyuta kurslari va namoz vaqtlari",
+      "topic_key": "olmaliq-ob-havo-valyuta",
+      "stems": [
+        "kurs",
+        "vaqt",
+        "namoz",
+        "valyuta",
+        "havo"
+      ],
+      "posted_at": 1793663451.8828456
     }
   ]
 }
