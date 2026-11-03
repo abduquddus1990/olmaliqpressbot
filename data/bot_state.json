@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86267,
-    "ao_agmk": 50003,
-    "olmaliqshaharpressa": 12899,
-    "olmaliq": 43773
+    "olmaliqhayoti": 86273,
+    "ao_agmk": 50004,
+    "olmaliqshaharpressa": 12909,
+    "olmaliq": 43776
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3583,39 +3583,23 @@
     "olmaliq:43762": 1793706783.4261491,
     "olmaliq:43771": 1793706790.0919156,
     "olmaliq:43772": 1793706799.9620955,
-    "olmaliq:43773": 1793706802.9777336
+    "olmaliq:43773": 1793706802.9777336,
+    "olmaliqhayoti:86268": 1793731273.312426,
+    "olmaliqhayoti:86269": 1793731273.3269658,
+    "olmaliqhayoti:86270": 1793731273.341166,
+    "olmaliqhayoti:86271": 1793731273.355194,
+    "olmaliqhayoti:86272": 1793731273.3694632,
+    "olmaliqhayoti:86273": 1793731286.5103102,
+    "ao_agmk:50004": 1793731290.5672064,
+    "olmaliqshaharpressa:12900": 1793731297.10272,
+    "olmaliqshaharpressa:12901": 1793731303.5834644,
+    "olmaliqshaharpressa:12902": 1793731314.2202992,
+    "olmaliqshaharpressa:12909": 1793731321.599883,
+    "olmaliq:43774": 1793731327.6426797,
+    "olmaliq:43775": 1793731350.2689078,
+    "olmaliq:43776": 1793731350.283364
   },
   "posted_articles": [
-    {
-      "title": "AGMKda mis ishlab chiqarish salohiyati oshirilmoqda",
-      "summary": "Olmaliq kon-metallurgiya kombinatida mis ishlab chiqarish quvvatini oshirishga qaratilgan istiqbolli loyiha amaliyotga tatbiq etilmoqda.",
-      "norm_title": "agmkda mis ishlab chiqarish salohiyati oshirilmoqda",
-      "topic_key": "agmk-mis-ishlab-chiqarish",
-      "stems": [
-        "mis",
-        "agmk",
-        "salohiyat",
-        "chiqar",
-        "ishlab",
-        "oshir"
-      ],
-      "posted_at": 1792230049.6369154
-    },
-    {
-      "title": "Yoqilg'i-energetika sohasida investorlar kengashi tuzildi",
-      "summary": "Prezident qaroriga ko'ra, yoqilg'i-energetika sohasidagi investorlar kengashiga Said Mirziyoyeva rahbarlik qiladi. Kengash investorlarga yer ajratish va loyihalarni amalga oshirishda tezkor yechimlar topish bilan shug'ullanadi.",
-      "norm_title": "yoqilgienergetika sohasida investorlar kengashi tuzildi",
-      "topic_key": "energetika-investorlar-kengashi",
-      "stems": [
-        "yoqilg",
-        "investor",
-        "tuzil",
-        "soha",
-        "kengash",
-        "energet"
-      ],
-      "posted_at": 1792230087.812774
-    },
     {
       "title": "Muhim shoshilinch va kommunal xizmatlar telefon raqamlari",
       "summary": "Gaz, elektr, suv, tibbiy yordam hamda boshqa shoshilinch masalalar bo'yicha murojaat qilish uchun kerakli qaynoq tarmoq raqamlari e'lon qilindi.",
@@ -6571,6 +6555,35 @@
         "ona"
       ],
       "posted_at": 1793706799.9687319
+    },
+    {
+      "title": "Sportchi yoshlarning ota-onalari taqdirlandi",
+      "summary": "Olmaliq shahar hokimi Barhayot Meliyev \"Prezident olimpiadasi\"da faol ishtirok etayotgan sportchilarning ota-onalariga Toshkent viloyati hokimining minnatdorçilik xatlari va esdalik sovg'alarini topshirdi.",
+      "norm_title": "sportchi yoshlarning otaonalari taqdirlandi",
+      "topic_key": "prezident-olimpiadasi-ota-onalar",
+      "stems": [
+        "yosh",
+        "ona",
+        "taqdirlan",
+        "sportch",
+        "ota"
+      ],
+      "posted_at": 1793731297.1102471
+    },
+    {
+      "title": "Olmaliq shahrida Islohotlar shtabi faoliyati va ijtimoiy ahvol o'rganildi",
+      "summary": "Toshkent viloyati va Olmaliq shahri prokurorlari Olmaliq hokimligida Islohotlar shtabi faoliyatini hamda ijtimoiy reyestrdagi oilalar yashash sharoitlarini bevosita o'rgandi.",
+      "norm_title": "olmaliq shahrida islohotlar shtabi faoliyati va ijtimoiy ahvol organildi",
+      "topic_key": "islohotlar-shtabi-olmaliq",
+      "stems": [
+        "ijtimoiy",
+        "rganil",
+        "shtab",
+        "faoliyat",
+        "islohot",
+        "ahvol"
+      ],
+      "posted_at": 1793731314.2277176
     }
   ]
 }
