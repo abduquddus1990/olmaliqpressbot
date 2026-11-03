@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86249,
-    "ao_agmk": 49999,
-    "olmaliqshaharpressa": 12897,
-    "olmaliq": 43759
+    "olmaliqhayoti": 86267,
+    "ao_agmk": 50003,
+    "olmaliqshaharpressa": 12899,
+    "olmaliq": 43773
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3560,139 +3560,32 @@
     "olmaliqhayoti:86248": 1793678739.2070508,
     "olmaliqhayoti:86249": 1793678745.2384462,
     "olmaliqshaharpressa:12897": 1793678751.7914796,
-    "olmaliq:43759": 1793678755.471761
+    "olmaliq:43759": 1793678755.471761,
+    "olmaliqhayoti:86250": 1793706662.8397202,
+    "olmaliqhayoti:86251": 1793706665.865626,
+    "olmaliqhayoti:86252": 1793706670.5197716,
+    "olmaliqhayoti:86253": 1793706676.9797478,
+    "olmaliqhayoti:86254": 1793706684.8448904,
+    "olmaliqhayoti:86255": 1793706690.9138012,
+    "olmaliqhayoti:86256": 1793706696.7480347,
+    "olmaliqhayoti:86257": 1793706708.07607,
+    "olmaliqhayoti:86258": 1793706710.9440396,
+    "olmaliqhayoti:86259": 1793706716.2626495,
+    "olmaliqhayoti:86260": 1793706732.427433,
+    "olmaliqhayoti:86267": 1793706741.455803,
+    "ao_agmk:50000": 1793706742.1590793,
+    "ao_agmk:50001": 1793706742.1679657,
+    "ao_agmk:50002": 1793706748.1962197,
+    "ao_agmk:50003": 1793706755.0502174,
+    "olmaliqshaharpressa:12899": 1793706760.5022683,
+    "olmaliq:43760": 1793706768.596293,
+    "olmaliq:43761": 1793706771.6095736,
+    "olmaliq:43762": 1793706783.4261491,
+    "olmaliq:43771": 1793706790.0919156,
+    "olmaliq:43772": 1793706799.9620955,
+    "olmaliq:43773": 1793706802.9777336
   },
   "posted_articles": [
-    {
-      "title": "AGMK 3-mis boyitish fabrikasiga bo'sh ish o'rni e'lon qilindi",
-      "summary": "AGMK AJ 3-mis boyitish fabrikasi agronom lavozimi uchun 2026-yil 16-23-oktyabr kunlari rezyumelar qabul qilinishini ma'lum qildi.",
-      "norm_title": "agmk 3mis boyitish fabrikasiga bosh ish orni elon qilindi",
-      "topic_key": "agmk-3-mob-vakansiya",
-      "stems": [
-        "boyit",
-        "rni",
-        "mis",
-        "agmk",
-        "fabr",
-        "ish",
-        "lon"
-      ],
-      "posted_at": 1792160256.9465096
-    },
-    {
-      "title": "Olmaliqda yoshlar bandligi ta'minlandi",
-      "summary": "\"Yoshlar kuni\" doirasida ATMZ AJga tashrif buyurgan 15 nafar yoshdan 5 nafari korxonaga ishga joylashtirildi.",
-      "norm_title": "olmaliqda yoshlar bandligi taminlandi",
-      "topic_key": "olmaliq-yoshlar-bandligi",
-      "stems": [
-        "yosh",
-        "band",
-        "minlan"
-      ],
-      "posted_at": 1792160282.841382
-    },
-    {
-      "title": "Pedagoglar attestatsiya natijalarini Telegram-bot orqali tekshirishlari mumkin",
-      "summary": "MMTV pedagoglar uchun yangi @pedagoginfo_bot xizmatini ishga tushirdi. Ushbu bot orqali attestatsiya natijalari, ariza holati va ustama sertifikatlari haqida ma'lumot olish mumkin.",
-      "norm_title": "pedagoglar attestatsiya natijalarini telegrambot orqali tekshirishlari mumkin",
-      "topic_key": "pedagog-attestatsiya-boti",
-      "stems": [
-        "mumkin",
-        "telegram",
-        "bot",
-        "natija",
-        "attestatsiya",
-        "tekshir",
-        "pedagog"
-      ],
-      "posted_at": 1792173723.9700098
-    },
-    {
-      "title": "Shahar prokurori fuqarolarni kiberjinoyatlardan ogohlikka chaqirdi",
-      "summary": "Olmaliq shahar prokurori Abdumalik Kuldashev aholiga murojaat yo'llab, internet firibgarligidan saqlanish uchun bank kartasi ma'lumotlarini hech kimga bermaslik va shubhali havolalarni ochmaslikni so'radi.",
-      "norm_title": "shahar prokurori fuqarolarni kiberjinoyatlardan ogohlikka chaqirdi",
-      "topic_key": "prokuror-murojaati-kiberjinoyat",
-      "stems": [
-        "fuqaro",
-        "ogoh",
-        "prokuror",
-        "kiberjinoyat",
-        "chaqir"
-      ],
-      "posted_at": 1792173783.3982563
-    },
-    {
-      "title": "Toshkentning to'rtta ko'chasida maxsus avtobus yo'laklari tashkil etiladi",
-      "summary": "Poytaxt hokimligi qaroriga ko'ra, jamoat transporti harakatini tezlashtirish maqsadida 17,9 km yo'lda yangi avtobus yo'laklari paydo bo'ladi. Loyiha uchun taxminan 6,5 milliard so'm sarflanishi rejalashtirilgan.",
-      "norm_title": "toshkentning tortta kochasida maxsus avtobus yolaklari tashkil etiladi",
-      "topic_key": "toshkent-avtobus-yolakalari",
-      "stems": [
-        "cha",
-        "tashkil",
-        "lak",
-        "maxsus",
-        "rtta",
-        "avtobus"
-      ],
-      "posted_at": 1792173818.857925
-    },
-    {
-      "title": "Endilikda peshlavha tashqi reklama hisoblanmaydi",
-      "summary": "Hukumatning yangi qaroriga ko'ra, bino va inshootlardagi peshlavhalar tashqi reklama hisoblanmaydi hamda ularga reklama pasporti talab etilmaydi.",
-      "norm_title": "endilikda peshlavha tashqi reklama hisoblanmaydi",
-      "topic_key": "tashqi-reklama-peshlavha",
-      "stems": [
-        "peshlavha",
-        "end",
-        "tashq",
-        "reklama",
-        "hisoblanma"
-      ],
-      "posted_at": 1792215640.496618
-    },
-    {
-      "title": "Komil Allamjonov Oq uy vakili bilan uchrashdi",
-      "summary": "Prezident maslahatchisi Komil Allamjonov AQSh Prezidentining maxsus yordamchisi Maykl Jerimayya bilan uchrashib, qo'shma tadbirlar va oliy darajadagi tashriflarni muhokama qildi.",
-      "norm_title": "komil allamjonov oq uy vakili bilan uchrashdi",
-      "topic_key": "allamjonov-aqsh-uchrashuv",
-      "stems": [
-        "vakil",
-        "komil",
-        "uchrash",
-        "allamjonov"
-      ],
-      "posted_at": 1792215668.3961847
-    },
-    {
-      "title": "Energetika sohasi uchun kadrlar tayyorlash ko'paytiriladi",
-      "summary": "Kelgusi o'quv yilidan oliygohlarda energetika yo'nalishlari bo'yicha qabul kvaotalari oshirilib, yoshlar uchun xorijiy grantlar va zamonaviy texnikumlar tashkil etiladi.",
-      "norm_title": "energetika sohasi uchun kadrlar tayyorlash kopaytiriladi",
-      "topic_key": "energetika-kadrlar-kavotasi",
-      "stems": [
-        "soha",
-        "kadr",
-        "pay",
-        "tayyorlash",
-        "energet"
-      ],
-      "posted_at": 1792230019.5699658
-    },
-    {
-      "title": "Xitoy maktablarida o'quvchilarga mukofot sifatida go'sht berilmoqda",
-      "summary": "Xitoy maktablarida a'lo baholarga o'qigan o'quvchilarga rag'bat sifatida 3-5 kg go'sht yoki tirik baliq topshirilmoqda. Bu esa oila uchun foydali va boshqa o'quvchilarda o'qishga motivatsiya uyg'otadi.",
-      "norm_title": "xitoy maktablarida oquvchilarga mukofot sifatida gosht berilmoqda",
-      "topic_key": "xitoy-maktab-mukofot-gosht",
-      "stems": [
-        "quvch",
-        "sifat",
-        "maktab",
-        "mukofot",
-        "sht",
-        "xitoy",
-        "ber"
-      ],
-      "posted_at": 1792230040.529572
-    },
     {
       "title": "AGMKda mis ishlab chiqarish salohiyati oshirilmoqda",
       "summary": "Olmaliq kon-metallurgiya kombinatida mis ishlab chiqarish quvvatini oshirishga qaratilgan istiqbolli loyiha amaliyotga tatbiq etilmoqda.",
@@ -6550,6 +6443,134 @@
         "qabul"
       ],
       "posted_at": 1793678745.2451797
+    },
+    {
+      "title": "Suv qarzdorligi uchun elektr to'lovlari cheklanadi",
+      "summary": "2027-yil 1-yanvardan boshlab suv uchun qarzdorlik o'z vaqtida to'lanmasa, elektr energiyasi uchun to'lovlarni qabul qilish avtomatik ravishda cheklanadi.",
+      "norm_title": "suv qarzdorligi uchun elektr tolovlari cheklanadi",
+      "topic_key": "suv-qarz-elektr-cheklov",
+      "stems": [
+        "lov",
+        "qarzdor",
+        "suv",
+        "elektr",
+        "cheklan"
+      ],
+      "posted_at": 1793706662.8445103
+    },
+    {
+      "title": "Maktablarda kuzgi ta'til 4-noyabrdan boshlanadi",
+      "summary": "Maktab o'quvchilari uchun 6 kunlik kuzgi ta'til 4–9-noyabr kunlari davom etadi. II chorak darslari 10-noyabrdan boshlanadi.",
+      "norm_title": "maktablarda kuzgi tatil 4noyabrdan boshlanadi",
+      "topic_key": "maktab-kuzgi-tatil",
+      "stems": [
+        "noyabr",
+        "boshlan",
+        "kuzg",
+        "maktab",
+        "til"
+      ],
+      "posted_at": 1793706676.984569
+    },
+    {
+      "title": "Toshkent metro tarmoqlari kengaytiriladi",
+      "summary": "2030 yilga qadar Toshkent shahrida yana 29 ta yangi metro bekati qurilib, ularning umumiy soni 79 taga yetkaziladi va yo'llarning uzunligi 103 kilometrni tashkil qiladi.",
+      "norm_title": "toshkent metro tarmoqlari kengaytiriladi",
+      "topic_key": "toshkent-metro-qurilishi",
+      "stems": [
+        "kengay",
+        "metro",
+        "tarmoq"
+      ],
+      "posted_at": 1793706696.7527275
+    },
+    {
+      "title": "Farg'onada is gazidan ommaviy zaharlanishlar qayd etildi",
+      "summary": "Farg'ona tumani va Qo'qon shahrida is gazidan zaharlanish oqibatida ikki oilaning jami 12 nafar a'zosi halok bo'ldi. FVV fuqarolarni xavfli isitish moslamalaridan foydalanmaslikka chaqirmoqda.",
+      "norm_title": "fargonada is gazidan ommaviy zaharlanishlar qayd etildi",
+      "topic_key": "is-gazi-zaharlanish-fargona",
+      "stems": [
+        "ommaviy",
+        "zaharlan",
+        "qayd",
+        "gaz",
+        "farg",
+        "ona"
+      ],
+      "posted_at": 1793706716.267974
+    },
+    {
+      "title": "Olmaliqdagi 16-maktabda ma'naviy-ma'rifiy ishlar holati o'rganildi",
+      "summary": "Respublika Ma'naviyat va ma'rifat markazi Olmaliq shahar bo'linmasi 16-umumta'lim maktabi faoliyatini ko'zdan kechirib, kamchiliklar yuzasidan tavsiyalar berdi va hamkorlik rejalarini kelishib oldi.",
+      "norm_title": "olmaliqdagi 16maktabda manaviymarifiy ishlar holati organildi",
+      "topic_key": "olmaliq-16-maktab-oʻrganish",
+      "stems": [
+        "naviy",
+        "holat",
+        "rganil",
+        "rifiy",
+        "maktab",
+        "ish"
+      ],
+      "posted_at": 1793706732.4320822
+    },
+    {
+      "title": "Kovuldi kon boshqarmasida shashka musobaqasi o'tkazildi",
+      "summary": "Kasaba uyushmalari kuni munosabati bilan Kovuldi kon boshqarmasi xodimlari o'rtasida shashka musobaqasi bo'lib o'tdi va unda Akmal Uralov 1-o'rinni egalladi.",
+      "norm_title": "kovuldi kon boshqarmasida shashka musobaqasi otkazildi",
+      "topic_key": "kovuldi-shashka-musobaqasi",
+      "stems": [
+        "shash",
+        "boshqarma",
+        "tkazil",
+        "musoba",
+        "kon",
+        "kovul"
+      ],
+      "posted_at": 1793706748.2007706
+    },
+    {
+      "title": "Angrenda sohta pul tayyorlagan shaxslar ushlandi",
+      "summary": "Angrendagi xonadonlardan birida salkam 80 million so'm sohta pul tayyorlagan ilgari sudlangan shaxslar qo'lga olindi.",
+      "norm_title": "angrenda sohta pul tayyorlagan shaxslar ushlandi",
+      "topic_key": "angren-sohta-pul",
+      "stems": [
+        "tayyorla",
+        "shaxs",
+        "ushlan",
+        "angren",
+        "pul",
+        "sohta"
+      ],
+      "posted_at": 1793706768.6007721
+    },
+    {
+      "title": "Prezident Buxoro viloyatiga tashrif buyurdi",
+      "summary": "Davlat rahbari ikki kunlik tashrif davomida turizm, sanoat va qishloq xo'jaligi loyihalari bilan tanishib, yangilarini ishga tushiradi.",
+      "norm_title": "prezident buxoro viloyatiga tashrif buyurdi",
+      "topic_key": "prezident-buxoro-tashrifi",
+      "stems": [
+        "tashrif",
+        "prezident",
+        "buxoro",
+        "buyur"
+      ],
+      "posted_at": 1793706790.0966372
+    },
+    {
+      "title": "Maktab ta'tilida ota-onalarga qo'shimcha ta'til beriladi",
+      "summary": "Maktab ta'tilida farzandlari bilan vaqt o'tkazishi uchun ota-onalarga har yili kamida 4 kalendar kun haq to'lanadigan qo'shimcha ta'til beriladi.",
+      "norm_title": "maktab tatilida otaonalarga qoshimcha tatil beriladi",
+      "topic_key": "ota-onalarga-qosimcha-tatil",
+      "stems": [
+        "ota",
+        "maktab",
+        "shimcha",
+        "til",
+        "ber",
+        "ona"
+      ],
+      "posted_at": 1793706799.9687319
     }
   ]
 }
