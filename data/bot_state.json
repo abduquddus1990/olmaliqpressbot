@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86247,
+    "olmaliqhayoti": 86249,
     "ao_agmk": 49999,
-    "olmaliqshaharpressa": 12896,
-    "olmaliq": 43758
+    "olmaliqshaharpressa": 12897,
+    "olmaliq": 43759
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3556,26 +3556,13 @@
     "olmaliq:43756": 1793639229.1758606,
     "olmaliq:43757": 1793639234.8115404,
     "olmaliq:43758": 1793639237.5764608,
-    "olmaliqhayoti:86247": 1793663451.875632
+    "olmaliqhayoti:86247": 1793663451.875632,
+    "olmaliqhayoti:86248": 1793678739.2070508,
+    "olmaliqhayoti:86249": 1793678745.2384462,
+    "olmaliqshaharpressa:12897": 1793678751.7914796,
+    "olmaliq:43759": 1793678755.471761
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda mahallalar uyushmasi boshlig'ining sayyor qabuli bo'lib o'tadi",
-      "summary": "17-oktabr kuni O'zbekiston mahallalar uyushmasi Olmaliq shahar bo'limi boshlig'i Navro'zbek Alimov Mirzo Ulug'bek va Zarbuloq mahallalarida fuqarolar uchun sayyor qabul o'tkazadi.",
-      "norm_title": "olmaliqda mahallalar uyushmasi boshligining sayyor qabuli bolib otadi",
-      "topic_key": "sayyor-qabul-mahallalar",
-      "stems": [
-        "mahalla",
-        "sayyor",
-        "qabul",
-        "lib",
-        "uyushma",
-        "tad",
-        "ining",
-        "boshlig"
-      ],
-      "posted_at": 1792160111.1260345
-    },
     {
       "title": "AGMK 3-mis boyitish fabrikasiga bo'sh ish o'rni e'lon qilindi",
       "summary": "AGMK AJ 3-mis boyitish fabrikasi agronom lavozimi uchun 2026-yil 16-23-oktyabr kunlari rezyumelar qabul qilinishini ma'lum qildi.",
@@ -6546,6 +6533,23 @@
         "havo"
       ],
       "posted_at": 1793663451.8828456
+    },
+    {
+      "title": "Olmaliqda Germaniyada ishlash imkonini beruvchi bepul dasturga qabul ochildi",
+      "summary": "Olmaliq shahar 2-sonli texnikumida Germaniya bilan hamkorlikda logistika bo'yicha 200 ta bepul o'rin uchun qabul boshlandi. Dasturni tamomlaganlar Germaniyada kafolatlangan ish bilan ta'minlanadi.",
+      "norm_title": "olmaliqda germaniyada ishlash imkonini beruvchi bepul dasturga qabul ochildi",
+      "topic_key": "olmaliq-texnikum-germaniya",
+      "stems": [
+        "dastur",
+        "germaniya",
+        "beruvch",
+        "ishlash",
+        "ochil",
+        "imkon",
+        "bepul",
+        "qabul"
+      ],
+      "posted_at": 1793678745.2451797
     }
   ]
 }
