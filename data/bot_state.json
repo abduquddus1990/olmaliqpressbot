@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86275,
-    "ao_agmk": 50004,
-    "olmaliqshaharpressa": 12909,
-    "olmaliq": 43778
+    "olmaliqhayoti": 86292,
+    "ao_agmk": 50012,
+    "olmaliqshaharpressa": 12917,
+    "olmaliq": 43780
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3601,112 +3601,25 @@
     "olmaliqhayoti:86274": 1793762241.8681402,
     "olmaliqhayoti:86275": 1793762244.7705693,
     "olmaliq:43777": 1793762251.5596237,
-    "olmaliq:43778": 1793762417.7705438
+    "olmaliq:43778": 1793762417.7705438,
+    "olmaliqhayoti:86276": 1793790329.5640998,
+    "olmaliqhayoti:86277": 1793790336.684931,
+    "olmaliqhayoti:86278": 1793790345.3951106,
+    "olmaliqhayoti:86282": 1793790345.409821,
+    "olmaliqhayoti:86283": 1793790362.911443,
+    "olmaliqhayoti:86292": 1793790375.4929194,
+    "ao_agmk:50005": 1793790386.885981,
+    "ao_agmk:50007": 1793790396.1557462,
+    "ao_agmk:50009": 1793790402.366651,
+    "ao_agmk:50012": 1793790408.038615,
+    "olmaliqshaharpressa:12913": 1793790415.07699,
+    "olmaliqshaharpressa:12915": 1793790425.9442801,
+    "olmaliqshaharpressa:12916": 1793790461.7309566,
+    "olmaliqshaharpressa:12917": 1793790467.5092587,
+    "olmaliq:43779": 1793790471.2563984,
+    "olmaliq:43780": 1793790477.2243316
   },
   "posted_articles": [
-    {
-      "title": "Muhim shoshilinch va kommunal xizmatlar telefon raqamlari",
-      "summary": "Gaz, elektr, suv, tibbiy yordam hamda boshqa shoshilinch masalalar bo'yicha murojaat qilish uchun kerakli qaynoq tarmoq raqamlari e'lon qilindi.",
-      "norm_title": "muhim shoshilinch va kommunal xizmatlar telefon raqamlari",
-      "topic_key": "muhim-telefon-raqamlari",
-      "stems": [
-        "telefon",
-        "shoshilinch",
-        "xizmat",
-        "kommunal",
-        "raqam",
-        "muhim"
-      ],
-      "posted_at": 1792230096.0799098
-    },
-    {
-      "title": "Olmaliq shahar hokimi o‘rinbosari boshqa ishga o‘tdi",
-      "summary": "Olmaliq shahar hokimi Barhayot Meliev boshqa ishga o‘tayotgan o‘rinbosari Marhabo Minavvarovani samimiy tilaklar bilan yangi lavozimga kuzatdi.",
-      "norm_title": "olmaliq shahar hokimi orinbosari boshqa ishga otdi",
-      "topic_key": "olmaliq-hokimiyat-kadrlar",
-      "stems": [
-        "tdi",
-        "hokim",
-        "bosh",
-        "rinbosar",
-        "ish"
-      ],
-      "posted_at": 1792242690.6184855
-    },
-    {
-      "title": "Olmaliq shahridagi bugungi ob-havo, namoz vaqtlari va valyuta kurslari",
-      "summary": "18-oktabr kuni Olmaliqda kunduzi havo harorati +21°C, kechasi +10°C bo'ladi. USD kursi 12055.90 so'mni tashkil etmoqda.",
-      "norm_title": "olmaliq shahridagi bugungi obhavo namoz vaqtlari va valyuta kurslari",
-      "topic_key": "ob-havo-namoz-valyuta",
-      "stems": [
-        "namoz",
-        "bugung",
-        "shahr",
-        "vaqt",
-        "havo",
-        "kurs",
-        "valyuta"
-      ],
-      "posted_at": 1792262293.376256
-    },
-    {
-      "title": "Maktablarda kuzgi ta'til sanalari ma'lum qilindi",
-      "summary": "Maktablarda kuzgi ta'til 4-noyabrdan boshlanib, o'quvchilar 6 kun dam oladi. Darslar 10-noyabrdan qayta boshlanadi.",
-      "norm_title": "maktablarda kuzgi tatil sanalari malum qilindi",
-      "topic_key": "maktab-kuzgi-tatil",
-      "stems": [
-        "lum",
-        "sana",
-        "maktab",
-        "kuzg",
-        "til"
-      ],
-      "posted_at": 1792262311.486634
-    },
-    {
-      "title": "Bu qishda O'zbekistonda elektr energiyasi rejasiz o'chmaydi",
-      "summary": "Energetika vazirligi qishda elektr ta'minotida rejasiz uzilishlar bo'lmasligini bildirdi. Faqat ta'mirlash va uskunani almashtirish vaqtida vaqtincha uzilishlar bo'lishi mumkin.",
-      "norm_title": "bu qishda ozbekistonda elektr energiyasi rejasiz ochmaydi",
-      "topic_key": "qishki-elektr-ta'minoti",
-      "stems": [
-        "qish",
-        "elektr",
-        "zbekiston",
-        "rejasiz",
-        "chma",
-        "energiya"
-      ],
-      "posted_at": 1792299319.5938416
-    },
-    {
-      "title": "Olmaliqdagi ikki ulkan kon 2030-yilgacha birlashadi",
-      "summary": "\"Kalmoqqir\" va \"Yoshlik\" konlari kengayib, 2030-yillar boshida uzunligi 9 km bo'lgan yagona konga aylanadi. Ushbu hududda 45 million tonna mis va 5000 tonnadan ortiq oltin zaxirasi mavjud.",
-      "norm_title": "olmaliqdagi ikki ulkan kon 2030yilgacha birlashadi",
-      "topic_key": "agmk-mis-konlari",
-      "stems": [
-        "birlash",
-        "2030",
-        "ulkan",
-        "yilgacha",
-        "ikk",
-        "kon"
-      ],
-      "posted_at": 1792299330.1119711
-    },
-    {
-      "title": "Ozbekistonliklar Ozarbayjonda imtiyozli davolanishi mumkin",
-      "summary": "Ozbekiston va Ozarbayjon kasaba uyushmalari sanatoriyalarga imtiyozli yollanmalar almashish hamda hamkorlikni kengaytirishni taklif etdi. Fuqarolar Naftaalan va Duzdog kabi mashhur maskanlarda davolanish imkoniyatiga ega boladi.",
-      "norm_title": "ozbekistonliklar ozarbayjonda imtiyozli davolanishi mumkin",
-      "topic_key": "ozarbayjon-sanatoriya-imtiyoz",
-      "stems": [
-        "ozarbayjon",
-        "imtiyozl",
-        "mumkin",
-        "ozbekiston",
-        "davolan"
-      ],
-      "posted_at": 1792299347.8116798
-    },
     {
       "title": "Maktab o'quvchilariga insult belgilarini aniqlash o'rgatiladi",
       "summary": "1 noyabrdan boshlab respublika umumta'lim maktablarida o'quvchilarga insult belgilarini aniqlashni o'rgatish dasturi bosqichma-bosqich yo'lga qo'yiladi.",
@@ -6588,6 +6501,118 @@
         "ahvol"
       ],
       "posted_at": 1793731314.2277176
+    },
+    {
+      "title": "Olmaliqda shahar hokimi tadbirkorlar bilan ochiq muloqot o'tkazdi",
+      "summary": "Olmaliq shahar hokimi Barhayot Meliyev va \"Xalq banki\" Boshqaruv raisi o'rinbosari S. Abdullayev tadbirkorlar bilan uchrashib, ularning muammo va takliflarini tingladi.",
+      "norm_title": "olmaliqda shahar hokimi tadbirkorlar bilan ochiq muloqot otkazdi",
+      "topic_key": "hokim-tadbirkorlar-muloqoti",
+      "stems": [
+        "hokim",
+        "tkaz",
+        "tadbirkor",
+        "ochiq",
+        "muloqot"
+      ],
+      "posted_at": 1793790362.9187443
+    },
+    {
+      "title": "Olmaliqda jamoat transportida 400 dan ortiq yo'lovchi yo'l haqini to'lamagani aniqlandi",
+      "summary": "Toshkent viloyatida o'tkazilgan reydlar natijasida bir oy ichida Olmaliq avtobuslarida 400 dan ortiq yo'lovchi yo'l haqini to'lamay harakatlangani ma'lum bo'ldi. Shahar viloyat bo'yicha jamoat transportidagi qoidabuzarliklar soni bo'yicha yetakchilik qilmoqda.",
+      "norm_title": "olmaliqda jamoat transportida 400 dan ortiq yolovchi yol haqini tolamagani aniqlandi",
+      "topic_key": "olmaliq-avtobus-qoidabuzarlik",
+      "stems": [
+        "400",
+        "ortiq",
+        "transport",
+        "aniqlan",
+        "lama",
+        "jamoat",
+        "lovch",
+        "dan",
+        "haq"
+      ],
+      "posted_at": 1793790375.500723
+    },
+    {
+      "title": "OKMK tarbiyalanuvchilari belbog'li kurash bo'yicha O'zbekiston kubogida bronza medalini qo'lga kiritishdi",
+      "summary": "Nukus shahrida o'tkazilgan belbog'li kurash bo'yicha O'zbekiston kubogida OKMK sportchilari Asilbek Abduxalilov (75 kg) va Sherbek Abdugapparov (+100 kg) uchinchi o'rinni egallashdi.",
+      "norm_title": "okmk tarbiyalanuvchilari belbogli kurash boyicha ozbekiston kubogida bronza medalini qolga kiritishdi",
+      "topic_key": "okmk-kurash-ozbekiston-kubogi",
+      "stems": [
+        "yicha",
+        "lga",
+        "okmk",
+        "belbog",
+        "kurash",
+        "bronza",
+        "kubog",
+        "zbekiston",
+        "tarbiyalanuvch",
+        "kirit",
+        "medal"
+      ],
+      "posted_at": 1793790386.8937287
+    },
+    {
+      "title": "Olmaliqda navbatdagi tungi reyd tadbirlari o‘tkazildi",
+      "summary": "Olmaliq shahrida o‘tkazilgan tungi reydlar davomida kafelar va kompyuter klublarida qarovsiz yurgan voyaga yetmaganlar aniqlanib, ularning ota-onalariga nisbatan tegishli huquqiy choralar ko‘rildi.",
+      "norm_title": "olmaliqda navbatdagi tungi reyd tadbirlari otkazildi",
+      "topic_key": "olmaliq-tungi-reyd",
+      "stems": [
+        "tadbir",
+        "tung",
+        "tkazil",
+        "navbat",
+        "reyd"
+      ],
+      "posted_at": 1793790415.0843737
+    },
+    {
+      "title": "Olmaliq shahar hokimligining shaxsiy qabullar jadvali e'lon qilindi",
+      "summary": "Olmaliq shahar hokimi va uning o'rinbosarlari fuqarolar hamda yuridik shaxslar vakillarini qabul qilishadi. Murojaat va takliflar bilan belgilangan kunlarda rahbarlarga bevosita uchrashish mumkin.",
+      "norm_title": "olmaliq shahar hokimligining shaxsiy qabullar jadvali elon qilindi",
+      "topic_key": "shahar-hokimi-qabuli",
+      "stems": [
+        "shaxsiy",
+        "jadval",
+        "lon",
+        "hokimlig",
+        "qabul"
+      ],
+      "posted_at": 1793790425.9516048
+    },
+    {
+      "title": "Nurafshonda tez yordam telefonlarida vaqtinchalik uzilishlar kuzatilmoqda",
+      "summary": "Texnik ta'mirlash ishlari sababli Toshkent viloyatida 103 qisqa raqami vaqtincha ishlamayapti. Shu sababli tez tibbiy yordam uchun 112 qisqa raqamiga murojaat qilish so'raladi.",
+      "norm_title": "nurafshonda tez yordam telefonlarida vaqtinchalik uzilishlar kuzatilmoqda",
+      "topic_key": "nurafshon-tez-yordam-112",
+      "stems": [
+        "uzil",
+        "telefon",
+        "kuzat",
+        "vaqtincha",
+        "yordam",
+        "tez",
+        "nurafshon"
+      ],
+      "posted_at": 1793790467.51674
+    },
+    {
+      "title": "Tailand O'zbekiston fuqarolari uchun visasiz rejim joriy etdi",
+      "summary": "O'zbekiston fuqarolari endilikda Tailandga 30 kungacha visasiz rejim asosida borishlari mumkin.",
+      "norm_title": "tailand ozbekiston fuqarolari uchun visasiz rejim joriy etdi",
+      "topic_key": "tailand-visasiz-rejim",
+      "stems": [
+        "joriy",
+        "rejim",
+        "zbekiston",
+        "tailand",
+        "fuqaro",
+        "visasiz",
+        "etd"
+      ],
+      "posted_at": 1793790477.2317476
     }
   ]
 }
