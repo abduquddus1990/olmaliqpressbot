@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86292,
-    "ao_agmk": 50012,
+    "olmaliqhayoti": 86294,
+    "ao_agmk": 50017,
     "olmaliqshaharpressa": 12917,
-    "olmaliq": 43780
+    "olmaliq": 43793
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3617,39 +3617,19 @@
     "olmaliqshaharpressa:12916": 1793790461.7309566,
     "olmaliqshaharpressa:12917": 1793790467.5092587,
     "olmaliq:43779": 1793790471.2563984,
-    "olmaliq:43780": 1793790477.2243316
+    "olmaliq:43780": 1793790477.2243316,
+    "olmaliqhayoti:86293": 1793817326.471452,
+    "olmaliqhayoti:86294": 1793817337.8579538,
+    "ao_agmk:50015": 1793817338.6170328,
+    "ao_agmk:50016": 1793817343.0093067,
+    "ao_agmk:50017": 1793817343.0211656,
+    "olmaliq:43781": 1793817344.1906416,
+    "olmaliq:43782": 1793817355.5131717,
+    "olmaliq:43791": 1793817362.3850265,
+    "olmaliq:43792": 1793817370.5443797,
+    "olmaliq:43793": 1793817385.6755195
   },
   "posted_articles": [
-    {
-      "title": "Maktab o'quvchilariga insult belgilarini aniqlash o'rgatiladi",
-      "summary": "1 noyabrdan boshlab respublika umumta'lim maktablarida o'quvchilarga insult belgilarini aniqlashni o'rgatish dasturi bosqichma-bosqich yo'lga qo'yiladi.",
-      "norm_title": "maktab oquvchilariga insult belgilarini aniqlash orgatiladi",
-      "topic_key": "maktab-insult-belgilari",
-      "stems": [
-        "aniqlash",
-        "belg",
-        "insult",
-        "maktab",
-        "rgat",
-        "quvch"
-      ],
-      "posted_at": 1792314963.899336
-    },
-    {
-      "title": "Prezident Shavkat Mirziyoyev Samarqand viloyatiga tashrif buyuradi",
-      "summary": "Davlat rahbari bugun Samarqanddagi transport va shaharsozlik loyihalari bilan tanishadi hamda 19-oktabr kuni Amerika – O‘zbekiston ishbilarmonlik kengashi yig‘ilishida ishtirok etadi.",
-      "norm_title": "prezident shavkat mirziyoyev samarqand viloyatiga tashrif buyuradi",
-      "topic_key": "prezident-samarqand-tashrif",
-      "stems": [
-        "prezident",
-        "shavkat",
-        "tashrif",
-        "buyur",
-        "mirziyoyev",
-        "samarqand"
-      ],
-      "posted_at": 1792329640.1775646
-    },
     {
       "title": "3-oilaviy poliklinikada ta'mirlash ishlari yakunlanmoqda",
       "summary": "Olmaliq shahar hokimi o'rinbosari 3-oilaviy poliklinikadagi ta'mirlash ishlarini ko'zdan kechirdi. Mas'ullarga aniqlangan kamchiliklarni bartaraf etib, obyektni foydalanishga topshirish bo'yicha ko'rsatmalar berildi.",
@@ -6613,6 +6593,37 @@
         "etd"
       ],
       "posted_at": 1793790477.2317476
+    },
+    {
+      "title": "Maishiy gaz ballonlarini avtozapravkalardan to'ldirish taqiqlanadi",
+      "summary": "2027-yil 5-fevraldan boshlab avtomobillarga gaz quyish shoxobchalarida maishiy gaz ballonlariga gaz quyib berish BHMning 3 baravaridan 5 baravarigacha jarima solishga sabab bo'ladi.",
+      "norm_title": "maishiy gaz ballonlarini avtozapravkalardan toldirish taqiqlanadi",
+      "topic_key": "gaz-ballon-jarima-qonun",
+      "stems": [
+        "ldir",
+        "avtozaprav",
+        "maishiy",
+        "ballon",
+        "gaz",
+        "taqiqlan"
+      ],
+      "posted_at": 1793817362.3912973
+    },
+    {
+      "title": "Sog'liqni saqlash vazirligi Koksaki virusidan ogohlantirdi",
+      "summary": "Sanitariya-epidemiologiya qo'mitasi vakili Nurmat Atabekov qishda tez tarqaladigan Koksaki virusining belgilari va undan saqlanish yo'llarini tushuntirdi.",
+      "norm_title": "sogliqni saqlash vazirligi koksaki virusidan ogohlantirdi",
+      "topic_key": "koksaki-virusi-ogohlantirish",
+      "stems": [
+        "saqlash",
+        "viru",
+        "vazir",
+        "ogohlantir",
+        "koksak",
+        "sog",
+        "liq"
+      ],
+      "posted_at": 1793817385.6818397
     }
   ]
 }
