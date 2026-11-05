@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86322,
+    "olmaliqhayoti": 86323,
     "ao_agmk": 50024,
-    "olmaliqshaharpressa": 12922,
-    "olmaliq": 43812
+    "olmaliqshaharpressa": 12923,
+    "olmaliq": 43837
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3657,26 +3657,18 @@
     "olmaliq:43807": 1793881110.1700957,
     "olmaliq:43808": 1793881124.040946,
     "olmaliq:43811": 1793881124.0562172,
-    "olmaliq:43812": 1793881148.969332
+    "olmaliq:43812": 1793881148.969332,
+    "olmaliqhayoti:86323": 1793908685.263313,
+    "olmaliqshaharpressa:12923": 1793908697.2952204,
+    "olmaliq:43822": 1793908697.9925618,
+    "olmaliq:43824": 1793908701.4307916,
+    "olmaliq:43825": 1793908709.104648,
+    "olmaliq:43826": 1793908755.4404743,
+    "olmaliq:43835": 1793908763.9859307,
+    "olmaliq:43836": 1793908799.757329,
+    "olmaliq:43837": 1793908837.980494
   },
   "posted_articles": [
-    {
-      "title": "Shavkat Mirziyoyev Islom Karimov xotirasiga hurmat bajo keltirdi",
-      "summary": "Davlat rahbari Samarqanddagi Hazrati Hizr majmuasini ziyaret etib, Birinchi Prezident Islom Karimov maqbarasiga gul qo'ydi hamda duolar qilindi.",
-      "norm_title": "shavkat mirziyoyev islom karimov xotirasiga hurmat bajo keltirdi",
-      "topic_key": "islom-karimov-xotirasi",
-      "stems": [
-        "keltir",
-        "hurmat",
-        "bajo",
-        "shavkat",
-        "mirziyoyev",
-        "islom",
-        "karimov",
-        "xotira"
-      ],
-      "posted_at": 1792390047.219798
-    },
     {
       "title": "AGMK haftalik yangiliklar dayjesti",
       "summary": "Olmaliq kon-metallurgiya kombinatida o'tgan hafta davomida yirik xustoxranilisho qurilishi, xalqaro hamkorlik, sport yutuqlari hamda isitish mavsumiga tayyorgarlik bo'yicha muhim tadbirlar amalga oshirildi.",
@@ -6660,6 +6652,23 @@
         "mashg"
       ],
       "posted_at": 1793881069.4385612
+    },
+    {
+      "title": "Toshkent viloyatida mudhish jinoyat sodir etgan shaxs umrbod qamoqqa hukm qilindi",
+      "summary": "Toshkent viloyatida o'z turmush o'rtog'i va 3 yoshli qizini shafqatsizlarcha o'ldirib, jasadni yashirgan 27 yoshli erkak sud hukmi bilan umrbod ozodlikdan mahrum etildi.",
+      "norm_title": "toshkent viloyatida mudhish jinoyat sodir etgan shaxs umrbod qamoqqa hukm qilindi",
+      "topic_key": "jinoyat-umrbod-qamoq",
+      "stems": [
+        "umrbod",
+        "shaxs",
+        "sodir",
+        "qamoq",
+        "etgan",
+        "hukm",
+        "mudh",
+        "jinoyat"
+      ],
+      "posted_at": 1793908709.1127079
     }
   ]
 }
