@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86294,
-    "ao_agmk": 50017,
+    "olmaliqhayoti": 86298,
+    "ao_agmk": 50018,
     "olmaliqshaharpressa": 12917,
-    "olmaliq": 43793
+    "olmaliq": 43797
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3627,23 +3627,18 @@
     "olmaliq:43782": 1793817355.5131717,
     "olmaliq:43791": 1793817362.3850265,
     "olmaliq:43792": 1793817370.5443797,
-    "olmaliq:43793": 1793817385.6755195
+    "olmaliq:43793": 1793817385.6755195,
+    "olmaliqhayoti:86295": 1793851711.0918663,
+    "olmaliqhayoti:86296": 1793851722.0015306,
+    "olmaliqhayoti:86297": 1793851756.9847617,
+    "olmaliqhayoti:86298": 1793851770.8757644,
+    "ao_agmk:50018": 1793851776.2780447,
+    "olmaliq:43794": 1793851784.3519285,
+    "olmaliq:43795": 1793851792.1262927,
+    "olmaliq:43796": 1793851797.8807416,
+    "olmaliq:43797": 1793851805.1900454
   },
   "posted_articles": [
-    {
-      "title": "3-oilaviy poliklinikada ta'mirlash ishlari yakunlanmoqda",
-      "summary": "Olmaliq shahar hokimi o'rinbosari 3-oilaviy poliklinikadagi ta'mirlash ishlarini ko'zdan kechirdi. Mas'ullarga aniqlangan kamchiliklarni bartaraf etib, obyektni foydalanishga topshirish bo'yicha ko'rsatmalar berildi.",
-      "norm_title": "3oilaviy poliklinikada tamirlash ishlari yakunlanmoqda",
-      "topic_key": "3-poliklinika-tamirlash-ishlari",
-      "stems": [
-        "polikl",
-        "mirlash",
-        "ish",
-        "oilaviy",
-        "yakunlan"
-      ],
-      "posted_at": 1792329653.5165625
-    },
     {
       "title": "Prezident Imom Buxoriy maqbarasini ziyorat qildi",
       "summary": "Davlatimiz rahbari Imom Buxoriy majmuasida bo'lib, ziyoratni amalga oshirdi.",
@@ -6624,6 +6619,19 @@
         "liq"
       ],
       "posted_at": 1793817385.6818397
+    },
+    {
+      "title": "Toshkent metrosi \"Ippodrom\" bozorigacha uzaytiriladi",
+      "summary": "Prezident qaroriga ko'ra, metroning Yunusobod yo'nalishi \"Turkiston\" bekatidan Chilonzor buyum bozorigacha uzaytiriladi va bekatlarda elektron tablolar o'rnatiladi.",
+      "norm_title": "toshkent metrosi ippodrom bozorigacha uzaytiriladi",
+      "topic_key": "toshkent-metro-ippodrom",
+      "stems": [
+        "ippodrom",
+        "metro",
+        "bozorigacha",
+        "uzay"
+      ],
+      "posted_at": 1793851792.130876
     }
   ]
 }
