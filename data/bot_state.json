@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86298,
-    "ao_agmk": 50018,
-    "olmaliqshaharpressa": 12917,
-    "olmaliq": 43797
+    "olmaliqhayoti": 86322,
+    "ao_agmk": 50024,
+    "olmaliqshaharpressa": 12922,
+    "olmaliq": 43812
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3636,78 +3636,30 @@
     "olmaliq:43794": 1793851784.3519285,
     "olmaliq:43795": 1793851792.1262927,
     "olmaliq:43796": 1793851797.8807416,
-    "olmaliq:43797": 1793851805.1900454
+    "olmaliq:43797": 1793851805.1900454,
+    "olmaliqhayoti:86303": 1793880821.7993004,
+    "olmaliqhayoti:86304": 1793880862.6235666,
+    "olmaliqhayoti:86308": 1793880925.8907754,
+    "olmaliqhayoti:86318": 1793880931.9527352,
+    "olmaliqhayoti:86319": 1793880931.968454,
+    "olmaliqhayoti:86320": 1793880941.157568,
+    "olmaliqhayoti:86321": 1793880991.660658,
+    "olmaliqhayoti:86322": 1793881009.0463138,
+    "ao_agmk:50019": 1793881019.0431275,
+    "ao_agmk:50021": 1793881026.30853,
+    "ao_agmk:50022": 1793881026.3232727,
+    "ao_agmk:50023": 1793881039.3305974,
+    "ao_agmk:50024": 1793881049.2505817,
+    "olmaliqshaharpressa:12918": 1793881069.4305801,
+    "olmaliqshaharpressa:12921": 1793881077.7259185,
+    "olmaliqshaharpressa:12922": 1793881083.1649377,
+    "olmaliq:43798": 1793881095.4217348,
+    "olmaliq:43807": 1793881110.1700957,
+    "olmaliq:43808": 1793881124.040946,
+    "olmaliq:43811": 1793881124.0562172,
+    "olmaliq:43812": 1793881148.969332
   },
   "posted_articles": [
-    {
-      "title": "Prezident Imom Buxoriy maqbarasini ziyorat qildi",
-      "summary": "Davlatimiz rahbari Imom Buxoriy majmuasida bo'lib, ziyoratni amalga oshirdi.",
-      "norm_title": "prezident imom buxoriy maqbarasini ziyorat qildi",
-      "topic_key": "prezident-imom-buxoriy-ziyorati",
-      "stems": [
-        "prezident",
-        "imom",
-        "buxoriy",
-        "maqbara",
-        "qil",
-        "ziyorat"
-      ],
-      "posted_at": 1792329734.1512284
-    },
-    {
-      "title": "Birinchi Prezident xotirasi yod etildi",
-      "summary": "Mamlakatimizda Birinchi Prezidentning xotirasi hurmat bilan yod etilib, uning porloq xotirasiga ehtizo ko'rsatildi.",
-      "norm_title": "birinchi prezident xotirasi yod etildi",
-      "topic_key": "birinchi-prezident-xotirasi",
-      "stems": [
-        "yod",
-        "birinch",
-        "xotira",
-        "prezident"
-      ],
-      "posted_at": 1792329747.9827597
-    },
-    {
-      "title": "Olmaliq IIB kiberjinoyatlardan ogohlantiradi",
-      "summary": "Olmaliq shahar IIB fuqarolarni kiberfiribgarlikdan himoyalanish uchun Android qurilmalariga «APK Qo‘riqchi» ilovasini o‘rnatishga chaqirdi.",
-      "norm_title": "olmaliq iib kiberjinoyatlardan ogohlantiradi",
-      "topic_key": "iib-kiberxavfsizlik-apk-qoriqchi",
-      "stems": [
-        "kiberjinoyat",
-        "iib",
-        "ogohlantir"
-      ],
-      "posted_at": 1792349822.0739145
-    },
-    {
-      "title": "Marko Rubio Samarqanddagi muzokaralarda qanday masalalarni muhokama qiladi",
-      "summary": "AQSH delegatsiyasi Samarqandda o'tkaziladigan 'C5+1' sammitida investitsiyalar, nodir metallar hamkorligi, mintaqaviy xavfsizlik va biznes aloqalarini kengaytirish masalalarini ko'rib chiqadi.",
-      "norm_title": "marko rubio samarqanddagi muzokaralarda qanday masalalarni muhokama qiladi",
-      "topic_key": "marko-rubio-samarqand-tashrifi",
-      "stems": [
-        "muzokara",
-        "masala",
-        "rubio",
-        "marko",
-        "qanday",
-        "samarqand",
-        "qil"
-      ],
-      "posted_at": 1792372050.9811342
-    },
-    {
-      "title": "O'zbekiston va AQSH munosabatlaridagi 11 yillik o'zgarishlar",
-      "summary": "AQSH Davlat kotibining Samarqandga tashrifi doirasida 200 dan ortiq Amerika kompaniyalari vakillari kelishi va asosiy e'tibor investitsiyaviy hamkorlikka qaratilishi kutilmoqda.",
-      "norm_title": "ozbekiston va aqsh munosabatlaridagi 11 yillik ozgarishlar",
-      "topic_key": "uzbekiston-aqsh-munosabatlari",
-      "stems": [
-        "aqsh",
-        "zgar",
-        "munosabat",
-        "zbekiston"
-      ],
-      "posted_at": 1792390004.9886932
-    },
     {
       "title": "Shavkat Mirziyoyev Islom Karimov xotirasiga hurmat bajo keltirdi",
       "summary": "Davlat rahbari Samarqanddagi Hazrati Hizr majmuasini ziyaret etib, Birinchi Prezident Islom Karimov maqbarasiga gul qo'ydi hamda duolar qilindi.",
@@ -6632,6 +6584,82 @@
         "uzay"
       ],
       "posted_at": 1793851792.130876
+    },
+    {
+      "title": "Davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
+      "summary": "Prezident qaroriga ko'ra, 2027-yil 1-yanvardan davlat tibbiyot muassasalaridagi tibbiy va yordamchi xizmatlar xususiy sektorga 5 yildan 10 yilgacha shartnoma asosida topshiriladi. 2030-yilgacha autsorsing hajmi 30 foizga yetkazilib, kamida 5 ta yirik shifoxonaga xorijiy menejerlar jalb etiladi.",
+      "norm_title": "davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
+      "topic_key": "tibbiyot-autsorsing-islohot",
+      "stems": [
+        "autsorsing",
+        "davlat",
+        "xizmat",
+        "ber",
+        "xususiy",
+        "shifoxona",
+        "sektor"
+      ],
+      "posted_at": 1793880941.1654344
+    },
+    {
+      "title": "Yo'l qurilishidagi trotuar va bekatlar muammosi tanqid qilindi",
+      "summary": "Senator Rustam Kalanov yo'llarni ta'mirlashda trotuarlar, ariqlar va bekatlar yo'qotilayotgani hamda ajratilgan mablag'lar taqdirini keskin tanqid qildi.",
+      "norm_title": "yol qurilishidagi trotuar va bekatlar muammosi tanqid qilindi",
+      "topic_key": "yol-qurilishi-trotuar-tanqid",
+      "stems": [
+        "tanqid",
+        "trotuar",
+        "muammo",
+        "bekat",
+        "qur"
+      ],
+      "posted_at": 1793881009.0540335
+    },
+    {
+      "title": "OKMKda IFRS S1 va IFRS S2 xalqaro standartlari joriy etilmoqda",
+      "summary": "OKMKda PwC kompaniyasi vakillari ishtirokida barqaror rivojlanish va ESG hisobotdorligini oshirishga qaratilgan IFRS S1 hamda IFRS S2 xalqaro standartlarini joriy etish bo‘yicha amaliy workshop o‘tkazilmoqda.",
+      "norm_title": "okmkda ifrs s1 va ifrs s2 xalqaro standartlari joriy etilmoqda",
+      "topic_key": "okmk-ifrs-standartlar-workshop",
+      "stems": [
+        "joriy",
+        "ifrs",
+        "okmk",
+        "xalqaro",
+        "standart",
+        "etil"
+      ],
+      "posted_at": 1793881019.0508225
+    },
+    {
+      "title": "AGMK korrupsiyaga qarshi aloqa kanallarini e'lon qildi",
+      "summary": "\"Olmaliq KMK\" AJ korrupsiyaga qarshi kurashish doirasida fuqarolarni faol bo'lishga chorlab, qoidabuzarliklar haqida xabar berish uchun maxsus bot va ishonch telefonlarini taqdim etdi.",
+      "norm_title": "agmk korrupsiyaga qarshi aloqa kanallarini elon qildi",
+      "topic_key": "agmk-korrupsiya-aloqa",
+      "stems": [
+        "qil",
+        "agmk",
+        "korrupsiya",
+        "kanal",
+        "alo",
+        "lon",
+        "qarsh"
+      ],
+      "posted_at": 1793881039.3385081
+    },
+    {
+      "title": "Olmaliqda yosh nikohlanuvchilar uchun o'quv mashg'uloti o'tkazildi",
+      "summary": "Olmaliq shahri Oila va xotin-qizlar bo'limi tomonidan yoshlarni oilaviy hayotga tayyorlash va huquqiy bilimlarini oshirishga qaratilgan seminar tashkil etilib, faol ishtirokchilarga sertifikatlar topshirildi.",
+      "norm_title": "olmaliqda yosh nikohlanuvchilar uchun oquv mashguloti otkazildi",
+      "topic_key": "yosh-nikohlanuvchilar-oquv-mashguloti",
+      "stems": [
+        "nikohlanuvch",
+        "tkazil",
+        "quv",
+        "ulot",
+        "yosh",
+        "mashg"
+      ],
+      "posted_at": 1793881069.4385612
     }
   ]
 }
