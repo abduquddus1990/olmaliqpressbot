@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86324,
-    "ao_agmk": 50024,
+    "olmaliqhayoti": 86329,
+    "ao_agmk": 50038,
     "olmaliqshaharpressa": 12923,
-    "olmaliq": 43837
+    "olmaliq": 43841
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3667,69 +3667,22 @@
     "olmaliq:43835": 1793908763.9859307,
     "olmaliq:43836": 1793908799.757329,
     "olmaliq:43837": 1793908837.980494,
-    "olmaliqhayoti:86324": 1793926074.9269273
+    "olmaliqhayoti:86324": 1793926074.9269273,
+    "olmaliqhayoti:86325": 1793950012.0856862,
+    "olmaliqhayoti:86326": 1793950012.095718,
+    "olmaliqhayoti:86327": 1793950015.5836387,
+    "olmaliqhayoti:86328": 1793950015.9724424,
+    "olmaliqhayoti:86329": 1793950019.4938872,
+    "ao_agmk:50025": 1793950027.905109,
+    "ao_agmk:50028": 1793950027.9137218,
+    "ao_agmk:50029": 1793950036.2360845,
+    "ao_agmk:50038": 1793950036.2565987,
+    "olmaliq:43838": 1793950040.903171,
+    "olmaliq:43839": 1793950044.7107959,
+    "olmaliq:43840": 1793950054.1247976,
+    "olmaliq:43841": 1793950060.1279376
   },
   "posted_articles": [
-    {
-      "title": "AGMK haftalik yangiliklar dayjesti",
-      "summary": "Olmaliq kon-metallurgiya kombinatida o'tgan hafta davomida yirik xustoxranilisho qurilishi, xalqaro hamkorlik, sport yutuqlari hamda isitish mavsumiga tayyorgarlik bo'yicha muhim tadbirlar amalga oshirildi.",
-      "norm_title": "agmk haftalik yangiliklar dayjesti",
-      "topic_key": "agmk-haftalik-dayjest",
-      "stems": [
-        "agmk",
-        "dayjest",
-        "yang",
-        "hafta"
-      ],
-      "posted_at": 1792390057.455893
-    },
-    {
-      "title": "Oʻzbekiston doimiy aholisi 39,5 million kishidan oshdi",
-      "summary": "Milliy statistika qoʻmitasi maʼlumotiga koʻra, respublika aholisi bir yilda 692 ming kishiga koʻpayib, 39,5 milliondan oshdi. Toshkent viloyati aholisi esa 3,80 million kishini tashkil etdi.",
-      "norm_title": "oʻzbekiston doimiy aholisi 395 million kishidan oshdi",
-      "topic_key": "ozbekiston-aholi-soni-statistika",
-      "stems": [
-        "ahol",
-        "osh",
-        "ozbekiston",
-        "million",
-        "doimiy",
-        "kish"
-      ],
-      "posted_at": 1792414795.2185917
-    },
-    {
-      "title": "Farzandingiz baholarini my.gov.uz orqali kuzatib boring",
-      "summary": "Endi my.gov.uz portali yoki MyGov ilovasidagi 'Mening oilam' bo'limi orqali farzandingizning maktabdagi baholari va o'zlashtirish ko'rsatkichlarini onlayn bilib olishingiz mumkin.",
-      "norm_title": "farzandingiz baholarini mygovuz orqali kuzatib boring",
-      "topic_key": "mygov-maktab-baholar",
-      "stems": [
-        "kuzatib",
-        "baho",
-        "farzand",
-        "boring",
-        "gov"
-      ],
-      "posted_at": 1792414812.3231537
-    },
-    {
-      "title": "Pensiya hisoblashda ish haqi davrini 20 yilgacha uzaytirish taklif etilmoqda",
-      "summary": "O'zbekistonda pensiya miqdorini hisob-kitob qilishda inobatga olinadigan o'rtacha oylik ish haqi davrini amaldagi 5 yildan 20 yilgacha bosqichma-bosqich oshirish rejalashtirilmoqda.",
-      "norm_title": "pensiya hisoblashda ish haqi davrini 20 yilgacha uzaytirish taklif etilmoqda",
-      "topic_key": "pensiya-ish-haqi-davri",
-      "stems": [
-        "pensiya",
-        "davr",
-        "ish",
-        "haq",
-        "uzay",
-        "hisoblash",
-        "taklif",
-        "etil",
-        "yilgacha"
-      ],
-      "posted_at": 1792414841.1658516
-    },
     {
       "title": "Olmaliq KMKda kasaba uyushmasi bilimdonlari aniqlandi",
       "summary": "O‘zbekiston kasaba uyushmalari kuni munosabati bilan AGMK faollari o‘rtasida o‘tkazilgan viktorinada Mis eritish zavodi vakili Sitora Xalturayeva g‘olib bo‘ldi.",
@@ -6670,6 +6623,62 @@
         "jinoyat"
       ],
       "posted_at": 1793908709.1127079
+    },
+    {
+      "title": "Malakasiz kosmetologlar keltirib chiqarayotgan og'ir oqibatlar",
+      "summary": "Tibbiy ma'lumotsiz kosmetologlar bajarayotgan yuz operatsiyalari ayollarda tuzatib bo'lmaydigan asoratlar, oilaviy ajrimlar va tushkunlikni keltirib chiqarmoqda.",
+      "norm_title": "malakasiz kosmetologlar keltirib chiqarayotgan ogir oqibatlar",
+      "topic_key": "malakasiz-kosmetologlar-asorati",
+      "stems": [
+        "kosmetolog",
+        "chiqar",
+        "malakasiz",
+        "keltirib",
+        "oqibat"
+      ],
+      "posted_at": 1793950019.4983442
+    },
+    {
+      "title": "Olmaliqda issiqlik ta'minoti qarzdorlikni yopishga chaqirildi",
+      "summary": "\"Olmaliq shahar issiqlik ta'minoti\" MChJ aholidan isitish mavsumi oldidan mavjud qarzlarni bartaraf etishni va to'lovlarni o'z vaqtida amalga oshirishni so'radi.",
+      "norm_title": "olmaliqda issiqlik taminoti qarzdorlikni yopishga chaqirildi",
+      "topic_key": "olmaliq-issiqlik-qarz",
+      "stems": [
+        "minot",
+        "yop",
+        "chaqiril",
+        "qarzdor",
+        "issiq"
+      ],
+      "posted_at": 1793950044.7155228
+    },
+    {
+      "title": "Bugun havo harorati +27 darajagacha isiydi",
+      "summary": "Toshkent viloyatida kunning ikkinchi yarmida ba'zi joylarda yomg'ir yog'ishi kutilmoqda. Shamol tezligi 7-12 m/s ni tashkil etadi.",
+      "norm_title": "bugun havo harorati 27 darajagacha isiydi",
+      "topic_key": "ob-havo-prognozi",
+      "stems": [
+        "darajagacha",
+        "harorat",
+        "havo",
+        "isi"
+      ],
+      "posted_at": 1793950054.129344
+    },
+    {
+      "title": "Ehtiyojmand oilalarga 1 million so'm moddiy yordam beriladi",
+      "summary": "2026-2027 yilgi kuz-qish mavsumida aholining ijtimoiy himoyaga muhtoj qatlamiga isitish xarajatlarini qoplash uchun 1 million so'm miqdorida bir martalik yordam ajratiladi.",
+      "norm_title": "ehtiyojmand oilalarga 1 million som moddiy yordam beriladi",
+      "topic_key": "kuz-qish-moddiy-yordam",
+      "stems": [
+        "oila",
+        "moddiy",
+        "million",
+        "yordam",
+        "ber",
+        "ehtiyojmand"
+      ],
+      "posted_at": 1793950060.1325088
     }
   ]
 }
