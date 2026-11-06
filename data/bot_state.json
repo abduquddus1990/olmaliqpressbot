@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86353,
+    "olmaliqhayoti": 86354,
     "ao_agmk": 50054,
     "olmaliqshaharpressa": 12925,
-    "olmaliq": 43853
+    "olmaliq": 43854
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3699,23 +3699,11 @@
     "olmaliq:43842": 1793978306.4537995,
     "olmaliq:43851": 1793978319.8820317,
     "olmaliq:43852": 1793978319.8971853,
-    "olmaliq:43853": 1793978326.4681451
+    "olmaliq:43853": 1793978326.4681451,
+    "olmaliqhayoti:86354": 1793998534.8991823,
+    "olmaliq:43854": 1793998542.3401873
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahridagi \"Oydin\" dehqon bozori o'rganildi",
-      "summary": "Shahar rahbarlari \"Oydin\" dehqon bozoridagi savdo rastalarini tartibga solish va tadbirkorlar muammolarini o'rganish maqsadida o'rganish o'tkazdi.",
-      "norm_title": "olmaliq shahridagi oydin dehqon bozori organildi",
-      "topic_key": "oydin-bozor-organish",
-      "stems": [
-        "bozor",
-        "oydin",
-        "dehqon",
-        "rganil",
-        "shahr"
-      ],
-      "posted_at": 1792437073.184391
-    },
     {
       "title": "Inson hayotidagi eng og'ir yosh aniqlandi",
       "summary": "Olimlarning aniqlashicha, inson o'zini eng baxtsiz va qoniqmagan his qiladigan davr 47 yoshga to'g'ri keladi, 50 yoshdan keyin esa baxt hissi qayta tiklana boshlaydi.",
@@ -6704,6 +6692,18 @@
         "dxx"
       ],
       "posted_at": 1793978326.475906
+    },
+    {
+      "title": "Olmaliq shahrida 7-noyabr kuni uchun namoz vaqtlari",
+      "summary": "7-noyabr, shanba kuni Olmaliq shahri bo'yicha amalda bo'ladigan namoz vaqtlari e'lon qilindi.",
+      "norm_title": "olmaliq shahrida 7noyabr kuni uchun namoz vaqtlari",
+      "topic_key": "olmaliq-namoz-vaqtlari",
+      "stems": [
+        "namoz",
+        "vaqt",
+        "noyabr"
+      ],
+      "posted_at": 1793998542.3490896
     }
   ]
 }
