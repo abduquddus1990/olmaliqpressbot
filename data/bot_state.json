@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86329,
-    "ao_agmk": 50038,
-    "olmaliqshaharpressa": 12923,
-    "olmaliq": 43841
+    "olmaliqhayoti": 86353,
+    "ao_agmk": 50054,
+    "olmaliqshaharpressa": 12925,
+    "olmaliq": 43853
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3680,84 +3680,28 @@
     "olmaliq:43838": 1793950040.903171,
     "olmaliq:43839": 1793950044.7107959,
     "olmaliq:43840": 1793950054.1247976,
-    "olmaliq:43841": 1793950060.1279376
+    "olmaliq:43841": 1793950060.1279376,
+    "olmaliqhayoti:86334": 1793978171.582774,
+    "olmaliqhayoti:86335": 1793978174.6057413,
+    "olmaliqhayoti:86336": 1793978187.9124396,
+    "olmaliqhayoti:86346": 1793978193.3338516,
+    "olmaliqhayoti:86347": 1793978205.6227133,
+    "olmaliqhayoti:86352": 1793978205.6389525,
+    "olmaliqhayoti:86353": 1793978214.1581504,
+    "ao_agmk:50039": 1793978224.00136,
+    "ao_agmk:50040": 1793978251.4182932,
+    "ao_agmk:50048": 1793978254.4405456,
+    "ao_agmk:50049": 1793978254.4556086,
+    "ao_agmk:50050": 1793978262.883108,
+    "ao_agmk:50054": 1793978275.016205,
+    "olmaliqshaharpressa:12924": 1793978281.2528882,
+    "olmaliqshaharpressa:12925": 1793978293.3690467,
+    "olmaliq:43842": 1793978306.4537995,
+    "olmaliq:43851": 1793978319.8820317,
+    "olmaliq:43852": 1793978319.8971853,
+    "olmaliq:43853": 1793978326.4681451
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq KMKda kasaba uyushmasi bilimdonlari aniqlandi",
-      "summary": "O‘zbekiston kasaba uyushmalari kuni munosabati bilan AGMK faollari o‘rtasida o‘tkazilgan viktorinada Mis eritish zavodi vakili Sitora Xalturayeva g‘olib bo‘ldi.",
-      "norm_title": "olmaliq kmkda kasaba uyushmasi bilimdonlari aniqlandi",
-      "topic_key": "agmk-kasaba-uyushmasi-viktorina",
-      "stems": [
-        "kasaba",
-        "uyushma",
-        "aniqlan",
-        "bilimdon",
-        "kmk"
-      ],
-      "posted_at": 1792414854.9423277
-    },
-    {
-      "title": "AGMK avtomobil transporti boshqarmasida davlat tiliga bag'ishlangan seminar o'tkazildi",
-      "summary": "21-oktyabr — o'zbek tiliga davlat tili maqomi berilgan kun munosabati bilan AGMK Avtomobil transporti boshqarmasida ma'naviy-ma'rifiy seminar tashkil etildi. Unda davlat tilida ish yuritish madaniyati va rasmiy hujjatlarni savodli rasmiylashtirish masalalari muhokama qilindi.",
-      "norm_title": "agmk avtomobil transporti boshqarmasida davlat tiliga bagishlangan seminar otkazildi",
-      "topic_key": "agmk-davlat-tili-seminari",
-      "stems": [
-        "boshqarma",
-        "ishlan",
-        "transport",
-        "tkazil",
-        "agmk",
-        "avtomobil",
-        "til",
-        "davlat",
-        "bag",
-        "seminar"
-      ],
-      "posted_at": 1792414866.883998
-    },
-    {
-      "title": "Angrenda AGMK rahbariyati sayyor qabul o'tkazdi",
-      "summary": "AGMK rahbariyati Angren kon boshqarmasi xodimlari uchun sayyor qabul o'tkazib, ularning murojaat va muammolarini joyida o'rgandi.",
-      "norm_title": "angrenda agmk rahbariyati sayyor qabul otkazdi",
-      "topic_key": "agmk-angren-sayyor-qabul",
-      "stems": [
-        "rahbariyat",
-        "sayyor",
-        "tkaz",
-        "agmk",
-        "angren",
-        "qabul"
-      ],
-      "posted_at": 1792414878.3125687
-    },
-    {
-      "title": "Qibrayda 7 kg marixuana va pnevmatik qurol topildi",
-      "summary": "Toshkent viloyatining Qibray tumanida o‘tkazilgan tezkor tadbirda konteynerdan 7 kg marixuana giyohvandlik vositasi, pnevmatik qurol va patronlar ashyoviy dalil sifatida olindi.",
-      "norm_title": "qibrayda 7 kg marixuana va pnevmatik qurol topildi",
-      "topic_key": "qibray-giyohvandlik-qurol",
-      "stems": [
-        "qibray",
-        "qurol",
-        "pnevmatik",
-        "topil",
-        "marixuana"
-      ],
-      "posted_at": 1792414907.433711
-    },
-    {
-      "title": "Olmaliq rahbarlari shahar o‘lkashunoslik muzeyida bo‘ldi",
-      "summary": "Hokim va prokuror muzey holati va eksponatlar saqlanishini ko‘zdan kechirib, uning faoliyatini takomillashtirish bo‘yicha vazifalarni belgiladi.",
-      "norm_title": "olmaliq rahbarlari shahar olkashunoslik muzeyida boldi",
-      "topic_key": "olmaliq-muzey-tashrif",
-      "stems": [
-        "ldi",
-        "muzey",
-        "lkashunos",
-        "rahbar"
-      ],
-      "posted_at": 1792437067.1502926
-    },
     {
       "title": "Olmaliq shahridagi \"Oydin\" dehqon bozori o'rganildi",
       "summary": "Shahar rahbarlari \"Oydin\" dehqon bozoridagi savdo rastalarini tartibga solish va tadbirkorlar muammolarini o'rganish maqsadida o'rganish o'tkazdi.",
@@ -6679,6 +6623,87 @@
         "ehtiyojmand"
       ],
       "posted_at": 1793950060.1325088
+    },
+    {
+      "title": "Zarbuloq mahallasidagi xonadonda giyohvand modda yetishtirilayotgani aniqlandi",
+      "summary": "Olmaliq shahrining \"Zarbuloq\" mahallasida o'tkazilgan reyd davomida fuqaro xonadonida marixuana o'simligi yetishtirilayotgani aniqlandi.",
+      "norm_title": "zarbuloq mahallasidagi xonadonda giyohvand modda yetishtirilayotgani aniqlandi",
+      "topic_key": "zarbuloq-giyohvand-modda-reyd",
+      "stems": [
+        "yetishtirilayot",
+        "giyohvand",
+        "aniqlan",
+        "xonadon",
+        "mod",
+        "mahalla",
+        "zarbuloq"
+      ],
+      "posted_at": 1793978171.590699
+    },
+    {
+      "title": "Olmaliqda bergan qarzidan 10 baravar ko'p summaga tilxat olgan firibgar ushlandi",
+      "summary": "Olmaliqda fuqarolarga qarz berib, ulardan 10 baravar ko'p summadagi tilxat yozdirib olgan 48 yoshli shaxs qo'lga olindi. Hozirga qadar ushbu harakatlardan 65 nafar fuqaro jabrlangani aniqlangan va jinoyat ishi qo'zg'atilgan.",
+      "norm_title": "olmaliqda bergan qarzidan 10 baravar kop summaga tilxat olgan firibgar ushlandi",
+      "topic_key": "firibgarlik-tilxat-olmaliq",
+      "stems": [
+        "summa",
+        "qarz",
+        "tilxat",
+        "firibgar",
+        "ber",
+        "ushlan",
+        "olgan",
+        "baravar"
+      ],
+      "posted_at": 1793978214.166602
+    },
+    {
+      "title": "Prezident SHHT plyus ekspertlar muloqoti ishtirokchilariga murojaat yo'lladi",
+      "summary": "O'zbekiston Prezidenti Xavfsizlik masalalari bo'yicha SHHT plyus birinchi ekspertlar muloqoti ishtirokchilariga o'z murojaatini yo'lladi.",
+      "norm_title": "prezident shht plyus ekspertlar muloqoti ishtirokchilariga murojaat yolladi",
+      "topic_key": "shht-plyus-murojaat",
+      "stems": [
+        "shht",
+        "lla",
+        "murojaat",
+        "plyus",
+        "ekspert",
+        "prezident",
+        "muloqot",
+        "ishtirokch"
+      ],
+      "posted_at": 1793978224.0090177
+    },
+    {
+      "title": "3-Mis boyitish fabrikasi xodimlari taqdirlanmoqda",
+      "summary": "3-Mis boyitish fabrikasida 10 million tonna ma’danni qayta ishlash marrasiga hissa qo‘shgan bir guruh ishchi-xodimlar va mutaxassislarni taqdirlash marosimi bo‘lib o‘tmoqda.",
+      "norm_title": "3mis boyitish fabrikasi xodimlari taqdirlanmoqda",
+      "topic_key": "3-mbf-ishchilar-taqdirlash",
+      "stems": [
+        "mis",
+        "taqdirlan",
+        "fabr",
+        "xodim",
+        "boyit"
+      ],
+      "posted_at": 1793978251.4260492
+    },
+    {
+      "title": "DXX raisi sun'iy intellektdan terrorchilikda foydalanish xavfidan ogohlantirdi",
+      "summary": "DXX raisi Bahodir Qurbonov Samarqanddagi SHXT tadbirida internetda ekstremistik g'oyalar tarqalishi ortayotgani va sun'iy intellektdan terrorchilikda foydalanishning oldini olish zarurligini ta'kidladi.",
+      "norm_title": "dxx raisi suniy intellektdan terrorchilikda foydalanish xavfidan ogohlantirdi",
+      "topic_key": "dxx-sunniy-intellekt-xavfi",
+      "stems": [
+        "xavf",
+        "foydalan",
+        "terrorch",
+        "rai",
+        "sun",
+        "ogohlantir",
+        "intellekt",
+        "dxx"
+      ],
+      "posted_at": 1793978326.475906
     }
   ]
 }
