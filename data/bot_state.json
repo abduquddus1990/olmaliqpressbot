@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86354,
-    "ao_agmk": 50054,
+    "olmaliqhayoti": 86359,
+    "ao_agmk": 50057,
     "olmaliqshaharpressa": 12925,
-    "olmaliq": 43854
+    "olmaliq": 43868
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3701,23 +3701,23 @@
     "olmaliq:43852": 1793978319.8971853,
     "olmaliq:43853": 1793978326.4681451,
     "olmaliqhayoti:86354": 1793998534.8991823,
-    "olmaliq:43854": 1793998542.3401873
+    "olmaliq:43854": 1793998542.3401873,
+    "olmaliqhayoti:86355": 1794032992.3256092,
+    "olmaliqhayoti:86356": 1794033010.2876537,
+    "olmaliqhayoti:86357": 1794033010.3000855,
+    "olmaliqhayoti:86358": 1794033010.3478963,
+    "olmaliqhayoti:86359": 1794033010.3598201,
+    "ao_agmk:50055": 1794033010.9769306,
+    "ao_agmk:50056": 1794033010.9890401,
+    "ao_agmk:50057": 1794033045.2913225,
+    "olmaliq:43855": 1794033083.5058424,
+    "olmaliq:43856": 1794033087.3862343,
+    "olmaliq:43857": 1794033115.5738318,
+    "olmaliq:43858": 1794033115.5865283,
+    "olmaliq:43859": 1794033127.7773633,
+    "olmaliq:43868": 1794033130.616807
   },
   "posted_articles": [
-    {
-      "title": "Inson hayotidagi eng og'ir yosh aniqlandi",
-      "summary": "Olimlarning aniqlashicha, inson o'zini eng baxtsiz va qoniqmagan his qiladigan davr 47 yoshga to'g'ri keladi, 50 yoshdan keyin esa baxt hissi qayta tiklana boshlaydi.",
-      "norm_title": "inson hayotidagi eng ogir yosh aniqlandi",
-      "topic_key": "orta-yosh-inqirozi-47-yosh",
-      "stems": [
-        "aniqlan",
-        "inson",
-        "eng",
-        "yosh",
-        "hayot"
-      ],
-      "posted_at": 1792437083.6649263
-    },
     {
       "title": "Amerika - O'zbekiston ishbilarmonlik kengashi yig'ilishi o'tdi",
       "summary": "Prezident Shavkat Mirziyoyev ishtirokidagiikkinchi yig'ilishda hujjatlarni almashish marosimi bo'lib o'tdi.",
@@ -6704,6 +6704,22 @@
         "noyabr"
       ],
       "posted_at": 1793998542.3490896
+    },
+    {
+      "title": "Chodak kon boshqarmasida “Zakovat” intellektual o‘yini o‘tkazildi",
+      "summary": "Kasaba uyushmalari kuni munosabati bilan o'tkazilgan “Zakovat” turnirida Oltin ajratib olish fabrikasi jamoasi 1-o‘rinni qo'lga kiritdi.",
+      "norm_title": "chodak kon boshqarmasida zakovat intellektual oyini otkazildi",
+      "topic_key": "chodak-kb-zakovat-oyinlari",
+      "stems": [
+        "kon",
+        "intellektual",
+        "chodak",
+        "zakovat",
+        "tkazil",
+        "boshqarma",
+        "yin"
+      ],
+      "posted_at": 1794033045.29841
     }
   ]
 }
