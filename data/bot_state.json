@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86360,
+    "olmaliqhayoti": 86363,
     "ao_agmk": 50063,
-    "olmaliqshaharpressa": 12927,
-    "olmaliq": 43870
+    "olmaliqshaharpressa": 12928,
+    "olmaliq": 43871
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3726,38 +3726,14 @@
     "olmaliqshaharpressa:12926": 1794058031.7134047,
     "olmaliqshaharpressa:12927": 1794058039.736393,
     "olmaliq:43869": 1794058047.0096126,
-    "olmaliq:43870": 1794058051.0867717
+    "olmaliq:43870": 1794058051.0867717,
+    "olmaliqhayoti:86361": 1794074952.553289,
+    "olmaliqhayoti:86362": 1794074961.1535456,
+    "olmaliqhayoti:86363": 1794074969.2360237,
+    "olmaliqshaharpressa:12928": 1794074974.9307323,
+    "olmaliq:43871": 1794074982.1661828
   },
   "posted_articles": [
-    {
-      "title": "Google Pay xizmati O'zbekistonda ishga tushdi",
-      "summary": "O'zbekistonda Google Pay to'lov xizmati rasman ishga tushdi. Fuqarolar Android va NFC yordamida telefon orqali kontaktsiz to'lov qilishlari mumkin, biroq buning uchun mahalliy banklar ham tizimni qo'llab-quvvatlashi kerak.",
-      "norm_title": "google pay xizmati ozbekistonda ishga tushdi",
-      "topic_key": "google-pay-uzbekistan",
-      "stems": [
-        "zbekiston",
-        "google",
-        "xizmat",
-        "tush",
-        "ish",
-        "pay"
-      ],
-      "posted_at": 1792495699.1211312
-    },
-    {
-      "title": "Olmaliq ta'lim bo'limi va gazetasi o'rtasida memorandum imzolandi",
-      "summary": "Olmaliq shahar Maktabgacha va maktab ta'limi bo'limi hamda \"Olmaliq hayoti\" gazetasi tahririyati o'zaro hamkorlik memorandumini imzoladi. Unga ko'ra, ta'limdagi yangiliklar, qo'shma media loyihalar va iqtidorli o'quvchilar ijodini keng yoritish ko'zda tutilgan.",
-      "norm_title": "olmaliq talim bolimi va gazetasi ortasida memorandum imzolandi",
-      "topic_key": "ta'lim-va-matbuot-hamkorligi",
-      "stems": [
-        "rta",
-        "imzolan",
-        "memorandum",
-        "lim",
-        "gazeta"
-      ],
-      "posted_at": 1792495719.667545
-    },
     {
       "title": "O'zbekistonda mikroelektronika bo'yicha mutaxassislar tayyorlanadi",
       "summary": "Kambag'allikni qisqartirish va bandlik vazirligi hamda Malayziyaning PSDC markazi hamkorligida mikroelektronika bo'yicha o'quv markazlari tashkil etiladi. Fuqarolar \"Kasb vaucheri\" tizimi orqali zamonaviy kasblarni egallash imkoniga ega bo'lishadi.",
@@ -6733,6 +6709,35 @@
         "bitiruvch"
       ],
       "posted_at": 1794058039.7440026
+    },
+    {
+      "title": "Olmaliqda motokross bo‘yicha O‘zbekiston Kubogi o‘tkaziladi",
+      "summary": "8-noyabr kuni Olmaliq shahrida motokross bo‘yicha O‘zbekiston Kubogi sport musobaqasi bo‘lib o‘tadi. Barcha motokross ishqibozlari ushbu tadbirga taklif etiladi.",
+      "norm_title": "olmaliqda motokross boyicha ozbekiston kubogi otkaziladi",
+      "topic_key": "olmaliq-motokross-musobaqasi",
+      "stems": [
+        "motokross",
+        "zbekiston",
+        "yicha",
+        "tkaz",
+        "kubog"
+      ],
+      "posted_at": 1794074961.1617587
+    },
+    {
+      "title": "Olmaliqda Xavfsiz va sogʻlom yurt profilaktik tadbiri oʻtkazildi",
+      "summary": "Olmaliq shahrida jamoat tartibini saqlash va jinoyatchilikning oldini olishga qaratilgan “Xavfsiz va sogʻlom yurt” tezkor-profilaktik tadbiri va xizmat oldi yoʻriqnomasi oʻtkazildi.",
+      "norm_title": "olmaliqda xavfsiz va sogʻlom yurt profilaktik tadbiri oʻtkazildi",
+      "topic_key": "xavfsiz-soglom-yurt-tadbiri",
+      "stems": [
+        "soglom",
+        "profilaktik",
+        "otkazil",
+        "xavfsiz",
+        "yurt",
+        "tadbir"
+      ],
+      "posted_at": 1794074974.9391654
     }
   ]
 }
