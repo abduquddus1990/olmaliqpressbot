@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86366,
-    "ao_agmk": 50068,
+    "olmaliqhayoti": 86368,
+    "ao_agmk": 50069,
     "olmaliqshaharpressa": 12928,
-    "olmaliq": 43873
+    "olmaliq": 43876
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3741,69 +3741,15 @@
     "ao_agmk:50067": 1794120799.9255383,
     "ao_agmk:50068": 1794120806.4725456,
     "olmaliq:43872": 1794120814.7095706,
-    "olmaliq:43873": 1794120820.7904763
+    "olmaliq:43873": 1794120820.7904763,
+    "olmaliqhayoti:86367": 1794146104.0816944,
+    "olmaliqhayoti:86368": 1794146115.4321027,
+    "ao_agmk:50069": 1794146116.465789,
+    "olmaliq:43874": 1794146123.1334863,
+    "olmaliq:43875": 1794146134.8141625,
+    "olmaliq:43876": 1794146145.2342227
   },
   "posted_articles": [
-    {
-      "title": "Tanish-bilish orqali ish bitirmoqchi bo'lgan firibgarlarga ishonmang",
-      "summary": "AGMK va boshqa tashkilotlarda pul evaziga ishga kiritish yoki masalalarni hal qilishni va'da qiluvchi shaxslarga aldanmang. Shubhali holatlar haqida huquqni muhofaza qiluvchi organlarga xabar bering.",
-      "norm_title": "tanishbilish orqali ish bitirmoqchi bolgan firibgarlarga ishonmang",
-      "topic_key": "korrupsiya-firibgarlik-ogohlantirish",
-      "stems": [
-        "bil",
-        "firibgar",
-        "ish",
-        "ishonmang",
-        "bitirmoqch",
-        "tan",
-        "lgan"
-      ],
-      "posted_at": 1792511200.006529
-    },
-    {
-      "title": "O‘zbekistonda daromad va xarajatlar deklaratsiyasi joriy etilmoqda",
-      "summary": "Navoiy va Chirchiq shaharlarida yillik daromad va xarajatlarni majburiy deklaratsiya qilish bo‘yicha sinov loyihasi boshlandi. Deklaratsiya har yili 1-aprelgacha topshirilishi shart.",
-      "norm_title": "ozbekistonda daromad va xarajatlar deklaratsiyasi joriy etilmoqda",
-      "topic_key": "daromad-xarajat-deklaratsiya",
-      "stems": [
-        "xarajat",
-        "etil",
-        "zbekiston",
-        "deklaratsiya",
-        "daromad",
-        "joriy"
-      ],
-      "posted_at": 1792511238.3483124
-    },
-    {
-      "title": "Olmaliq shahridagi ob-havo, namoz vaqtlari va valyuta kurslari",
-      "summary": "Olmaliqda bugun kunduzi havo harorati +21°C gacha isiydi, yog'ingarchilik kutilmaydi. AQSh dollari kursi 12044.72 so'mni tashkil etmoqda.",
-      "norm_title": "olmaliq shahridagi obhavo namoz vaqtlari va valyuta kurslari",
-      "topic_key": "olmaliq-ob-havo-valyuta",
-      "stems": [
-        "namoz",
-        "vaqt",
-        "shahr",
-        "havo",
-        "valyuta",
-        "kurs"
-      ],
-      "posted_at": 1792525089.811439
-    },
-    {
-      "title": "IT sohasida yangi ish o'rinlari va o'qitish rejalari",
-      "summary": "O'zbekistonda 2030 yilgacha IT sohasida 500 mingta ish o'rni yaratilib, 5,5 million yoshni zamonaviy kasblarga o'qitish rejalashtirildi.",
-      "norm_title": "it sohasida yangi ish orinlari va oqitish rejalari",
-      "topic_key": "it-sohasi-rivoji",
-      "stems": [
-        "soha",
-        "reja",
-        "qit",
-        "rin",
-        "ish"
-      ],
-      "posted_at": 1792560568.7889638
-    },
     {
       "title": "Ta'lim va ilm-fan vaziriga yangi o'rinbosarlar tayinlandi",
       "summary": "Ta'lim va ilm-fan vazirining birinchi o'rinbosari hamda o'rinbosarlari lavozimlariga yangi nomzodlar tasdiqlandi.",
@@ -6752,6 +6698,64 @@
         "maosh"
       ],
       "posted_at": 1794120820.7948642
+    },
+    {
+      "title": "Yong'in keltirib chiqarganlik uchun 1,32 mlrd so'mgacha tovon belgilandi",
+      "summary": "Yangi qonun bilan yong'in xavfsizligi qoidalarini buzib inson hayoti va sog'lig'iga zarar yetkazganlardan 1,32 mlrd so'mgacha qo'shimcha tovon undirish tartibi joriy etildi.",
+      "norm_title": "yongin keltirib chiqarganlik uchun 132 mlrd somgacha tovon belgilandi",
+      "topic_key": "yongin-xavfsizligi-tovon",
+      "stems": [
+        "chiqar",
+        "belgilan",
+        "mlrd",
+        "mgacha",
+        "yong",
+        "tovon",
+        "keltirib"
+      ],
+      "posted_at": 1794146104.086098
+    },
+    {
+      "title": "Buzilgan hisoblagichlarni ta'mirlash ta'minotchi korxonalar tomonidan qoplanadi",
+      "summary": "Hukumatning 698-sonli qaroriga ko'ra, kommunal hisoblagichlarni ta'mirlash va almashtirish xarajatlari ta'minotchi korxonalar hisobidan qoplanadi.",
+      "norm_title": "buzilgan hisoblagichlarni tamirlash taminotchi korxonalar tomonidan qoplanadi",
+      "topic_key": "hisoblagich-tamirlash-xarajatlari",
+      "stems": [
+        "minotch",
+        "hisoblagich",
+        "korxona",
+        "qoplan",
+        "mirlash",
+        "buz"
+      ],
+      "posted_at": 1794146123.1381187
+    },
+    {
+      "title": "Yuz terisini zararlaydigan 5 ta mahsulot",
+      "summary": "Janubiy koreyalik plastik jarroh Choy Hyon Nam yuzda shish va erta ajinlar paydo qiluvchi asosiy omillar sifatida alkogol, kolbasa-sosiska, qovurilgan taomlar, shirinliklar va sho'r mevalarni ko'rsatib o'tdi.",
+      "norm_title": "yuz terisini zararlaydigan 5 ta mahsulot",
+      "topic_key": "yuz-terisi-zararli-taomlar",
+      "stems": [
+        "yuz",
+        "zararla",
+        "mahsulot",
+        "ter"
+      ],
+      "posted_at": 1794146134.8195918
+    },
+    {
+      "title": "Erda kuchli magnet bo'roni kuzatiladi",
+      "summary": "8-noyabrdan dushanbagacha tezligi 700–800 km/s ga yetadigan quyosh shamollari sababli magnet bo'roni kutilmoqda. Bu holat bosh og'rig'i, holsizlik va qon bosimi o'zgarishiga olib kelishi mumkin.",
+      "norm_title": "erda kuchli magnet boroni kuzatiladi",
+      "topic_key": "magnet-boroni-ogohlantirish",
+      "stems": [
+        "kuzat",
+        "kuchl",
+        "ron",
+        "magnet",
+        "erda"
+      ],
+      "posted_at": 1794146145.2388065
     }
   ]
 }
