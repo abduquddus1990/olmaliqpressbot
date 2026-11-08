@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86363,
-    "ao_agmk": 50063,
+    "olmaliqhayoti": 86366,
+    "ao_agmk": 50068,
     "olmaliqshaharpressa": 12928,
-    "olmaliq": 43871
+    "olmaliq": 43873
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3731,65 +3731,19 @@
     "olmaliqhayoti:86362": 1794074961.1535456,
     "olmaliqhayoti:86363": 1794074969.2360237,
     "olmaliqshaharpressa:12928": 1794074974.9307323,
-    "olmaliq:43871": 1794074982.1661828
+    "olmaliq:43871": 1794074982.1661828,
+    "olmaliqhayoti:86364": 1794120748.3982992,
+    "olmaliqhayoti:86365": 1794120760.5736587,
+    "olmaliqhayoti:86366": 1794120768.198365,
+    "ao_agmk:50064": 1794120782.7706106,
+    "ao_agmk:50065": 1794120793.7726016,
+    "ao_agmk:50066": 1794120799.9159698,
+    "ao_agmk:50067": 1794120799.9255383,
+    "ao_agmk:50068": 1794120806.4725456,
+    "olmaliq:43872": 1794120814.7095706,
+    "olmaliq:43873": 1794120820.7904763
   },
   "posted_articles": [
-    {
-      "title": "O'zbekistonda mikroelektronika bo'yicha mutaxassislar tayyorlanadi",
-      "summary": "Kambag'allikni qisqartirish va bandlik vazirligi hamda Malayziyaning PSDC markazi hamkorligida mikroelektronika bo'yicha o'quv markazlari tashkil etiladi. Fuqarolar \"Kasb vaucheri\" tizimi orqali zamonaviy kasblarni egallash imkoniga ega bo'lishadi.",
-      "norm_title": "ozbekistonda mikroelektronika boyicha mutaxassislar tayyorlanadi",
-      "topic_key": "mikroelektronika-mutaxassislar-tayyorlash",
-      "stems": [
-        "zbekiston",
-        "mutaxassis",
-        "yicha",
-        "tayyorlan",
-        "mikroelektro"
-      ],
-      "posted_at": 1792495733.2118535
-    },
-    {
-      "title": "O'zbekiston kubogi: OKMK 'Guliston'ga qarshi maydonga tushadi",
-      "summary": "Bugun, 20-oktabr kuni soat 18:30 da 'OKMK SM' stadionida O'zbekiston kubogining 1/4 final uchrashuvi bo'lib o'tadi. Muxlislar uchun o'yinga kirish bepul.",
-      "norm_title": "ozbekiston kubogi okmk gulistonga qarshi maydonga tushadi",
-      "topic_key": "okmk-guliston-futbol",
-      "stems": [
-        "kubog",
-        "okmk",
-        "zbekiston",
-        "qarsh",
-        "maydon",
-        "guliston",
-        "tush"
-      ],
-      "posted_at": 1792495748.4923673
-    },
-    {
-      "title": "Olmaliq shahar rahbarlarining sayyor qabullar jadvali e'lon qilindi",
-      "summary": "Olmaliq shahar hokimi va uning o'rinbosarlari fuqarolarning murojaatlarini tinglash uchun 4-chorakda hududlarda rejali sayyor qabullar o'tkazadi.",
-      "norm_title": "olmaliq shahar rahbarlarining sayyor qabullar jadvali elon qilindi",
-      "topic_key": "olmaliq-hokim-sayyor-qabul",
-      "stems": [
-        "sayyor",
-        "qabul",
-        "jadval",
-        "rahbar",
-        "lon"
-      ],
-      "posted_at": 1792511138.90066
-    },
-    {
-      "title": "Is gazidan ehtiyot bo'ling",
-      "summary": "\"Hududgazta'minot\" is gazidan zaharlanishning oldini olish uchun morilarni muntazam tekshirish va gaz uskunalarini nazoratsiz qoldirmaslikni eslatmoqda.",
-      "norm_title": "is gazidan ehtiyot boling",
-      "topic_key": "is-gazi-xavfsizligi",
-      "stems": [
-        "ling",
-        "gaz",
-        "ehtiyot"
-      ],
-      "posted_at": 1792511155.9917345
-    },
     {
       "title": "Tanish-bilish orqali ish bitirmoqchi bo'lgan firibgarlarga ishonmang",
       "summary": "AGMK va boshqa tashkilotlarda pul evaziga ishga kiritish yoki masalalarni hal qilishni va'da qiluvchi shaxslarga aldanmang. Shubhali holatlar haqida huquqni muhofaza qiluvchi organlarga xabar bering.",
@@ -6738,6 +6692,66 @@
         "tadbir"
       ],
       "posted_at": 1794074974.9391654
+    },
+    {
+      "title": "Mahkumlar bilan uchrashuv va muloqotlar pulli bo'lishi mumkin",
+      "summary": "O'zbekistonda mahkumlarning uchrashuv xonalari, videamuloqot va telefon suhbatlari uchun Bazaviy hisoblash miqdoriga nisbatan yangi pullik tariflar joriy etilishi taklif qilinmoqda.",
+      "norm_title": "mahkumlar bilan uchrashuv va muloqotlar pulli bolishi mumkin",
+      "topic_key": "mahkumlar-muloqot-tarifi",
+      "stems": [
+        "muloqot",
+        "mahkum",
+        "mumkin",
+        "lish",
+        "pull",
+        "uchrashuv"
+      ],
+      "posted_at": 1794120768.2027566
+    },
+    {
+      "title": "Sog‘liqni saqlash sohasi xodimlariga tabrik yo‘llandi",
+      "summary": "O‘zbekiston sog‘liqni saqlash sohasi xodimlari kasb bayrami munosabati bilan samimiy qutlandi.",
+      "norm_title": "sogliqni saqlash sohasi xodimlariga tabrik yollandi",
+      "topic_key": "tibbiyot-xodimlari-tabrik",
+      "stems": [
+        "tabrik",
+        "soha",
+        "liq",
+        "xodim",
+        "llan",
+        "sog",
+        "saqlash"
+      ],
+      "posted_at": 1794120782.7750394
+    },
+    {
+      "title": "Superliga: OKMK «Neftchi»ga qarshi maydonga tushadi",
+      "summary": "Superliganing 27-turida OKMK jamoasi Farg'onada «Neftchi» mehmoni bo'ladi. Uchrashuv 8-noyabr kuni soat 16:00 da start oladi.",
+      "norm_title": "superliga okmk neftchiga qarshi maydonga tushadi",
+      "topic_key": "okmk-neftchi-o-yin",
+      "stems": [
+        "okmk",
+        "superl",
+        "maydon",
+        "qarsh",
+        "neftch",
+        "tush"
+      ],
+      "posted_at": 1794120806.4770808
+    },
+    {
+      "title": "Shifokorlarning maoshi va ijtimoiy himoyasi yaxshilanadi",
+      "summary": "Prezident Shavkat Mirziyoyev tibbiyot xodimlariga har yillik rag'bat puli, ipoteka hamda kontrakt to'lovlari uchun imtiyozlar va oylik ustamalar berilishini ma'lum qildi.",
+      "norm_title": "shifokorlarning maoshi va ijtimoiy himoyasi yaxshilanadi",
+      "topic_key": "shifokorlar-maoshi-oshirilishi",
+      "stems": [
+        "ijtimoiy",
+        "yaxshilan",
+        "shifokor",
+        "himoya",
+        "maosh"
+      ],
+      "posted_at": 1794120820.7948642
     }
   ]
 }
