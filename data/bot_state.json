@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86368,
+    "olmaliqhayoti": 86376,
     "ao_agmk": 50069,
-    "olmaliqshaharpressa": 12928,
-    "olmaliq": 43876
+    "olmaliqshaharpressa": 12929,
+    "olmaliq": 43877
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3747,38 +3747,14 @@
     "ao_agmk:50069": 1794146116.465789,
     "olmaliq:43874": 1794146123.1334863,
     "olmaliq:43875": 1794146134.8141625,
-    "olmaliq:43876": 1794146145.2342227
+    "olmaliq:43876": 1794146145.2342227,
+    "olmaliqhayoti:86374": 1794162972.3440118,
+    "olmaliqhayoti:86375": 1794162981.612642,
+    "olmaliqhayoti:86376": 1794162990.386691,
+    "olmaliqshaharpressa:12929": 1794162999.3651838,
+    "olmaliq:43877": 1794163005.0416036
   },
   "posted_articles": [
-    {
-      "title": "Ta'lim va ilm-fan vaziriga yangi o'rinbosarlar tayinlandi",
-      "summary": "Ta'lim va ilm-fan vazirining birinchi o'rinbosari hamda o'rinbosarlari lavozimlariga yangi nomzodlar tasdiqlandi.",
-      "norm_title": "talim va ilmfan vaziriga yangi orinbosarlar tayinlandi",
-      "topic_key": "talim-vaziri-orinbosarlari",
-      "stems": [
-        "tayinlan",
-        "rinbosar",
-        "ilm",
-        "fan",
-        "lim",
-        "vazir"
-      ],
-      "posted_at": 1792560605.1711826
-    },
-    {
-      "title": "Olmaliqda hokim va mas'ullar tadbirkorlar bilan uchrashdi",
-      "summary": "Olmaliq shahar hokimi Barhayot Meliyev boshchiligida 12 nafar tadbirkor bilan uchrashuv o'tkazilib, yer, joy va kredit masalalaridagi murojaatlar nazoratga olindi.",
-      "norm_title": "olmaliqda hokim va masullar tadbirkorlar bilan uchrashdi",
-      "topic_key": "olmaliq-tadbirkorlar-qabuli",
-      "stems": [
-        "uchrash",
-        "tadbirkor",
-        "mas",
-        "hokim",
-        "ullar"
-      ],
-      "posted_at": 1792578531.0345507
-    },
     {
       "title": "Olmaliqda «Buvijonlar maktabi» faoliyati o'rganildi",
       "summary": "Olmaliq shahridagi 3-sonli MTMda «Buvijonlar maktabi» faoliyati bilan tanishuv tadbiri bo'lib o'tdi. Unda yosh avlodni milliy qadriyatlar ruhida tarbiyalash masalalari muhokama qilindi.",
@@ -6756,6 +6732,34 @@
         "erda"
       ],
       "posted_at": 1794146145.2388065
+    },
+    {
+      "title": "Toshkentda yangi sun'iy ko'l va dam olish maskani barpo etilmoqda",
+      "summary": "Chilonzor tumanidagi Beshyog'och mahallasida 2,3 gektar maydonda sun'iy ko'l, 4,6 km piyoda va velosiped yo'laklari hamda favvoralardan iborat dam olish hududi qurilmoqda.",
+      "norm_title": "toshkentda yangi suniy kol va dam olish maskani barpo etilmoqda",
+      "topic_key": "toshkent-dam-olish-maskani",
+      "stems": [
+        "etil",
+        "mas",
+        "dam",
+        "olish",
+        "barpo",
+        "sun"
+      ],
+      "posted_at": 1794162981.6189427
+    },
+    {
+      "title": "Olmaliqda 9-noyabr uchun ob-havo va valyuta kurslari",
+      "summary": "9-noyabr kuni Olmaliq shahrida havo harorati kunduzi +21°C gacha isiydi, 1 AQSh dollari kursi 11 987,16 so'm hamda 1 rubl 146,29 so'mni tashkil etmoqda.",
+      "norm_title": "olmaliqda 9noyabr uchun obhavo va valyuta kurslari",
+      "topic_key": "ob-havo-valyuta-kurslari",
+      "stems": [
+        "havo",
+        "noyabr",
+        "valyuta",
+        "kurs"
+      ],
+      "posted_at": 1794162990.393969
     }
   ]
 }
