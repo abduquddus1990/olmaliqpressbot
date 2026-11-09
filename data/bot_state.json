@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86378,
-    "ao_agmk": 50069,
-    "olmaliqshaharpressa": 12929,
-    "olmaliq": 43877
+    "olmaliqhayoti": 86382,
+    "ao_agmk": 50081,
+    "olmaliqshaharpressa": 12930,
+    "olmaliq": 43890
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3754,81 +3754,23 @@
     "olmaliqshaharpressa:12929": 1794162999.3651838,
     "olmaliq:43877": 1794163005.0416036,
     "olmaliqhayoti:86377": 1794188961.4374442,
-    "olmaliqhayoti:86378": 1794188966.9807801
+    "olmaliqhayoti:86378": 1794188966.9807801,
+    "olmaliqhayoti:86379": 1794213785.7870915,
+    "olmaliqhayoti:86380": 1794213796.0210938,
+    "olmaliqhayoti:86381": 1794213804.0585277,
+    "olmaliqhayoti:86382": 1794213809.1788557,
+    "ao_agmk:50070": 1794213817.6406267,
+    "ao_agmk:50071": 1794213828.285293,
+    "ao_agmk:50075": 1794213838.0915518,
+    "ao_agmk:50081": 1794213849.832815,
+    "olmaliqshaharpressa:12930": 1794213854.0753586,
+    "olmaliq:43878": 1794213859.0716588,
+    "olmaliq:43879": 1794213862.8520901,
+    "olmaliq:43880": 1794213868.859859,
+    "olmaliq:43881": 1794213878.2992535,
+    "olmaliq:43890": 1794213881.0254173
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda «Buvijonlar maktabi» faoliyati o'rganildi",
-      "summary": "Olmaliq shahridagi 3-sonli MTMda «Buvijonlar maktabi» faoliyati bilan tanishuv tadbiri bo'lib o'tdi. Unda yosh avlodni milliy qadriyatlar ruhida tarbiyalash masalalari muhokama qilindi.",
-      "norm_title": "olmaliqda buvijonlar maktabi faoliyati organildi",
-      "topic_key": "buvijonlar-maktabi-olmaliq",
-      "stems": [
-        "rganil",
-        "buvijon",
-        "faoliyat",
-        "maktab"
-      ],
-      "posted_at": 1792578603.0058362
-    },
-    {
-      "title": "Lotin yozuviga asoslangan o'zbek alifbosini takomillashtirish to'g'risidagi qonun imzolandi",
-      "summary": "Prezident lotin yozuvidagi o'zbek alifbosini takomillashtirishga oid qonunni imzoladi. Hujjatlarga o'zgartirish kiritilmaydi, amaldagi hujjatlar o'z kuchida qoladi va bosqichma-bosqich yangilanadi.",
-      "norm_title": "lotin yozuviga asoslangan ozbek alifbosini takomillashtirish togrisidagi qonun imzolandi",
-      "topic_key": "ozbek-alifbosi-qonuni",
-      "stems": [
-        "imzolan",
-        "takomillash",
-        "alifbo",
-        "qonun",
-        "yozuv",
-        "zbek",
-        "ris",
-        "asoslan",
-        "lotin"
-      ],
-      "posted_at": 1792578671.5798635
-    },
-    {
-      "title": "Toshkentda maxsus yo'laklar qoidabuzarligi uchun jarimalar boshlandi",
-      "summary": "Toshkent shahridagi kameralar avtobus va velosiped yo'laklarida harakatlangan hamda to'xtagan haydovchilarga nisbatan 440 ming so'mdan boshlab jarimalar yozishni boshladi.",
-      "norm_title": "toshkentda maxsus yolaklar qoidabuzarligi uchun jarimalar boshlandi",
-      "topic_key": "maxsus-yolvak-jarima-toshkent",
-      "stems": [
-        "lak",
-        "qoidabuzar",
-        "maxsus",
-        "jarima"
-      ],
-      "posted_at": 1792578694.0964715
-    },
-    {
-      "title": "OKMKning xorijiy mutaxassislari o‘zbek tilida tabrik yo‘llashdi",
-      "summary": "OKMKning 3- va 4-Mis boyitish fabrikalari loyiha ofisida ishlayotgan xorijiy mutaxassislar o‘zbek tili munosabati bilan samimiy tabrik yo‘llashdi.",
-      "norm_title": "okmkning xorijiy mutaxassislari ozbek tilida tabrik yollashdi",
-      "topic_key": "okmk-xorijiy-mutaxassislar-tabrigi",
-      "stems": [
-        "til",
-        "xorijiy",
-        "mutaxassis",
-        "llash",
-        "tabrik",
-        "zbek",
-        "okmk"
-      ],
-      "posted_at": 1792596702.5405662
-    },
-    {
-      "title": "OKMKda Avtomobilchilar kuni nishonlanadi",
-      "summary": "Olmaliq shahridagi \"Oltin\" MFY hududida Avtomobilchilar kuniga bag'ishlangan bayram sayli bo'lib o'tadi.",
-      "norm_title": "okmkda avtomobilchilar kuni nishonlanadi",
-      "topic_key": "okmk-avtomobilchilar-kuni",
-      "stems": [
-        "okmk",
-        "nishonlan",
-        "avtomobilch"
-      ],
-      "posted_at": 1792596796.1896732
-    },
     {
       "title": "Olmaliqda yashayotgan rus millatiga mansub onaxon o'zbek tilini mukammal o'rgandi",
       "summary": "Rossiyada tug'ilib, 50 yildan buyon Olmaliqda yashayotgan 70 yoshli Faniza Shakirova o'zbek tili, urf-odatlari va qadriyatlariga chuqur hurmat ko'rsatib kelmoqda.",
@@ -6762,6 +6704,80 @@
         "kurs"
       ],
       "posted_at": 1794162990.393969
+    },
+    {
+      "title": "Prezident Yuqori Chirchiq tumaniga tashrif buyuradi",
+      "summary": "9-noyabr kuni Shavkat Mirziyoyev Yuqori Chirchiq tumanidagi \"NURA Electric\" zavodi faoliyati bilan tanishadi hamda elektrotexnika sohasi tadbirkorlari bilan muloqot o'tkazadi.",
+      "norm_title": "prezident yuqori chirchiq tumaniga tashrif buyuradi",
+      "topic_key": "prezident-tashrifi-yuqori-chirchiq",
+      "stems": [
+        "tashrif",
+        "buyur",
+        "prezident",
+        "yuqor",
+        "tuman",
+        "chirchiq"
+      ],
+      "posted_at": 1794213785.7948089
+    },
+    {
+      "title": "Maktablarda raqamlashtirilgan kuzatuv tizimi joriy etiladi",
+      "summary": "Maktablarda ta'lim sifati pastligi sababli o'quvchilar dars qoldirib repetitorlarga ketmoqda. Ushbu muammoni hal etish uchun Toshkentda dars jarayonini masofaviy nazorat qilish tizimi sinovdan o'tkazilmoqda.",
+      "norm_title": "maktablarda raqamlashtirilgan kuzatuv tizimi joriy etiladi",
+      "topic_key": "maktab-davomat-tizimi",
+      "stems": [
+        "raqamlash",
+        "maktab",
+        "kuzatuv",
+        "joriy",
+        "tizim"
+      ],
+      "posted_at": 1794213796.028997
+    },
+    {
+      "title": "Nurafshonda “Kelajak texnologiyalari markazi” tashkil etiladi",
+      "summary": "Tadqiqotchilar va sanoat korxonalarini oʻzaro bogʻlovchi “Yangi sanoat” milliy platformasi hamda “Kelajak texnologiyalari markazi” yoʻlga qoʻyiladi.",
+      "norm_title": "nurafshonda kelajak texnologiyalari markazi tashkil etiladi",
+      "topic_key": "nurafshon-kelajak-texnologiyalari",
+      "stems": [
+        "markaz",
+        "kelajak",
+        "tashkil",
+        "texnologiya",
+        "nurafshon"
+      ],
+      "posted_at": 1794213809.1867943
+    },
+    {
+      "title": "OKMK haftalik yangiliklar dayjesti e'lon qilindi",
+      "summary": "Hafta davomida OKMKda sanoat ishlab chiqarish hajmi 55 trillion so'mdan oshdi, 3-MBFda 10 million tonna ma'dan qayta ishlandi va \"Sariq-Cho'qqi\" koni yillik rejani muddatidan oldin bajardi.",
+      "norm_title": "okmk haftalik yangiliklar dayjesti elon qilindi",
+      "topic_key": "okmk-haftalik-dayjest",
+      "stems": [
+        "yang",
+        "dayjest",
+        "hafta",
+        "okmk",
+        "lon"
+      ],
+      "posted_at": 1794213817.6484547
+    },
+    {
+      "title": "OKMK gandbolchilari O‘zbekiston chempionatida sovrinli o‘rinlarni qo‘lga kiritdi",
+      "summary": "Toshkentda o‘tgan O‘zbekiston chempionatining 3-tur bahslarida OKMK erkaklar jamoasi 2-o‘rinni, ayollar jamoasi esa 3-o‘rinni band etdi.",
+      "norm_title": "okmk gandbolchilari ozbekiston chempionatida sovrinli orinlarni qolga kiritdi",
+      "topic_key": "okmk-gandbol-chempionat",
+      "stems": [
+        "chempionat",
+        "kirit",
+        "okmk",
+        "lga",
+        "zbekiston",
+        "sovrinl",
+        "rin",
+        "gandbolch"
+      ],
+      "posted_at": 1794213838.0994391
     }
   ]
 }
