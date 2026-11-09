@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86382,
-    "ao_agmk": 50081,
-    "olmaliqshaharpressa": 12930,
-    "olmaliq": 43890
+    "olmaliqhayoti": 86408,
+    "ao_agmk": 50106,
+    "olmaliqshaharpressa": 12932,
+    "olmaliq": 43895
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3768,121 +3768,29 @@
     "olmaliq:43879": 1794213862.8520901,
     "olmaliq:43880": 1794213868.859859,
     "olmaliq:43881": 1794213878.2992535,
-    "olmaliq:43890": 1794213881.0254173
+    "olmaliq:43890": 1794213881.0254173,
+    "olmaliqhayoti:86389": 1794251427.5685427,
+    "olmaliqhayoti:86396": 1794251455.5805373,
+    "olmaliqhayoti:86397": 1794251465.6378877,
+    "olmaliqhayoti:86399": 1794251465.6529477,
+    "olmaliqhayoti:86400": 1794251528.8514514,
+    "olmaliqhayoti:86408": 1794251535.8542488,
+    "ao_agmk:50087": 1794251584.1861978,
+    "ao_agmk:50088": 1794251591.801651,
+    "ao_agmk:50092": 1794251603.2002869,
+    "ao_agmk:50094": 1794251608.8329957,
+    "ao_agmk:50098": 1794251611.4855988,
+    "ao_agmk:50099": 1794251620.785732,
+    "ao_agmk:50106": 1794251622.9798155,
+    "olmaliqshaharpressa:12931": 1794251629.0511942,
+    "olmaliqshaharpressa:12932": 1794251632.0093384,
+    "olmaliq:43891": 1794251637.9160414,
+    "olmaliq:43892": 1794251641.0765178,
+    "olmaliq:43893": 1794251647.189304,
+    "olmaliq:43894": 1794251665.977984,
+    "olmaliq:43895": 1794251668.198512
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda yashayotgan rus millatiga mansub onaxon o'zbek tilini mukammal o'rgandi",
-      "summary": "Rossiyada tug'ilib, 50 yildan buyon Olmaliqda yashayotgan 70 yoshli Faniza Shakirova o'zbek tili, urf-odatlari va qadriyatlariga chuqur hurmat ko'rsatib kelmoqda.",
-      "norm_title": "olmaliqda yashayotgan rus millatiga mansub onaxon ozbek tilini mukammal organdi",
-      "topic_key": "faniza-shakirova-ozbek-tili",
-      "stems": [
-        "mansub",
-        "millat",
-        "yash",
-        "zbek",
-        "rus",
-        "til",
-        "onaxon",
-        "rgan",
-        "mukammal"
-      ],
-      "posted_at": 1792611052.236919
-    },
-    {
-      "title": "Jamiyatda davlat tiliga bo'lgan hurmat va jamoatchilik nazorati oshmoqda",
-      "summary": "Davlat tilini rivojlantirish departamenti rahbari Nodir Jonuzoqov so'nggi yillarda aholining davlat tiliga bo'lgan e'tibori hamda huquqiy madaniyati sezilarli darajada oshganini ta'kidladi.",
-      "norm_title": "jamiyatda davlat tiliga bolgan hurmat va jamoatchilik nazorati oshmoqda",
-      "topic_key": "davlat-tili-jamoatchilik",
-      "stems": [
-        "jamoatch",
-        "jamiyat",
-        "nazorat",
-        "davlat",
-        "hurmat",
-        "til",
-        "lgan",
-        "osh"
-      ],
-      "posted_at": 1792665051.6164813
-    },
-    {
-      "title": "AGMK O'quv markazi og'ir kon texnikasi haydovchiligi bo'yicha kurslarga qabul e'lon qildi",
-      "summary": "Olmaliq KMK buldozer mashinisti va BelAZ haydovchisi yo'nalishlarida o'quv kurslariga hujjatlar qabul qilmoqda. Nomzodlar rezyumelarini 26-30-oktyabr kunlari elektron pochta orqali yuborishlari lozim.",
-      "norm_title": "agmk oquv markazi ogir kon texnikasi haydovchiligi boyicha kurslarga qabul elon qildi",
-      "topic_key": "agmk-oquv-kurslari",
-      "stems": [
-        "markaz",
-        "kurs",
-        "haydovch",
-        "qil",
-        "lon",
-        "kon",
-        "tex",
-        "quv",
-        "agmk",
-        "yicha",
-        "qabul"
-      ],
-      "posted_at": 1792665074.516702
-    },
-    {
-      "title": "Buxoroda yirik narkolaboratoriya fosh etildi",
-      "summary": "DXX va Bojxona qo'mitasi Buxoroda sintetik narkotik tayyorlash bilan shug'ullangan 2 nafar shaxsni ushladi, ulardan 10,8 kg dan ortiq 'spays' moddasi musodara qilindi.",
-      "norm_title": "buxoroda yirik narkolaboratoriya fosh etildi",
-      "topic_key": "buxoro-narkolaboratoriya-ushlandi",
-      "stems": [
-        "fosh",
-        "yirik",
-        "buxoro",
-        "narkolaboratoriya"
-      ],
-      "posted_at": 1792665103.4209619
-    },
-    {
-      "title": "Olmaliq shahar hokimi yoshlarni ishga joylashtirishda shaxsan ishtirok etdi",
-      "summary": "Olmaliq shahar hokimi Barhayot Meliyev yoshlar bilan birgalikda korxonalarga borib, ularning ishga joylashish jarayonida boshidan oxirigacha bevosita qatnashdi va bo'sh ish o'rinlariga joylashtirdi.",
-      "norm_title": "olmaliq shahar hokimi yoshlarni ishga joylashtirishda shaxsan ishtirok etdi",
-      "topic_key": "hokim-yoshlar-bandligi",
-      "stems": [
-        "shaxsan",
-        "etd",
-        "yosh",
-        "ish",
-        "ishtirok",
-        "joylash",
-        "hokim"
-      ],
-      "posted_at": 1792665111.9166703
-    },
-    {
-      "title": "O'zbekistonda nikohlar soni yil sayin kamaymoqda",
-      "summary": "Aholi soni o'sayotganiga qaramay, O'zbekistonda rasmiy nikohlar soni so'nggi yillarda qariyb 38 mingtaga kamayib, 2025-yilda 267,1 mingtani tashkil etdi.",
-      "norm_title": "ozbekistonda nikohlar soni yil sayin kamaymoqda",
-      "topic_key": "nikoh-statistikasi-kamayish",
-      "stems": [
-        "son",
-        "sayin",
-        "zbekiston",
-        "kamay",
-        "nikoh"
-      ],
-      "posted_at": 1792665138.3844044
-    },
-    {
-      "title": "Olmaliqda yangi xususiy bog'cha faoliyat boshladi",
-      "summary": "Olmaliq shahrida 21 yoshli tadbirkor tashabbusi bilan 70 o'ringa mo'ljallangan 'Aqlli bolajonlar saltanati' xususiy bog'chasi ochildi. Muassasa ingliz va rus tillarini chuqurlashtirilgan holda o'rgatishga ixtisoslashgan.",
-      "norm_title": "olmaliqda yangi xususiy bogcha faoliyat boshladi",
-      "topic_key": "olmaliq-xususiy-bogcha-ochilishi",
-      "stems": [
-        "cha",
-        "bog",
-        "xususiy",
-        "boshl",
-        "faoliyat"
-      ],
-      "posted_at": 1792683112.725465
-    },
     {
       "title": "Erkinjon Turdimov ta'lim va o'qituvchilar masalasida bayonot berdi",
       "summary": "Erkinjon Turdimov ota-onalarni o'qituvchilarni ayblashdan oldin farzandlari ta'limi bilan shug'ullanishga hamda soha rivojiga birgalikda hissa qo'shishga chaqirdi.",
@@ -6778,6 +6686,97 @@
         "gandbolch"
       ],
       "posted_at": 1794213838.0994391
+    },
+    {
+      "title": "Kiberxavfsizlik va shaxsiy ma'lumotlar muhofazasi bo'yicha tavsiyalar e'lon qilindi",
+      "summary": "Kibermadaniyatni yuksaltirish oyligi doirasida raqamli makonda xavfsizlikni ta'minlash hamda kiberjinoyatlarning oldini olish bo'yicha muhim qonunchilik normalari va tavsiyalar taqdim etildi.",
+      "norm_title": "kiberxavfsizlik va shaxsiy malumotlar muhofazasi boyicha tavsiyalar elon qilindi",
+      "topic_key": "kiberxavfsizlik-oyligi-tavsiyalar",
+      "stems": [
+        "lon",
+        "shaxsiy",
+        "tavsiya",
+        "lumot",
+        "yicha",
+        "kiberxavfsiz",
+        "muhofaza"
+      ],
+      "posted_at": 1794251427.5760858
+    },
+    {
+      "title": "Toshkent viloyati va Olmaliqda isitish mavsumi boshlandi",
+      "summary": "9-noyabrdan Olmaliq shahridagi ko'p qavatli uylar va ijtimoiy obyektlarga bosqichma-bosqich issiqlik berish boshlandi. Muammolar yuzasidan 1347 va 1055 raqamlariga murojaat qilish mumkin.",
+      "norm_title": "toshkent viloyati va olmaliqda isitish mavsumi boshlandi",
+      "topic_key": "isitish-mavsumi-boshlandi",
+      "stems": [
+        "isit",
+        "mavsum"
+      ],
+      "posted_at": 1794251455.5881753
+    },
+    {
+      "title": "AGMKda yangi loyihalar ijrosi muhokama qilindi",
+      "summary": "Loyiha ofisida o‘tkazilgan yig‘ilishda 3-mis boyitish fabrikasini to‘liq quvvatga chiqarish va 4-mis boyitish fabrikasi qurilishini jadallashtirish masalalari ko‘rib chiqildi.",
+      "norm_title": "agmkda yangi loyihalar ijrosi muhokama qilindi",
+      "topic_key": "agmk-mbp3-mbp4-qurilish",
+      "stems": [
+        "ijro",
+        "agmk",
+        "loyiha"
+      ],
+      "posted_at": 1794251591.809379
+    },
+    {
+      "title": "AGMK Texnologik transport boshqarmasiga sinovlar boshlandi",
+      "summary": "AGMKning Texnologik transport boshqarmasidagi bo'sh ish o'rinlari uchun nomzodlar o'rtasida ochiq va shaffof sinov jarayonlari o'tkazilmoqda.",
+      "norm_title": "agmk texnologik transport boshqarmasiga sinovlar boshlandi",
+      "topic_key": "agmk-transport-ishga-qabul",
+      "stems": [
+        "agmk",
+        "transport",
+        "sinov",
+        "texnologik",
+        "boshqarma"
+      ],
+      "posted_at": 1794251603.2081072
+    },
+    {
+      "title": "Olmaliqda tungi reydlar davomida huquqbuzarliklar aniqlandi",
+      "summary": "Olmaliq shahrida o'tkazilgan tungi reydlar davomida ota-ona nazoratisiz yurgan voyaga yetmaganlar aniqlanib, shuningdek, giyohvandlik vositasiga o'xshash modda musodara qilindi.",
+      "norm_title": "olmaliqda tungi reydlar davomida huquqbuzarliklar aniqlandi",
+      "topic_key": "olmaliq-tungi-reyd-iib",
+      "stems": [
+        "aniqlan",
+        "tung",
+        "reyd",
+        "huquqbuzar"
+      ],
+      "posted_at": 1794251632.0171175
+    },
+    {
+      "title": "Nukus city barpo etiladi",
+      "summary": "Prezident qaroriga asosan, Nukus shahrida 50 ming aholiga mo'ljallangan 270 gektarlik zamonaviy 'Nukus city' shaharchasi quriladi.",
+      "norm_title": "nukus city barpo etiladi",
+      "topic_key": "nukus-city-qurilishi",
+      "stems": [
+        "nukus",
+        "city",
+        "barpo"
+      ],
+      "posted_at": 1794251641.0841858
+    },
+    {
+      "title": "Ertadan 2-chorak darslari boshlanadi",
+      "summary": "Ertadan barcha umumta'lim maktablarida 2-o'qish choragining ilk kuni boshlanadi.",
+      "norm_title": "ertadan 2chorak darslari boshlanadi",
+      "topic_key": "maktab-2-chorak-boshlanishi",
+      "stems": [
+        "boshlan",
+        "dars",
+        "erta",
+        "chorak"
+      ],
+      "posted_at": 1794251647.19708
     }
   ]
 }
