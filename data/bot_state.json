@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86409,
-    "ao_agmk": 50106,
-    "olmaliqshaharpressa": 12932,
-    "olmaliq": 43895
+    "olmaliqhayoti": 86433,
+    "ao_agmk": 50112,
+    "olmaliqshaharpressa": 12933,
+    "olmaliq": 43899
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3789,115 +3789,27 @@
     "olmaliq:43893": 1794251647.189304,
     "olmaliq:43894": 1794251665.977984,
     "olmaliq:43895": 1794251668.198512,
-    "olmaliqhayoti:86409": 1794276190.023267
+    "olmaliqhayoti:86409": 1794276190.023267,
+    "olmaliqhayoti:86410": 1794303541.7236526,
+    "olmaliqhayoti:86420": 1794303577.732216,
+    "olmaliqhayoti:86429": 1794303580.7548692,
+    "olmaliqhayoti:86430": 1794303580.769573,
+    "olmaliqhayoti:86431": 1794303613.586575,
+    "olmaliqhayoti:86432": 1794303650.2901018,
+    "olmaliqhayoti:86433": 1794303696.263766,
+    "ao_agmk:50107": 1794303730.2495914,
+    "ao_agmk:50108": 1794303748.549754,
+    "ao_agmk:50109": 1794303785.200818,
+    "ao_agmk:50110": 1794303809.3278947,
+    "ao_agmk:50111": 1794303826.9811935,
+    "ao_agmk:50112": 1794303845.3839145,
+    "olmaliqshaharpressa:12933": 1794303854.7015142,
+    "olmaliq:43896": 1794303865.980081,
+    "olmaliq:43897": 1794303865.9957764,
+    "olmaliq:43898": 1794303887.5837097,
+    "olmaliq:43899": 1794303911.0547326
   },
   "posted_articles": [
-    {
-      "title": "Erkinjon Turdimov ta'lim va o'qituvchilar masalasida bayonot berdi",
-      "summary": "Erkinjon Turdimov ota-onalarni o'qituvchilarni ayblashdan oldin farzandlari ta'limi bilan shug'ullanishga hamda soha rivojiga birgalikda hissa qo'shishga chaqirdi.",
-      "norm_title": "erkinjon turdimov talim va oqituvchilar masalasida bayonot berdi",
-      "topic_key": "turdimov-talim-bayonoti",
-      "stems": [
-        "erkinjon",
-        "ber",
-        "bayonot",
-        "turdimov",
-        "masala",
-        "lim",
-        "qituvch"
-      ],
-      "posted_at": 1792683155.8870566
-    },
-    {
-      "title": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni zo'rlaganlikda gumonlanmoqda",
-      "summary": "Toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni qo'rqitib, u bilan bir necha bor jinsiy aloqada bo'lgani ma'lum bo'ldi. Hozircha inspektorga nisbatan jinoyat ishi qo'zg'atilgani haqida rasmiy ma'lumot mavjud emas.",
-      "norm_title": "toshkent viloyatida profilaktika inspektori voyaga yetmagan qizni zorlaganlikda gumonlanmoqda",
-      "topic_key": "profilaktika-inspektori-jinoyati",
-      "stems": [
-        "rla",
-        "voya",
-        "profilakt",
-        "yetma",
-        "inspektor",
-        "gumonlan",
-        "qiz"
-      ],
-      "posted_at": 1792683199.6590877
-    },
-    {
-      "title": "OKMK TV telekanalida profilaktika ishlari o'tkaziladi",
-      "summary": "2026-yil 23-oktyabr kuni soat 8:00 dan 18:00 gacha “OKMK TV” telekanali efirga uzatilishi vaqtincha to'xtatiladi.",
-      "norm_title": "okmk tv telekanalida profilaktika ishlari otkaziladi",
-      "topic_key": "okmk-tv-profilaktika",
-      "stems": [
-        "okmk",
-        "telekanal",
-        "ish",
-        "tkaz",
-        "profilakt"
-      ],
-      "posted_at": 1792683217.7994308
-    },
-    {
-      "title": "Metrodagi tirbandliklar",
-      "summary": "Toshkent metropolitenida tirbandliklar yuzaga kelmoqda.",
-      "norm_title": "metrodagi tirbandliklar",
-      "topic_key": "metro-tirbandlik-transport",
-      "stems": [
-        "metro",
-        "tirband"
-      ],
-      "posted_at": 1792683308.7309074
-    },
-    {
-      "title": "Kam ta'minlangan oilalarga beriladigan nafaqa va yordam puli miqdorlari",
-      "summary": "Kam ta'minlangan oilalarga bolalar soniga qarab 118 mingdan 386 ming so'mgacha nafaqa va 450 ming so'm moddiy yordam to'lanadi. Arizalarni my.gov.uz portali orqali yuborish mumkin.",
-      "norm_title": "kam taminlangan oilalarga beriladigan nafaqa va yordam puli miqdorlari",
-      "topic_key": "kam-taminlangan-nafaqa",
-      "stems": [
-        "ber",
-        "minlan",
-        "kam",
-        "pul",
-        "nafa",
-        "oila",
-        "yordam",
-        "miqdor"
-      ],
-      "posted_at": 1792683317.3922906
-    },
-    {
-      "title": "Farzandiga beparvo ota-onalarga 13,2 million so'mgacha jarima belgilanadi",
-      "summary": "O'zbekistonda bolaning ehtiyojlarini qasddan qondirmagan yoki uni qarovsiz qoldirgan ota-onalarga nisbatan 13,2 million so'mgacha jarima jazosi joriy etildi.",
-      "norm_title": "farzandiga beparvo otaonalarga 132 million somgacha jarima belgilanadi",
-      "topic_key": "ota-ona-ma'suliyati-jarima",
-      "stems": [
-        "million",
-        "beparvo",
-        "ota",
-        "jarima",
-        "belgilan",
-        "farzand",
-        "ona",
-        "mgacha"
-      ],
-      "posted_at": 1792697035.734227
-    },
-    {
-      "title": "O‘zbekiston paxta rejasini 103 foizga bajardi",
-      "summary": "22-oktabr holatiga ko‘ra mamlakatimizda 4,63 million tonna paxta yig‘ib olindi. Hosilning 76 foizi texnika yordamida terilgan bo‘lib, terim ishlari hali davom etmoqda.",
-      "norm_title": "ozbekiston paxta rejasini 103 foizga bajardi",
-      "topic_key": "paxta-yigim-terimi",
-      "stems": [
-        "103",
-        "reja",
-        "bajar",
-        "foiz",
-        "zbekiston",
-        "paxta"
-      ],
-      "posted_at": 1792716739.9325504
-    },
     {
       "title": "AGMK Kasaba uyushmasi 9 oylik faoliyatini sarhisob qildi",
       "summary": "Olmaliq kon-metallurgiya kombinati xodimlari kasaba uyushmasi Kengashining 9 oylik faoliyati sarhisob qilinib, kelgusidagi ustuvor vazifalar belgilandi.",
@@ -6778,6 +6690,115 @@
         "chorak"
       ],
       "posted_at": 1794251647.19708
+    },
+    {
+      "title": "Olmaliqda 160 nafar nuroniy uchun e'zoz tadbiri o'tkazildi",
+      "summary": "Olmaliq shahridagi \"Yakkasaroy\" majmuasida shahar hokimligi tomonidan 160 nafar keksalar uchun madaniylar-ma'rifiy tadbir va dasturxon tashkil etildi.",
+      "norm_title": "olmaliqda 160 nafar nuroniy uchun ezoz tadbiri otkazildi",
+      "topic_key": "nuroniylar-tadbiri-olmaliq",
+      "stems": [
+        "tadbir",
+        "160",
+        "zoz",
+        "tkazil",
+        "nafar",
+        "nuroniy"
+      ],
+      "posted_at": 1794303541.7331657
+    },
+    {
+      "title": "Olmaliqda Bolalar komissiyasining navbatdagi yig'ilishi bo'lib o'tdi",
+      "summary": "Yig'ilishda 50 ga yaqin murojaat ko'rib chiqilib, mas'uliyatsiz ota-onalarga chora ko'rish hamda 2 ta maktab rahbariyatiga xizmat tekshiruvi tayinlash bo'yicha qarorlar qabul qilindi.",
+      "norm_title": "olmaliqda bolalar komissiyasining navbatdagi yigilishi bolib otdi",
+      "topic_key": "bolalar-komissiyasi-yigilishi",
+      "stems": [
+        "bola",
+        "ilish",
+        "lib",
+        "komissiya",
+        "yig",
+        "tdi",
+        "navbat"
+      ],
+      "posted_at": 1794303577.74015
+    },
+    {
+      "title": "Uy sotib oluvchilarning pullari endi eskrow hisobvaraqlarida saqlanadi",
+      "summary": "Deputatlar ko'chmas mulkni ulamli qurish to'g'risidagi qonunni qabul qildi. Unga ko'ra, fuqarolar mablag'lari to'g'ridan-to'g'ri quruvchiga berilmay, obyekts to'liq bitguncha bankdagi eskrow hisobvaraqlarida saqlanadi.",
+      "norm_title": "uy sotib oluvchilarning pullari endi eskrow hisobvaraqlarida saqlanadi",
+      "topic_key": "uy-joy-eskrow-hisobvaraq",
+      "stems": [
+        "eskrow",
+        "end",
+        "oluvch",
+        "pul",
+        "hisobvaraq",
+        "sotib",
+        "saqlan"
+      ],
+      "posted_at": 1794303696.2712767
+    },
+    {
+      "title": "OKMK va Migratsiya agentligi hamkorlik kelishuvini imzoladi",
+      "summary": "Xavfsiz va qonuniy mehnat migratsiyasini rivojlantirish hamda fuqarolarning xalqaro mehnat bozoridagi raqobatbardoshligini oshirish maqsadida OKMK va Migratsiya agentligi o‘rtasida hamkorlik bitimi tuzildi.",
+      "norm_title": "okmk va migratsiya agentligi hamkorlik kelishuvini imzoladi",
+      "topic_key": "okmk-migratsiya-agentligi-hamkorlik",
+      "stems": [
+        "migratsiya",
+        "agent",
+        "imzol",
+        "okmk",
+        "hamkor",
+        "kelishuv"
+      ],
+      "posted_at": 1794303748.5581284
+    },
+    {
+      "title": "AGMKda korrupsiyaga qarshi kurash mavzusida yoshlar tanlovi boshlandi",
+      "summary": "Xalqaro korrupsiyaga qarshi kurashish kuniga bag'ishlab kombi­nat yoshlari o'rtasida maqola, rasm, she'r va videoroliklar tanlovi o'tkazilmoqda. Ijodiy ishlar 25-noyabrgacha qabul qilinadi.",
+      "norm_title": "agmkda korrupsiyaga qarshi kurash mavzusida yoshlar tanlovi boshlandi",
+      "topic_key": "agmk-korrupsiyaga-qarshi-tanlov",
+      "stems": [
+        "kurash",
+        "qarsh",
+        "agmk",
+        "mavzu",
+        "korrupsiya",
+        "tanlov",
+        "yosh"
+      ],
+      "posted_at": 1794303785.2092767
+    },
+    {
+      "title": "OKMKda Kasaba uyushmalari kuni munosabati bilan bayram tadbiri bo'lib o'tdi",
+      "summary": "O'zbekiston Kasaba uyushmalari kuni munosabati bilan Olmaliq kon-metallurgiya kombinatida tantanali bayram tadbiri o'tkazildi.",
+      "norm_title": "okmkda kasaba uyushmalari kuni munosabati bilan bayram tadbiri bolib otdi",
+      "topic_key": "okmk-kasaba-uyushmalari-kuni",
+      "stems": [
+        "uyushma",
+        "tadbir",
+        "lib",
+        "kasaba",
+        "okmk",
+        "tdi",
+        "bayram",
+        "munosabat"
+      ],
+      "posted_at": 1794303809.3354626
+    },
+    {
+      "title": "AGMK mehnat jamoasi bilan uchrashuv o‘tkazildi",
+      "summary": "“Axborot 24” telekanalida AGMK mehnat jamoasi bilan bo‘lib o‘tgan uchrashuv yoritildi.",
+      "norm_title": "agmk mehnat jamoasi bilan uchrashuv otkazildi",
+      "topic_key": "agmk-mehnat-jamoasi-uchrashuv",
+      "stems": [
+        "jamoa",
+        "mehnat",
+        "agmk",
+        "tkazil",
+        "uchrashuv"
+      ],
+      "posted_at": 1794303826.9888582
     }
   ]
 }
