@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86433,
-    "ao_agmk": 50112,
-    "olmaliqshaharpressa": 12933,
-    "olmaliq": 43899
+    "olmaliqhayoti": 86442,
+    "ao_agmk": 50119,
+    "olmaliqshaharpressa": 12958,
+    "olmaliq": 43909
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3807,67 +3807,29 @@
     "olmaliq:43896": 1794303865.980081,
     "olmaliq:43897": 1794303865.9957764,
     "olmaliq:43898": 1794303887.5837097,
-    "olmaliq:43899": 1794303911.0547326
+    "olmaliq:43899": 1794303911.0547326,
+    "olmaliqhayoti:86434": 1794330982.035387,
+    "olmaliqhayoti:86435": 1794330991.6715932,
+    "olmaliqhayoti:86436": 1794331022.8568592,
+    "olmaliqhayoti:86437": 1794331022.8725774,
+    "olmaliqhayoti:86438": 1794331032.4758244,
+    "olmaliqhayoti:86439": 1794331051.9112096,
+    "olmaliqhayoti:86440": 1794331051.926114,
+    "olmaliqhayoti:86441": 1794331051.9414577,
+    "olmaliqhayoti:86442": 1794331065.2394676,
+    "ao_agmk:50116": 1794331078.683306,
+    "ao_agmk:50119": 1794331097.196469,
+    "olmaliqshaharpressa:12950": 1794331106.9060729,
+    "olmaliqshaharpressa:12958": 1794331106.9207716,
+    "olmaliq:43900": 1794331110.4680836,
+    "olmaliq:43901": 1794331144.1232445,
+    "olmaliq:43905": 1794331151.1662745,
+    "olmaliq:43906": 1794331154.1888127,
+    "olmaliq:43907": 1794331157.367368,
+    "olmaliq:43908": 1794331161.054928,
+    "olmaliq:43909": 1794331161.070141
   },
   "posted_articles": [
-    {
-      "title": "AGMK Kasaba uyushmasi 9 oylik faoliyatini sarhisob qildi",
-      "summary": "Olmaliq kon-metallurgiya kombinati xodimlari kasaba uyushmasi Kengashining 9 oylik faoliyati sarhisob qilinib, kelgusidagi ustuvor vazifalar belgilandi.",
-      "norm_title": "agmk kasaba uyushmasi 9 oylik faoliyatini sarhisob qildi",
-      "topic_key": "agmk-kasaba-uyushmasi-hisobot",
-      "stems": [
-        "agmk",
-        "faoliyat",
-        "oylik",
-        "qil",
-        "kasaba",
-        "sarhisob",
-        "uyushma"
-      ],
-      "posted_at": 1792733334.4864347
-    },
-    {
-      "title": "Piskentda Olmaliq – Sirdaryo yo'li vaqtincha yopiladi",
-      "summary": "25-oktabr kuni soat 12:00 dan 14:00 gacha Olmaliq – Sirdaryo yo'lining Piskent tumanidan o'tuvchi 25-kilometri temir yo'l ko'prigi qurilishi sababli harakat uchun yopiladi.",
-      "norm_title": "piskentda olmaliq  sirdaryo yoli vaqtincha yopiladi",
-      "topic_key": "olmaliq-sirdaryo-yoli-yopilishi",
-      "stems": [
-        "vaqtincha",
-        "piskent",
-        "sirdaryo",
-        "yop"
-      ],
-      "posted_at": 1792751055.1413555
-    },
-    {
-      "title": "\"Jadidlar izidan\" tanlovining Olmaliq shahar bosqichi boshlandi",
-      "summary": "Olmaliq shahrida yoshlar o'rtasida jadid bobolarimizning boy ma'naviy merosini o'rganishga qaratilgan \"Jadidlar izidan\" respublika tanlovining shahar bosqichiga start berildi.",
-      "norm_title": "jadidlar izidan tanlovining olmaliq shahar bosqichi boshlandi",
-      "topic_key": "jadidlar-izidan-tanlovi",
-      "stems": [
-        "tanlov",
-        "bosqich",
-        "izi",
-        "jadid"
-      ],
-      "posted_at": 1792751072.3170166
-    },
-    {
-      "title": "Olmaliq KMK UIMF 2026 forumining strategik hamkoriga aylandi",
-      "summary": "Olmaliq KMK AJ 2026-yil 27–28-oktabr kunlari Toshkentda bo‘lib o‘tadigan 8-xalqaro kon-metallurgiya forumiga strategik hamkorlik qiladi.",
-      "norm_title": "olmaliq kmk uimf 2026 forumining strategik hamkoriga aylandi",
-      "topic_key": "agmk-uimf-2026-hamkorlik",
-      "stems": [
-        "kmk",
-        "strategik",
-        "aylan",
-        "uimf",
-        "2026",
-        "hamkor",
-        "forum"
-      ],
-      "posted_at": 1792751085.6100256
-    },
     {
       "title": "Avtomobil transporti xodimlari kuni munosabati bilan osh tanlovi o'tkazildi",
       "summary": "Avtomobil transporti boshqarmasida soha xodimlari kuni munosabati bilan osh ko'rik-tanlovi tashkil etilib, g'oliblarga esdalik sovg'alari topshirildi.",
@@ -6799,6 +6761,68 @@
         "uchrashuv"
       ],
       "posted_at": 1794303826.9888582
+    },
+    {
+      "title": "Olmaliqlik o'quvchi xalqaro olimpiadada oltin medal oldi",
+      "summary": "Abu Rayhon Beruniy nomidagi Xalqaro kimyo olimpiadasida Olmaliqdagi \"Buxoro maktabi\"ning 10-sinf o'quvchisi Fozilbek Risqulov oltin medalni qo'lga kiritdi.",
+      "norm_title": "olmaliqlik oquvchi xalqaro olimpiadada oltin medal oldi",
+      "topic_key": "fozilbek-risqulov-kimyo-olimpiadasi",
+      "stems": [
+        "old",
+        "xalqaro",
+        "medal",
+        "quvch",
+        "olimpia",
+        "oltin"
+      ],
+      "posted_at": 1794330982.0428555
+    },
+    {
+      "title": "Olmaliqda yoshlar mikroloyihalari moliyalashtirilmoqda",
+      "summary": "Olmaliq shahrida yoshlarning tadbirkorlik tashabbuslarini qo‘llab-quvvatlash va bandligini ta'minlash maqsadida mikroloyihalarni moliyalashtirish ishlari boshlandi.",
+      "norm_title": "olmaliqda yoshlar mikroloyihalari moliyalashtirilmoqda",
+      "topic_key": "yoshlar-mikroloyihalari-moliyalashtirish",
+      "stems": [
+        "moliyalash",
+        "yosh",
+        "mikroloyiha"
+      ],
+      "posted_at": 1794331065.2470434
+    },
+    {
+      "title": "Markaziy Osiyoda ayollar va bolalarni iqlim o'zgarishidan himoya qilish kuchaytiriladi",
+      "summary": "BMTning Antaliyadagi anjumanida GGGI va UNFPA tashkilotlari mintaqa tibbiyotini iqlim o'zgarishiga moslashtirish bo'yicha memorandumni imzoladi. O'zbekistonda onalik salomatligini himoya qilish va Orolbo'yi ayollarini qo'llab-quvvatlash bo'yicha yangi modellar yaratiladi.",
+      "norm_title": "markaziy osiyoda ayollar va bolalarni iqlim ozgarishidan himoya qilish kuchaytiriladi",
+      "topic_key": "iqlim-ozgarishi-tibbiyot-memorandumi",
+      "stems": [
+        "osiyo",
+        "zgar",
+        "bola",
+        "ayol",
+        "markaziy",
+        "iqlim",
+        "kuchay",
+        "himoya"
+      ],
+      "posted_at": 1794331144.130842
+    },
+    {
+      "title": "Qo'qonda voyaga yetmagan qizga nisbatan zo'ravonlik gumonlanuvchisi qamoqqa olindi",
+      "summary": "Ijtimoiy tarmoqlarda tarqalgan 13 yoshli qizga nisbatan jinsiy zo'ravonlik holati yuzasidan jinoyat ishi qo'zg'atilib, gumonlanuvchi qamoqqa olindi.",
+      "norm_title": "qoqonda voyaga yetmagan qizga nisbatan zoravonlik gumonlanuvchisi qamoqqa olindi",
+      "topic_key": "qoqon-zoravonlik-qamoq",
+      "stems": [
+        "voya",
+        "qiz",
+        "yetma",
+        "qon",
+        "gumonlanuvch",
+        "olin",
+        "nisbatan",
+        "qamoq",
+        "ravon"
+      ],
+      "posted_at": 1794331151.1739154
     }
   ]
 }
