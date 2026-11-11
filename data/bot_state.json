@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86451,
-    "ao_agmk": 50119,
-    "olmaliqshaharpressa": 12958,
-    "olmaliq": 43909
+    "olmaliqhayoti": 86459,
+    "ao_agmk": 50138,
+    "olmaliqshaharpressa": 12959,
+    "olmaliq": 43923
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3829,50 +3829,24 @@
     "olmaliq:43908": 1794331161.054928,
     "olmaliq:43909": 1794331161.070141,
     "olmaliqhayoti:86450": 1794349456.2116156,
-    "olmaliqhayoti:86451": 1794362481.1318283
+    "olmaliqhayoti:86451": 1794362481.1318283,
+    "olmaliqhayoti:86456": 1794388357.6229146,
+    "olmaliqhayoti:86457": 1794388366.9842603,
+    "olmaliqhayoti:86458": 1794388370.0073457,
+    "olmaliqhayoti:86459": 1794388376.658089,
+    "ao_agmk:50123": 1794388384.4785984,
+    "ao_agmk:50126": 1794388398.5499487,
+    "ao_agmk:50134": 1794388407.37429,
+    "ao_agmk:50138": 1794388416.527366,
+    "olmaliqshaharpressa:12959": 1794388431.30494,
+    "olmaliq:43910": 1794388437.147018,
+    "olmaliq:43911": 1794388444.607081,
+    "olmaliq:43912": 1794388456.0776737,
+    "olmaliq:43921": 1794388466.235746,
+    "olmaliq:43922": 1794388470.1296492,
+    "olmaliq:43923": 1794388477.420949
   },
   "posted_articles": [
-    {
-      "title": "Prezident Todd Boelini qabul qildi",
-      "summary": "Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev “Eldridge Industries” kompaniyasi raisi Todd Boelini qabul qilib, o'zaro hamkorlik masalalarini muhokama qildi.",
-      "norm_title": "prezident todd boelini qabul qildi",
-      "topic_key": "mirziyoyev-todd-boeli",
-      "stems": [
-        "qil",
-        "boel",
-        "todd",
-        "prezident",
-        "qabul"
-      ],
-      "posted_at": 1792751112.192519
-    },
-    {
-      "title": "Olmaliqdagi maktabda til bayrami nishonlandi",
-      "summary": "Olmaliq shahridagi 14-maktabda o'zbek tiliga davlat tili maqomi berilganining 37 yilligiga bag'ishlangan ma'naviy-ma'rifiy tadbir o'tkazildi.",
-      "norm_title": "olmaliqdagi maktabda til bayrami nishonlandi",
-      "topic_key": "til-bayrami-maktab",
-      "stems": [
-        "til",
-        "bayram",
-        "nishonlan",
-        "maktab"
-      ],
-      "posted_at": 1792768522.397363
-    },
-    {
-      "title": "Olmaliq shahar Kengashining navbatdagi sessiyasi bo'lib o'tdi",
-      "summary": "Xalq deputatlari Olmaliq shahar Kengashining 55-sessiyasida murojaatlar, huquqbuzarliklarning oldini olish va mahalliy budjet masalalari muhokama qilinib, tegishli qarorlar qabul qilindi.",
-      "norm_title": "olmaliq shahar kengashining navbatdagi sessiyasi bolib otdi",
-      "topic_key": "olmaliq-shahar-kengash-sessiyasi",
-      "stems": [
-        "lib",
-        "tdi",
-        "navbat",
-        "sessiya",
-        "kengash"
-      ],
-      "posted_at": 1792768544.8754883
-    },
     {
       "title": "Xorijlik sayyoh o'zbekistonlik taksi haydovchilarini tanqid qildi",
       "summary": "Chet ellik turist O'zbekistondagi taksi haydovchilarining haydash uslubini keskin tanqid qilib, ularni o'ta tajovuzkor harakatlanishda aybladi.",
@@ -6825,6 +6799,50 @@
         "turkiya"
       ],
       "posted_at": 1794362481.13778
+    },
+    {
+      "title": "O'zbek kinosi va jamiyatda erkak roli tahlil qilindi",
+      "summary": "Ijtimoiy tarmoqlarda tarqalgan video ortidan jurnalist Maftuna Karimova milliy kino va jamiyatdagi er-xotin munosabatlari hamda oilaviy mas'uliyatlar masalasini tahlil qildi.",
+      "norm_title": "ozbek kinosi va jamiyatda erkak roli tahlil qilindi",
+      "topic_key": "jamiyatda-erkak-roli",
+      "stems": [
+        "jamiyat",
+        "tahlil",
+        "rol",
+        "kino",
+        "erkak",
+        "zbek"
+      ],
+      "posted_at": 1794388366.9923425
+    },
+    {
+      "title": "Mis boyitish fabrikasida Kasaba uyushmalari kuni nishonlandi",
+      "summary": "Mis boyitish fabrikasida 11-noyabr — Kasaba uyushmalari kuni munosabati bilan intellektual tanlov o'tkazilib, faollar taqdirlandi.",
+      "norm_title": "mis boyitish fabrikasida kasaba uyushmalari kuni nishonlandi",
+      "topic_key": "kasaba-uyushmalari-kuni-mbf",
+      "stems": [
+        "nishonlan",
+        "mis",
+        "boyit",
+        "fabr",
+        "uyushma",
+        "kasaba"
+      ],
+      "posted_at": 1794388416.5358694
+    },
+    {
+      "title": "Olmaliq ko'chalarida kavlab qo'yilgan chuqurliklar qachon ta'mirlanadi?",
+      "summary": "Shahardagi o'yib, tayyorlab qo'yilgan yo'l chuqurliklari oylardan beri asfaltlanmay qolmoqda. Aholi mas'ullardan berilgan va'dalar amalda bajarilishini so'ramoqda.",
+      "norm_title": "olmaliq kochalarida kavlab qoyilgan chuqurliklar qachon tamirlanadi",
+      "topic_key": "yol-tamiri-muammosi",
+      "stems": [
+        "chuqur",
+        "cha",
+        "mirlan",
+        "qachon",
+        "kavlab"
+      ],
+      "posted_at": 1794388466.244395
     }
   ]
 }
