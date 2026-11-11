@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86450,
+    "olmaliqhayoti": 86451,
     "ao_agmk": 50119,
     "olmaliqshaharpressa": 12958,
     "olmaliq": 43909
@@ -3828,25 +3828,10 @@
     "olmaliq:43907": 1794331157.367368,
     "olmaliq:43908": 1794331161.054928,
     "olmaliq:43909": 1794331161.070141,
-    "olmaliqhayoti:86450": 1794349456.2116156
+    "olmaliqhayoti:86450": 1794349456.2116156,
+    "olmaliqhayoti:86451": 1794362481.1318283
   },
   "posted_articles": [
-    {
-      "title": "Avtomobil transporti xodimlari kuni munosabati bilan osh tanlovi o'tkazildi",
-      "summary": "Avtomobil transporti boshqarmasida soha xodimlari kuni munosabati bilan osh ko'rik-tanlovi tashkil etilib, g'oliblarga esdalik sovg'alari topshirildi.",
-      "norm_title": "avtomobil transporti xodimlari kuni munosabati bilan osh tanlovi otkazildi",
-      "topic_key": "avtomobil-transporti-osh-tanlovi",
-      "stems": [
-        "avtomobil",
-        "xodim",
-        "transport",
-        "munosabat",
-        "osh",
-        "tanlov",
-        "tkazil"
-      ],
-      "posted_at": 1792751101.938915
-    },
     {
       "title": "Prezident Todd Boelini qabul qildi",
       "summary": "Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev “Eldridge Industries” kompaniyasi raisi Todd Boelini qabul qilib, o'zaro hamkorlik masalalarini muhokama qildi.",
@@ -6824,6 +6809,22 @@
         "ravon"
       ],
       "posted_at": 1794331151.1739154
+    },
+    {
+      "title": "O'zbekiston va Turkiya turizm sohasida 3 yillik hamkorlik rejasini imzoladi",
+      "summary": "O'zbekiston va Turkiya mas'ullari Istanbulda 2026–2028-yillarga mo'ljallangan Qo'shma harakatlar rejasini imzoladi. Hujjat doirasida o'zaro sayyohlar oqimini ko'paytirish va yangi qo'shma turpaketlar yaratish ko'zda tutilgan.",
+      "norm_title": "ozbekiston va turkiya turizm sohasida 3 yillik hamkorlik rejasini imzoladi",
+      "topic_key": "uzbekiston-turkiya-turizm",
+      "stems": [
+        "soha",
+        "hamkor",
+        "imzol",
+        "zbekiston",
+        "reja",
+        "turizm",
+        "turkiya"
+      ],
+      "posted_at": 1794362481.13778
     }
   ]
 }
