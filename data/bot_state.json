@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86459,
-    "ao_agmk": 50138,
-    "olmaliqshaharpressa": 12959,
-    "olmaliq": 43923
+    "olmaliqhayoti": 86465,
+    "ao_agmk": 50157,
+    "olmaliqshaharpressa": 12967,
+    "olmaliq": 43928
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3844,95 +3844,27 @@
     "olmaliq:43912": 1794388456.0776737,
     "olmaliq:43921": 1794388466.235746,
     "olmaliq:43922": 1794388470.1296492,
-    "olmaliq:43923": 1794388477.420949
+    "olmaliq:43923": 1794388477.420949,
+    "olmaliqhayoti:86461": 1794416861.21072,
+    "olmaliqhayoti:86462": 1794416869.4008324,
+    "olmaliqhayoti:86463": 1794416869.4160619,
+    "olmaliqhayoti:86464": 1794416873.493694,
+    "olmaliqhayoti:86465": 1794416874.7625902,
+    "ao_agmk:50145": 1794416880.3548985,
+    "ao_agmk:50146": 1794416889.0858037,
+    "ao_agmk:50151": 1794416899.4942129,
+    "ao_agmk:50152": 1794416905.0832028,
+    "ao_agmk:50156": 1794416909.2436733,
+    "ao_agmk:50157": 1794416919.6273582,
+    "olmaliqshaharpressa:12966": 1794416923.1407528,
+    "olmaliqshaharpressa:12967": 1794416932.4737694,
+    "olmaliq:43924": 1794416939.266493,
+    "olmaliq:43925": 1794416944.0396702,
+    "olmaliq:43926": 1794416944.0557601,
+    "olmaliq:43927": 1794416949.0057135,
+    "olmaliq:43928": 1794416958.9608338
   },
   "posted_articles": [
-    {
-      "title": "Xorijlik sayyoh o'zbekistonlik taksi haydovchilarini tanqid qildi",
-      "summary": "Chet ellik turist O'zbekistondagi taksi haydovchilarining haydash uslubini keskin tanqid qilib, ularni o'ta tajovuzkor harakatlanishda aybladi.",
-      "norm_title": "xorijlik sayyoh ozbekistonlik taksi haydovchilarini tanqid qildi",
-      "topic_key": "taksi-haydovchilari-tanqid",
-      "stems": [
-        "tanqid",
-        "tak",
-        "qil",
-        "sayyoh",
-        "xorij",
-        "zbekiston",
-        "haydovch"
-      ],
-      "posted_at": 1792818336.7728553
-    },
-    {
-      "title": "O'zbekiston Respublikasi Bojxona qo'mitasiga 33 yil to'ldi",
-      "summary": "1991-yil 24-oktyabrda O'zbekiston Respublikasi Bojxona qo'mitasi tashkil etilgan bo'lib, bugun ushbu idora o'zining professional bayramini nishonlamoqda.",
-      "norm_title": "ozbekiston respublikasi bojxona qomitasiga 33 yil toldi",
-      "topic_key": "bojxona-qomitasi-tashkil-topgan-kun",
-      "stems": [
-        "mita",
-        "ldi",
-        "bojxona",
-        "respubl",
-        "zbekiston"
-      ],
-      "posted_at": 1792818353.0684946
-    },
-    {
-      "title": "Parkentda zamonaviy Qo'shchinor-ma'rifat markazi foydalanishga topshirildi",
-      "summary": "Parkent tumanida ochilgan yangi markaz 60 mingdan ziyod kitob fondi, turli to'garak xonalari va yoshlar uchun barcha zamonaviy sharoitlarga ega.",
-      "norm_title": "parkentda zamonaviy qoshchinormarifat markazi foydalanishga topshirildi",
-      "topic_key": "parkent-marifat-markazi",
-      "stems": [
-        "topshiril",
-        "foydalan",
-        "zamonaviy",
-        "shchinor",
-        "markaz",
-        "parkent",
-        "rifat"
-      ],
-      "posted_at": 1792834040.0829697
-    },
-    {
-      "title": "Olmaliqlik ayol yongʻindan ikki bolani qutqardi",
-      "summary": "Olmaliqda qoʻshnisining xonadonidagi yongʻindan ikki bolaning hayotini saqlab qolgan ayolga shahar hokimi va mutasaddilar tashrif buyurib, esdalik sovgʻalarini topshirdilar.",
-      "norm_title": "olmaliqlik ayol yongʻindan ikki bolani qutqardi",
-      "topic_key": "olmaliq-jasoratli-ayol-yongin",
-      "stems": [
-        "qutqar",
-        "yongin",
-        "bola",
-        "ikk",
-        "ayol"
-      ],
-      "posted_at": 1792848534.2172124
-    },
-    {
-      "title": "25-oktabr uchun ob-havo va valyuta kurslari",
-      "summary": "Olmaliqda 25-oktabr kuni havo harorati kunduzi +17°C, kechasi +5°C bo'ladi. AQSh dollari kursi 11 838,92 so'm, rubl esa 147,05 so'm etib belgilandi.",
-      "norm_title": "25oktabr uchun obhavo va valyuta kurslari",
-      "topic_key": "ob-havo-valyuta-kurslari",
-      "stems": [
-        "oktabr",
-        "valyuta",
-        "havo",
-        "kurs"
-      ],
-      "posted_at": 1792860537.5913055
-    },
-    {
-      "title": "Olmaliq shahri uchun 25-oktabr kunlik namoz vaqtlari",
-      "summary": "Olmaliq shahri bo'yicha 25-oktabr kunidagi namoz vaqtlari e'lon qilindi: Bomdod — 05:28, Peshin — 12:07, Asr — 15:45, Shom — 17:27, Xufton — 18:43.",
-      "norm_title": "olmaliq shahri uchun 25oktabr kunlik namoz vaqtlari",
-      "topic_key": "namoz-vaqti-25-oktabr",
-      "stems": [
-        "shahr",
-        "oktabr",
-        "vaqt",
-        "namoz"
-      ],
-      "posted_at": 1792860549.1978002
-    },
     {
       "title": "Olmaliqlik yosh futbolchi O'zbekiston chempioni bo'ldi",
       "summary": "Namanganda o'tkazilgan O'zbekiston chempionatida Olmaliq sport maktabi o'quvchisi Abdulloh Mirzoyev Toshkent viloyati jamoasi safida g'oliblikni qo'lga kiritdi. Shuningdek, joriy yilda maktabning 5 nafar o'quvchisi AGMK futbol akademiyasiga qabul qilingan.",
@@ -6843,6 +6775,97 @@
         "kavlab"
       ],
       "posted_at": 1794388466.244395
+    },
+    {
+      "title": "O‘zbekistonda tug‘ilish kamaydi, ajrimlar esa ko‘paydi",
+      "summary": "Yilning 9 oyida O‘zbekistonda 638,6 ming chaqaloq tug‘ilib, 36,8 mingta ajrim qayd etildi. 1-oktabr holatiga mamlakat aholisi 39,5 million kishidan oshgan.",
+      "norm_title": "ozbekistonda tugilish kamaydi ajrimlar esa kopaydi",
+      "topic_key": "demografik-statistika",
+      "stems": [
+        "ajrim",
+        "pay",
+        "zbekiston",
+        "ilish",
+        "tug",
+        "kama"
+      ],
+      "posted_at": 1794416861.2184725
+    },
+    {
+      "title": "Olmaliqmetallurgqurilish trestida Uch avlod uchrashuvi bo'lib o'tdi",
+      "summary": "Trestda o'tkazilgan uchrashuvda 10 oylik faoliyat sarhisob qilinib, yoshlarga uy-joy sotib olish uchun 550 million so'm boshlang'ich badal to'lab berilgani ta'kidlandi.",
+      "norm_title": "olmaliqmetallurgqurilish trestida uch avlod uchrashuvi bolib otdi",
+      "topic_key": "uch-avlod-uchrashuvi",
+      "stems": [
+        "uch",
+        "olmaliqmetallurgquril",
+        "avlod",
+        "trest",
+        "tdi",
+        "uchrashuv",
+        "lib"
+      ],
+      "posted_at": 1794416889.0937002
+    },
+    {
+      "title": "OKMK Respublika tanlovida Eng faol ish beruvchi tashkilot deb topildi",
+      "summary": "Milliy malaka tizimi ishtirokchilari Respublika tanlovida Olmaliq kon-metallurgiya kombinati \"Eng faol ish beruvchi tashkilot\" nominatsiyasi g‘olibi bo‘ldi. G‘oliblarni taqdirlash marosimi 26-noyabr kuni Toshkent shahrida o‘tkaziladi.",
+      "norm_title": "okmk respublika tanlovida eng faol ish beruvchi tashkilot deb topildi",
+      "topic_key": "okmk-respublika-tanlovi-golib",
+      "stems": [
+        "ish",
+        "okmk",
+        "eng",
+        "faol",
+        "beruvch",
+        "deb",
+        "topil",
+        "tanlov",
+        "tashkilot"
+      ],
+      "posted_at": 1794416909.2515304
+    },
+    {
+      "title": "Olmaliq shahar hokimligining shaxsiy qabullar jadvali",
+      "summary": "Olmaliq shahar hokimi va uning o'rinbosarlari fuqarolarni qabul qilishadi. Murojaat va takliflar uchun belgilangan jadval bilan tanishib chiqish mumkin.",
+      "norm_title": "olmaliq shahar hokimligining shaxsiy qabullar jadvali",
+      "topic_key": "hokimlik-shaxsiy-qabul",
+      "stems": [
+        "hokimlig",
+        "jadval",
+        "qabul",
+        "shaxsiy"
+      ],
+      "posted_at": 1794416923.1488788
+    },
+    {
+      "title": "Olmaliq shahrida 12-noyabr kunidagi namoz vaqtlari",
+      "summary": "12-noyabr payshanba kuni Olmaliq shahrida Bomdod 05:42, Peshin 12:07, Asr 15:25, Shom 17:11 va Hufton vaqti 18:25 deb belgilandi.",
+      "norm_title": "olmaliq shahrida 12noyabr kunidagi namoz vaqtlari",
+      "topic_key": "olmaliq-namoz-vaqtlari",
+      "stems": [
+        "kun",
+        "noyabr",
+        "namoz",
+        "vaqt"
+      ],
+      "posted_at": 1794416949.0137305
+    },
+    {
+      "title": "DSK gaz quyish shoxobchasida navbatlar yuzaga keldi",
+      "summary": "Sovuq ob-havo tufayli Olmaliqdagi DSK gaz quyish shoxobchasida avtomobillarning uzun navbati hosil bo'ldi.",
+      "norm_title": "dsk gaz quyish shoxobchasida navbatlar yuzaga keldi",
+      "topic_key": "dsk-gaz-navbat",
+      "stems": [
+        "yuza",
+        "quy",
+        "shoxobcha",
+        "dsk",
+        "kel",
+        "navbat",
+        "gaz"
+      ],
+      "posted_at": 1794416958.9686973
     }
   ]
 }
