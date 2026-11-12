@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86466,
-    "ao_agmk": 50157,
+    "olmaliqhayoti": 86467,
+    "ao_agmk": 50173,
     "olmaliqshaharpressa": 12976,
-    "olmaliq": 43928
+    "olmaliq": 43929
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3864,39 +3864,15 @@
     "olmaliq:43927": 1794416949.0057135,
     "olmaliq:43928": 1794416958.9608338,
     "olmaliqhayoti:86466": 1794439584.594518,
-    "olmaliqshaharpressa:12976": 1794439590.4124393
+    "olmaliqshaharpressa:12976": 1794439590.4124393,
+    "olmaliqhayoti:86467": 1794455970.8818579,
+    "ao_agmk:50161": 1794455982.8497066,
+    "ao_agmk:50171": 1794455990.537327,
+    "ao_agmk:50172": 1794455995.6313257,
+    "ao_agmk:50173": 1794455995.6431599,
+    "olmaliq:43929": 1794456001.9011161
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqlik yosh futbolchi O'zbekiston chempioni bo'ldi",
-      "summary": "Namanganda o'tkazilgan O'zbekiston chempionatida Olmaliq sport maktabi o'quvchisi Abdulloh Mirzoyev Toshkent viloyati jamoasi safida g'oliblikni qo'lga kiritdi. Shuningdek, joriy yilda maktabning 5 nafar o'quvchisi AGMK futbol akademiyasiga qabul qilingan.",
-      "norm_title": "olmaliqlik yosh futbolchi ozbekiston chempioni boldi",
-      "topic_key": "olmaliq-futbol-chempion",
-      "stems": [
-        "zbekiston",
-        "futbolch",
-        "ldi",
-        "chempio",
-        "yosh"
-      ],
-      "posted_at": 1792910731.0999675
-    },
-    {
-      "title": "Favqulodda vaziyatlar xodimlari nomidan pul so'raganlarga aldanmang",
-      "summary": "Namangan FVV boshlig'i uyma-uy yurib xizmat ko'rsatmasdan pul talab qilayotgan shaxslarga aldanmaslikni so'radi. Hech kimning xizmat ko'rsatmasdan pul olishga haqqi yo'q.",
-      "norm_title": "favqulodda vaziyatlar xodimlari nomidan pul soraganlarga aldanmang",
-      "topic_key": "fvv-pul-talab-qilish",
-      "stems": [
-        "pul",
-        "vaziyat",
-        "xodim",
-        "nom",
-        "favqulod",
-        "ragan",
-        "aldanmang"
-      ],
-      "posted_at": 1792910810.3739743
-    },
     {
       "title": "Superliga: OKMK va Qo‘qon 1912 uchrashuvi bo‘lib o‘tadi",
       "summary": "25-oktyabr kuni soat 16:00 da Olmaliqdagi OKMK sport majmuasida OKMK hamda Qo‘qon 1912 jamoalari o‘rtasida o‘yin o‘tkaziladi. Chipta narxi 15 000 so‘m.",
@@ -6868,6 +6844,35 @@
         "gaz"
       ],
       "posted_at": 1794416958.9686973
+    },
+    {
+      "title": "Shavkat Mirziyoyev COP31 sammitida nutq soʻzladi",
+      "summary": "Oʻzbekiston Prezidenti Shavkat Mirziyoyev BMTning Iqlim oʻzgarishi boʻyicha Hadli konvensiyasi 31-sessiyasi doirasidagi Jahon yetakchilari sammitida nutq soʻzladi.",
+      "norm_title": "shavkat mirziyoyev cop31 sammitida nutq soʻzladi",
+      "topic_key": "mirziyoyev-cop31-nutq",
+      "stems": [
+        "sozl",
+        "nutq",
+        "mirziyoyev",
+        "cop31",
+        "shavkat",
+        "sammit"
+      ],
+      "posted_at": 1794455982.8560014
+    },
+    {
+      "title": "Markaziy bank yangi valyuta kurslarini belgiladi",
+      "summary": "Markaziy bank 12-noyabrdan e'tiboran xorijiy valyutalarning o'zbek so'miga nisbatan yangi qiymatini belgiladi.",
+      "norm_title": "markaziy bank yangi valyuta kurslarini belgiladi",
+      "topic_key": "valyuta-kurslari-yangilandi",
+      "stems": [
+        "kurs",
+        "bank",
+        "markaziy",
+        "belg",
+        "valyuta"
+      ],
+      "posted_at": 1794456001.907392
     }
   ]
 }
