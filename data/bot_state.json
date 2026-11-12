@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86481,
-    "ao_agmk": 50196,
-    "olmaliqshaharpressa": 12977,
-    "olmaliq": 43942
+    "olmaliqhayoti": 86485,
+    "ao_agmk": 50200,
+    "olmaliqshaharpressa": 12978,
+    "olmaliq": 43943
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3888,38 +3888,16 @@
     "olmaliq:43939": 1794486542.6495,
     "olmaliq:43940": 1794486550.5958333,
     "olmaliq:43941": 1794486560.5295293,
-    "olmaliq:43942": 1794486568.0507202
+    "olmaliq:43942": 1794486568.0507202,
+    "olmaliqhayoti:86482": 1794514234.661589,
+    "olmaliqhayoti:86483": 1794514237.680078,
+    "olmaliqhayoti:86484": 1794514258.6464117,
+    "olmaliqhayoti:86485": 1794514266.6516323,
+    "ao_agmk:50200": 1794514271.3669674,
+    "olmaliqshaharpressa:12978": 1794514280.789724,
+    "olmaliq:43943": 1794514287.8979347
   },
   "posted_articles": [
-    {
-      "title": "AQSH investorlari OKMK salohiyatini yuqori baholadi",
-      "summary": "Prezident Shavkat Mirziyoyev va OKMK raisi Abdulla Xursanov AQSHning \"Eldridge Industries\" kompaniyasi rahbari Todd Boeli bilan tog'-kon sanoati va metallurgiya sohasidagi hamkorlikni kengaytirishni muhokama qildi.",
-      "norm_title": "aqsh investorlari okmk salohiyatini yuqori baholadi",
-      "topic_key": "okmk-aqsh-hamkorlik",
-      "stems": [
-        "yuqor",
-        "investor",
-        "okmk",
-        "salohiyat",
-        "bahol",
-        "aqsh"
-      ],
-      "posted_at": 1793021156.354677
-    },
-    {
-      "title": "Shavkat Mirziyoyev Qatar Amiri bilan uchrashdi",
-      "summary": "Prezident Shavkat Mirziyoyev va Qatar Amiri Shayx Tamim bin Hamad Ol Soniy o'rtasida rasmiy uchrashuv bo'lib o'tdi.",
-      "norm_title": "shavkat mirziyoyev qatar amiri bilan uchrashdi",
-      "topic_key": "prezident-qatar-amiri-uchrashuvi",
-      "stems": [
-        "uchrash",
-        "mirziyoyev",
-        "qatar",
-        "shavkat",
-        "amir"
-      ],
-      "posted_at": 1793021169.428416
-    },
     {
       "title": "O'zbekistonda ilk islomiy bank litsenziyasi berildi",
       "summary": "Markaziy bank Boshqaruvi qarori bilan \"Open bank\" aksiyadorlik jamiyatiga mamlakatimizda islomiy bank faoliyatini amalga oshirish uchun birinchi litsenziya berildi.",
@@ -6890,6 +6868,33 @@
         "humo"
       ],
       "posted_at": 1794486568.0586603
+    },
+    {
+      "title": "Olmaliq shahar sudiga yangi rais tayinlandi",
+      "summary": "Shomurodov Azamat Samatovich Toshkent viloyati jinoyat ishlari bo'yicha Olmaliq shahar sudi raisi etib tayinlandi.",
+      "norm_title": "olmaliq shahar sudiga yangi rais tayinlandi",
+      "topic_key": "olmaliq-shahar-sudi-rais",
+      "stems": [
+        "tayinlan",
+        "sud",
+        "rais"
+      ],
+      "posted_at": 1794514234.668349
+    },
+    {
+      "title": "Olmaliqlik yoshlar Davlat xizmatlari markazi faoliyati bilan tanishdilar",
+      "summary": "Olmaliq shahar IIB tashabbusi bilan bir guruh yoshlar Davlat xizmatlari markazida bo'lib, My.gov.uz portali, OneID tizimi hamda kiberxavfsizlik bo'yicha amaliy ko'nikmalarga ega bo'lishdi.",
+      "norm_title": "olmaliqlik yoshlar davlat xizmatlari markazi faoliyati bilan tanishdilar",
+      "topic_key": "yoshlar-davlat-xizmatlari",
+      "stems": [
+        "xizmat",
+        "faoliyat",
+        "davlat",
+        "yosh",
+        "markaz",
+        "tan"
+      ],
+      "posted_at": 1794514280.795703
     }
   ]
 }
