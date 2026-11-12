@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86467,
-    "ao_agmk": 50173,
-    "olmaliqshaharpressa": 12976,
-    "olmaliq": 43929
+    "olmaliqhayoti": 86481,
+    "ao_agmk": 50196,
+    "olmaliqshaharpressa": 12977,
+    "olmaliq": 43942
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3870,144 +3870,27 @@
     "ao_agmk:50171": 1794455990.537327,
     "ao_agmk:50172": 1794455995.6313257,
     "ao_agmk:50173": 1794455995.6431599,
-    "olmaliq:43929": 1794456001.9011161
+    "olmaliq:43929": 1794456001.9011161,
+    "olmaliqhayoti:86468": 1794486188.3896458,
+    "olmaliqhayoti:86469": 1794486203.5291278,
+    "olmaliqhayoti:86470": 1794486213.7525501,
+    "olmaliqhayoti:86476": 1794486249.4294493,
+    "olmaliqhayoti:86477": 1794486282.5198274,
+    "olmaliqhayoti:86478": 1794486342.0064323,
+    "olmaliqhayoti:86479": 1794486377.2142413,
+    "olmaliqhayoti:86481": 1794486412.523217,
+    "ao_agmk:50175": 1794486446.8949122,
+    "ao_agmk:50181": 1794486484.7918942,
+    "ao_agmk:50186": 1794486514.2716432,
+    "ao_agmk:50196": 1794486521.5174923,
+    "olmaliqshaharpressa:12977": 1794486530.6589842,
+    "olmaliq:43930": 1794486539.2320871,
+    "olmaliq:43939": 1794486542.6495,
+    "olmaliq:43940": 1794486550.5958333,
+    "olmaliq:43941": 1794486560.5295293,
+    "olmaliq:43942": 1794486568.0507202
   },
   "posted_articles": [
-    {
-      "title": "Superliga: OKMK va Qo‘qon 1912 uchrashuvi bo‘lib o‘tadi",
-      "summary": "25-oktyabr kuni soat 16:00 da Olmaliqdagi OKMK sport majmuasida OKMK hamda Qo‘qon 1912 jamoalari o‘rtasida o‘yin o‘tkaziladi. Chipta narxi 15 000 so‘m.",
-      "norm_title": "superliga okmk va qoqon 1912 uchrashuvi bolib otadi",
-      "topic_key": "okmk-qoqon-futbol-oini",
-      "stems": [
-        "uchrashuv",
-        "tad",
-        "okmk",
-        "1912",
-        "qon",
-        "superl",
-        "lib"
-      ],
-      "posted_at": 1792929833.6588144
-    },
-    {
-      "title": "Olmaliqlik sportchilarning ota-onalariga hokim tashakkurnomasi topshirildi",
-      "summary": "Prezident olimpiadasida qatnashadigan 7 nafar olmaliqlik yosh sportchining ota-onalariga shahar hokimining tashakkurnomalari topshirildi.",
-      "norm_title": "olmaliqlik sportchilarning otaonalariga hokim tashakkurnomasi topshirildi",
-      "topic_key": "prezident-olimpiadasi-sportchilar",
-      "stems": [
-        "sportch",
-        "tashakkurnoma",
-        "ota",
-        "ona",
-        "hokim",
-        "topshiril"
-      ],
-      "posted_at": 1792944140.9507906
-    },
-    {
-      "title": "Olmaliq mahallalarida obodonlashtirish hashari o‘tkazildi",
-      "summary": "Olmaliq shahri mahallalarida raislar boshchiligida hududlarni ozoda tutish va chiqindilardan tozalash bo‘yicha obodonlashtirish hasharlari tashkil etildi.",
-      "norm_title": "olmaliq mahallalarida obodonlashtirish hashari otkazildi",
-      "topic_key": "olmaliq-hashar-obodonlashtirish",
-      "stems": [
-        "mahalla",
-        "tkazil",
-        "hashar",
-        "obodonlash"
-      ],
-      "posted_at": 1792944149.8053653
-    },
-    {
-      "title": "Olmaliqda yong'in xavfsizligi bo'yicha targ'ibot o'tkazildi",
-      "summary": "Olmaliq shahar FVB xodimlari Ko'rpasoy va Temur Malik MFYlarida aholiga yong'in xavfsizligi va is gazidan zaharlanishning oldini olish bo'yicha tushuntirish ishlarini olib bordi.",
-      "norm_title": "olmaliqda yongin xavfsizligi boyicha targibot otkazildi",
-      "topic_key": "fvb-xavfsizlik-targiboti",
-      "stems": [
-        "targ",
-        "ibot",
-        "tkazil",
-        "xavfsiz",
-        "yong",
-        "yicha"
-      ],
-      "posted_at": 1792995955.9777725
-    },
-    {
-      "title": "Ziroat Mirziyoyeva Global tarmoq raisi etib saylandi",
-      "summary": "Samarqanddagi xalqaro kongressda Ziroat Mirziyoyeva og'ir xastalikka chalingan bolalarni qo'llab-quvvatlash bo'yicha Global tarmoq raisi etib saylandi. U ushbu lavozimda ikki yil davomida faoliyat yuritadi.",
-      "norm_title": "ziroat mirziyoyeva global tarmoq raisi etib saylandi",
-      "topic_key": "ziroat-mirziyoyeva-global-tarmoq",
-      "stems": [
-        "global",
-        "rai",
-        "mirziyoyeva",
-        "tarmoq",
-        "ziroat",
-        "saylan",
-        "etib"
-      ],
-      "posted_at": 1792996013.4717424
-    },
-    {
-      "title": "4-transport sexi yillik rejasini muddatidan avval bajardi",
-      "summary": "AGMK Texnologik transport boshqarmasiga qarashli 4-transport sexi jamoasi yillik reja ko'rsatkichlarini muddatidan oldin uddaladi.",
-      "norm_title": "4transport sexi yillik rejasini muddatidan avval bajardi",
-      "topic_key": "agmk-4-transport-sexi",
-      "stems": [
-        "transport",
-        "sex",
-        "bajar",
-        "muddat",
-        "reja",
-        "avval"
-      ],
-      "posted_at": 1792996046.4322777
-    },
-    {
-      "title": "Kommunal to'lov ilovasida uy egasining ismini to'g'rilash usuli",
-      "summary": "Kommunal to'lov ilovalarida xonadon egasining ismi noto'g'ri ko'rinsa, uni ko'rsatilgan yo'riqnoma orqali osongina to'g'rilash mumkin.",
-      "norm_title": "kommunal tolov ilovasida uy egasining ismini togrilash usuli",
-      "topic_key": "kommunal-tolov-ism-ozgartirish",
-      "stems": [
-        "lov",
-        "ilova",
-        "ism",
-        "usul",
-        "ega",
-        "rilash",
-        "kommunal"
-      ],
-      "posted_at": 1792996069.875955
-    },
-    {
-      "title": "Eron elchixonasi Samarqand haqidagi bahsli postini o'chirdi",
-      "summary": "O'zbekiston TIVning qat'iy e'tirozidan so'ng, Eronning Armanistondagi elchixonasi Samarqandning tarixiy merosini buzib talqin qilgan postini o'chirib tashladi.",
-      "norm_title": "eron elchixonasi samarqand haqidagi bahsli postini ochirdi",
-      "topic_key": "eron-elchixonasi-samarqand-posti",
-      "stems": [
-        "eron",
-        "elchixona",
-        "bahsl",
-        "haq",
-        "post",
-        "chir",
-        "samarqand"
-      ],
-      "posted_at": 1792996093.579135
-    },
-    {
-      "title": "AGMKning 9 oylik ko'rsatkichlari e'lon qilindi",
-      "summary": "Olmaliq kon-metallurgiya kombinatining 2026-yilning o'tgan 9 oyi yakunlari bo'yicha asosiy iqtisodiy va ishlab chiqarish ko'rsatkichlari ma'lum qilindi.",
-      "norm_title": "agmkning 9 oylik korsatkichlari elon qilindi",
-      "topic_key": "agmk-9-oylik-natijalar",
-      "stems": [
-        "lon",
-        "oylik",
-        "rsatkich",
-        "agmk"
-      ],
-      "posted_at": 1793021138.0927832
-    },
     {
       "title": "AQSH investorlari OKMK salohiyatini yuqori baholadi",
       "summary": "Prezident Shavkat Mirziyoyev va OKMK raisi Abdulla Xursanov AQSHning \"Eldridge Industries\" kompaniyasi rahbari Todd Boeli bilan tog'-kon sanoati va metallurgiya sohasidagi hamkorlikni kengaytirishni muhokama qildi.",
@@ -6873,6 +6756,140 @@
         "valyuta"
       ],
       "posted_at": 1794456001.907392
+    },
+    {
+      "title": "O'zbekistonda mobil telefonlar arzonlashishi kutilmoqda",
+      "summary": "O'zbekiston JSTga a'zo bo'lish doirasida telefonlar importi uchun bojxona bojini bekor qilishni rejalashtirmoqda, bu esa narxlarni taxminan 5 foizga arzonlashtirishi mumkin.",
+      "norm_title": "ozbekistonda mobil telefonlar arzonlashishi kutilmoqda",
+      "topic_key": "telefon-import-boji",
+      "stems": [
+        "zbekiston",
+        "kut",
+        "mobil",
+        "arzonlash",
+        "telefon"
+      ],
+      "posted_at": 1794486188.3974435
+    },
+    {
+      "title": "Nurafshonda Ziyolilar kengashining hududiy yig'ilishi boshlandi",
+      "summary": "Bugun Nurafshon shahrida \"Yangi O'zbekiston ziyolilari — milliy yuksalish tayanchi!\" shiori ostida O'zbekiston ziyolilari kengashining yig'ilishi o'z ishini boshladi.",
+      "norm_title": "nurafshonda ziyolilar kengashining hududiy yigilishi boshlandi",
+      "topic_key": "nurafshon-ziyolilar-kengashi",
+      "stems": [
+        "kengash",
+        "yig",
+        "ziyol",
+        "nurafshon",
+        "hududiy",
+        "ilish"
+      ],
+      "posted_at": 1794486213.7606003
+    },
+    {
+      "title": "Voyaga yetmaganlarning chet elga chiqish tartibi",
+      "summary": "Ota-onalar yoki vasiylarning notarial tasdiqlangan roziligi bilan necha yoshdagi bolalar xorijga kuzatuvchisiz chiqishi mumkinligi bo'yicha qonunchilik talablari eslatildi.",
+      "norm_title": "voyaga yetmaganlarning chet elga chiqish tartibi",
+      "topic_key": "voyaga-yetmaganlar-xorijga-chiqish",
+      "stems": [
+        "chet",
+        "yetma",
+        "chiq",
+        "elga",
+        "voya",
+        "tartib"
+      ],
+      "posted_at": 1794486377.2222075
+    },
+    {
+      "title": "OKMK Spartakiadasi: Basketbol bo'yicha g'oliblar aniqlandi",
+      "summary": "7-8-noyabr kunlari OKMK bo'linmalari o'rtasida o'tkazilgan basketbol musobaqasida Kasaba uyushmasi hamda Rux zavodi jamoalari o'z guruhlarida g'oliblikni qo'lga kiritishdi.",
+      "norm_title": "okmk spartakiadasi basketbol boyicha goliblar aniqlandi",
+      "topic_key": "okmk-spartakiada-basketbol",
+      "stems": [
+        "aniqlan",
+        "olib",
+        "spartakia",
+        "okmk",
+        "yicha",
+        "basketbol"
+      ],
+      "posted_at": 1794486446.902629
+    },
+    {
+      "title": "Angren kon boshqarmasida xodimlar murojaatlari ko‘rib chiqildi",
+      "summary": "Angren kon boshqarmasidagi yig‘ilishda ishchi-xodimlarning murojaatlari tahlil qilinib, mavjud muammolarga amaliy yechim topish masalalari muhokama qilindi.",
+      "norm_title": "angren kon boshqarmasida xodimlar murojaatlari korib chiqildi",
+      "topic_key": "angren-kon-murojaat",
+      "stems": [
+        "murojaat",
+        "rib",
+        "angren",
+        "kon",
+        "xodim",
+        "chiqil",
+        "boshqarma"
+      ],
+      "posted_at": 1794486521.5253587
+    },
+    {
+      "title": "Toshkent viloyati YTHlar soni bo'yicharespublikada ikkinchi o'rinda",
+      "summary": "2026-yilning yanvar-sentyabr oylarida Toshkent viloyatida 459 ta yo'l-transport hodisasi qayd etilib, bu ko'rsatkich bo'yicha viloyat respublikada Samarqanddan keyin ikkinchi o'rinni egalladi.",
+      "norm_title": "toshkent viloyati ythlar soni boyicharespublikada ikkinchi orinda",
+      "topic_key": "toshkent-viloyati-yth-statistika",
+      "stems": [
+        "ikkinch",
+        "rin",
+        "yicharespubl",
+        "yth",
+        "son"
+      ],
+      "posted_at": 1794486542.6588283
+    },
+    {
+      "title": "Navoiy viloyati sobiq hokimi Bahriddin Ro'ziyev vafot etdi",
+      "summary": "Navoiy viloyatining sobiq hokimi, davlat va jamiyat arbobi Bahriddin Ro'ziyev 76 yoshida vafot etdi. Prezident Shavkat Mirziyoyev va davlat arboblari marhumning yaqinlariga hamdardlik bildirdi.",
+      "norm_title": "navoiy viloyati sobiq hokimi bahriddin roziyev vafot etdi",
+      "topic_key": "bahriddin-roziyev-vafot",
+      "stems": [
+        "vafot",
+        "navoiy",
+        "etd",
+        "hokim",
+        "bahriddin",
+        "sobiq",
+        "ziyev"
+      ],
+      "posted_at": 1794486550.6036568
+    },
+    {
+      "title": "\"Yaylov chiptasi\" haqida yangi qonun qabul qilinishi kutilmoqda",
+      "summary": "Endi chorva mollari uchun o't o'rishga alohida chipta sotib olish talab etilishi mumkin. Chiptasiz o't o'rganlar jarimaga tortilishi haqida ogohlantirilmoqda.",
+      "norm_title": "yaylov chiptasi haqida yangi qonun qabul qilinishi kutilmoqda",
+      "topic_key": "yaylov-chiptasi-qonun",
+      "stems": [
+        "yaylov",
+        "chipta",
+        "qilin",
+        "kut",
+        "qabul",
+        "qonun"
+      ],
+      "posted_at": 1794486560.537505
+    },
+    {
+      "title": "HUMO tizimida nosozlik yuzaga keldi",
+      "summary": "Ayni paytda HUMO kartalar tizimida texnik nosozlik yuz bergani sababli pul o‘tkazmalarini amalga oshirishda uzilishlar kuzatilmoqda.",
+      "norm_title": "humo tizimida nosozlik yuzaga keldi",
+      "topic_key": "humo-tizimida-nosozlik",
+      "stems": [
+        "kel",
+        "yuza",
+        "tizim",
+        "nosoz",
+        "humo"
+      ],
+      "posted_at": 1794486568.0586603
     }
   ]
 }
