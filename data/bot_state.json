@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86495,
-    "ao_agmk": 50205,
+    "olmaliqhayoti": 86500,
+    "ao_agmk": 50210,
     "olmaliqshaharpressa": 12984,
-    "olmaliq": 43955
+    "olmaliq": 43958
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3910,39 +3910,20 @@
     "olmaliq:43944": 1794556185.4894435,
     "olmaliq:43945": 1794556188.5876994,
     "olmaliq:43946": 1794556199.2390862,
-    "olmaliq:43955": 1794556205.5908842
+    "olmaliq:43955": 1794556205.5908842,
+    "olmaliqhayoti:86496": 1794584559.7904916,
+    "olmaliqhayoti:86497": 1794584564.6814063,
+    "olmaliqhayoti:86498": 1794584564.6962786,
+    "olmaliqhayoti:86499": 1794584564.7110503,
+    "olmaliqhayoti:86500": 1794584564.7260804,
+    "ao_agmk:50206": 1794584565.2002904,
+    "ao_agmk:50207": 1794584570.5393455,
+    "ao_agmk:50210": 1794584578.3129497,
+    "olmaliq:43956": 1794584585.9509583,
+    "olmaliq:43957": 1794584588.9745245,
+    "olmaliq:43958": 1794584588.989517
   },
   "posted_articles": [
-    {
-      "title": "Ohak zavodida tosh ko'tarish musobaqasi o'tkazildi",
-      "summary": "Ohak zavodi ishchi-xodimlari o'rtasida o'tkazilgan tosh ko'tarish musobaqasida Elektrosex elektromontyori D. Karimov 1-o'rinni egalladi.",
-      "norm_title": "ohak zavodida tosh kotarish musobaqasi otkazildi",
-      "topic_key": "ohak-zavodi-tosh-kotarish",
-      "stems": [
-        "tkazil",
-        "ohak",
-        "tar",
-        "tosh",
-        "zavod",
-        "musoba"
-      ],
-      "posted_at": 1793087012.0893497
-    },
-    {
-      "title": "Chodak kon boshqarmasida sayyor qabul o‘tkazildi",
-      "summary": "AGMK Kasaba uyushmasi kengashi Chodak kon boshqarmasida ishchilarning mehnat sharoitlari va ijtimoiy masalalar bo‘yicha murojaatlarini o‘rganish uchun sayyor qabul tashkil etdi.",
-      "norm_title": "chodak kon boshqarmasida sayyor qabul otkazildi",
-      "topic_key": "chodak-sayyor-qabul",
-      "stems": [
-        "sayyor",
-        "kon",
-        "tkazil",
-        "boshqarma",
-        "chodak",
-        "qabul"
-      ],
-      "posted_at": 1793087022.7165499
-    },
     {
       "title": "OKMKda harbiylashtirilgan qo'riqlash xizmati kuni nishonlandi",
       "summary": "OKMK Idoraviy harbiylashtirilgan qo'riqlash xizmati tashkil etilganligi munosabati bilan o'tkazilgan tantanali tadbirda 30 nafar ilf'or xodim faxriy yorliqlar bilan taqdirlandi.",
@@ -6906,6 +6887,36 @@
         "raqaml"
       ],
       "posted_at": 1794556205.5987215
+    },
+    {
+      "title": "Korrupsiyaga qarshi videoroliklar tanlovi o‘tkazilmoqda",
+      "summary": "9-dekabr — Xalqaro korrupsiyaga qarshi kurashish kuni munosabati bilan o‘tkazilayotgan tanlovga 3-MBF flotatori Dilnoza Pardaboyeva o‘z videoroligini taqdim etdi.",
+      "norm_title": "korrupsiyaga qarshi videoroliklar tanlovi otkazilmoqda",
+      "topic_key": "korrupsiyaga-qarshi-tanlov",
+      "stems": [
+        "videoro",
+        "korrupsiya",
+        "qarsh",
+        "tkaz",
+        "tanlov"
+      ],
+      "posted_at": 1794584570.5467606
+    },
+    {
+      "title": "Toshkentda evakuator va jarima maydonchalari bo'yicha yangi tartib joriy etilmoqda",
+      "summary": "24-dekabrdan taqiqlangan joyda qoldirilgan mashinalar jarima maydonchasiga olib ketilib, kuniga 88 ming so'mgacha to'lov undiriladi. Avtomobil 12 oy davomida olib ketilmasa, sud uni egasiz deb topishi mumkin.",
+      "norm_title": "toshkentda evakuator va jarima maydonchalari boyicha yangi tartib joriy etilmoqda",
+      "topic_key": "evakuator-jarima-maydonchasi",
+      "stems": [
+        "maydoncha",
+        "jarima",
+        "evakuator",
+        "tartib",
+        "joriy",
+        "etil",
+        "yicha"
+      ],
+      "posted_at": 1794584585.959337
     }
   ]
 }
