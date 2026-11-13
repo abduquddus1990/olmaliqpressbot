@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86485,
-    "ao_agmk": 50200,
-    "olmaliqshaharpressa": 12978,
-    "olmaliq": 43943
+    "olmaliqhayoti": 86495,
+    "ao_agmk": 50205,
+    "olmaliqshaharpressa": 12984,
+    "olmaliq": 43955
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3895,73 +3895,24 @@
     "olmaliqhayoti:86485": 1794514266.6516323,
     "ao_agmk:50200": 1794514271.3669674,
     "olmaliqshaharpressa:12978": 1794514280.789724,
-    "olmaliq:43943": 1794514287.8979347
+    "olmaliq:43943": 1794514287.8979347,
+    "olmaliqhayoti:86486": 1794556060.5179107,
+    "olmaliqhayoti:86491": 1794556097.3433862,
+    "olmaliqhayoti:86492": 1794556099.98659,
+    "olmaliqhayoti:86493": 1794556104.0383916,
+    "olmaliqhayoti:86494": 1794556139.885582,
+    "olmaliqhayoti:86495": 1794556143.1346843,
+    "ao_agmk:50201": 1794556160.829158,
+    "ao_agmk:50204": 1794556160.8440156,
+    "ao_agmk:50205": 1794556164.8159535,
+    "olmaliqshaharpressa:12983": 1794556172.0102978,
+    "olmaliqshaharpressa:12984": 1794556181.2768588,
+    "olmaliq:43944": 1794556185.4894435,
+    "olmaliq:43945": 1794556188.5876994,
+    "olmaliq:43946": 1794556199.2390862,
+    "olmaliq:43955": 1794556205.5908842
   },
   "posted_articles": [
-    {
-      "title": "O'zbekistonda ilk islomiy bank litsenziyasi berildi",
-      "summary": "Markaziy bank Boshqaruvi qarori bilan \"Open bank\" aksiyadorlik jamiyatiga mamlakatimizda islomiy bank faoliyatini amalga oshirish uchun birinchi litsenziya berildi.",
-      "norm_title": "ozbekistonda ilk islomiy bank litsenziyasi berildi",
-      "topic_key": "islomiy-bank-litsenziya",
-      "stems": [
-        "islomiy",
-        "bank",
-        "ilk",
-        "litsenziya",
-        "zbekiston"
-      ],
-      "posted_at": 1793021189.7255547
-    },
-    {
-      "title": "O'zbekiston Paraosiyo o'yinlarida tarixiy natijani qayd etdi",
-      "summary": "Yaponiyadagi V yozgi Paraosiyo o'yinlarida O'zbekiston delegatsiyasi 145 ta medal bilan umumjamoa hisobida 3-o'rinni egalladi. 15 yoshli Boburbek Toshtemirov musobaqaning eng yosh chempioniga aylandi.",
-      "norm_title": "ozbekiston paraosiyo oyinlarida tarixiy natijani qayd etdi",
-      "topic_key": "paraosiyo-uyinlari-natija",
-      "stems": [
-        "yin",
-        "etd",
-        "qayd",
-        "paraosiyo",
-        "zbekiston",
-        "natija",
-        "tarixiy"
-      ],
-      "posted_at": 1793042858.2696228
-    },
-    {
-      "title": "Ausenco rahbari AGMKning 3-Mis boyitish fabrikasiga yuqori baho berdi",
-      "summary": "Xalqaro 'Ausenco' kompaniyasi asoschisi Zimi Meka 3-Mis boyitish fabrikasining zamonaviy texnologiyalari va ulkan ko'lamini e'tirof etdi.",
-      "norm_title": "ausenco rahbari agmkning 3mis boyitish fabrikasiga yuqori baho berdi",
-      "topic_key": "3-mbf-xalqaro-e-tirof",
-      "stems": [
-        "ber",
-        "rahbar",
-        "yuqor",
-        "boyit",
-        "agmk",
-        "baho",
-        "ausenco",
-        "fabr",
-        "mis"
-      ],
-      "posted_at": 1793042881.887885
-    },
-    {
-      "title": "Shahlo Turdiqulova TWAS vitse-prezidenti etib saylandi",
-      "summary": "O'zbekiston Fanlar akademiyasi vitse-prezidenti Shahlo Turdiqulova Butunjahon fanlar akademiyasi (TWAS) vitse-prezidenti etib saylandi. Bu Markaziy Osiyo tarixi davomidagi ilk shunday yuqori natijadir.",
-      "norm_title": "shahlo turdiqulova twas vitseprezidenti etib saylandi",
-      "topic_key": "shahlo-turdiqulova-twas-saylov",
-      "stems": [
-        "saylan",
-        "vitse",
-        "prezident",
-        "turdiqulova",
-        "twas",
-        "shahlo",
-        "etib"
-      ],
-      "posted_at": 1793086997.358637
-    },
     {
       "title": "Ohak zavodida tosh ko'tarish musobaqasi o'tkazildi",
       "summary": "Ohak zavodi ishchi-xodimlari o'rtasida o'tkazilgan tosh ko'tarish musobaqasida Elektrosex elektromontyori D. Karimov 1-o'rinni egalladi.",
@@ -6895,6 +6846,66 @@
         "tan"
       ],
       "posted_at": 1794514280.795703
+    },
+    {
+      "title": "O'zbekiston konchiligi va ma'danchiligi tarixiga bag'ishlangan yangi kitob taqdim etildi",
+      "summary": "O'zbekistondagi Islom sivilizatsiyasi markazida 4 yillik tadqiqotlar natijasi bo'lgan \"O'zbekiston konchiligi va ma'danchiligi tarixi\" nomli yangi ilmiy kitob taqdimoti bo'lib o'tdi.",
+      "norm_title": "ozbekiston konchiligi va madanchiligi tarixiga bagishlangan yangi kitob taqdim etildi",
+      "topic_key": "konchilik-tarixi-kitob",
+      "stems": [
+        "taqdim",
+        "ishlan",
+        "danch",
+        "zbekiston",
+        "kitob",
+        "bag",
+        "tarix",
+        "konch"
+      ],
+      "posted_at": 1794556060.5252206
+    },
+    {
+      "title": "BTS nomidan kelayotgan firibgarlik xabarlaridan ogoh bo'ling",
+      "summary": "Firibgarlar 'jo‘natmangiz keldi' bahonasida soxta havolalar orqali fuqarolarning bank karta ma'lumotlarini o'g'irlashga urinmoqda. Shubhali havolalarga kirmang va shaxsiy ma'lumotlarni bermang.",
+      "norm_title": "bts nomidan kelayotgan firibgarlik xabarlaridan ogoh boling",
+      "topic_key": "bts-firibgarlik-ogohlik",
+      "stems": [
+        "ling",
+        "nom",
+        "firibgar",
+        "bts",
+        "ogoh",
+        "kel"
+      ],
+      "posted_at": 1794556164.8236275
+    },
+    {
+      "title": "Shahar hokimi navbatdagi fuqarolar qabulini o'tkazdi",
+      "summary": "Olmaliq shahar hokimi Bahodir Meliyev fuqarolarning bandlik va ijtimoiy ko'mak masalalaridagi murojaatlarini tinglab, mas'ullarga ijro uchun vazifalar topshirdi.",
+      "norm_title": "shahar hokimi navbatdagi fuqarolar qabulini otkazdi",
+      "topic_key": "hokim-fuqarolar-qabuli",
+      "stems": [
+        "tkaz",
+        "qabul",
+        "hokim",
+        "navbat",
+        "fuqaro"
+      ],
+      "posted_at": 1794556172.0188224
+    },
+    {
+      "title": "10 million yosh raqamli kasblarga jalb etiladi",
+      "summary": "Prezident farmoniga ko'ra, 10 million yoshni raqamli industriyaga o'qitish va kamida 10 ta OTMni xalqaro TOP-1000 talikka kiritish rejalashtirildi.",
+      "norm_title": "10 million yosh raqamli kasblarga jalb etiladi",
+      "topic_key": "raqamli-kasblar-talim-dasturi",
+      "stems": [
+        "yosh",
+        "jalb",
+        "kasb",
+        "million",
+        "raqaml"
+      ],
+      "posted_at": 1794556205.5987215
     }
   ]
 }
