@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86510,
-    "ao_agmk": 50214,
-    "olmaliqshaharpressa": 12985,
-    "olmaliq": 43972
+    "olmaliqhayoti": 86517,
+    "ao_agmk": 50217,
+    "olmaliqshaharpressa": 13002,
+    "olmaliq": 43987
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3942,96 +3942,24 @@
     "olmaliq:43963": 1794643531.2421365,
     "olmaliq:43964": 1794643539.397666,
     "olmaliq:43971": 1794643544.90875,
-    "olmaliq:43972": 1794643544.9212298
+    "olmaliq:43972": 1794643544.9212298,
+    "olmaliqhayoti:86511": 1794668301.823616,
+    "olmaliqhayoti:86512": 1794668305.2785602,
+    "olmaliqhayoti:86513": 1794668330.1743934,
+    "olmaliqhayoti:86517": 1794668333.1999657,
+    "ao_agmk:50215": 1794668333.7559965,
+    "ao_agmk:50216": 1794668333.77159,
+    "ao_agmk:50217": 1794668353.624553,
+    "olmaliqshaharpressa:12992": 1794668390.363675,
+    "olmaliqshaharpressa:13002": 1794668421.90299,
+    "olmaliq:43973": 1794668444.2790806,
+    "olmaliq:43974": 1794668467.445076,
+    "olmaliq:43975": 1794668488.0115268,
+    "olmaliq:43985": 1794668488.0266836,
+    "olmaliq:43986": 1794668505.1576335,
+    "olmaliq:43987": 1794668519.5398266
   },
   "posted_articles": [
-    {
-      "title": "Tibbiyot xodimlari uchun Ibn Sino nomidagi davlat mukofoti ta'sis etiladi",
-      "summary": "Prezident sohaga hissa qo'shgan bir guruh xodimlarga mukofotlarni topshirdi hamda tibbiyot sohasi uchun Ibn Sino nomidagi alohida davlat mukofotini ta'sis etish taklifini bildirdi.",
-      "norm_title": "tibbiyot xodimlari uchun ibn sino nomidagi davlat mukofoti tasis etiladi",
-      "topic_key": "ibn-sino-mukofoti",
-      "stems": [
-        "tibbiyot",
-        "nom",
-        "davlat",
-        "sino",
-        "xodim",
-        "ibn",
-        "mukofot",
-        "sis"
-      ],
-      "posted_at": 1793087066.9671416
-    },
-    {
-      "title": "Qamchiq dovonida yangi radar o'rnatildi",
-      "summary": "Qamchiq dovonining \"Chinor\" postiga yetmasdan yangi rusumdagi radar moslamasi o'rnatildi.",
-      "norm_title": "qamchiq dovonida yangi radar ornatildi",
-      "topic_key": "qamchiq-yangi-radar",
-      "stems": [
-        "radar",
-        "dovon",
-        "qamchiq",
-        "rnatil"
-      ],
-      "posted_at": 1793087080.3782964
-    },
-    {
-      "title": "Tibbiyot xodimlari uchun yangi qo'shimcha ustamalar belgilandi",
-      "summary": "Bakalavr hamshira va tibbiyot og'alariga 1,5 mln so'm, magistrlarga 2,5 mln so'm hamda oilaviy tor soha mutaxassislariga 5,5 mln so'm qo'shimcha ustama to'lanadi.",
-      "norm_title": "tibbiyot xodimlari uchun yangi qoshimcha ustamalar belgilandi",
-      "topic_key": "tibbiyot-xodimlari-ustama",
-      "stems": [
-        "tibbiyot",
-        "belgilan",
-        "shimcha",
-        "ustama",
-        "xodim"
-      ],
-      "posted_at": 1793087097.956249
-    },
-    {
-      "title": "Nogironligi bo'lgan bolalar uchun so'rovnoma",
-      "summary": "\"Sog'lom rivojlanish sari\" loyihasi doirasida Olmaliqda nogironligi bo'lgan bolalarning reabilitatsiya xizmatlariga ehtiyoji o'rganilmoqda.",
-      "norm_title": "nogironligi bolgan bolalar uchun sorovnoma",
-      "topic_key": "nogironlik-reabilitatsiya-sorovnoma",
-      "stems": [
-        "rovnoma",
-        "nogiron",
-        "lgan",
-        "bola"
-      ],
-      "posted_at": 1793108158.9959557
-    },
-    {
-      "title": "Olmaliqdagi 15-DMTTda ma'naviy-ma'rifiy ishlar holati o'rganildi",
-      "summary": "Respublika Ma'naviyat va ma'rifat markazi shahar bo'linmasi 15-maktabgacha ta'lim tashkilotida hujjatlar yuritilishi va sohaga oid qarorlar ijrosini tahlil qildi. Yakunda aniqlangan kamchiliklarni bartaraf etish yuzasidan tavsiyalar berildi.",
-      "norm_title": "olmaliqdagi 15dmttda manaviymarifiy ishlar holati organildi",
-      "topic_key": "15-dmtt-manaviyat-organish",
-      "stems": [
-        "ish",
-        "holat",
-        "naviy",
-        "dmtt",
-        "rifiy",
-        "rganil"
-      ],
-      "posted_at": 1793108184.0733714
-    },
-    {
-      "title": "Tibbiyot rezidenturasi bepul bo'ladi va stipendiya belgilanadi",
-      "summary": "2027 yildan tibbiyot rezidenturasi bepulga o'tkazilib, talabalarga 3 million so'm stipendiya beriladi. O'qish muddati mutaxassisligiga qarab 2 yildan 5 yilgacha etib belgilandi.",
-      "norm_title": "tibbiyot rezidenturasi bepul boladi va stipendiya belgilanadi",
-      "topic_key": "tibbiyot-rezidenturasi-stipendiya",
-      "stems": [
-        "bepul",
-        "belgilan",
-        "lad",
-        "rezidentura",
-        "tibbiyot",
-        "stipendiya"
-      ],
-      "posted_at": 1793108199.7386186
-    },
     {
       "title": "Poliklinika xodimlariga bepul kiyim va pul mukofotlari beriladi",
       "summary": "Poliklinika shifokorlari va hamshiralariga bepul maxsus kiyim beriladi. Shuningdek, eng yaxshi xodimlar 30 mln so'm pul mukofoti hamda elektromobillar bilan taqdirlanadi.",
@@ -6934,6 +6862,98 @@
         "bitiruvch"
       ],
       "posted_at": 1794643490.919436
+    },
+    {
+      "title": "Oʻzbekistonda havo sifatini yaxshilash boʻyicha yangi milliy strategiya ishga tushiriladi",
+      "summary": "Oʻzbekiston havo sifatini yaxshilash va atmosferaga zararli tashlamalarni kamaytirish uchun 4 million dollar texnik koʻmak oladi hamda 2026-yil dekabrda yangi milliy strategiyani amalga oshirishni boshlaydi.",
+      "norm_title": "oʻzbekistonda havo sifatini yaxshilash boʻyicha yangi milliy strategiya ishga tushiriladi",
+      "topic_key": "havo-sifati-strategiyasi",
+      "stems": [
+        "milliy",
+        "tushir",
+        "ozbekiston",
+        "strategiya",
+        "yaxshilash",
+        "ish",
+        "sifat",
+        "havo"
+      ],
+      "posted_at": 1794668330.1845758
+    },
+    {
+      "title": "Yosh oila quruvchilarga “Oilaga tayyorlov” kursi sertifikatlari topshirildi",
+      "summary": "Bo'lajak kelin-kuyovlarni oilaviy hayot va munosabatlarga puxta tayyorlashga qaratilgan o'quv kursini muvaffaqiyatli tamomlagan yoshlarga sertifikatlar topshirildi.",
+      "norm_title": "yosh oila quruvchilarga oilaga tayyorlov kursi sertifikatlari topshirildi",
+      "topic_key": "oilaga-tayyorlov-kurslari",
+      "stems": [
+        "sertifikat",
+        "kur",
+        "yosh",
+        "oila",
+        "tayyorlov",
+        "topshiril",
+        "quruvch"
+      ],
+      "posted_at": 1794668390.3714774
+    },
+    {
+      "title": "Olmaliqda IIB boshlig'ining sayyor qabuli bo'lib o'tadi",
+      "summary": "15-noyabr kuni soat 10:00 da Do'stlik MFY binosida Olmaliq shahar IIB boshlig'i Sherzod Shermatov fuqarolar murojaatlari bo'yicha sayyor qabul o'tkazadi.",
+      "norm_title": "olmaliqda iib boshligining sayyor qabuli bolib otadi",
+      "topic_key": "olmaliq-iib-sayyor-qabul",
+      "stems": [
+        "iib",
+        "tad",
+        "sayyor",
+        "boshlig",
+        "qabul",
+        "lib",
+        "ining"
+      ],
+      "posted_at": 1794668421.91111
+    },
+    {
+      "title": "Qaynoq choy ichish salomatlik uchun xavfli",
+      "summary": "Qaynoq choy ichilganda og'iz sezmasligi mumkin, ammo har bir xo'plam qizilo'ngachni kuydirib, salomatlikka zarar yetkazadi.",
+      "norm_title": "qaynoq choy ichish salomatlik uchun xavfli",
+      "topic_key": "qaynoq-choy-zarari",
+      "stems": [
+        "salomat",
+        "qaynoq",
+        "choy",
+        "xavfl",
+        "ich"
+      ],
+      "posted_at": 1794668444.2868721
+    },
+    {
+      "title": "\"Oydin\" hududining yangi loyiha ko'rinishi",
+      "summary": "Olmaliq shahridagi \"Oydin\" hududida amalga oshirilishi kutilayotgan yangi loyiha ko'rinishi taqdim etildi.",
+      "norm_title": "oydin hududining yangi loyiha korinishi",
+      "topic_key": "oydin-hududi-loyiha",
+      "stems": [
+        "hudud",
+        "oydin",
+        "rin",
+        "loyiha"
+      ],
+      "posted_at": 1794668467.4529
+    },
+    {
+      "title": "Avaz Oxun YPX xodimining to‘yida xizmatda bo‘ldi",
+      "summary": "Taniqli qiziqchi Avaz Oxun YPX xodimi nikoh to‘yida ishtirok etib, o‘z hazillari bilan mehmonlar kayfiyatini ko‘tardi.",
+      "norm_title": "avaz oxun ypx xodimining toyida xizmatda boldi",
+      "topic_key": "avaz-oxun-ypx-toy",
+      "stems": [
+        "oxun",
+        "xizmat",
+        "ldi",
+        "xodim",
+        "yida",
+        "avaz",
+        "ypx"
+      ],
+      "posted_at": 1794668519.5475776
     }
   ]
 }
