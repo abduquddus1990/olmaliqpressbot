@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86502,
-    "ao_agmk": 50210,
-    "olmaliqshaharpressa": 12984,
-    "olmaliq": 43960
+    "olmaliqhayoti": 86510,
+    "ao_agmk": 50214,
+    "olmaliqshaharpressa": 12985,
+    "olmaliq": 43972
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3925,53 +3925,26 @@
     "olmaliqhayoti:86501": 1794605930.1632233,
     "olmaliqhayoti:86502": 1794605956.0883727,
     "olmaliq:43959": 1794605964.7772732,
-    "olmaliq:43960": 1794605964.792515
+    "olmaliq:43960": 1794605964.792515,
+    "olmaliqhayoti:86503": 1794643420.6583521,
+    "olmaliqhayoti:86506": 1794643433.0025713,
+    "olmaliqhayoti:86507": 1794643440.4292877,
+    "olmaliqhayoti:86508": 1794643440.4421241,
+    "olmaliqhayoti:86509": 1794643443.538824,
+    "olmaliqhayoti:86510": 1794643443.5510569,
+    "ao_agmk:50211": 1794643444.0629237,
+    "ao_agmk:50212": 1794643444.0752378,
+    "ao_agmk:50213": 1794643444.0871885,
+    "ao_agmk:50214": 1794643444.0990784,
+    "olmaliqshaharpressa:12985": 1794643490.9132378,
+    "olmaliq:43961": 1794643527.2677126,
+    "olmaliq:43962": 1794643527.2800727,
+    "olmaliq:43963": 1794643531.2421365,
+    "olmaliq:43964": 1794643539.397666,
+    "olmaliq:43971": 1794643544.90875,
+    "olmaliq:43972": 1794643544.9212298
   },
   "posted_articles": [
-    {
-      "title": "OKMKda harbiylashtirilgan qo'riqlash xizmati kuni nishonlandi",
-      "summary": "OKMK Idoraviy harbiylashtirilgan qo'riqlash xizmati tashkil etilganligi munosabati bilan o'tkazilgan tantanali tadbirda 30 nafar ilf'or xodim faxriy yorliqlar bilan taqdirlandi.",
-      "norm_title": "okmkda harbiylashtirilgan qoriqlash xizmati kuni nishonlandi",
-      "topic_key": "okmk-qoriqlash-xizmati-bayram",
-      "stems": [
-        "xizmat",
-        "harbiylash",
-        "riqlash",
-        "okmk",
-        "nishonlan"
-      ],
-      "posted_at": 1793087036.9567888
-    },
-    {
-      "title": "Prezident tibbiyot xodimlarini kasb bayrami bilan tabrikladi",
-      "summary": "Shavkat Mirziyoyev soha xodimlari bilan uchrashuvda so'nggi 10 yilda 10 million aholiga xizmat ko'rsatadigan yangi shifoxonalar ochilganini va tibbiy xizmatlar hajmi 3 karra oshganini ta'kidladi.",
-      "norm_title": "prezident tibbiyot xodimlarini kasb bayrami bilan tabrikladi",
-      "topic_key": "prezident-tibbiyot-uchrashuv",
-      "stems": [
-        "tibbiyot",
-        "tabrikl",
-        "kasb",
-        "prezident",
-        "bayram",
-        "xodim"
-      ],
-      "posted_at": 1793087048.8004568
-    },
-    {
-      "title": "Tibbiyotda sun'iy intellekt qo'llanadi va farmatsevtika rivojlantiriladi",
-      "summary": "Tibbiyot tizimi sun'iy intellekt imkoniyatlari bilan boyitilib, farmatsevtika mahsulotlarining 70 foizini mahalliy ishlab chiqarish maqsad qilingan. Toshkent viloyati va boshqa hududlardagi erkin zonalarda 1,2 milliard dollarlik loyihalar amalga oshirilmoqda.",
-      "norm_title": "tibbiyotda suniy intellekt qollanadi va farmatsevtika rivojlantiriladi",
-      "topic_key": "tibbiyot-raqamlashtirish-farmatsevtika",
-      "stems": [
-        "tibbiyot",
-        "rivojlan",
-        "sun",
-        "farmatsevt",
-        "intellekt",
-        "llan"
-      ],
-      "posted_at": 1793087057.0483084
-    },
     {
       "title": "Tibbiyot xodimlari uchun Ibn Sino nomidagi davlat mukofoti ta'sis etiladi",
       "summary": "Prezident sohaga hissa qo'shgan bir guruh xodimlarga mukofotlarni topshirdi hamda tibbiyot sohasi uchun Ibn Sino nomidagi alohida davlat mukofotini ta'sis etish taklifini bildirdi.",
@@ -6921,6 +6894,46 @@
         "yicha"
       ],
       "posted_at": 1794584585.959337
+    },
+    {
+      "title": "Ta'lim, tibbiyot va mahallalarni rivojlantirishga 245,7 trln so'm ajratiladi",
+      "summary": "Davlat budjeti rejalariga ko'ra, ta'lim sohasiga 114,3 trln so'm, sog'liqni saqlashga 61,4 trln so'm hamda infratuzilma va ijtimoiy muhofazaga 70 trln so'm yo'naltiriladi.",
+      "norm_title": "talim tibbiyot va mahallalarni rivojlantirishga 2457 trln som ajratiladi",
+      "topic_key": "davlat-budjeti-ajratmalar",
+      "stems": [
+        "rivojlan",
+        "tibbiyot",
+        "mahalla",
+        "ajrat",
+        "trln",
+        "lim",
+        "245"
+      ],
+      "posted_at": 1794643420.664394
+    },
+    {
+      "title": "Is gazi xavfi va mo'ri balandligi haqida ogohlantirish",
+      "summary": "Shamol mo'riga teskari urganda is gazi xonadonga qaytib kirishi mumkin. Buni oldini olish uchun mo'ri tom qirrasidan baland o'rnatilgan bo'lishi lozim.",
+      "norm_title": "is gazi xavfi va mori balandligi haqida ogohlantirish",
+      "topic_key": "is-gazi-xavfsizlik",
+      "stems": [
+        "ogohlan",
+        "baland",
+        "gaz",
+        "xavf"
+      ],
+      "posted_at": 1794643433.0088155
+    },
+    {
+      "title": "Olmaliqda bitiruvchilar bandligi muhokama qilindi",
+      "summary": "Olmaliq shahrida ta'lim muassasalari bitiruvchilarini ish bilan ta'minlash va kasbga yo'naltirish bo'yicha yig'ilish o'tkazilib, mas'ullarga har bir bitiruvchi bilan individual ishlash topshirildi.",
+      "norm_title": "olmaliqda bitiruvchilar bandligi muhokama qilindi",
+      "topic_key": "bitiruvchilar-bandligi-muhokama",
+      "stems": [
+        "band",
+        "bitiruvch"
+      ],
+      "posted_at": 1794643490.919436
     }
   ]
 }
