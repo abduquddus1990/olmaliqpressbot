@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86517,
+    "olmaliqhayoti": 86518,
     "ao_agmk": 50217,
     "olmaliqshaharpressa": 13002,
     "olmaliq": 43987
@@ -3957,25 +3957,10 @@
     "olmaliq:43975": 1794668488.0115268,
     "olmaliq:43985": 1794668488.0266836,
     "olmaliq:43986": 1794668505.1576335,
-    "olmaliq:43987": 1794668519.5398266
+    "olmaliq:43987": 1794668519.5398266,
+    "olmaliqhayoti:86518": 1794685468.2192388
   },
   "posted_articles": [
-    {
-      "title": "Poliklinika xodimlariga bepul kiyim va pul mukofotlari beriladi",
-      "summary": "Poliklinika shifokorlari va hamshiralariga bepul maxsus kiyim beriladi. Shuningdek, eng yaxshi xodimlar 30 mln so'm pul mukofoti hamda elektromobillar bilan taqdirlanadi.",
-      "norm_title": "poliklinika xodimlariga bepul kiyim va pul mukofotlari beriladi",
-      "topic_key": "shifokorlar-mukofot-bepul-kiyim",
-      "stems": [
-        "kiyim",
-        "bepul",
-        "mukofot",
-        "xodim",
-        "ber",
-        "pul",
-        "polikl"
-      ],
-      "posted_at": 1793108231.053444
-    },
     {
       "title": "AGMK korxonalarida profilaktik tadbir o'tkazildi",
       "summary": "Markaziy ta'mirlash-mexanika zavodi va 2-Mis boyitish fabrikasida ishchi-xodimlar uchun zo'ravonlik hamda kiberjinoyatlarning oldini olishga qaratilgan uchrashuv bo'lib o'tdi.",
@@ -6954,6 +6939,21 @@
         "ypx"
       ],
       "posted_at": 1794668519.5475776
+    },
+    {
+      "title": "15-noyabr uchun ob-havo, valyuta kursi va namoz vaqtlari",
+      "summary": "Olmaliqda 15-noyabr kuni havo harorati +16°C gacha isiydi, yog'ingarchilik kutilmaydi. AQSh dollari kursi 12 014,37 so'mni tashkil etmoqda.",
+      "norm_title": "15noyabr uchun obhavo valyuta kursi va namoz vaqtlari",
+      "topic_key": "ob-havo-valyuta-namoz-vaqtlari",
+      "stems": [
+        "kur",
+        "namoz",
+        "noyabr",
+        "valyuta",
+        "vaqt",
+        "havo"
+      ],
+      "posted_at": 1794685468.239711
     }
   ]
 }
