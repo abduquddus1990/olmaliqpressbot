@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86518,
+    "olmaliqhayoti": 86520,
     "ao_agmk": 50217,
     "olmaliqshaharpressa": 13002,
     "olmaliq": 43987
@@ -3958,23 +3958,11 @@
     "olmaliq:43985": 1794668488.0266836,
     "olmaliq:43986": 1794668505.1576335,
     "olmaliq:43987": 1794668519.5398266,
-    "olmaliqhayoti:86518": 1794685468.2192388
+    "olmaliqhayoti:86518": 1794685468.2192388,
+    "olmaliqhayoti:86519": 1794711243.7539828,
+    "olmaliqhayoti:86520": 1794711247.9785762
   },
   "posted_articles": [
-    {
-      "title": "AGMK korxonalarida profilaktik tadbir o'tkazildi",
-      "summary": "Markaziy ta'mirlash-mexanika zavodi va 2-Mis boyitish fabrikasida ishchi-xodimlar uchun zo'ravonlik hamda kiberjinoyatlarning oldini olishga qaratilgan uchrashuv bo'lib o'tdi.",
-      "norm_title": "agmk korxonalarida profilaktik tadbir otkazildi",
-      "topic_key": "agmk-zoravonlik-profilaktika",
-      "stems": [
-        "tkazil",
-        "profilaktik",
-        "tadbir",
-        "agmk",
-        "korxona"
-      ],
-      "posted_at": 1793108250.7077558
-    },
     {
       "title": "Tibbiyotning birlamchi bo'g'ini yangi bosqichga o'tmoqda",
       "summary": "Birlamchi tibbiy yordam sifatini oshirish bo'yicha sinovdan o'tgan yangi tizim kelasi yildan yana 100 ta tumanda joriy etiladi. Ushbu tizim doirasida aholi oilaviy shifokorlarga biriktirilib, bemorlarga 69 turdagi dori bepul berilmoqda.",
@@ -6954,6 +6942,19 @@
         "havo"
       ],
       "posted_at": 1794685468.239711
+    },
+    {
+      "title": "Toshkent shahrida qaysi hududdan ko'chib kelganlar ko'p?",
+      "summary": "Poytaxtda yashovchi boshqa hududda tug'ilganlar orasida Toshkent viloyatidan kelganlar 118,9 ming nafarni tashkil etib, 1-o'rinni egalladi. Keyingi o'rinlarni Qashqadaryo (81,2 ming) va Samarqand (59 ming) viloyatlari band etgan.",
+      "norm_title": "toshkent shahrida qaysi hududdan kochib kelganlar kop",
+      "topic_key": "toshkentga-kochib-kelganlar-statistika",
+      "stems": [
+        "chib",
+        "qay",
+        "hudud",
+        "kel"
+      ],
+      "posted_at": 1794711247.9850552
     }
   ]
 }
