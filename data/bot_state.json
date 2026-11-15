@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86522,
-    "ao_agmk": 50229,
-    "olmaliqshaharpressa": 13002,
-    "olmaliq": 43999
+    "olmaliqhayoti": 86524,
+    "ao_agmk": 50230,
+    "olmaliqshaharpressa": 13003,
+    "olmaliq": 44001
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3969,23 +3969,15 @@
     "olmaliq:43988": 1794737244.3884597,
     "olmaliq:43989": 1794737281.241052,
     "olmaliq:43990": 1794737290.5053484,
-    "olmaliq:43999": 1794737295.1035423
+    "olmaliq:43999": 1794737295.1035423,
+    "olmaliqhayoti:86523": 1794762053.124957,
+    "ao_agmk:50230": 1794762059.0476534,
+    "olmaliqshaharpressa:13003": 1794762070.4529364,
+    "olmaliq:44000": 1794762077.24673,
+    "olmaliq:44001": 1794762083.4998558,
+    "olmaliqhayoti:86524": 1794762185.2704613
   },
   "posted_articles": [
-    {
-      "title": "Tibbiyotning birlamchi bo'g'ini yangi bosqichga o'tmoqda",
-      "summary": "Birlamchi tibbiy yordam sifatini oshirish bo'yicha sinovdan o'tgan yangi tizim kelasi yildan yana 100 ta tumanda joriy etiladi. Ushbu tizim doirasida aholi oilaviy shifokorlarga biriktirilib, bemorlarga 69 turdagi dori bepul berilmoqda.",
-      "norm_title": "tibbiyotning birlamchi bogini yangi bosqichga otmoqda",
-      "topic_key": "tibbiyot-birlamchi-bogin-tizimi",
-      "stems": [
-        "birlamch",
-        "tibbiyot",
-        "bosqich",
-        "tmoq",
-        "ini"
-      ],
-      "posted_at": 1793108271.4872324
-    },
     {
       "title": "Tibbiyot oliygohlari talabalari uchun amaliyot tizimi o'zgaradi",
       "summary": "Kelasi yildan tibbiyot talabalari haftada uch kun bemor bilan ishlashni o'rganadi, bitiruvchilarga esa qo'shimcha oylik ustamalari belgilanadi.",
@@ -6964,6 +6956,23 @@
         "kel"
       ],
       "posted_at": 1794711247.9850552
+    },
+    {
+      "title": "Gazlashmagan hududlarda elektr me'yori va suyultirilgan gaz narxi o'zgardi",
+      "summary": "1-noyabrdan gaz yetib bormagan hududlarda isitish mavsumi uchun elektr me'yori 350 kVt·soatga oshirildi, 15-noyabrdan esa suyultirilgan gazning 1 kg narxi 5 000 so'm etib belgilandi.",
+      "norm_title": "gazlashmagan hududlarda elektr meyori va suyultirilgan gaz narxi ozgardi",
+      "topic_key": "elektr-gaz-meyor-ozgarishi",
+      "stems": [
+        "hudud",
+        "gazlashma",
+        "suyul",
+        "yor",
+        "gaz",
+        "elektr",
+        "narx",
+        "zgar"
+      ],
+      "posted_at": 1794762077.2514358
     }
   ]
 }
