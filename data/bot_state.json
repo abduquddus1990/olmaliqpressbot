@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86525,
-    "ao_agmk": 50230,
+    "olmaliqhayoti": 86548,
+    "ao_agmk": 50239,
     "olmaliqshaharpressa": 13003,
-    "olmaliq": 44002
+    "olmaliq": 44014
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3977,145 +3977,25 @@
     "olmaliq:44001": 1794762083.4998558,
     "olmaliqhayoti:86524": 1794762185.2704613,
     "olmaliq:44002": 1794778690.8624592,
-    "olmaliqhayoti:86525": 1794792137.7454286
+    "olmaliqhayoti:86525": 1794792137.7454286,
+    "olmaliqhayoti:86527": 1794816307.5869462,
+    "olmaliqhayoti:86535": 1794816324.1144161,
+    "olmaliqhayoti:86544": 1794816327.140588,
+    "olmaliqhayoti:86545": 1794816327.1564784,
+    "olmaliqhayoti:86546": 1794816341.388288,
+    "olmaliqhayoti:86547": 1794816351.6649237,
+    "olmaliqhayoti:86548": 1794816354.6897857,
+    "ao_agmk:50231": 1794816359.4591272,
+    "ao_agmk:50232": 1794816371.290712,
+    "ao_agmk:50238": 1794816379.1226492,
+    "ao_agmk:50239": 1794816404.6130948,
+    "olmaliq:44003": 1794816412.3923044,
+    "olmaliq:44004": 1794816424.1599574,
+    "olmaliq:44005": 1794816437.847435,
+    "olmaliq:44013": 1794816459.8959994,
+    "olmaliq:44014": 1794816459.9121506
   },
   "posted_articles": [
-    {
-      "title": "Tibbiyot oliygohlari talabalari uchun amaliyot tizimi o'zgaradi",
-      "summary": "Kelasi yildan tibbiyot talabalari haftada uch kun bemor bilan ishlashni o'rganadi, bitiruvchilarga esa qo'shimcha oylik ustamalari belgilanadi.",
-      "norm_title": "tibbiyot oliygohlari talabalari uchun amaliyot tizimi ozgaradi",
-      "topic_key": "tibbiyot-talabalari-amaliyot",
-      "stems": [
-        "oliygoh",
-        "amaliyot",
-        "zgar",
-        "tibbiyot",
-        "talaba",
-        "tizim"
-      ],
-      "posted_at": 1793108302.2785835
-    },
-    {
-      "title": "O‘zbekistonda xususiy tibbiyot sohasi rivojlanmoqda",
-      "summary": "Mamlakatimizda xususiy klinikalar soni 9 mingtadan oshdi. Shunga qaramay, hududlar o‘rtasida statsionar o‘rinlar bo‘yicha tafovutlar saqlanib qolmoqda.",
-      "norm_title": "ozbekistonda xususiy tibbiyot sohasi rivojlanmoqda",
-      "topic_key": "xususiy-tibbiyot-rivoji",
-      "stems": [
-        "rivojlan",
-        "soha",
-        "tibbiyot",
-        "xususiy",
-        "zbekiston"
-      ],
-      "posted_at": 1793108339.2806835
-    },
-    {
-      "title": "Tibbiyot muassasalari master-reja asosida tashkil etiladi",
-      "summary": "O‘zbekistonda tibbiyot infratuzilmasini yaxshilash maqsadida yangi muassasalar master-reja asosida quriladi va tibbiy xizmatlar bosqichma-bosqich xususiy sektordan xarid qilinadi.",
-      "norm_title": "tibbiyot muassasalari masterreja asosida tashkil etiladi",
-      "topic_key": "tibbiyot-master-reja-autsorsing",
-      "stems": [
-        "aso",
-        "reja",
-        "tibbiyot",
-        "master",
-        "tashkil",
-        "muassasa"
-      ],
-      "posted_at": 1793108345.7544324
-    },
-    {
-      "title": "Tibbiyotda hududlarga yaxlit mutaxassislar jamoasi yuboriladi",
-      "summary": "Prezident tashabbusi bilan hududlarda tibbiy xizmat sifatini oshirish uchun jarroh, anesteziolog va hamshiralardan iborat yaxlit jamoalar joylarga yuboriladi hamda xodimlar markazlarda stajirovkadan o'tkaziladi.",
-      "norm_title": "tibbiyotda hududlarga yaxlit mutaxassislar jamoasi yuboriladi",
-      "topic_key": "tibbiyot-jamoalari-stajirovka",
-      "stems": [
-        "yaxlit",
-        "jamoa",
-        "tibbiyot",
-        "yubor",
-        "mutaxassis",
-        "hudud"
-      ],
-      "posted_at": 1793108365.9035294
-    },
-    {
-      "title": "Olmaliq shahridagi ob-havo, namoz vaqtlari va valyuta kurslari",
-      "summary": "Olmaliqda bugun kunduzi havo harorati +17°C gacha iliq bo'ladi, yog'ingarchilik ehtimoli past. Shuningdek, kunlik namoz vaqtlari va Markaziy bank valyuta kurslari e'lon qilindi.",
-      "norm_title": "olmaliq shahridagi obhavo namoz vaqtlari va valyuta kurslari",
-      "topic_key": "olmaliq-ob-havo-namoz",
-      "stems": [
-        "valyuta",
-        "namoz",
-        "shahr",
-        "kurs",
-        "havo",
-        "vaqt"
-      ],
-      "posted_at": 1793127325.8738024
-    },
-    {
-      "title": "Toshkentda o'rtacha oylik maosh miqdori ma'lum qilindi",
-      "summary": "Statistika qo'mitasi ma'lumotiga ko'ra, Toshkent shahrida o'rtacha oylik ish haqi 12,3 million so'mdan oshdi. Respublika bo'yicha esa bu ko'rsatkich 7,27 million so'mni tashkil etdi.",
-      "norm_title": "toshkentda ortacha oylik maosh miqdori malum qilindi",
-      "topic_key": "toshkent-ortacha-ish-haqi",
-      "stems": [
-        "maosh",
-        "lum",
-        "oylik",
-        "rtacha",
-        "miqdor"
-      ],
-      "posted_at": 1793127346.628266
-    },
-    {
-      "title": "Xorijdan qaytgan shifokorlarga har oylik 50 million so'm ustama beriladi",
-      "summary": "Chet elda ishlab yurgan o'zbekistonlik shifokorlar vatanga qaytsa, ularning oyligiga har oy 50 million so'm qo'shimcha ustama to'lanadi. Shuningdek, olis hududlarda ishlovchi shifokorlarga ham qo'shimcha rag'bat pullari ajratiladi.",
-      "norm_title": "xorijdan qaytgan shifokorlarga har oylik 50 million som ustama beriladi",
-      "topic_key": "shifokorlar-ustama-maosh",
-      "stems": [
-        "million",
-        "oylik",
-        "xorij",
-        "ber",
-        "shifokor",
-        "qayt",
-        "ustama",
-        "har"
-      ],
-      "posted_at": 1793127357.7718983
-    },
-    {
-      "title": "Oydin bekatida avtobus yo'lini to'sgan Damas haydovchisi javobgarlikka tortildi",
-      "summary": "15-oktabr kuni «Oydin» bekatida avtobus harakatiga halaqit berib, haydovchini haqorat qilgan Damas haydovchisining qilmishi sudda ko'rib chiqildi va u o'z aybiga to'liq iqror bo'ldi.",
-      "norm_title": "oydin bekatida avtobus yolini tosgan damas haydovchisi javobgarlikka tortildi",
-      "topic_key": "damas-avtobus-nizosi",
-      "stems": [
-        "damas",
-        "tortil",
-        "oydin",
-        "haydovch",
-        "lin",
-        "avtobus",
-        "sgan",
-        "bekat",
-        "javobgar"
-      ],
-      "posted_at": 1793172791.6004806
-    },
-    {
-      "title": "Noyabr boshida namgarchilik kutilmoqda",
-      "summary": "Noyabr oyining dastlabki kunlarida ob-havo o'zgarib, namgarchilik bo'lishi prognoz qilinmoqda.",
-      "norm_title": "noyabr boshida namgarchilik kutilmoqda",
-      "topic_key": "noyabr-ob-havo-prognoz",
-      "stems": [
-        "noyabr",
-        "kut",
-        "namgarch",
-        "bosh"
-      ],
-      "posted_at": 1793172823.571953
-    },
     {
       "title": "AGMKda BelAZ haydovchilarini ishga qabul qilish sinovlari boshlandi",
       "summary": "Texnologik transport boshqarmasida og‘ir yuk ko‘taruvchi avtotransport vositalarini boshqarish tajribasiga ega nomzodlar uchun BelAZ haydovchisi kasbi bo‘yicha sinov jarayonlari o‘tkazilmoqda.",
@@ -6975,6 +6855,140 @@
         "zgar"
       ],
       "posted_at": 1794762077.2514358
+    },
+    {
+      "title": "\"Bir nuroniy o'n yoshga mas'ul\" tanlovida Olmaliq vakili 1-o'rinni egalladi",
+      "summary": "\"Bir nuroniy o'n yoshga mas'ul\" tanlovining Toshkent viloyati bosqichida Olmaliq shahri faol nuroniysi Saydiniso Begmatova g'oliblikni qo'lga kiritdi.",
+      "norm_title": "bir nuroniy on yoshga masul tanlovida olmaliq vakili 1orinni egalladi",
+      "topic_key": "nuroniy-yoshlar-tanlovi-olmaliq",
+      "stems": [
+        "yosh",
+        "bir",
+        "vakil",
+        "tanlov",
+        "nuroniy",
+        "mas",
+        "egall",
+        "rin"
+      ],
+      "posted_at": 1794816307.5948133
+    },
+    {
+      "title": "Olmaliqlik nuroniylar Zangiota ziyoratgohi va teatrga tashrif buyurishdi",
+      "summary": "\"Keksalar uchun turizm oyligi\" doirasida olmaliqlik bir guruh nuroniylar Zangiota ziyoratgohini ziyorat qilib, Muqumiy teatrida spektakl tomosha qilishdi.",
+      "norm_title": "olmaliqlik nuroniylar zangiota ziyoratgohi va teatrga tashrif buyurishdi",
+      "topic_key": "nuroniylar-ziyorat-sayohat",
+      "stems": [
+        "ziyoratgoh",
+        "buyur",
+        "tashrif",
+        "nuroniy",
+        "teatr",
+        "zangiota"
+      ],
+      "posted_at": 1794816324.1240592
+    },
+    {
+      "title": "Olmaliqda ayollar uchun mammografiya ko'rigi o'tkazilmoqda",
+      "summary": "16-noyabrdan 30-noyabrgacha Olmaliq shahar tibbiyot birlashmasida 45 yoshdan 95 yoshgacha bo'lgan ayollar pasport bilan mammografiya ko'rigidan o'tishlari mumkin.",
+      "norm_title": "olmaliqda ayollar uchun mammografiya korigi otkazilmoqda",
+      "topic_key": "ayollar-mammografiya-korigi",
+      "stems": [
+        "mammografiya",
+        "tkaz",
+        "ayol",
+        "rig"
+      ],
+      "posted_at": 1794816341.3962939
+    },
+    {
+      "title": "Madaniyatsiz yo'lovchi jazolandi",
+      "summary": "Olmaliqda jamoat tartibini buzgan va madaniyatsizlik qilgan yo'lovchi javobgarlikka tortildi.",
+      "norm_title": "madaniyatsiz yolovchi jazolandi",
+      "topic_key": "madaniyatsiz-yolovchi-jazolandi",
+      "stems": [
+        "jazolan",
+        "madaniyatsiz",
+        "lovch"
+      ],
+      "posted_at": 1794816351.673001
+    },
+    {
+      "title": "AGMK haftalik yangiliklar dayjesti e'lon qilindi",
+      "summary": "Hafta davomida AGMK tarkibiy bo'linmalari yillik ishlab chiqarish rejalarini muddatidan oldin bajardi hamda sport, ekologiya va kasbiy tanlovlarda yuqori natijalarni qayd etdi.",
+      "norm_title": "agmk haftalik yangiliklar dayjesti elon qilindi",
+      "topic_key": "agmk-haftalik-dayjest",
+      "stems": [
+        "lon",
+        "dayjest",
+        "hafta",
+        "yang",
+        "agmk"
+      ],
+      "posted_at": 1794816359.4673164
+    },
+    {
+      "title": "AGMK Davlat bayrog'i kuni munosabati bilan chellenj e'lon qildi",
+      "summary": "OKMK Davlat bayrog'i qabul qilingan kun munosabati bilan foto va video chellenj o'tkazmoqda. G'oliblar 18-noyabr kuni 'Metallurg' madaniyat saroyida taqdirlanadi.",
+      "norm_title": "agmk davlat bayrogi kuni munosabati bilan chellenj elon qildi",
+      "topic_key": "okmk-bayroq-chellenj",
+      "stems": [
+        "munosabat",
+        "bayrog",
+        "qil",
+        "lon",
+        "davlat",
+        "agmk",
+        "chellenj"
+      ],
+      "posted_at": 1794816371.298903
+    },
+    {
+      "title": "Shavkat Mirziyoyev dunyoning eng nufuzli 50 musulmoni ro'yxatiga kiritildi",
+      "summary": "Prezident Shavkat Mirziyoyev \"The Muslim 500\" xalqaro reytingida 40-o'rinni egalladi. Reytingda davlat rahbarining iqtisodiy islohotlari va islomiy merosni asrab-avaylash borasidagi xizmatlari e'tirof etilgan.",
+      "norm_title": "shavkat mirziyoyev dunyoning eng nufuzli 50 musulmoni royxatiga kiritildi",
+      "topic_key": "mirziyoyev-muslim-500",
+      "stems": [
+        "dunyo",
+        "eng",
+        "shavkat",
+        "musulmo",
+        "kiritil",
+        "yxat",
+        "mirziyoyev",
+        "nufuzl"
+      ],
+      "posted_at": 1794816379.130968
+    },
+    {
+      "title": "Ohak zavodida stol tennisi bo‘yicha musobaqa o‘tkazildi",
+      "summary": "Ohak zavodi ishchi-xodimlari o‘rtasida o‘tkazilgan stol tennisi musobaqasida navbatchi elektrchilangar M. Mahmudov g‘oliblikni qo‘lga kiritdi.",
+      "norm_title": "ohak zavodida stol tennisi boyicha musobaqa otkazildi",
+      "topic_key": "ohak-zavodi-stol-tennisi",
+      "stems": [
+        "stol",
+        "ten",
+        "musoba",
+        "ohak",
+        "zavod",
+        "yicha",
+        "tkazil"
+      ],
+      "posted_at": 1794816404.6212056
+    },
+    {
+      "title": "Radarlar faoliyati ustidan nazorat kuchaytirildi",
+      "summary": "Radarlarning noqonuniy faoliyati va tezlikni oshirib yozayotgani haqidagi xabarlar ortidan, YHXX mamlakat bo'ylab barcha foto-video qayd etish moslamalarini tekshirishni boshladi.",
+      "norm_title": "radarlar faoliyati ustidan nazorat kuchaytirildi",
+      "topic_key": "radar-tekshiruvi-yhxx",
+      "stems": [
+        "nazorat",
+        "radar",
+        "faoliyat",
+        "kuchaytiril",
+        "ust"
+      ],
+      "posted_at": 1794816424.1680386
     }
   ]
 }
