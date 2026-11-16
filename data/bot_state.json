@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86548,
-    "ao_agmk": 50239,
-    "olmaliqshaharpressa": 13003,
-    "olmaliq": 44014
+    "olmaliqhayoti": 86562,
+    "ao_agmk": 50250,
+    "olmaliqshaharpressa": 13005,
+    "olmaliq": 44019
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -3993,113 +3993,28 @@
     "olmaliq:44004": 1794816424.1599574,
     "olmaliq:44005": 1794816437.847435,
     "olmaliq:44013": 1794816459.8959994,
-    "olmaliq:44014": 1794816459.9121506
+    "olmaliq:44014": 1794816459.9121506,
+    "olmaliqhayoti:86549": 1794853353.306135,
+    "olmaliqhayoti:86550": 1794853428.464163,
+    "olmaliqhayoti:86556": 1794853480.9005299,
+    "olmaliqhayoti:86557": 1794853514.2255907,
+    "olmaliqhayoti:86558": 1794853515.110482,
+    "olmaliqhayoti:86559": 1794853544.8093762,
+    "olmaliqhayoti:86560": 1794853551.1394432,
+    "olmaliqhayoti:86561": 1794853591.4030416,
+    "olmaliqhayoti:86562": 1794853594.4265337,
+    "ao_agmk:50243": 1794853633.5778773,
+    "ao_agmk:50249": 1794853637.9044023,
+    "ao_agmk:50250": 1794853647.7015836,
+    "olmaliqshaharpressa:13004": 1794853690.8214266,
+    "olmaliqshaharpressa:13005": 1794853701.9233487,
+    "olmaliq:44015": 1794853743.4994557,
+    "olmaliq:44016": 1794853743.5157478,
+    "olmaliq:44017": 1794853749.7754717,
+    "olmaliq:44018": 1794853749.7916083,
+    "olmaliq:44019": 1794853789.104578
   },
   "posted_articles": [
-    {
-      "title": "AGMKda BelAZ haydovchilarini ishga qabul qilish sinovlari boshlandi",
-      "summary": "Texnologik transport boshqarmasida og‘ir yuk ko‘taruvchi avtotransport vositalarini boshqarish tajribasiga ega nomzodlar uchun BelAZ haydovchisi kasbi bo‘yicha sinov jarayonlari o‘tkazilmoqda.",
-      "norm_title": "agmkda belaz haydovchilarini ishga qabul qilish sinovlari boshlandi",
-      "topic_key": "agmk-belaz-ishga-qabul",
-      "stems": [
-        "qabul",
-        "agmk",
-        "haydovch",
-        "belaz",
-        "sinov",
-        "ish"
-      ],
-      "posted_at": 1793172834.9225883
-    },
-    {
-      "title": "Hokim va hokim o'rinbosarlarining fuqarolarni qabul qilish grafigi e'lon qilindi",
-      "summary": "Olmaliq shahar hokimi hamda hokim o'rinbosarlarining jismoniy va yuridik shaxslarni qabul qilish grafigi tasdiqlandi.",
-      "norm_title": "hokim va hokim orinbosarlarining fuqarolarni qabul qilish grafigi elon qilindi",
-      "topic_key": "hokim-qabul-grafigi",
-      "stems": [
-        "qabul",
-        "grafig",
-        "hokim",
-        "rinbosar",
-        "fuqaro",
-        "lon"
-      ],
-      "posted_at": 1793172874.766686
-    },
-    {
-      "title": "Dilnoza Kattaxonova nomidan soxta xabarlar tarqatilmoqda",
-      "summary": "Telegram'da Oila va xotin-qizlar qo'mitasi raisi Dilnoza Kattaxonova nomidan soxta akkaunt ochilib, firibgarlik xabarlari yuborilmoqda. Qo'mita ogohlikka chaqirib, shubhali xabarlarga javob bermaslik va shaxsiy ma'lumotlarni ulashmaslikni so'radi.",
-      "norm_title": "dilnoza kattaxonova nomidan soxta xabarlar tarqatilmoqda",
-      "topic_key": "kattaxonova-soxta-akkaunt",
-      "stems": [
-        "dilnoza",
-        "nom",
-        "soxta",
-        "tarqat",
-        "kattaxonova"
-      ],
-      "posted_at": 1793172932.1313493
-    },
-    {
-      "title": "Olmaliqda 3-sonli oilaviy poliklinika foydalanishga topshirildi",
-      "summary": "Olmaliq shahrining «Koinot» mahallasida 11,5 milliard so‘m evaziga to‘liq rekonstruksiya qilingan 3-sonli oilaviy poliklinika foydalanishga topshirildi. U 8 ta mahalladagi 30,4 mingdan ziyod aholiga xizmat ko‘rsatadi.",
-      "norm_title": "olmaliqda 3sonli oilaviy poliklinika foydalanishga topshirildi",
-      "topic_key": "3-poliklinika-qayta-ochildi",
-      "stems": [
-        "foydalan",
-        "oilaviy",
-        "topshiril",
-        "polikl",
-        "sonl"
-      ],
-      "posted_at": 1793197436.5258455
-    },
-    {
-      "title": "Firibgarlar yangi klaviatura bahonasida karta ma’lumotlarini o‘g‘irlamoqda",
-      "summary": "Firibgarlar shaxsiy xabarlar orqali «yangi o‘zbek alifbosi klaviaturasi» ilovasini o‘rnatishni taklif qilib, plastik karta ma’lumotlarini o‘g‘irlamoqda.",
-      "norm_title": "firibgarlar yangi klaviatura bahonasida karta malumotlarini ogirlamoqda",
-      "topic_key": "firibgarlik-klaviatura-karta",
-      "stems": [
-        "karta",
-        "bahona",
-        "lumot",
-        "firibgar",
-        "klaviatura",
-        "irla"
-      ],
-      "posted_at": 1793197446.693562
-    },
-    {
-      "title": "Olmaliqdagi 5-maktabda o'zbek tili sinfi ochilmoqda",
-      "summary": "Olmaliq shahri 5-sonli umumta'lim maktabida o'zbek tilida o'qitiladigan sinf ochilmoqda. Hozirda 0-sinf guruhi uchun o'quvchilarni qabul qilish boshlandi.",
-      "norm_title": "olmaliqdagi 5maktabda ozbek tili sinfi ochilmoqda",
-      "topic_key": "maktab-ozbek-sinfi-qabul",
-      "stems": [
-        "maktab",
-        "och",
-        "zbek",
-        "til",
-        "sinf"
-      ],
-      "posted_at": 1793197538.6176593
-    },
-    {
-      "title": "\"Ilk qadam\" o'quv dasturiga bag'ishlangan seminar o'tkazildi",
-      "summary": "AGMK hamda Toshkent viloyati Maktabgacha ta'lim boshqarmasi hamkorligida \"Ilk qadam\" milliy o'quv dasturining 3-nashrini amaliyotga tatbiq etish bo'yicha ilmiy-metodik seminar o'tkazildi.",
-      "norm_title": "ilk qadam oquv dasturiga bagishlangan seminar otkazildi",
-      "topic_key": "ilk-qadam-seminar",
-      "stems": [
-        "qadam",
-        "ishlan",
-        "ilk",
-        "tkazil",
-        "quv",
-        "dastur",
-        "bag",
-        "seminar"
-      ],
-      "posted_at": 1793197561.5477548
-    },
     {
       "title": "Olmaliqda Ichki ishlar organlari xodimlari kuni nishonlandi",
       "summary": "“Nurnigor” to‘yxonasida shahar hokimi va mas'ul rahbarlar ishtirokida kasb bayrami tantanali nishonlanib, faol xodimlar taqdirlandi.",
@@ -6989,6 +6904,111 @@
         "ust"
       ],
       "posted_at": 1794816424.1680386
+    },
+    {
+      "title": "Investorlar va ishlab chiqaruvchilar uchun yagona elektron platforma ishga tushirildi",
+      "summary": "O'zbekistonda investorlar hamda mahalliy ishlab chiqaruvchilar o'rtasida hamkorlik o'rnatishga mo'ljallangan invest.icppa.uz va icppa.uz platformalari ishga tushdi.",
+      "norm_title": "investorlar va ishlab chiqaruvchilar uchun yagona elektron platforma ishga tushirildi",
+      "topic_key": "investorlar-elektron-platforma",
+      "stems": [
+        "ishlab",
+        "platforma",
+        "tushiril",
+        "investor",
+        "elektron",
+        "chiqaruvch",
+        "ish",
+        "yagona"
+      ],
+      "posted_at": 1794853353.314582
+    },
+    {
+      "title": "AGMK oshxonalari faoliyati nazoratdan o'tkazildi",
+      "summary": "Kasaba uyushmasi mas'ullari va inspektorlar kombinatdagi qator oshxonalarda sanitariya qoidalari, oziq-ovqat sifati va xodimlar uchun yaratilgan sharoitlarni o'rganishdi.",
+      "norm_title": "agmk oshxonalari faoliyati nazoratdan otkazildi",
+      "topic_key": "agmk-oshxona-nazorat",
+      "stems": [
+        "oshxona",
+        "faoliyat",
+        "agmk",
+        "nazorat",
+        "tkazil"
+      ],
+      "posted_at": 1794853428.4719596
+    },
+    {
+      "title": "O‘zbekiston ziyolilari kengashining rasmiy murojaat boti ishga tushirildi",
+      "summary": "Aholi va mutaxassislarning taklif hamda tashabbuslarini jamlash maqsadida @ziyoliuz_bot ishga tushirildi. Yuborilgan g‘oyalar kengashning respublika yig‘ilishida muhokama qilinadi.",
+      "norm_title": "ozbekiston ziyolilari kengashining rasmiy murojaat boti ishga tushirildi",
+      "topic_key": "ziyolilar-kengashi-bot",
+      "stems": [
+        "tushiril",
+        "ziyol",
+        "zbekiston",
+        "murojaat",
+        "ish",
+        "rasmiy",
+        "kengash",
+        "bot"
+      ],
+      "posted_at": 1794853544.8168843
+    },
+    {
+      "title": "Olmaliq shahar Xalq qabulxonasiga yangi o‘rinbosar tayinlandi",
+      "summary": "Ulug‘bek Eshonqulov Olmaliq shahar Xalq qabulxonasi mudiri o‘rinbosari lavozimiga tayinlandi. U 2002–2024 yillarda ichki ishlar organlarida xizmat qilgan.",
+      "norm_title": "olmaliq shahar xalq qabulxonasiga yangi orinbosar tayinlandi",
+      "topic_key": "xalq-qabulxonasi-tayinlov",
+      "stems": [
+        "xalq",
+        "rinbosar",
+        "qabulxona",
+        "tayinlan"
+      ],
+      "posted_at": 1794853591.4116724
+    },
+    {
+      "title": "2-sonli transport sexi yillik rejasini muddatidan oldin bajardi",
+      "summary": "AGMK Texnologik transport boshqarmasining 2-sonli transport sexi 2026-yil uchun belgilangan rejani 105,2 foizga bajarib, 3,5 million metr kubdan ortiq tog‘ jinsini manziliga yetkazdi.",
+      "norm_title": "2sonli transport sexi yillik rejasini muddatidan oldin bajardi",
+      "topic_key": "transport-sexi-yillik-reja",
+      "stems": [
+        "transport",
+        "oldin",
+        "sex",
+        "muddat",
+        "reja",
+        "bajar",
+        "sonl"
+      ],
+      "posted_at": 1794853637.9129744
+    },
+    {
+      "title": "Rux zavodining Velslash sexiga yangi filtrlar o'rnatilmoqda",
+      "summary": "AGMK tarkibidagi Rux zavodining Velslash sexida atrof-muhitni muhofaza qilish va 'yashil texnologiyalar'ni joriy etish maqsadida zamonaviy avlod filtrlari o'rnatilmoqda.",
+      "norm_title": "rux zavodining velslash sexiga yangi filtrlar ornatilmoqda",
+      "topic_key": "rux-zavodi-filtrlar",
+      "stems": [
+        "filtr",
+        "sex",
+        "rnat",
+        "zavod",
+        "rux",
+        "velslash"
+      ],
+      "posted_at": 1794853647.710296
+    },
+    {
+      "title": "Olmaliq shahar IIBda xizmat intizomi va qonuniylik muhokama qilindi",
+      "summary": "Olmaliq shahar ichki ishlar bo'limida xodimlarning xizmat intizomi, kasbiy mas'uliyati hamda transport vositalaridan foydalanish tartibi o'rganilib, tegishli tavsiyalar berildi.",
+      "norm_title": "olmaliq shahar iibda xizmat intizomi va qonuniylik muhokama qilindi",
+      "topic_key": "olmaliq-iib-xizmat-intizomi",
+      "stems": [
+        "qonuniy",
+        "iib",
+        "xizmat",
+        "intizom"
+      ],
+      "posted_at": 1794853701.9322336
     }
   ]
 }
