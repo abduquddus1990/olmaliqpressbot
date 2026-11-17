@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86595,
-    "ao_agmk": 50273,
-    "olmaliqshaharpressa": 13013,
-    "olmaliq": 44024
+    "olmaliqhayoti": 86616,
+    "ao_agmk": 50277,
+    "olmaliqshaharpressa": 13015,
+    "olmaliq": 44041
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4037,89 +4037,30 @@
     "olmaliq:44021": 1794909862.1493535,
     "olmaliq:44022": 1794909866.0287614,
     "olmaliq:44023": 1794909902.344743,
-    "olmaliq:44024": 1794909907.2107909
+    "olmaliq:44024": 1794909907.2107909,
+    "olmaliqhayoti:86597": 1794941612.3101153,
+    "olmaliqhayoti:86598": 1794941627.7517889,
+    "olmaliqhayoti:86607": 1794941829.3513806,
+    "olmaliqhayoti:86614": 1794941838.455704,
+    "olmaliqhayoti:86615": 1794941838.4668782,
+    "olmaliqhayoti:86616": 1794941849.8836136,
+    "ao_agmk:50274": 1794941866.1009693,
+    "ao_agmk:50275": 1794941879.6885152,
+    "ao_agmk:50276": 1794941892.1507423,
+    "ao_agmk:50277": 1794941927.6955347,
+    "olmaliqshaharpressa:13014": 1794941967.4122179,
+    "olmaliqshaharpressa:13015": 1794941967.4232,
+    "olmaliq:44025": 1794942001.009349,
+    "olmaliq:44034": 1794942008.3078065,
+    "olmaliq:44035": 1794942014.1370292,
+    "olmaliq:44036": 1794942014.1480603,
+    "olmaliq:44037": 1794942021.5846064,
+    "olmaliq:44038": 1794942024.6011338,
+    "olmaliq:44039": 1794942029.8103318,
+    "olmaliq:44040": 1794942098.2803884,
+    "olmaliq:44041": 1794942104.6960242
   },
   "posted_articles": [
-    {
-      "title": "Surxondaryoda ayol yangi tug‘ilgan chaqalog‘ini hojatxonada tashlab ketdi",
-      "summary": "Surxondaryoda ayol hovlidagi hojatxonada dunyoga keltirgan chaqalog‘ini shu yerda qoldirgani oqibatida go‘dak bo‘g‘ilib vafot etdi. Sud qaroriga ko‘ra, ayolga 3 yil muddatga ozodlikni cheklash jazosi tayinlandi.",
-      "norm_title": "surxondaryoda ayol yangi tugilgan chaqalogini hojatxonada tashlab ketdi",
-      "topic_key": "surxondaryo-chaqaloq-olimi",
-      "stems": [
-        "ilgan",
-        "ayol",
-        "tug",
-        "ket",
-        "tashlab",
-        "ini",
-        "surxondaryo",
-        "chaqalog",
-        "hojatxona"
-      ],
-      "posted_at": 1793289438.1279871
-    },
-    {
-      "title": "O'zbekiston va Turkiya biznesni qo'llab-quvvatlash kengashini tuzdi",
-      "summary": "Prezidentlar Shavkat Mirziyoyev va Rejep Tayyip Erdog'an muzokaralar yakunida Biznesni qo'llab-quvvatlash bo'yicha yuqori darajadagi kengashni ta'sis etish to'g'risidagi bitimni imzoladilar.",
-      "norm_title": "ozbekiston va turkiya biznesni qollabquvvatlash kengashini tuzdi",
-      "topic_key": "uzbekistan-turkiya-biznes-kengash",
-      "stems": [
-        "zbekiston",
-        "turkiya",
-        "quvvatlash",
-        "tuz",
-        "kengash",
-        "biznes",
-        "llab"
-      ],
-      "posted_at": 1793306511.3764343
-    },
-    {
-      "title": "Prezident Turkiya kompaniyalari rahbarlarini qabul qildi",
-      "summary": "Davlat rahbari Turkiyaning yetakchi kompaniyalari rahbarlari bilan uchrashuv o'tkazdi.",
-      "norm_title": "prezident turkiya kompaniyalari rahbarlarini qabul qildi",
-      "topic_key": "prezident-turkiya-kompaniyalari",
-      "stems": [
-        "qil",
-        "kompaniya",
-        "turkiya",
-        "rahbar",
-        "qabul",
-        "prezident"
-      ],
-      "posted_at": 1793340361.802803
-    },
-    {
-      "title": "Kaleydoskop ansambli xalqaro tanlovda bosh sovrinni qo'lga kiritdi",
-      "summary": "Toshkentda o'tgan «Fortuna Fest Tashkent» tanlovida Nasiba Mambetova boshchiligidagi «Kaleydoskop» ansamblining kichik guruhi Gran-pri, o'rta guruhi esa 1-o'rinni egalladi.",
-      "norm_title": "kaleydoskop ansambli xalqaro tanlovda bosh sovrinni qolga kiritdi",
-      "topic_key": "kaleydoskop-ansambl-gala",
-      "stems": [
-        "bosh",
-        "kaleydoskop",
-        "sovrin",
-        "xalqaro",
-        "lga",
-        "tanlov",
-        "ansambl",
-        "kirit"
-      ],
-      "posted_at": 1793340374.9707327
-    },
-    {
-      "title": "Turkiy davlatlarga ID-karta orqali borish taklif qilindi",
-      "summary": "Prezident Shavkat Mirziyoyev Anqaradagi yig‘ilishda turkiy mamlakatlar fuqarolari uchun chet el pasportisiz, faqat ID-karta bilan o‘zaro safar qilish imkoniyatini kengaytirishni taklif etdi.",
-      "norm_title": "turkiy davlatlarga idkarta orqali borish taklif qilindi",
-      "topic_key": "id-karta-turkiy-davlatlar",
-      "stems": [
-        "karta",
-        "davlat",
-        "taklif",
-        "bor",
-        "turkiy"
-      ],
-      "posted_at": 1793364199.5504453
-    },
     {
       "title": "Gender tenglik masalalari bo'yicha tarmoq kengashi majlisi o'tkazildi",
       "summary": "Tog'-kon sanoati va geologiya vazirligida xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlarni ta'minlashga bag'ishlangan tarmoq kengashi majlisi bo'lib o'tdi. Unda \"Uzbekistan-Europe Women Leaders Network\" hamjamiyati tashkil etilgani e'lon qilindi.",
@@ -7036,6 +6977,78 @@
         "day"
       ],
       "posted_at": 1794909907.2164173
+    },
+    {
+      "title": "Olmaliq shahar tibbiyot birlashmasi hududida ko'chat ekildi",
+      "summary": "\"Yashil makon\" loyihasi doirasida shahar tibbiyot muassasalari atrofida obodonlashtirish va ko'chat ekish ishlari tashkil etildi.",
+      "norm_title": "olmaliq shahar tibbiyot birlashmasi hududida kochat ekildi",
+      "topic_key": "yashil-makon-tibbiyot",
+      "stems": [
+        "tibbiyot",
+        "chat",
+        "birlashma",
+        "hudud",
+        "ekil"
+      ],
+      "posted_at": 1794941627.7572966
+    },
+    {
+      "title": "Talabalar uchun dual ta'lim mashg'uloti o'tkazildi",
+      "summary": "MTTU MISiS Olmaliq filiali talabalari AGMKga qarashli 'Qalmoqqir' koni mexanika sexida amaliy darsda qatnashib, kon texnikalariga texnik xizmat ko'rsatish jarayonlari bilan tanishdilar.",
+      "norm_title": "talabalar uchun dual talim mashguloti otkazildi",
+      "topic_key": "mttu-misis-agmk-dual-talim",
+      "stems": [
+        "mashg",
+        "lim",
+        "talaba",
+        "ulot",
+        "dual",
+        "tkazil"
+      ],
+      "posted_at": 1794941866.1064684
+    },
+    {
+      "title": "O'zbekiston sanoati ko'rgazmasi bilan tanishuv",
+      "summary": "Prezidentimiz O'mon poytaxtida tashkil etilgan O'zbekiston sanoati ko'rgazmasiga tashrif buyurib, qo'shma loyihalar bilan tanishdi.",
+      "norm_title": "ozbekiston sanoati korgazmasi bilan tanishuv",
+      "topic_key": "prezident-oman-sanoat-korgazmasi",
+      "stems": [
+        "tanishuv",
+        "zbekiston",
+        "sanoat",
+        "rgazma"
+      ],
+      "posted_at": 1794941879.6941814
+    },
+    {
+      "title": "O'zbekiston terma jamoasi bugun Saudiya Arabistoniga qarshi maydonga tushadi",
+      "summary": "Fabio Kannavaro boshchiligidagi O'zbekiston milliy terma jamoasi bugun, 17 noyabr kuni soat 20:30 da Saudiya Arabistoni bilan o'rtoqlik o'yini o'tkazadi.",
+      "norm_title": "ozbekiston terma jamoasi bugun saudiya arabistoniga qarshi maydonga tushadi",
+      "topic_key": "ozbekiston-saudiya-futbol-oyin",
+      "stems": [
+        "jamoa",
+        "terma",
+        "arabiston",
+        "qarsh",
+        "saudiya",
+        "tush",
+        "zbekiston",
+        "maydon"
+      ],
+      "posted_at": 1794942021.590144
+    },
+    {
+      "title": "O'zbekistonda maktab ta'limi 12 yillik bo'ladi",
+      "summary": "Qonunchilik palatasi O'zbekistonda maktab ta'limini 12 yillik qilish va maktabgacha ta'limni majburiy etib belgilash bo'yicha qonun loyihasini ma'qulladi.",
+      "norm_title": "ozbekistonda maktab talimi 12 yillik boladi",
+      "topic_key": "12-yillik-maktab-talimi",
+      "stems": [
+        "lad",
+        "zbekiston",
+        "maktab",
+        "lim"
+      ],
+      "posted_at": 1794942029.8159454
     }
   ]
 }
