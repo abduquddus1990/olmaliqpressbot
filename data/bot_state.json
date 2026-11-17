@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86574,
-    "ao_agmk": 50250,
-    "olmaliqshaharpressa": 13005,
-    "olmaliq": 44019
+    "olmaliqhayoti": 86595,
+    "ao_agmk": 50273,
+    "olmaliqshaharpressa": 13013,
+    "olmaliq": 44024
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4015,134 +4015,31 @@
     "olmaliq:44019": 1794853789.104578,
     "olmaliqhayoti:86563": 1794880521.0362213,
     "olmaliqhayoti:86564": 1794880557.9764683,
-    "olmaliqhayoti:86574": 1794880571.1874604
+    "olmaliqhayoti:86574": 1794880571.1874604,
+    "olmaliqhayoti:86576": 1794909338.834204,
+    "olmaliqhayoti:86577": 1794909348.7017572,
+    "olmaliqhayoti:86578": 1794909362.7324474,
+    "olmaliqhayoti:86579": 1794909380.1090894,
+    "olmaliqhayoti:86580": 1794909398.7190623,
+    "olmaliqhayoti:86581": 1794909474.7229533,
+    "olmaliqhayoti:86582": 1794909531.2367527,
+    "olmaliqhayoti:86587": 1794909580.506824,
+    "olmaliqhayoti:86588": 1794909618.9137523,
+    "olmaliqhayoti:86595": 1794909618.9242883,
+    "ao_agmk:50254": 1794909663.2601943,
+    "ao_agmk:50265": 1794909702.143279,
+    "ao_agmk:50269": 1794909739.820948,
+    "ao_agmk:50270": 1794909755.3912284,
+    "ao_agmk:50272": 1794909761.2533455,
+    "ao_agmk:50273": 1794909772.2706323,
+    "olmaliqshaharpressa:13013": 1794909819.2164812,
+    "olmaliq:44020": 1794909824.0005834,
+    "olmaliq:44021": 1794909862.1493535,
+    "olmaliq:44022": 1794909866.0287614,
+    "olmaliq:44023": 1794909902.344743,
+    "olmaliq:44024": 1794909907.2107909
   },
   "posted_articles": [
-    {
-      "title": "Piskentda zamonaviy aqlli ko'chatxona ishga tushirildi",
-      "summary": "Piskent tumanida KOICA ko'magida qiymati 7,7 million dollarlik 7 gektarlik zamonaviy aqlli ko'chatxonalar majmuasi foydalanishga topshirildi.",
-      "norm_title": "piskentda zamonaviy aqlli kochatxona ishga tushirildi",
-      "topic_key": "piskent-aqlli-kochatxona",
-      "stems": [
-        "tushiril",
-        "piskent",
-        "aqll",
-        "zamonaviy",
-        "chatxona",
-        "ish"
-      ],
-      "posted_at": 1793264259.6197937
-    },
-    {
-      "title": "AGMKda kuz-qish mavsumiga tayyorgarlik yuzasidan onlayn muloqot o'tkaziladi",
-      "summary": "2026-yil 29-oktyabr kuni soat 15:00 da kombinatning rasmiy Telegram kanalida kuz-qish mavsumiga tayyorgarlik mavzusida onlayn muloqot bo'lib o'tadi. Fuqarolar o'zlarini qiziqtirgan savollarni mas'ullarga to'g'ridan-to'g'ri berishlari mumkin.",
-      "norm_title": "agmkda kuzqish mavsumiga tayyorgarlik yuzasidan onlayn muloqot otkaziladi",
-      "topic_key": "agmk-kuz-qish-tayyorgarlik",
-      "stems": [
-        "tayyorgar",
-        "onlayn",
-        "mavsum",
-        "agmk",
-        "kuz",
-        "qish",
-        "yuza",
-        "muloqot",
-        "tkaz"
-      ],
-      "posted_at": 1793264270.140868
-    },
-    {
-      "title": "OKMKda mehnat muhofazasi bo'yicha 9 oylik faoliyat tahlil qilindi",
-      "summary": "OKMKda o'tkazilgan yig'ilishda 9 oy davomida mehnatni muhofaza qilish va sanoat xavfsizligi bo'yicha amalga oshirilgan ishlar sarhisob qilinib, IV chorak uchun ustuvor vazifalar belgilandi.",
-      "norm_title": "okmkda mehnat muhofazasi boyicha 9 oylik faoliyat tahlil qilindi",
-      "topic_key": "okmk-mehnat-muhofazasi",
-      "stems": [
-        "okmk",
-        "mehnat",
-        "faoliyat",
-        "yicha",
-        "muhofaza",
-        "tahlil",
-        "oylik"
-      ],
-      "posted_at": 1793264281.441561
-    },
-    {
-      "title": "Olmaliqlik yosh tadbirkor 100 million so'm kredit evaziga mebel ishlab chiqarishni yo'lga qo'ydi",
-      "summary": "Olmaliq shahrida yashovchi Ulug'bek Hamraliyev 100 million so'm imtiyozli kredit olib, mebel ishlab chiqarish faoliyatini boshladi. Bugungi kunda uning sifatli va nafis dizaynli mahsulotlari xaridorlar e'tiborini qozonmoqda.",
-      "norm_title": "olmaliqlik yosh tadbirkor 100 million som kredit evaziga mebel ishlab chiqarishni yolga qoydi",
-      "topic_key": "yoshlar-tadbirkorligi-kredit-mebel",
-      "stems": [
-        "ishlab",
-        "evaz",
-        "kredit",
-        "tadbirkor",
-        "100",
-        "million",
-        "mebel",
-        "chiqar",
-        "lga",
-        "ydi",
-        "yosh"
-      ],
-      "posted_at": 1793264296.2600234
-    },
-    {
-      "title": "Mehnat huquqlari va tovon pullari undirildi",
-      "summary": "Davlat mehnat inspeksiyasi aralashuvi bilan ish joyida vafot etgan 205 nafar shaxs uchun 16 mlrd so‘mdan ortiq tovon puli undirildi, shuningdek, xodimlarning millionlab so‘mlik oylik maoshlari qoplab berildi.",
-      "norm_title": "mehnat huquqlari va tovon pullari undirildi",
-      "topic_key": "mehnat-inspeksiyasi-tovon-puli",
-      "stems": [
-        "huquq",
-        "undiril",
-        "tovon",
-        "pul",
-        "mehnat"
-      ],
-      "posted_at": 1793289144.8527684
-    },
-    {
-      "title": "O'zbekistonda ilk qor kuzatildi",
-      "summary": "Qashqadaryoning Maydanak hududida ilk qor yog'di. Noyabr oyining boshidan boshlab respublika bo'ylab kuchli yomg'irlar kutilmoqda.",
-      "norm_title": "ozbekistonda ilk qor kuzatildi",
-      "topic_key": "ilk-qor-yomgir-ob-havo",
-      "stems": [
-        "zbekiston",
-        "ilk",
-        "kuzatil",
-        "qor"
-      ],
-      "posted_at": 1793289259.4811738
-    },
-    {
-      "title": "Kanada elchisi O'zbekiston bilan hamkorlikni rivojlantirishga tayyor",
-      "summary": "Kanadaning O'zbekistondagi elchisi Kristofer Daggan ikki mamlakat o'rtasidagi munosabatlarni, xususan, o'zbek korxonalari bilan hamkorlik qilishni qo'llab-quvvatlashga tayyorligini bildirdi.",
-      "norm_title": "kanada elchisi ozbekiston bilan hamkorlikni rivojlantirishga tayyor",
-      "topic_key": "kanada-ozbekiston-hamkorlik",
-      "stems": [
-        "rivojlan",
-        "elch",
-        "zbekiston",
-        "hamkor",
-        "tayyor",
-        "kana"
-      ],
-      "posted_at": 1793289306.0452
-    },
-    {
-      "title": "O‘zbekiston Prezidenti Anqaraga tashrif buyurdi",
-      "summary": "O‘zbekiston Respublikasi Prezidenti rafiqasi hamrohligida amaliy tashrif bilan Anqara shahriga keldi.",
-      "norm_title": "ozbekiston prezidenti anqaraga tashrif buyurdi",
-      "topic_key": "prezident-ankara-tashrifi",
-      "stems": [
-        "buyur",
-        "anqara",
-        "zbekiston",
-        "prezident",
-        "tashrif"
-      ],
-      "posted_at": 1793289332.657068
-    },
     {
       "title": "Surxondaryoda ayol yangi tug‘ilgan chaqalog‘ini hojatxonada tashlab ketdi",
       "summary": "Surxondaryoda ayol hovlidagi hojatxonada dunyoga keltirgan chaqalog‘ini shu yerda qoldirgani oqibatida go‘dak bo‘g‘ilib vafot etdi. Sud qaroriga ko‘ra, ayolga 3 yil muddatga ozodlikni cheklash jazosi tayinlandi.",
@@ -7015,6 +6912,130 @@
         "hujjat"
       ],
       "posted_at": 1794880571.1930304
+    },
+    {
+      "title": "Olmaliqda ajrim yoqasidagi oilalar yarashtirildi",
+      "summary": "Olmaliq shahrida o'tkazilgan muhokama yig'ilishida mas'ullar ishtirokida 7 ta oila yarashtirilib, 12 nafar farzandning yetim qolishi oldi olindi.",
+      "norm_title": "olmaliqda ajrim yoqasidagi oilalar yarashtirildi",
+      "topic_key": "oilani-yarashtirish-ajrim",
+      "stems": [
+        "yarashtiril",
+        "ajrim",
+        "yoqa",
+        "oila"
+      ],
+      "posted_at": 1794909338.839835
+    },
+    {
+      "title": "Xitoydan kelgan bolalar kiyimlarini yuvib kiydiring",
+      "summary": "Mutaxassislar Xitoydan keltirilgan bolalar kiyimlarini salomatlikni saqlash maqsadida kiyishdan oldin albatta yuvib olishni tavsiya qilmoqda.",
+      "norm_title": "xitoydan kelgan bolalar kiyimlarini yuvib kiydiring",
+      "topic_key": "bolalar-kiyimi-ogohlantirish",
+      "stems": [
+        "kel",
+        "kiyim",
+        "xitoy",
+        "yuvib",
+        "bola",
+        "kiydiring"
+      ],
+      "posted_at": 1794909362.7379715
+    },
+    {
+      "title": "Ishlamaydigan oila a'zolariga pensiya staji to'plash imkoni yaratiladi",
+      "summary": "2027-yil 1-yanvardan boshlab rasmiy daromadga ega shaxslar ishlamaydigan yaqinlari uchun har oy MHEKMning 12 foizi miqdorida ixtiyoriy ijtimoiy soliq to'lab, staj yaratib berishi mumkin.",
+      "norm_title": "ishlamaydigan oila azolariga pensiya staji toplash imkoni yaratiladi",
+      "topic_key": "oilaga-pensiya-staji",
+      "stems": [
+        "zolar",
+        "pensiya",
+        "staj",
+        "yarat",
+        "imko",
+        "plash",
+        "ishlama",
+        "oila"
+      ],
+      "posted_at": 1794909380.114587
+    },
+    {
+      "title": "Vashingtonda o‘zbek milliy ayvonlari o‘rnatildi",
+      "summary": "Shavkat Mirziyoyev AQSh mustaqilligining 250 yilligi munosabati bilan Vashingtondagi park uchun Donald Tramp va Amerika xalqiga o‘zbek milliy ayvonlarini sovg‘a qildi.",
+      "norm_title": "vashingtonda ozbek milliy ayvonlari ornatildi",
+      "topic_key": "vashington-ozbek-ayvonlari",
+      "stems": [
+        "zbek",
+        "ayvon",
+        "rnatil",
+        "milliy",
+        "vashington"
+      ],
+      "posted_at": 1794909531.24229
+    },
+    {
+      "title": "Oʻzbekiston Prezidentini Umonda rasmiy kutib olishdi",
+      "summary": "Masqat shahridagi “Al-Aʼlam” saroyida Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyevni rasmiy kutib olish marosimi boʻlib oʻtdi.",
+      "norm_title": "oʻzbekiston prezidentini umonda rasmiy kutib olishdi",
+      "topic_key": "prezident-umon-tashrifi",
+      "stems": [
+        "ozbekiston",
+        "olish",
+        "kutib",
+        "rasmiy",
+        "umon",
+        "prezident"
+      ],
+      "posted_at": 1794909663.2656474
+    },
+    {
+      "title": "OKMK kurashchisi O'zbekiston kubogida kumush medalni qo'lga kiritdi",
+      "summary": "Farg'ona shahrida o'tkazilgan belbog'li kurash bo'yicha O'zbekiston kubogida OKMK tarbiyalanuvchisi Jumadulla Isroilov 90 kg vazn toifasida faxrli ikkinchi o'rinni egalladi.",
+      "norm_title": "okmk kurashchisi ozbekiston kubogida kumush medalni qolga kiritdi",
+      "topic_key": "okmk-kurash-ozbekiston-kubogi",
+      "stems": [
+        "kirit",
+        "kumush",
+        "zbekiston",
+        "okmk",
+        "kubog",
+        "kurashch",
+        "medal",
+        "lga"
+      ],
+      "posted_at": 1794909755.3968372
+    },
+    {
+      "title": "AGMKda yoshlar o'rtasida korrupsiyaga qarshi kurash mavzusida tanlov e'lon qilindi",
+      "summary": "Xalqaro korrupsiyaga qarshi kurashish kuniga bag'ishlab kombiant yoshlari o'rtasida maqola, rasm, she'r va videoroliklar yo'nalishlarida tanlov o'tkazilmoqda. Ijodiy ishlar 25-noyabrgacha qabul qilinadi.",
+      "norm_title": "agmkda yoshlar ortasida korrupsiyaga qarshi kurash mavzusida tanlov elon qilindi",
+      "topic_key": "agmk-korrupsiyaga-qarshi-tanlov",
+      "stems": [
+        "mavzu",
+        "qarsh",
+        "yosh",
+        "rta",
+        "agmk",
+        "lon",
+        "kurash",
+        "tanlov",
+        "korrupsiya"
+      ],
+      "posted_at": 1794909772.2761643
+    },
+    {
+      "title": "Toshkentda daydi hayvonlar va qushlar ommaviy nobud bo'lmoqda",
+      "summary": "Uchtepa tumanida daydi hayvonlar va qushlarning o'lik holda topilishi yuzasidan tekshiruv boshlandi. Aholi ularning zaharlangan bo'lishi mumkinligidan xavotirda.",
+      "norm_title": "toshkentda daydi hayvonlar va qushlar ommaviy nobud bolmoqda",
+      "topic_key": "daydi-hayvonlar-noqobuliyat",
+      "stems": [
+        "qush",
+        "lmoq",
+        "nobud",
+        "hayvon",
+        "ommaviy",
+        "day"
+      ],
+      "posted_at": 1794909907.2164173
     }
   ]
 }
