@@ -1,6 +1,6 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86562,
+    "olmaliqhayoti": 86574,
     "ao_agmk": 50250,
     "olmaliqshaharpressa": 13005,
     "olmaliq": 44019
@@ -4012,36 +4012,12 @@
     "olmaliq:44016": 1794853743.5157478,
     "olmaliq:44017": 1794853749.7754717,
     "olmaliq:44018": 1794853749.7916083,
-    "olmaliq:44019": 1794853789.104578
+    "olmaliq:44019": 1794853789.104578,
+    "olmaliqhayoti:86563": 1794880521.0362213,
+    "olmaliqhayoti:86564": 1794880557.9764683,
+    "olmaliqhayoti:86574": 1794880571.1874604
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda Ichki ishlar organlari xodimlari kuni nishonlandi",
-      "summary": "“Nurnigor” to‘yxonasida shahar hokimi va mas'ul rahbarlar ishtirokida kasb bayrami tantanali nishonlanib, faol xodimlar taqdirlandi.",
-      "norm_title": "olmaliqda ichki ishlar organlari xodimlari kuni nishonlandi",
-      "topic_key": "iichki-ishlar-kuni-olmaliq",
-      "stems": [
-        "xodim",
-        "organ",
-        "ichk",
-        "ish",
-        "nishonlan"
-      ],
-      "posted_at": 1793197765.3782175
-    },
-    {
-      "title": "Olmaliqda tadbirkorlar bilan ochiq muloqot o'tkazildi",
-      "summary": "Shahar hokimligi va Xalq banki rahbarlari ishtirokidagi uchrashuvda tadbirkorlarning kadastr va kredit olishga oid murojaatlari ko'rib chiqilib, ularni hal etish choralari muhokama qilindi.",
-      "norm_title": "olmaliqda tadbirkorlar bilan ochiq muloqot otkazildi",
-      "topic_key": "tadbirkorlar-muloqoti-xalq-banki",
-      "stems": [
-        "tadbirkor",
-        "ochiq",
-        "tkazil",
-        "muloqot"
-      ],
-      "posted_at": 1793264247.3856604
-    },
     {
       "title": "Piskentda zamonaviy aqlli ko'chatxona ishga tushirildi",
       "summary": "Piskent tumanida KOICA ko'magida qiymati 7,7 million dollarlik 7 gektarlik zamonaviy aqlli ko'chatxonalar majmuasi foydalanishga topshirildi.",
@@ -7009,6 +6985,36 @@
         "intizom"
       ],
       "posted_at": 1794853701.9322336
+    },
+    {
+      "title": "Olmaliqda \"Buvijonlar maktabi\" milliy urf-odatlarni targ'ib qilmoqda",
+      "summary": "Olmaliqning 41 ta mahallasidagi 451 nafar buvijonni qamrab olgan loyiha doirasida Hamza mahallasida milliy an'analar va ma'naviy-ma'rifiy tadbir o'tkazildi.",
+      "norm_title": "olmaliqda buvijonlar maktabi milliy urfodatlarni targib qilmoqda",
+      "topic_key": "buvijonlar-maktabi-tadbiri",
+      "stems": [
+        "targ",
+        "buvijon",
+        "maktab",
+        "odat",
+        "milliy",
+        "qil",
+        "urf"
+      ],
+      "posted_at": 1794880557.9821415
+    },
+    {
+      "title": "\"Yil ayoli\" milliy tanloviga hujjatlar qabuli boshlandi",
+      "summary": "Olmaliq shahar hokimligi Oila va xotin-qizlar boʻlimi \"Yil ayoli\" milliy tanlovi boʻyicha turli nominatsiyalar uchun hujjatlar qabul qilishni boshladi. Arizalar 20-noyabrga qadar qabul qilinadi.",
+      "norm_title": "yil ayoli milliy tanloviga hujjatlar qabuli boshlandi",
+      "topic_key": "yil-ayoli-tanlovi",
+      "stems": [
+        "ayol",
+        "tanlov",
+        "qabul",
+        "milliy",
+        "hujjat"
+      ],
+      "posted_at": 1794880571.1930304
     }
   ]
 }
