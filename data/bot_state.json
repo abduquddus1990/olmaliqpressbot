@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86617,
-    "ao_agmk": 50277,
-    "olmaliqshaharpressa": 13015,
-    "olmaliq": 44043
+    "olmaliqhayoti": 86628,
+    "ao_agmk": 50297,
+    "olmaliqshaharpressa": 13024,
+    "olmaliq": 44045
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4061,75 +4061,26 @@
     "olmaliq:44041": 1794942104.6960242,
     "olmaliqhayoti:86617": 1794965077.9525833,
     "olmaliq:44042": 1794965085.209529,
-    "olmaliq:44043": 1794965089.5845168
+    "olmaliq:44043": 1794965089.5845168,
+    "olmaliqhayoti:86618": 1794991408.9871788,
+    "olmaliqhayoti:86623": 1794991441.3857174,
+    "olmaliqhayoti:86624": 1794991441.3981352,
+    "olmaliqhayoti:86625": 1794991474.2277954,
+    "olmaliqhayoti:86626": 1794991541.5088425,
+    "olmaliqhayoti:86627": 1794991544.5245442,
+    "olmaliqhayoti:86628": 1794991545.321558,
+    "ao_agmk:50278": 1794991578.6061158,
+    "ao_agmk:50279": 1794991614.50918,
+    "ao_agmk:50282": 1794991642.157179,
+    "ao_agmk:50288": 1794991686.244026,
+    "ao_agmk:50297": 1794991722.004635,
+    "olmaliqshaharpressa:13016": 1794991759.6120198,
+    "olmaliqshaharpressa:13023": 1794991792.46994,
+    "olmaliqshaharpressa:13024": 1794991828.7569125,
+    "olmaliq:44044": 1794991853.3847935,
+    "olmaliq:44045": 1794991891.8723907
   },
   "posted_articles": [
-    {
-      "title": "Gender tenglik masalalari bo'yicha tarmoq kengashi majlisi o'tkazildi",
-      "summary": "Tog'-kon sanoati va geologiya vazirligida xotin-qizlar va erkaklar uchun teng huquq hamda imkoniyatlarni ta'minlashga bag'ishlangan tarmoq kengashi majlisi bo'lib o'tdi. Unda \"Uzbekistan-Europe Women Leaders Network\" hamjamiyati tashkil etilgani e'lon qilindi.",
-      "norm_title": "gender tenglik masalalari boyicha tarmoq kengashi majlisi otkazildi",
-      "topic_key": "gender-tenglik-kengashi",
-      "stems": [
-        "kengash",
-        "yicha",
-        "tarmoq",
-        "gender",
-        "masala",
-        "teng",
-        "majl",
-        "tkazil"
-      ],
-      "posted_at": 1793364227.8857863
-    },
-    {
-      "title": "AGMK xodimlari MMG kompaniyasida raqamlashtirish tajribasini o'rgandi",
-      "summary": "AGMK Sun'iy intellektni rivojlantirish va joriy etish bo'limi mutaxassislari Multinational Mine Group (MMG) kompaniyasiga tashrif buyurib, sohadagi raqamli tajriba bilan tanishdilar.",
-      "norm_title": "agmk xodimlari mmg kompaniyasida raqamlashtirish tajribasini organdi",
-      "topic_key": "agmk-mmg-raqamlashtirish",
-      "stems": [
-        "kompaniya",
-        "rgan",
-        "agmk",
-        "mmg",
-        "tajriba",
-        "xodim",
-        "raqamlash"
-      ],
-      "posted_at": 1793364238.850346
-    },
-    {
-      "title": "MBFda Eng yaxshi yosh mexanik-2026 tanlovi g'oliblari aniqlandi",
-      "summary": "Mis boyitish fabrikasida o'tkazilgan kasb-mahorat tanlovida Mirzabek Masharov 1-o'rinni egalladi. G'olib va sovrindorlar diplom hamda esdalik sovg'alari bilan taqdirlandi.",
-      "norm_title": "mbfda eng yaxshi yosh mexanik2026 tanlovi goliblari aniqlandi",
-      "topic_key": "mbf-yosh-mexanik-tanlovi",
-      "stems": [
-        "mexanik",
-        "yosh",
-        "eng",
-        "olib",
-        "mbf",
-        "tanlov",
-        "2026",
-        "yaxsh",
-        "aniqlan"
-      ],
-      "posted_at": 1793364248.3599567
-    },
-    {
-      "title": "Olmaliqda shahar IIB boshlig'ining sayyor qabullari o'tkaziladi",
-      "summary": "31-oktabr kuni shahar IIB binosida hamda 1-noyabr kuni «O'zbekiston» MFYda Olmaliq shahar IIB boshlig'i Sherzod Shermatov fuqarolar murojaatlari bo'yicha sayyor qabul o'tkazadi.",
-      "norm_title": "olmaliqda shahar iib boshligining sayyor qabullari otkaziladi",
-      "topic_key": "iib-boshligi-sayyor-qabul",
-      "stems": [
-        "qabul",
-        "sayyor",
-        "tkaz",
-        "boshlig",
-        "ining",
-        "iib"
-      ],
-      "posted_at": 1793364275.1927106
-    },
     {
       "title": "Ehtiyojmand oilalarga 1 million so'mdan bir martalik yordam beriladi",
       "summary": "Prezident farmoniga ko'ra, 2026/2027-yilgi isitish mavsumida Ijtimoiy reyestrdagi hamda ehtiyojmand deb topilgan boshqa oilalarga noyabr oyida 1 million so'mdan bir martalik moddiy yordam ajratiladi.",
@@ -7052,6 +7003,65 @@
         "lim"
       ],
       "posted_at": 1794942029.8159454
+    },
+    {
+      "title": "Olmaliq shahar hokimligining shaxsiy qabullar jadvali e'lon qilindi",
+      "summary": "Olmaliq shahar hokimi va uning o'rinbosarlari fuqarolarning murojaatlarini tinglash va ularga yechim topish maqsadida rejali shaxsiy qabullar o'tkazmoqda.",
+      "norm_title": "olmaliq shahar hokimligining shaxsiy qabullar jadvali elon qilindi",
+      "topic_key": "olmaliq-hokimiyat-qabul-jadvali",
+      "stems": [
+        "shaxsiy",
+        "jadval",
+        "lon",
+        "hokimlig",
+        "qabul"
+      ],
+      "posted_at": 1794991541.5150447
+    },
+    {
+      "title": "OKMK FA U-11 jamoasi xalqaro turnir g'olibiga aylandi",
+      "summary": "OKMK futbol akademiyasining 11 yoshgacha bo'lgan tarbiyalanuvchilari Qozog'istonda o'tkazilgan \"Turkestan Cup\" xalqaro turniri finalida \"Odil Ahmedov\" akademiyasini penaltilar seriyasida mag'lub etib, bosh sovrinni qo'lga kiritdi.",
+      "norm_title": "okmk fa u11 jamoasi xalqaro turnir golibiga aylandi",
+      "topic_key": "okmk-turkiston-kubogi",
+      "stems": [
+        "olib",
+        "okmk",
+        "aylan",
+        "jamoa",
+        "xalqaro",
+        "turnir"
+      ],
+      "posted_at": 1794991642.1620672
+    },
+    {
+      "title": "OKMKda Davlat bayrog'i qabul qilinganining 35 yilligi nishonlandi",
+      "summary": "Olmaliq kon-metallurgiya kombinatida O'zbekiston Respublikasi Davlat bayrog'i qabul qilinganining 35 yilligiga bag'ishlangan tantanali bayram tadbiri va avtomobillar yurishi tashkil etildi.",
+      "norm_title": "okmkda davlat bayrogi qabul qilinganining 35 yilligi nishonlandi",
+      "topic_key": "okmk-bayram-tadbir",
+      "stems": [
+        "nishonlan",
+        "okmk",
+        "davlat",
+        "qilin",
+        "qabul",
+        "bayrog"
+      ],
+      "posted_at": 1794991686.24904
+    },
+    {
+      "title": "Mahalla yetakchilari mahalliy gazetalarga obuna bo'lishmoqda",
+      "summary": "Olmaliqda mahalla yetakchilari hududdagi so'nggi o'zgarishlar va rasmiy qarorlardan xabardor bo'lish hamda aholiga o'z vaqtida ma'lumot yetkazish uchun mahalliy gazetalarga obuna bo'lishmoqda.",
+      "norm_title": "mahalla yetakchilari mahalliy gazetalarga obuna bolishmoqda",
+      "topic_key": "mahalla-yetakchilari-gazeta-obuna",
+      "stems": [
+        "lish",
+        "gazeta",
+        "yetakch",
+        "obuna",
+        "mahalliy",
+        "mahalla"
+      ],
+      "posted_at": 1794991828.7617157
     }
   ]
 }
