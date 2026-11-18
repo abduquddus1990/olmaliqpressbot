@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86628,
-    "ao_agmk": 50297,
-    "olmaliqshaharpressa": 13024,
-    "olmaliq": 44045
+    "olmaliqhayoti": 86653,
+    "ao_agmk": 50310,
+    "olmaliqshaharpressa": 13033,
+    "olmaliq": 44064
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4078,54 +4078,27 @@
     "olmaliqshaharpressa:13023": 1794991792.46994,
     "olmaliqshaharpressa:13024": 1794991828.7569125,
     "olmaliq:44044": 1794991853.3847935,
-    "olmaliq:44045": 1794991891.8723907
+    "olmaliq:44045": 1794991891.8723907,
+    "olmaliqhayoti:86633": 1795023324.6165035,
+    "olmaliqhayoti:86643": 1795023371.0579295,
+    "olmaliqhayoti:86653": 1795023371.0685906,
+    "ao_agmk:50298": 1795023447.678262,
+    "ao_agmk:50303": 1795023466.6824005,
+    "ao_agmk:50307": 1795023466.6932375,
+    "ao_agmk:50308": 1795023466.7036703,
+    "ao_agmk:50309": 1795023476.3616705,
+    "ao_agmk:50310": 1795023481.9165108,
+    "olmaliqshaharpressa:13028": 1795023494.3894475,
+    "olmaliqshaharpressa:13033": 1795023504.6759884,
+    "olmaliq:44054": 1795023547.0118775,
+    "olmaliq:44058": 1795023552.172027,
+    "olmaliq:44059": 1795023561.847773,
+    "olmaliq:44061": 1795023561.8588564,
+    "olmaliq:44062": 1795023570.6834493,
+    "olmaliq:44063": 1795023574.6825461,
+    "olmaliq:44064": 1795023579.0690625
   },
   "posted_articles": [
-    {
-      "title": "Ehtiyojmand oilalarga 1 million so'mdan bir martalik yordam beriladi",
-      "summary": "Prezident farmoniga ko'ra, 2026/2027-yilgi isitish mavsumida Ijtimoiy reyestrdagi hamda ehtiyojmand deb topilgan boshqa oilalarga noyabr oyida 1 million so'mdan bir martalik moddiy yordam ajratiladi.",
-      "norm_title": "ehtiyojmand oilalarga 1 million somdan bir martalik yordam beriladi",
-      "topic_key": "ehtiyojmand-oilalar-moddiy-yordam",
-      "stems": [
-        "ber",
-        "ehtiyojmand",
-        "million",
-        "marta",
-        "bir",
-        "yordam",
-        "mdan",
-        "oila"
-      ],
-      "posted_at": 1793364292.2653115
-    },
-    {
-      "title": "\"Hilol\" MFYga yangi rais saylandi",
-      "summary": "O‘zbekiston mahallalar uyushmasi raisi boshchiligida o‘tkazilgan saylov natijalariga ko‘ra, Nodirov Sarvar Abduqodirovich \"Hilol\" mahalla fuqarolar yig‘ini raisi etib tasdiqlandi.",
-      "norm_title": "hilol mfyga yangi rais saylandi",
-      "topic_key": "hilol-mfy-rais-saylov",
-      "stems": [
-        "mfy",
-        "hilol",
-        "rais",
-        "saylan"
-      ],
-      "posted_at": 1793384055.5415921
-    },
-    {
-      "title": "3-MBF qurilish obyektiga qorovullar ishga taklif etiladi",
-      "summary": "AGMK 3-Mis boyitish fabrikasi qurilishida ishlash uchun 18 yoshdan 45 yoshgacha bo'lgan harbiy xizmatni o'tagan fuqarolar qorovullikka taklif etiladi. Hujjatlar 10-noyabrga qadar vvo.ok@agmk.uz pochtasi orqali qabul qilinadi.",
-      "norm_title": "3mbf qurilish obyektiga qorovullar ishga taklif etiladi",
-      "topic_key": "agmk-qorovul-vakansiya",
-      "stems": [
-        "obyekt",
-        "mbf",
-        "ish",
-        "taklif",
-        "quril",
-        "qorovul"
-      ],
-      "posted_at": 1793384075.25394
-    },
     {
       "title": "Olmaliqda yuguriş marafoni munosabati bilan yöl harakati vaqtinça çeklanadi",
       "summary": "2026-yil 31-oktyabr kuni soat 10:00 dan 11:00 gaça Abdulla Qahhor köçasidagi yangi yölda avtomobillar harakati vaqtinça töxtatiladi.",
@@ -7062,6 +7035,47 @@
         "mahalla"
       ],
       "posted_at": 1794991828.7617157
+    },
+    {
+      "title": "AGMK xalqaro iqlim sammitida ekologik tashabbuslarini taqdim etdi",
+      "summary": "Turkiyadagi COP31 sammitida AGMK vakillari karyer texnikalarini vodorod yoqilg‘isiga o‘tkazish, ekologik grantlar jalb qilish va Turkiya bilan hamkorlik bo‘yicha muzokaralar olib bordi.",
+      "norm_title": "agmk xalqaro iqlim sammitida ekologik tashabbuslarini taqdim etdi",
+      "topic_key": "agmk-iqlim-sammiti",
+      "stems": [
+        "xalqaro",
+        "iqlim",
+        "tashabbus",
+        "sammit",
+        "taqdim",
+        "ekologik",
+        "agmk",
+        "etd"
+      ],
+      "posted_at": 1795023447.684015
+    },
+    {
+      "title": "Olmaliq shahar hokimi tadbirkorlar bilan uchrashdi",
+      "summary": "Olmaliq shahar hokimi Bahrayot Meliyev tadbirkorlar bilan ochiq muloqot o'tkazib, ularning murojaat va takliflarini tingladi. Mas'ullarga ko'tarilgan masalalarni qonuniy hal etish bo'yicha topshiriqlar berildi.",
+      "norm_title": "olmaliq shahar hokimi tadbirkorlar bilan uchrashdi",
+      "topic_key": "olmaliq-hokim-tadbirkorlar-muloqoti",
+      "stems": [
+        "hokim",
+        "uchrash",
+        "tadbirkor"
+      ],
+      "posted_at": 1795023504.6815364
+    },
+    {
+      "title": "Olmaliq shahri uchun kunlik namoz vaqtlari",
+      "summary": "19-noyabr payshanba kuni uchun Olmaliq shahridagi namoz vaqtlari e'lon qilindi.",
+      "norm_title": "olmaliq shahri uchun kunlik namoz vaqtlari",
+      "topic_key": "namoz-vaqtlari-olmaliq",
+      "stems": [
+        "namoz",
+        "shahr",
+        "vaqt"
+      ],
+      "posted_at": 1795023579.074892
     }
   ]
 }
