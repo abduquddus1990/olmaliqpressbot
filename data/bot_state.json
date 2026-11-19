@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86654,
-    "ao_agmk": 50310,
+    "olmaliqhayoti": 86657,
+    "ao_agmk": 50311,
     "olmaliqshaharpressa": 13033,
-    "olmaliq": 44064
+    "olmaliq": 44065
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4097,39 +4097,14 @@
     "olmaliq:44062": 1795023570.6834493,
     "olmaliq:44063": 1795023574.6825461,
     "olmaliq:44064": 1795023579.0690625,
-    "olmaliqhayoti:86654": 1795044736.694148
+    "olmaliqhayoti:86654": 1795044736.694148,
+    "olmaliqhayoti:86655": 1795062403.0112753,
+    "olmaliqhayoti:86656": 1795062427.09766,
+    "ao_agmk:50311": 1795062427.6190062,
+    "olmaliq:44065": 1795062431.9717724,
+    "olmaliqhayoti:86657": 1795062470.983739
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda yuguriş marafoni munosabati bilan yöl harakati vaqtinça çeklanadi",
-      "summary": "2026-yil 31-oktyabr kuni soat 10:00 dan 11:00 gaça Abdulla Qahhor köçasidagi yangi yölda avtomobillar harakati vaqtinça töxtatiladi.",
-      "norm_title": "olmaliqda yuguriş marafoni munosabati bilan yöl harakati vaqtinça çeklanadi",
-      "topic_key": "olmaliq-marafon-yol-yopilishi",
-      "stems": [
-        "vaqtina",
-        "harakat",
-        "munosabat",
-        "yugur",
-        "marafo",
-        "eklan"
-      ],
-      "posted_at": 1793384085.5477474
-    },
-    {
-      "title": "Suvdan qarzdorlarga elektr uchun to‘lov qilish cheklanishi mumkin",
-      "summary": "2027-yil 1-yanvardan ichimlik va oqova suvdan qarzdorligi bor iste'molchilarning elektr energiyasi uchun to‘lov qilish imkoniyati cheklanishi mumkin. Bu tartib ijtimoiy reestrga kiritilgan oilalarga tatbiq etilmaydi.",
-      "norm_title": "suvdan qarzdorlarga elektr uchun tolov qilish cheklanishi mumkin",
-      "topic_key": "suv-qarz-elektr-cheklov",
-      "stems": [
-        "qarzdor",
-        "cheklan",
-        "elektr",
-        "lov",
-        "mumkin",
-        "suv"
-      ],
-      "posted_at": 1793384098.4739943
-    },
     {
       "title": "Energetik ichimliklar bepushtlikka olib kelishi mumkin",
       "summary": "Shifokorlar ogohlantirishicha, energetik ichimliklarni tez-tez iste'mol qilish gormonal muvozanatni buzib, reproduktiv tizimga va homiladorlik ehtimoliga salbiy ta'sir ko'rsatadi.",
@@ -7077,6 +7052,40 @@
         "vaqt"
       ],
       "posted_at": 1795023579.074892
+    },
+    {
+      "title": "Ish haqini xodim istagan bank kartasiga o'tkazish tizimi joriy etildi",
+      "summary": "Xususiy sektor xodimlari endilikda oylik va boshqa to'lovlarni o'zlari tanlagan bank kartasi yoki elektron hamyoniga olishi mumkin. Buning uchun yangi karta ochish talab etilmaydi, faqat rekvizitlarni buxgalteriyaga taqdim etish kifoya.",
+      "norm_title": "ish haqini xodim istagan bank kartasiga otkazish tizimi joriy etildi",
+      "topic_key": "ish-haqi-bank-kartasi",
+      "stems": [
+        "ista",
+        "joriy",
+        "xodim",
+        "tizim",
+        "haq",
+        "bank",
+        "ish",
+        "karta",
+        "tkaz"
+      ],
+      "posted_at": 1795062403.0160253
+    },
+    {
+      "title": "Olmaliq 2-son texnikumida Germaniya tajribasi asosida ta'lim boshlanmoqda",
+      "summary": "Olmaliq shahridagi 2-son texnikumda KfW bankining 5,2 million evrolik loyihasi asosida dual ta'lim dasturi joriy etilib, 218 nafar o'quvchi qabul qilindi.",
+      "norm_title": "olmaliq 2son texnikumida germaniya tajribasi asosida talim boshlanmoqda",
+      "topic_key": "olmaliq-texnikum-germaniya",
+      "stems": [
+        "germaniya",
+        "son",
+        "boshlan",
+        "tajriba",
+        "lim",
+        "texnikum",
+        "aso"
+      ],
+      "posted_at": 1795062470.9885607
     }
   ]
 }
