@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86666,
+    "olmaliqhayoti": 86673,
     "ao_agmk": 50331,
-    "olmaliqshaharpressa": 13033,
-    "olmaliq": 44079
+    "olmaliqshaharpressa": 13035,
+    "olmaliq": 44082
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4121,54 +4121,19 @@
     "olmaliq:44068": 1795096076.3406222,
     "olmaliq:44069": 1795096113.4220746,
     "olmaliq:44078": 1795096149.8958738,
-    "olmaliq:44079": 1795096172.720971
+    "olmaliq:44079": 1795096172.720971,
+    "olmaliqhayoti:86667": 1795124931.9075637,
+    "olmaliqhayoti:86668": 1795124937.5552585,
+    "olmaliqhayoti:86669": 1795124937.567893,
+    "olmaliqhayoti:86670": 1795124950.8779666,
+    "olmaliqhayoti:86673": 1795124986.5240917,
+    "olmaliqshaharpressa:13034": 1795125021.0595744,
+    "olmaliqshaharpressa:13035": 1795125030.341126,
+    "olmaliq:44080": 1795125033.8511906,
+    "olmaliq:44081": 1795125055.3106825,
+    "olmaliq:44082": 1795125059.0982072
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda 2 million so'm mukofotli milliy sport musobaqasi bo'lib o'tadi",
-      "summary": "2-noyabr kuni soat 18:00 da 'Shum bola' parkida tosh ko'tarish, lanka tepish va kamon otish bo'yicha sovringoh musobaqasi o'tkaziladi.",
-      "norm_title": "olmaliqda 2 million som mukofotli milliy sport musobaqasi bolib otadi",
-      "topic_key": "olmaliq-sport-musobaqasi",
-      "stems": [
-        "tad",
-        "mukofotl",
-        "milliy",
-        "lib",
-        "sport",
-        "musoba",
-        "million"
-      ],
-      "posted_at": 1793454567.1041963
-    },
-    {
-      "title": "Olmaliqdagi \"Oydin\" bozorida yong'in oqibatlarini bartaraf etish muhokama qilindi",
-      "summary": "Olmaliq shahar hokimi va mas'ullar \"Oydin\" dehqon bozorida yong'indan zarar ko'rgan rastalarni qayta tiklash hamda bozor faoliyatini yo'lga qo'yish bo'yicha tadbirkorlar bilan uchrashuv o'tkazdi.",
-      "norm_title": "olmaliqdagi oydin bozorida yongin oqibatlarini bartaraf etish muhokama qilindi",
-      "topic_key": "oydin-bozor-yongin-oqibatlari",
-      "stems": [
-        "bozor",
-        "bartaraf",
-        "etish",
-        "oydin",
-        "yong",
-        "oqibat"
-      ],
-      "posted_at": 1793454588.284085
-    },
-    {
-      "title": "Ekostiker bo'yicha tarqalgan jarima xabarlari rad etildi",
-      "summary": "Ijtimoiy tarmoqlarda ekostiker olmagan haydovchilarga 10 BHM miqdorida jarima solinishi haqida tarqalgan xabarlar haqiqatga to'g'ri kelmaydi. Yo'l harakati xavfsizligi xizmati bunday qonuniy asos mavjud emasligini ma'lum qildi.",
-      "norm_title": "ekostiker boyicha tarqalgan jarima xabarlari rad etildi",
-      "topic_key": "ekostiker-jarima-rad",
-      "stems": [
-        "ekostiker",
-        "tarqal",
-        "yicha",
-        "jarima",
-        "rad"
-      ],
-      "posted_at": 1793454658.522228
-    },
     {
       "title": "APK himoyasini o'chirish firibgarlikka olib kelmoqda",
       "summary": "Telefonlardagi xavfsizlik dasturini o'chirib tashlagan fuqarolar noma'lum APK fayllar orqali firibgarlar qurboniga aylanib, pul mablag'laridan ayrilmoqda. Mutaxassislar tekshirilmagan fayllarni o'rnatmaslikdan ogohlantirmoqda.",
@@ -7103,6 +7068,55 @@
         "bka"
       ],
       "posted_at": 1795096149.9014761
+    },
+    {
+      "title": "Mirzo Ulug'bek mahallasida shahar hokimi o'rinbosarining sayyor qabuli o'tkaziladi",
+      "summary": "Ertaga, 20-noyabr kuni soat 10:00 da \"Mirzo Ulug'bek\" MFY binosida shahar hokimi o'rinbosari Ergash Abduraimovning navbatdagi sayyor qabuli bo'lib o'tadi.",
+      "norm_title": "mirzo ulugbek mahallasida shahar hokimi orinbosarining sayyor qabuli otkaziladi",
+      "topic_key": "hokim-orinbosari-sayyor-qabul",
+      "stems": [
+        "qabul",
+        "mahalla",
+        "rinbosar",
+        "mirzo",
+        "sayyor",
+        "ulug",
+        "bek",
+        "hokim",
+        "tkaz"
+      ],
+      "posted_at": 1795124931.9155998
+    },
+    {
+      "title": "Toshkent viloyatida kuchli shamol bo'lishi haqida ogohlantirildi",
+      "summary": "Samarqandda tomlar va daraxtlarga talafot yetkazgan kuchli shamol Toshkent viloyatiga ham yetib kelishi kutilmoqda.",
+      "norm_title": "toshkent viloyatida kuchli shamol bolishi haqida ogohlantirildi",
+      "topic_key": "kuchli-shamol-ogohlantirish",
+      "stems": [
+        "lish",
+        "ogohlantiril",
+        "shamol",
+        "kuchl"
+      ],
+      "posted_at": 1795124950.8841481
+    },
+    {
+      "title": "Iste'molchilar foydasiga 2,2 milliard so'mdan ortiq mablag' qayta hisob-kitob qilindi",
+      "summary": "Toshkent viloyati iste'molchilar huquqlarini himoya qilish jamiyatlari federatsiyasi tomonidan fuqarolarning buzilgan huquqlari tiklanib, 2,2 mlrd so'mdan ortiq mablag' qaytarildi. Huquqlaringiz buzilsa 1091 raqamiga murojaat qiling.",
+      "norm_title": "istemolchilar foydasiga 22 milliard somdan ortiq mablag qayta hisobkitob qilindi",
+      "topic_key": "isteimolchi-huquqlari-himoyasi",
+      "stems": [
+        "foy",
+        "ortiq",
+        "mdan",
+        "iste",
+        "kitob",
+        "hisob",
+        "milliard",
+        "mablag",
+        "molch"
+      ],
+      "posted_at": 1795125021.0659506
     }
   ]
 }
