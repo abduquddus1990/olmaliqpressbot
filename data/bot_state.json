@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86657,
-    "ao_agmk": 50311,
+    "olmaliqhayoti": 86666,
+    "ao_agmk": 50331,
     "olmaliqshaharpressa": 13033,
-    "olmaliq": 44065
+    "olmaliq": 44079
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4102,103 +4102,28 @@
     "olmaliqhayoti:86656": 1795062427.09766,
     "ao_agmk:50311": 1795062427.6190062,
     "olmaliq:44065": 1795062431.9717724,
-    "olmaliqhayoti:86657": 1795062470.983739
+    "olmaliqhayoti:86657": 1795062470.983739,
+    "olmaliqhayoti:86658": 1795095663.7156665,
+    "olmaliqhayoti:86659": 1795095708.0103047,
+    "olmaliqhayoti:86660": 1795095759.266448,
+    "olmaliqhayoti:86661": 1795095782.3288367,
+    "olmaliqhayoti:86662": 1795095835.1531556,
+    "olmaliqhayoti:86665": 1795095846.9415061,
+    "olmaliqhayoti:86666": 1795095861.7421503,
+    "ao_agmk:50312": 1795095877.6126013,
+    "ao_agmk:50316": 1795095929.3990784,
+    "ao_agmk:50323": 1795095975.9213507,
+    "ao_agmk:50326": 1795095975.932197,
+    "ao_agmk:50327": 1795095989.788279,
+    "ao_agmk:50331": 1795096029.729859,
+    "olmaliq:44066": 1795096076.317389,
+    "olmaliq:44067": 1795096076.328408,
+    "olmaliq:44068": 1795096076.3406222,
+    "olmaliq:44069": 1795096113.4220746,
+    "olmaliq:44078": 1795096149.8958738,
+    "olmaliq:44079": 1795096172.720971
   },
   "posted_articles": [
-    {
-      "title": "Energetik ichimliklar bepushtlikka olib kelishi mumkin",
-      "summary": "Shifokorlar ogohlantirishicha, energetik ichimliklarni tez-tez iste'mol qilish gormonal muvozanatni buzib, reproduktiv tizimga va homiladorlik ehtimoliga salbiy ta'sir ko'rsatadi.",
-      "norm_title": "energetik ichimliklar bepushtlikka olib kelishi mumkin",
-      "topic_key": "energetik-ichimlik-bepushtlik",
-      "stems": [
-        "olib",
-        "bepusht",
-        "mumkin",
-        "kel",
-        "energetik",
-        "ichim"
-      ],
-      "posted_at": 1793384124.4103825
-    },
-    {
-      "title": "Olmaliqda 31-oktabr uchun ob-havo, valyuta kursi va namoz vaqtlari",
-      "summary": "31-oktabr kuni Olmaliqda havo harorati kunduzi +19°C, kechasi +10°C bo'ladi, yog'ingarchilik ehtimoli 25%. AQSh dollari kursi 12 023,46 so'mgacha pasaygan.",
-      "norm_title": "olmaliqda 31oktabr uchun obhavo valyuta kursi va namoz vaqtlari",
-      "topic_key": "ob-havo-valyuta-namoz",
-      "stems": [
-        "havo",
-        "valyuta",
-        "oktabr",
-        "namoz",
-        "kur",
-        "vaqt"
-      ],
-      "posted_at": 1793398955.6559901
-    },
-    {
-      "title": "Rustam G'oyipov ijrosidagi qo'shiqning tasavvufiy ma'nosi ochib berildi",
-      "summary": "Yosh tadqiqotchi Bekmurod Tolib o'g'li O'zbekiston xalq artisti Rustam G'oyipov ijro etgan qo'shiq va So'fi Olloyorning \"Sabot ul-ojizin\" asaridagi falsafiy-axloqiy g'oyalarning tahlilini taqdim etdi.",
-      "norm_title": "rustam goyipov ijrosidagi qoshiqning tasavvufiy manosi ochib berildi",
-      "topic_key": "rustam-goyipov-sofi-olloyor-tahlil",
-      "stems": [
-        "rustam",
-        "oyipov",
-        "nos",
-        "tasavvufiy",
-        "ijro",
-        "shiq",
-        "ochib"
-      ],
-      "posted_at": 1793410821.443759
-    },
-    {
-      "title": "Saratonni yengib yashayotgan ohangaronlik yigitcha hikoyasi",
-      "summary": "Ohangaronlik 17 yoshli Azizbek Rahimov og'ir suyak saratoni xastaligini matonat bilan yengib, bugunda texnikumda tahsil olmoqda hamda IT sohasini o'rganmoqda.",
-      "norm_title": "saratonni yengib yashayotgan ohangaronlik yigitcha hikoyasi",
-      "topic_key": "ohangaron-azizbek-hikoyasi",
-      "stems": [
-        "yengib",
-        "yash",
-        "hikoya",
-        "saraton",
-        "yigitcha",
-        "ohangaron"
-      ],
-      "posted_at": 1793431823.834434
-    },
-    {
-      "title": "Istanbuldagi Galata minorasi O'zbekiston bayrog'iga burkandi",
-      "summary": "Prezident Shavkat Mirziyoyevning Turkiyaga tashrifi doirasida Istanbuldagi mashhur Galata minorasi O'zbekiston bayrog'i ranglari bilan yoritildi.",
-      "norm_title": "istanbuldagi galata minorasi ozbekiston bayrogiga burkandi",
-      "topic_key": "galata-uzbekiston-bayrogi",
-      "stems": [
-        "bayrog",
-        "istanbul",
-        "iga",
-        "galata",
-        "zbekiston",
-        "bur",
-        "minora"
-      ],
-      "posted_at": 1793431855.0408087
-    },
-    {
-      "title": "Chorraha va qayrilib olish joylarida yo'l chiziqlarini bosganlik uchun jarima solinmaydi",
-      "summary": "Hukumat qaroriga ko'ra, 1-noyabrdan chorrahagacha 50 metr va qayrilib olish joyigacha 20 metr masofada 1.1 va 1.3 chiziqlarini bosganlik uchun YPX xodimlari ma'muriy bayonnoma rasmiylashtirmaydi.",
-      "norm_title": "chorraha va qayrilib olish joylarida yol chiziqlarini bosganlik uchun jarima solinmaydi",
-      "topic_key": "ypx-yol-chizigi-jarima",
-      "stems": [
-        "chiziq",
-        "olish",
-        "joy",
-        "bos",
-        "chorraha",
-        "qayrilib",
-        "jarima",
-        "solinma"
-      ],
-      "posted_at": 1793454546.6428728
-    },
     {
       "title": "Olmaliqda 2 million so'm mukofotli milliy sport musobaqasi bo'lib o'tadi",
       "summary": "2-noyabr kuni soat 18:00 da 'Shum bola' parkida tosh ko'tarish, lanka tepish va kamon otish bo'yicha sovringoh musobaqasi o'tkaziladi.",
@@ -7086,6 +7011,98 @@
         "aso"
       ],
       "posted_at": 1795062470.9885607
+    },
+    {
+      "title": "Bojxona deklaratsiyalarini avtomatik rasmiylashtirish tartibi joriy etildi",
+      "summary": "Bojxona qo'mitasining qaroriga ko'ra, xavfi past elektron deklaratsiyalar xodim ishtirokisiz avtomatik rasmiylashtiriladi hamda tovar va valyuta olib kirishning yangi me'yorlari belgilandi.",
+      "norm_title": "bojxona deklaratsiyalarini avtomatik rasmiylashtirish tartibi joriy etildi",
+      "topic_key": "bojxona-deklaratsiya-me'yorlari",
+      "stems": [
+        "tartib",
+        "joriy",
+        "rasmiylash",
+        "avtomatik",
+        "deklaratsiya",
+        "bojxona"
+      ],
+      "posted_at": 1795095708.0167315
+    },
+    {
+      "title": "Oliy o'quv yurtlariga kirish imtihonlari o'zgarishi mumkin",
+      "summary": "2028/2029 o'quv yilidan boshlab maktab bitiruv imtihonlari OTMga kirish imtihonlari bilan birlashtirilishi rejalashtirilmoqda. Yangi tizim dastlab Toshkent shahri va Navoiy viloyatida sinovdan o'tkaziladi.",
+      "norm_title": "oliy oquv yurtlariga kirish imtihonlari ozgarishi mumkin",
+      "topic_key": "otm-imtihon-islohoti",
+      "stems": [
+        "mumkin",
+        "oliy",
+        "imtihon",
+        "kir",
+        "zgar",
+        "yurt",
+        "quv"
+      ],
+      "posted_at": 1795095759.271928
+    },
+    {
+      "title": "Iste'molchilar huquqlarini himoya qilish bo'yicha chellenj davom etmoqda",
+      "summary": "Raqubat qo'mitasi tomonidan e'lon qilingan chellenjda 200 dan ortiq ishtirokchi ro'yxatdan o'tib, do'konlardagi narxlar va muddatlar bilan bog'liq 20 ga yaqin kamchiliklar bartaraf etildi.",
+      "norm_title": "istemolchilar huquqlarini himoya qilish boyicha chellenj davom etmoqda",
+      "topic_key": "raqobat-qomitasi-chellenj",
+      "stems": [
+        "huquq",
+        "himoya",
+        "yicha",
+        "davom",
+        "chellenj",
+        "molch",
+        "iste",
+        "etmoq"
+      ],
+      "posted_at": 1795095846.9472194
+    },
+    {
+      "title": "Mis boyitish fabrikasida yosh mutaxassislar taqdimoti o'tkazildi",
+      "summary": "Tadbirda yoshlarning kasbiy salohiyatini oshirish, ishlab chiqarishga zamonaviy yondashuvlarni joriy etish va innovatsion g'oyalarini qo'llab-quvvatlash masalalari muhokama qilindi.",
+      "norm_title": "mis boyitish fabrikasida yosh mutaxassislar taqdimoti otkazildi",
+      "topic_key": "mbf-yosh-mutaxassislar",
+      "stems": [
+        "mis",
+        "mutaxassis",
+        "fabr",
+        "tkazil",
+        "yosh",
+        "boyit",
+        "taqdimot"
+      ],
+      "posted_at": 1795095877.6181736
+    },
+    {
+      "title": "OKMK konlarining 3D modellari yaratilmoqda",
+      "summary": "Olmaliq kon-metallurgiya kombinatida zamonaviy geodezik texnologiyalar yordamida \"Kovuldi\" va Angren kon boshqarmalariga qarashli konlarning 3D modellari yaratilmoqda.",
+      "norm_title": "okmk konlarining 3d modellari yaratilmoqda",
+      "topic_key": "okmk-konlari-3d-modeli",
+      "stems": [
+        "yarat",
+        "kon",
+        "okmk",
+        "model"
+      ],
+      "posted_at": 1795095929.4045987
+    },
+    {
+      "title": "Bökada yolg'on ayblov uyuştirgan erkak 9 yilga qamaldi",
+      "summary": "Toshkent viloyatining Böka tumanida qarindoshi va hamkasbini soxta hujjatlar bilan jinoyatda ayblagan shaxs 9 yilga ozodlikdan mahrum etildi. Unga yordam bergan yana 4 nafar fuqaro ham jazolandi.",
+      "norm_title": "bökada yolgon ayblov uyuştirgan erkak 9 yilga qamaldi",
+      "topic_key": "böka-yolg'on-ayblov-sud",
+      "stems": [
+        "erkak",
+        "yolg",
+        "ayblov",
+        "qamal",
+        "uyutir",
+        "bka"
+      ],
+      "posted_at": 1795096149.9014761
     }
   ]
 }
