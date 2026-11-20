@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86693,
-    "ao_agmk": 50341,
-    "olmaliqshaharpressa": 13063,
-    "olmaliq": 44098
+    "olmaliqhayoti": 86703,
+    "ao_agmk": 50346,
+    "olmaliqshaharpressa": 13076,
+    "olmaliq": 44108
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4165,81 +4165,23 @@
     "olmaliq:44087": 1795171104.4505181,
     "olmaliq:44088": 1795171113.7957182,
     "olmaliq:44097": 1795171124.3439229,
-    "olmaliq:44098": 1795171129.7833
+    "olmaliq:44098": 1795171129.7833,
+    "olmaliqhayoti:86694": 1795200326.381918,
+    "olmaliqhayoti:86703": 1795200358.906669,
+    "ao_agmk:50342": 1795200393.6694462,
+    "ao_agmk:50346": 1795200430.9490194,
+    "olmaliqshaharpressa:13064": 1795200434.2936773,
+    "olmaliqshaharpressa:13065": 1795200454.8975208,
+    "olmaliqshaharpressa:13066": 1795200478.1702647,
+    "olmaliqshaharpressa:13067": 1795200485.1179264,
+    "olmaliqshaharpressa:13068": 1795200490.68925,
+    "olmaliqshaharpressa:13069": 1795200496.5642173,
+    "olmaliqshaharpressa:13074": 1795200523.9045243,
+    "olmaliqshaharpressa:13076": 1795200526.914623,
+    "olmaliq:44099": 1795200536.6751025,
+    "olmaliq:44108": 1795200539.0276322
   },
   "posted_articles": [
-    {
-      "title": "OKMK Superliganing 26-turida g'alaba qozondi",
-      "summary": "OKMK jamoasi \"Lokomotiv\" ustidan 2:1 hisobida g'alaba qozondi. O'yinda OKMK gollarini Aziz Xolmurodov va Siyavash Haqnazari kiritdi.",
-      "norm_title": "okmk superliganing 26turida galaba qozondi",
-      "topic_key": "okmk-lokomotiv-galaba",
-      "stems": [
-        "alaba",
-        "okmk",
-        "qozon",
-        "superl",
-        "tur"
-      ],
-      "posted_at": 1793555649.5091045
-    },
-    {
-      "title": "O‘zbekistonda Telegram asosiy yangilik manbaiga aylandi",
-      "summary": "Milliy tadqiqot natijalariga ko‘ra, aholining 51,6 foizi yangiliklarni Telegram kanallaridan, 44,6 foizi esa televidenie orqali olishini ma'lum qildi.",
-      "norm_title": "ozbekistonda telegram asosiy yangilik manbaiga aylandi",
-      "topic_key": "telegram-asosiy-yangilik-manbai",
-      "stems": [
-        "asosiy",
-        "aylan",
-        "telegram",
-        "yang",
-        "zbekiston",
-        "manba"
-      ],
-      "posted_at": 1793603605.7249277
-    },
-    {
-      "title": "AGMK haftalik yangiliklar dayjesti",
-      "summary": "Olmaliq kon-metallurgiya kombinatida ishlab chiqarish yutuqlari, xalqaro hamkorlik aloqalari, xodimlarning yutuqlari va o'tkazilgan muhim tadbirlar sarhisob qilindi.",
-      "norm_title": "agmk haftalik yangiliklar dayjesti",
-      "topic_key": "agmk-haftalik-dayjest",
-      "stems": [
-        "hafta",
-        "dayjest",
-        "yang",
-        "agmk"
-      ],
-      "posted_at": 1793603612.4587617
-    },
-    {
-      "title": "Rux zavodida bo‘sh ish o‘rinlari uchun sinovlar o‘tkazilmoqda",
-      "summary": "Rux zavodidagi vakant o‘rinlarga nomzodlarni saralash uchun shaffof tarzda nazariy va amaliy imtihon jarayonlari bo‘lib o‘tmoqda.",
-      "norm_title": "rux zavodida bosh ish orinlari uchun sinovlar otkazilmoqda",
-      "topic_key": "rux-zavodi-ishga-qabul",
-      "stems": [
-        "rin",
-        "zavod",
-        "sinov",
-        "ish",
-        "rux",
-        "tkaz"
-      ],
-      "posted_at": 1793603621.3974857
-    },
-    {
-      "title": "Hududlarda xorijdan pul o'tkazmalari hajmi turlicha",
-      "summary": "Toshkent viloyatida xorijdan kelayotgan o'rtacha pul o'tkazmasi 400 dollardan oshmayotgani ma'lum qilindi. Prezident hokimlar va elchilarga fuqarolarni yuqori daromadli xorijiy ishlarga tayyorlashni kuchaytirish vazifasini qo'ydi.",
-      "norm_title": "hududlarda xorijdan pul otkazmalari hajmi turlicha",
-      "topic_key": "xorijiy-pul-otkazmalari",
-      "stems": [
-        "hajm",
-        "xorij",
-        "pul",
-        "hudud",
-        "tkazma",
-        "turlicha"
-      ],
-      "posted_at": 1793603630.6439116
-    },
     {
       "title": "Xazon yoqish uchun jarima belgilandi",
       "summary": "Xazonlarni yoqish havo ifloslanishiga va inson salomatligiga jiddiy zarar yetkazadi. Ushbu qoidabuzarlik uchun Ma'muriy javobgarlik to'g'risidagi kodeksga muvofiq jarima qo'llaniladi.",
@@ -7149,6 +7091,84 @@
         "ikkita"
       ],
       "posted_at": 1795171124.3499026
+    },
+    {
+      "title": "Qurilish tannarxidagi farqlar va yangi tartiblar",
+      "summary": "Hududlarda qurilish tannarxi turlicha ekani tanqid qilinib, kelgusi yildan budjet qurilishlarida mahalliy mahsulotlardan foydalanish majburiy etib belgilandi.",
+      "norm_title": "qurilish tannarxidagi farqlar va yangi tartiblar",
+      "topic_key": "qurilish-tannarxi-mahalliy-mahsulot",
+      "stems": [
+        "farq",
+        "tannarx",
+        "quril",
+        "tartib"
+      ],
+      "posted_at": 1795200434.3043144
+    },
+    {
+      "title": "Qurilishda innovatsion texnologiyalar va loyiha institutlarini zamonlashtirish muhokama qilindi",
+      "summary": "Prezident qurilishda arzon hamda tezkor innovatsion materiallarni joriy etish va 31 ta loyiha institutini zamonlashtirish uchun ularni investorlar boshqaruviga berishga tayyorligini bildirdi.",
+      "norm_title": "qurilishda innovatsion texnologiyalar va loyiha institutlarini zamonlashtirish muhokama qilindi",
+      "topic_key": "innovatsion-qurilish-materiallari",
+      "stems": [
+        "innovatsion",
+        "loyiha",
+        "quril",
+        "institut",
+        "zamonlash",
+        "texnologiya"
+      ],
+      "posted_at": 1795200478.1785097
+    },
+    {
+      "title": "Turizm sohasida xizmat sifatini oshirish ustuvor vazifa etib belgilandi",
+      "summary": "O‘zbekistonga yil boshidan beri 11,6 million sayyoh keldi va yil yakunigacha bu ko‘rsatkich 15 milliondan oshishi kutilmoqda. Prezident sayyohlar sonidan ko‘ra xizmat sifati va mamlakatda qolish muddatini uzaytirish muhimligini ta'kidladi.",
+      "norm_title": "turizm sohasida xizmat sifatini oshirish ustuvor vazifa etib belgilandi",
+      "topic_key": "turizmni-rivojlantirish-sifat",
+      "stems": [
+        "ustuvor",
+        "vazifa",
+        "oshir",
+        "belgilan",
+        "turizm",
+        "soha",
+        "xizmat",
+        "sifat",
+        "etib"
+      ],
+      "posted_at": 1795200485.1260602
+    },
+    {
+      "title": "Olmaliqda yosh oilalar uchun \"Oila maktabi\" o'quv kurslari o'tkazildi",
+      "summary": "Olmaliq shahrida 16 juftlik ishtirokida navbatdagi \"Oila maktabi\" mashg'ulotlari tashkil etilib, yoshlarga oilaviy hayot ko'nikmalari o'rgatildi.",
+      "norm_title": "olmaliqda yosh oilalar uchun oila maktabi oquv kurslari otkazildi",
+      "topic_key": "oila-maktabi-olmaliq",
+      "stems": [
+        "oila",
+        "yosh",
+        "maktab",
+        "quv",
+        "kurs",
+        "tkazil"
+      ],
+      "posted_at": 1795200496.5727177
+    },
+    {
+      "title": "Olmaliq hokimligi yoshlar yetakchilariga bosim o‘tkazilgani haqidagi xabarlarga munosabat bildirdi",
+      "summary": "Olmaliq shahrida yoshlar yetakchilariga ortiqcha bosim o‘tkazilmagani, ulardan faqat o‘z vazifalarini bajarish talab qilingani ma'lum qilindi. Shuningdek, matbuotga obuna masalasi ixtiyoriy ekanligi ta'kidlandi.",
+      "norm_title": "olmaliq hokimligi yoshlar yetakchilariga bosim otkazilgani haqidagi xabarlarga munosabat bildirdi",
+      "topic_key": "olmaliq-yoshlar-yetakchilari-munosabat",
+      "stems": [
+        "hokim",
+        "yosh",
+        "bosim",
+        "haq",
+        "yetakch",
+        "munosabat",
+        "bildir",
+        "tkazil"
+      ],
+      "posted_at": 1795200526.922809
     }
   ]
 }
