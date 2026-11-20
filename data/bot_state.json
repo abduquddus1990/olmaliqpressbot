@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86674,
-    "ao_agmk": 50331,
-    "olmaliqshaharpressa": 13035,
-    "olmaliq": 44082
+    "olmaliqhayoti": 86693,
+    "ao_agmk": 50341,
+    "olmaliqshaharpressa": 13063,
+    "olmaliq": 44098
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4132,177 +4132,42 @@
     "olmaliq:44080": 1795125033.8511906,
     "olmaliq:44081": 1795125055.3106825,
     "olmaliq:44082": 1795125059.0982072,
-    "olmaliqhayoti:86674": 1795142446.7604887
+    "olmaliqhayoti:86674": 1795142446.7604887,
+    "olmaliqhayoti:86676": 1795170549.9010518,
+    "olmaliqhayoti:86677": 1795170575.5070953,
+    "olmaliqhayoti:86678": 1795170578.523621,
+    "olmaliqhayoti:86679": 1795170592.2359374,
+    "olmaliqhayoti:86684": 1795170611.9464521,
+    "olmaliqhayoti:86688": 1795170648.1333046,
+    "olmaliqhayoti:86689": 1795170651.1499271,
+    "olmaliqhayoti:86690": 1795170684.5989943,
+    "olmaliqhayoti:86691": 1795170684.6097987,
+    "olmaliqhayoti:86692": 1795170719.2026403,
+    "olmaliqhayoti:86693": 1795170719.2166593,
+    "ao_agmk:50332": 1795170727.47857,
+    "ao_agmk:50335": 1795170760.589278,
+    "ao_agmk:50336": 1795170797.2289088,
+    "ao_agmk:50337": 1795170821.200299,
+    "ao_agmk:50341": 1795170824.2168853,
+    "olmaliqshaharpressa:13042": 1795170838.464084,
+    "olmaliqshaharpressa:13046": 1795170860.7844195,
+    "olmaliqshaharpressa:13047": 1795170871.2927358,
+    "olmaliqshaharpressa:13048": 1795170898.126002,
+    "olmaliqshaharpressa:13058": 1795170944.8360946,
+    "olmaliqshaharpressa:13059": 1795170969.762288,
+    "olmaliqshaharpressa:13060": 1795171005.8235505,
+    "olmaliqshaharpressa:13061": 1795171038.5603602,
+    "olmaliqshaharpressa:13062": 1795171041.9821446,
+    "olmaliqshaharpressa:13063": 1795171072.2081003,
+    "olmaliq:44083": 1795171085.216272,
+    "olmaliq:44085": 1795171088.1566906,
+    "olmaliq:44086": 1795171088.1679366,
+    "olmaliq:44087": 1795171104.4505181,
+    "olmaliq:44088": 1795171113.7957182,
+    "olmaliq:44097": 1795171124.3439229,
+    "olmaliq:44098": 1795171129.7833
   },
   "posted_articles": [
-    {
-      "title": "APK himoyasini o'chirish firibgarlikka olib kelmoqda",
-      "summary": "Telefonlardagi xavfsizlik dasturini o'chirib tashlagan fuqarolar noma'lum APK fayllar orqali firibgarlar qurboniga aylanib, pul mablag'laridan ayrilmoqda. Mutaxassislar tekshirilmagan fayllarni o'rnatmaslikdan ogohlantirmoqda.",
-      "norm_title": "apk himoyasini ochirish firibgarlikka olib kelmoqda",
-      "topic_key": "apk-xavfsizlik-firibgarlik",
-      "stems": [
-        "himoya",
-        "olib",
-        "chir",
-        "apk",
-        "kel",
-        "firibgar"
-      ],
-      "posted_at": 1793469501.19353
-    },
-    {
-      "title": "Olmaliq shahri uchun 1-noyabr kungi namoz vaqtlari",
-      "summary": "1-noyabr yakshanba kuni Olmaliq shahri bo'yicha namoz vaqtlari: Bomdod 05:35, Peshin 12:06, Asr 15:36, Shom 17:18 hamda Xufton 18:35 deb belgilandi.",
-      "norm_title": "olmaliq shahri uchun 1noyabr kungi namoz vaqtlari",
-      "topic_key": "olmaliq-namoz-vaqtlari",
-      "stems": [
-        "noyabr",
-        "vaqt",
-        "shahr",
-        "kung",
-        "namoz"
-      ],
-      "posted_at": 1793469509.5664065
-    },
-    {
-      "title": "1 noyabrdan kuchga kiradigan muhim o'zgarishlar",
-      "summary": "1 noyabrdan boshlab SMS-xabarnomalar faqat abonent roziligi bilan yuboriladi, ayrim fuqarolarga pensiya murojaatsiz tayinlanadi hamda tadbirkorlar uchun energiya resurslariga oldindan to'lov miqdori kamaytiriladi.",
-      "norm_title": "1 noyabrdan kuchga kiradigan muhim ozgarishlar",
-      "topic_key": "noyabr-qonun-ozgarishlar",
-      "stems": [
-        "zgar",
-        "muhim",
-        "kuch",
-        "kir",
-        "noyabr"
-      ],
-      "posted_at": 1793512202.8547223
-    },
-    {
-      "title": "Xakerlar 27 million o'zbekistonlikning ma'lumotlari o'g'irlanganini da'vo qilmoqda",
-      "summary": "BUTTERFLY xakerlar guruhi sobiq Personallashtirish agentligi bazasini buzib kirganini aytib, 27 million fuqaroning ma'lumotlarini tarqatish bilan tahdid qilmoqda. Hozircha bu xabar rasman tasdiqlanmadi.",
-      "norm_title": "xakerlar 27 million ozbekistonlikning malumotlari ogirlanganini davo qilmoqda",
-      "topic_key": "xakerlar-baza-sizish",
-      "stems": [
-        "qil",
-        "zbekiston",
-        "lumot",
-        "million",
-        "xaker",
-        "irlan"
-      ],
-      "posted_at": 1793534656.1594808
-    },
-    {
-      "title": "Olmaliqda Koreys milliy madaniy markazi uchun yangi sharoitlar yaratildi",
-      "summary": "Olmaliq shahrida Koreys milliy madaniy markazi faoliyati kengaytirilib, koreys tili va sanat to'garaklari yo'lga qo'yildi.",
-      "norm_title": "olmaliqda koreys milliy madaniy markazi uchun yangi sharoitlar yaratildi",
-      "topic_key": "koreys-madaniy-markazi-olmaliq",
-      "stems": [
-        "markaz",
-        "koreys",
-        "sharoit",
-        "madaniy",
-        "milliy",
-        "yaratil"
-      ],
-      "posted_at": 1793534670.1959167
-    },
-    {
-      "title": "\"Buxoro maktabi\" sun'iy intellekt texnologiyasini joriy etish bo'yicha Xitoy kompaniyasi bilan kelishib oldi",
-      "summary": "Xitoydagi ko'rgazmada \"Buxoro maktabi\" vakillari Classin kompaniyasi bilan dars jarayonlari va o'quvchilar o'zlashtirishini sun'iy intellekt yordamida tahlil qilish tizimini yo'lga qo me'yorida kelishuvga erishdi.",
-      "norm_title": "buxoro maktabi suniy intellekt texnologiyasini joriy etish boyicha xitoy kompaniyasi bilan kelishib oldi",
-      "topic_key": "buxoro-maktabi-xitoy-kelishuv",
-      "stems": [
-        "kelishib",
-        "etish",
-        "yicha",
-        "maktab",
-        "buxoro",
-        "sun",
-        "intellekt",
-        "xitoy",
-        "kompaniya",
-        "old",
-        "texnologiya",
-        "joriy"
-      ],
-      "posted_at": 1793534685.2341707
-    },
-    {
-      "title": "OKMK issiqxonalarida sitrus mevalari yetishtirilmoqda",
-      "summary": "Olmaliq kon-metallurgiya kombinati issiqxona xo'jaligida 'Yashil makon' loyihasi doirasida limon va boshqa sitrus mevalari yetishtirish yo'lga qo'yilgan.",
-      "norm_title": "okmk issiqxonalarida sitrus mevalari yetishtirilmoqda",
-      "topic_key": "agmk-issiqxona-sitrus",
-      "stems": [
-        "issiqxona",
-        "yet",
-        "sitrus",
-        "meva",
-        "okmk"
-      ],
-      "posted_at": 1793534701.9287827
-    },
-    {
-      "title": "Superliga: OKMK «Lokomotiv»ga qarshi maydonga tushadi",
-      "summary": "Superliganing 26-turi doirasida OKMK jamoasi 1-noyabr kuni soat 16:00 da Toshkentda «Lokomotiv» mehmoni bo'ladi. Uchrashuv Futbol TV telekanalida jonli namoyish etiladi.",
-      "norm_title": "superliga okmk lokomotivga qarshi maydonga tushadi",
-      "topic_key": "okmk-lokomotiv-o-yini",
-      "stems": [
-        "lokomotiv",
-        "superl",
-        "maydon",
-        "tush",
-        "qarsh",
-        "okmk"
-      ],
-      "posted_at": 1793534710.3187933
-    },
-    {
-      "title": "Noyabrdan gaz uchun bazaviy me'yor 500 kub metrgacha oshirildi",
-      "summary": "Noyabrdan fevralgacha aholi uchun gazning oylik bazaviy me'yori 500 kub metrgacha oshiriladi (Qoraqalpog'iston va Xorazmda oktyabrdan fevralgacha). Qolgan oylarda esa 100 kub metr amalda bo'ladi.",
-      "norm_title": "noyabrdan gaz uchun bazaviy meyor 500 kub metrgacha oshirildi",
-      "topic_key": "gaz-bazaviy-meyor",
-      "stems": [
-        "500",
-        "metrgacha",
-        "noyabr",
-        "yor",
-        "kub",
-        "gaz",
-        "bazaviy"
-      ],
-      "posted_at": 1793534733.6848025
-    },
-    {
-      "title": "Ipoteka subsidiyalariga 1,2 trillion so'm ajratildi",
-      "summary": "To'qqiz oy davomida 67 mingdan ortiq fuqaroga 20,9 trillion so'mlik ipoteka krediti berilib, subsidiyalar uchun davlat byudjetidan 1,2 trillion so'm to'lab berildi.",
-      "norm_title": "ipoteka subsidiyalariga 12 trillion som ajratildi",
-      "topic_key": "ipoteka-subsidiyalari-byudjet",
-      "stems": [
-        "trillion",
-        "ajratil",
-        "subsidiya",
-        "ipote"
-      ],
-      "posted_at": 1793534745.0316699
-    },
-    {
-      "title": "Sherzodxon Qudratxo'ja turizmni rivojlantirish bo'yicha fikr bildirdi",
-      "summary": "O'zbekiston jurnalistika va ommaviy kommunikatsiyalar instituti rektori Sherzodxon Qudratxo'ja Turkiya tajribasi misolida turizmni rivojlantirish bo'yicha o'z takliflari bilan bo'lishdi.",
-      "norm_title": "sherzodxon qudratxoja turizmni rivojlantirish boyicha fikr bildirdi",
-      "topic_key": "turizmni-rivojlantirish-turkiya",
-      "stems": [
-        "fikr",
-        "yicha",
-        "rivojlan",
-        "bildir",
-        "turizm",
-        "sherzodxon",
-        "qudratxo"
-      ],
-      "posted_at": 1793555635.2237034
-    },
     {
       "title": "OKMK Superliganing 26-turida g'alaba qozondi",
       "summary": "OKMK jamoasi \"Lokomotiv\" ustidan 2:1 hisobida g'alaba qozondi. O'yinda OKMK gollarini Aziz Xolmurodov va Siyavash Haqnazari kiritdi.",
@@ -7118,6 +6983,172 @@
         "molch"
       ],
       "posted_at": 1795125021.0659506
+    },
+    {
+      "title": "Topib olingan hujjat egasi topildi",
+      "summary": "Olmaliq shahrida yo'qolgan hujjatlar egasiga qaytarildi.",
+      "norm_title": "topib olingan hujjat egasi topildi",
+      "topic_key": "topib-olingan-hujjat",
+      "stems": [
+        "olin",
+        "hujjat",
+        "topil",
+        "ega",
+        "topib"
+      ],
+      "posted_at": 1795170575.5127814
+    },
+    {
+      "title": "O'zbekiston va Turkiya iqtisodiy hamkorlikning yangi yo'nalishlarini belgiladi",
+      "summary": "Prezident Shavkat Mirziyoyev ishtirokidagi kengashda tog'-kon, 'yashil' energetika hamda 'Yangi Toshkent' qurilishida Turkiya bilan hamkorlikni kengaytirish belgilandi. Turk sarmoyadorlari misni chuqur qayta ishlash va boshqa qo'shma loyihalarga taklif etildi.",
+      "norm_title": "ozbekiston va turkiya iqtisodiy hamkorlikning yangi yonalishlarini belgiladi",
+      "topic_key": "uzbekiston-turkiya-hamkorlik",
+      "stems": [
+        "zbekiston",
+        "hamkor",
+        "iqtisodiy",
+        "turkiya",
+        "nal",
+        "belg"
+      ],
+      "posted_at": 1795170611.9521804
+    },
+    {
+      "title": "Prezident Toshkent viloyatiga tashrif buyuradi",
+      "summary": "Prezident Shavkat Mirziyoyev bugun Toshkent viloyatining Parkent tumaniga tashrif buyurishi kutilmoqda.",
+      "norm_title": "prezident toshkent viloyatiga tashrif buyuradi",
+      "topic_key": "prezident-parkent-tashrifi",
+      "stems": [
+        "prezident",
+        "tashrif",
+        "buyur"
+      ],
+      "posted_at": 1795170648.138876
+    },
+    {
+      "title": "AGMKda energiya xavfsizligi bo'yicha profilaktik tadbirlar o'tkazilmoqda",
+      "summary": "Kombinatda e'lon qilingan oylik doirasida xodimlarga energiya resurslaridan xavfsiz foydalanish va ularni tejash qoidalari tushuntirilmoqda.",
+      "norm_title": "agmkda energiya xavfsizligi boyicha profilaktik tadbirlar otkazilmoqda",
+      "topic_key": "agmk-energiya-xavfsizligi",
+      "stems": [
+        "tkaz",
+        "energiya",
+        "agmk",
+        "profilaktik",
+        "yicha",
+        "tadbir",
+        "xavfsiz"
+      ],
+      "posted_at": 1795170760.5948677
+    },
+    {
+      "title": "AGMKda raqamli nazorat va xavfsizlik tizimi yo'lga qo'yilgan",
+      "summary": "Kombinat nazorat-o'tkazish punktlarida hududga kirib-chiqayotgan xodimlar, transport vositalari va tashrif buyuruvchilar raqamlashtirilgan tartibda tekshirilmoqda.",
+      "norm_title": "agmkda raqamli nazorat va xavfsizlik tizimi yolga qoyilgan",
+      "topic_key": "agmk-raqamli-nazorat",
+      "stems": [
+        "nazorat",
+        "tizim",
+        "agmk",
+        "raqaml",
+        "xavfsiz",
+        "lga"
+      ],
+      "posted_at": 1795170821.2061102
+    },
+    {
+      "title": "Prezident Kumushkondagi \"Silver Valley\" majmuasi bilan tanishdi",
+      "summary": "Davlat rahbari Toshkent viloyati Parkent tumanidagi \"Silver Valley\" zamonaviy dam olish majmuasiga tashrif buyurdi va u yerdagi sharoitlarni ko'zdan kechirdi.",
+      "norm_title": "prezident kumushkondagi silver valley majmuasi bilan tanishdi",
+      "topic_key": "prezident-kumushkon-tashrif",
+      "stems": [
+        "prezident",
+        "valley",
+        "silver",
+        "majmua",
+        "kumushkon",
+        "tan"
+      ],
+      "posted_at": 1795170944.8418238
+    },
+    {
+      "title": "Parkentda Oltin bel turizm majmuasi barpo etildi",
+      "summary": "Prezident Parkent tumanida 47 gektar maydonda 6 ming kishiga xizmat ko'rsatuvchi \"Oltin bel\" majmuasi bunyod etilganini ta'kidlab, turizm va qurilish sohalarini rivojlantirish bo'yicha tadbirkorlar bilan uchrashuv o'tkazdi.",
+      "norm_title": "parkentda oltin bel turizm majmuasi barpo etildi",
+      "topic_key": "parkent-turizm-oltin-bel",
+      "stems": [
+        "bel",
+        "parkent",
+        "oltin",
+        "turizm",
+        "majmua",
+        "barpo"
+      ],
+      "posted_at": 1795170969.7679281
+    },
+    {
+      "title": "Qurilish materiallari sanoatida eksportni 5 milliard dollarga yetkazish imkoniyati bor",
+      "summary": "So‘nggi o‘n yilda sohaga 12 milliard dollar investitsiya kiritilib, 5 mingdan ziyod korxona ishga tushirildi. Kelgusida yuqori qo‘shilgan qiymatli mahsulotlar va qulay logistika orqali eksport hajmini keskin oshirish rejalashtirilmoqda.",
+      "norm_title": "qurilish materiallari sanoatida eksportni 5 milliard dollarga yetkazish imkoniyati bor",
+      "topic_key": "qurilish-materiallari-eksport",
+      "stems": [
+        "sanoat",
+        "imkoniyat",
+        "yetkaz",
+        "material",
+        "eksport",
+        "milliard",
+        "bor",
+        "quril",
+        "dol"
+      ],
+      "posted_at": 1795171005.8291862
+    },
+    {
+      "title": "Qurilish materiallari importi va Zangiotadagi yangi loyiha",
+      "summary": "O'zbekistonda qurilish materiallari importi 780 million dollarni tashkil etmoqda. Mahalliy ishlab chiqarishni rivojlantirish maqsadida Zangiota tumanida Turkiyaning \"Betek\" kompaniyasi bilan 30 million dollarlik yangi zavod barpo etiladi.",
+      "norm_title": "qurilish materiallari importi va zangiotadagi yangi loyiha",
+      "topic_key": "zangiota-qurilish-zavodi",
+      "stems": [
+        "material",
+        "import",
+        "zangiota",
+        "quril",
+        "loyiha"
+      ],
+      "posted_at": 1795171038.5658839
+    },
+    {
+      "title": "Erkinjon Turdimov ta'lim tizimidagi faoliyati haqida gapirdi",
+      "summary": "Ta'lim va ilm-fan vaziri Erkinjon Turdimov sohani endi o'rganayotganini, lekin tizimda tartib o'rnata olishini bildirdi.",
+      "norm_title": "erkinjon turdimov talim tizimidagi faoliyati haqida gapirdi",
+      "topic_key": "erkinjon-turdimov-bayanot",
+      "stems": [
+        "gapir",
+        "tizim",
+        "turdimov",
+        "lim",
+        "faoliyat",
+        "erkinjon"
+      ],
+      "posted_at": 1795171104.4561672
+    },
+    {
+      "title": "O'zbekistonda har uch pedagogdan ikkitasi sertifikatlash imtihonidan o'ta olmadi",
+      "summary": "2024–2026-yillardagi kasbiy sertifikatlash sinovlarida qatnashgan 47 936 nafar o'qituvchining qariyb 30 ming nafari yetarli ball to'play olmadi.",
+      "norm_title": "ozbekistonda har uch pedagogdan ikkitasi sertifikatlash imtihonidan ota olmadi",
+      "topic_key": "pedagog-sertifikat-imtihon",
+      "stems": [
+        "zbekiston",
+        "sertifikatlash",
+        "har",
+        "olm",
+        "pedagog",
+        "imtihon",
+        "uch",
+        "ikkita"
+      ],
+      "posted_at": 1795171124.3499026
     }
   ]
 }
