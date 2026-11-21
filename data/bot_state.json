@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86724,
-    "ao_agmk": 50369,
-    "olmaliqshaharpressa": 13078,
-    "olmaliq": 44122
+    "olmaliqhayoti": 86725,
+    "ao_agmk": 50372,
+    "olmaliqshaharpressa": 13082,
+    "olmaliq": 44128
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4200,55 +4200,19 @@
     "olmaliq:44111": 1795245891.2718806,
     "olmaliq:44120": 1795245928.911603,
     "olmaliq:44121": 1795245929.6501925,
-    "olmaliq:44122": 1795245932.6254172
+    "olmaliq:44122": 1795245932.6254172,
+    "olmaliqhayoti:86725": 1795274862.674349,
+    "ao_agmk:50370": 1795274866.1362755,
+    "ao_agmk:50371": 1795274866.1508436,
+    "ao_agmk:50372": 1795274887.3477504,
+    "olmaliqshaharpressa:13081": 1795274923.5843246,
+    "olmaliqshaharpressa:13082": 1795274998.6153634,
+    "olmaliq:44123": 1795275068.9757488,
+    "olmaliq:44124": 1795275102.6079104,
+    "olmaliq:44127": 1795275102.6238961,
+    "olmaliq:44128": 1795275135.0788224
   },
   "posted_articles": [
-    {
-      "title": "Molibden konsentrati ishlab chiqarish rejasi muddatidan oldin bajarildi",
-      "summary": "Olmaliq kon-metallurgiya kombinati Mis boyitish fabrikasining molibdenni saralash va quritish sexi jamoasi yillik reja uddalanganini ma'lum qildi.",
-      "norm_title": "molibden konsentrati ishlab chiqarish rejasi muddatidan oldin bajarildi",
-      "topic_key": "agmk-molibden-reja",
-      "stems": [
-        "ishlab",
-        "molibden",
-        "reja",
-        "bajaril",
-        "muddat",
-        "konsentrat",
-        "oldin",
-        "chiqar"
-      ],
-      "posted_at": 1793639099.330581
-    },
-    {
-      "title": "Firibgarlikdan ogoh bo'ling: soxta akkauntlar ko'paydi",
-      "summary": "Ijtimoiy tarmoqlarda boshqalarning nomidan ochilgan soxta akkauntlar ko'paydi. Shubhali havolalarni bosmang, shaxsiy ma'lumotlar va bank karta kodlarini hech kimga bermang.",
-      "norm_title": "firibgarlikdan ogoh boling soxta akkauntlar kopaydi",
-      "topic_key": "firibgarlikdan-ogoh-boling",
-      "stems": [
-        "firibgar",
-        "ling",
-        "akkaunt",
-        "pay",
-        "ogoh",
-        "soxta"
-      ],
-      "posted_at": 1793639108.0062203
-    },
-    {
-      "title": "Texnikumlarda nemis tilini o‘qitish kengaytiriladi",
-      "summary": "Germaniyada kadrlar yetishmovchiligi sababli, respublika texnikumlarida yoshlarga kasb bilan birga nemis tilini o‘rgatish tizimi joriy etilmoqda. Kelasi yildan hududlarga nemis tili o‘qituvchilarini jalb qilish vazifasi qo‘yildi.",
-      "norm_title": "texnikumlarda nemis tilini oqitish kengaytiriladi",
-      "topic_key": "germaniya-til-kadrlar-tayyorlash",
-      "stems": [
-        "qit",
-        "kengay",
-        "texnikum",
-        "til",
-        "nemis"
-      ],
-      "posted_at": 1793639123.155561
-    },
     {
       "title": "Viloyatlardagi texnikumlar 15 yilga yirik tadbirkorlar boshqaruviga beriladi",
       "summary": "Har bir viloyatdagi 2-3 tadan texnikum tadbirkorlar boshqaruviga berilib, yiliga 30 ming nafar malakali mutaxassis tayyorlanadi. Tadbirkorlarning kadrlar va uskunaga sarflagan xarajatlari soliqlardan chegiriladi.",
@@ -7184,6 +7148,48 @@
         "sinf"
       ],
       "posted_at": 1795245932.6303494
+    },
+    {
+      "title": "Toshkent viloyatida Vaziyatlar markazlari tashkil etilmoqda",
+      "summary": "Toshkent viloyatining barcha tuman va shahar hokimliklari binolarida tezkor boshqaruvni ta'minlash uchun 'Vaziyatlar markazi' tashkil etilmoqda.",
+      "norm_title": "toshkent viloyatida vaziyatlar markazlari tashkil etilmoqda",
+      "topic_key": "toshkent-viloyati-vaziyatlar-markazi",
+      "stems": [
+        "tashkil",
+        "markaz",
+        "etil",
+        "vaziyat"
+      ],
+      "posted_at": 1795274862.6806135
+    },
+    {
+      "title": "OKMK TVda korrupsiyaga qarshi ko'rsatuv namoyish etiladi",
+      "summary": "OKMK TV telekanalida Xalqaro korrupsiyaga qarshi kurashish kuniga bag'ishlangan \"Korrupsiya – taraqqiyot kushandasi\" nomli ko'rsatuv efirga uzatiladi.",
+      "norm_title": "okmk tvda korrupsiyaga qarshi korsatuv namoyish etiladi",
+      "topic_key": "okmk-tv-korrupsiya-korsatuv",
+      "stems": [
+        "okmk",
+        "namoy",
+        "qarsh",
+        "rsatuv",
+        "tvda",
+        "korrupsiya"
+      ],
+      "posted_at": 1795274887.354311
+    },
+    {
+      "title": "Olmaliqlik yosh sportchilar IIB boshlig'i bilan uchrashdi",
+      "summary": "Pankration va grappling bo'yicha O'zbekiston kubogida sovrinli o'rinlarni qo'lga kiritgan olmaliqlik yosh sportchilar shahar IIB boshlig'i Polkovnik Sherzod Shermatov bilan uchrashdi.",
+      "norm_title": "olmaliqlik yosh sportchilar iib boshligi bilan uchrashdi",
+      "topic_key": "sportchilar-iib-boshligi-uchrashuv",
+      "stems": [
+        "sportch",
+        "boshlig",
+        "iib",
+        "yosh",
+        "uchrash"
+      ],
+      "posted_at": 1795274923.5908325
     }
   ]
 }
