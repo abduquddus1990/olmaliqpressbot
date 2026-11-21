@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86725,
+    "olmaliqhayoti": 86726,
     "ao_agmk": 50372,
-    "olmaliqshaharpressa": 13082,
-    "olmaliq": 44128
+    "olmaliqshaharpressa": 13094,
+    "olmaliq": 44129
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4210,71 +4210,13 @@
     "olmaliq:44123": 1795275068.9757488,
     "olmaliq:44124": 1795275102.6079104,
     "olmaliq:44127": 1795275102.6238961,
-    "olmaliq:44128": 1795275135.0788224
+    "olmaliq:44128": 1795275135.0788224,
+    "olmaliqhayoti:86726": 1795294750.010654,
+    "olmaliqshaharpressa:13086": 1795294765.108617,
+    "olmaliqshaharpressa:13094": 1795294773.286952,
+    "olmaliq:44129": 1795294783.4794667
   },
   "posted_articles": [
-    {
-      "title": "Viloyatlardagi texnikumlar 15 yilga yirik tadbirkorlar boshqaruviga beriladi",
-      "summary": "Har bir viloyatdagi 2-3 tadan texnikum tadbirkorlar boshqaruviga berilib, yiliga 30 ming nafar malakali mutaxassis tayyorlanadi. Tadbirkorlarning kadrlar va uskunaga sarflagan xarajatlari soliqlardan chegiriladi.",
-      "norm_title": "viloyatlardagi texnikumlar 15 yilga yirik tadbirkorlar boshqaruviga beriladi",
-      "topic_key": "texnikumlar-tadbirkorlar-boshqaruvi",
-      "stems": [
-        "ber",
-        "texnikum",
-        "tadbirkor",
-        "yirik",
-        "boshqaruv"
-      ],
-      "posted_at": 1793639136.871199
-    },
-    {
-      "title": "Kelasi yildan fuqarolarni xorijga ishga yuborish to'liq xususiy agentliklarga o'tkaziladi",
-      "summary": "Kelgusi yildan chet elga ishga joylashtirish ishonchli xususiy agentliklarga topshiriladi va har bir fuqaro uchun ularga 1,5 million so'mdan rag'bat puli to'lanadi.",
-      "norm_title": "kelasi yildan fuqarolarni xorijga ishga yuborish toliq xususiy agentliklarga otkaziladi",
-      "topic_key": "xususiy-bandlik-agentliklari",
-      "stems": [
-        "liq",
-        "xususiy",
-        "tkaz",
-        "ish",
-        "fuqaro",
-        "yubor",
-        "agent",
-        "xorij",
-        "kela"
-      ],
-      "posted_at": 1793639145.4443467
-    },
-    {
-      "title": "O'zbekistonda 2 ta yirik xalqaro rekruting kompaniyasi ish boshlaydi",
-      "summary": "Kelasi yildan mamlakatimizda ikkita xalqaro rekruting kompaniyasi faoliyati yo'lga qo'yiladi. Prezident mehnat migratsiyasida asosiy e'tibor son emas, sifatga qaratilishini ta'kidladi.",
-      "norm_title": "ozbekistonda 2 ta yirik xalqaro rekruting kompaniyasi ish boshlaydi",
-      "topic_key": "xalqaro-rekruting-migratsiya",
-      "stems": [
-        "kompaniya",
-        "boshla",
-        "xalqaro",
-        "rekruting",
-        "yirik",
-        "zbekiston",
-        "ish"
-      ],
-      "posted_at": 1793639154.2979717
-    },
-    {
-      "title": "Xorijda ishlash istagidagilar uchun yangi tartib joriy etiladi",
-      "summary": "Prezident topshirig'iga ko'ra, chet elda ishlash istagidagilarni kasb va tilga o'qitish hamda \"Onlayn mahalla\" platformasi orqali ishga joylashtirish tizimi kuchaytiriladi.",
-      "norm_title": "xorijda ishlash istagidagilar uchun yangi tartib joriy etiladi",
-      "topic_key": "xorijda-ish-migratsiya-talab",
-      "stems": [
-        "istag",
-        "joriy",
-        "xorij",
-        "ishlash",
-        "tartib"
-      ],
-      "posted_at": 1793639168.3126261
-    },
     {
       "title": "Toshkentda 'Yangi O‘zbekiston' xalqaro forumi bo‘lib o‘tadi",
       "summary": "30-noyabrdan 5-dekabrga qadar Toshkentda 52 davlat vakillari ishtirokida forum o‘tkazilib, unda eksport, turizm va mehnat migratsiyasi bo‘yicha aniq kelishuvlarga erishish rejalashtirilgan.",
@@ -7190,6 +7132,64 @@
         "uchrash"
       ],
       "posted_at": 1795274923.5908325
+    },
+    {
+      "title": "22-noyabr uchun ob-havo, namoz vaqtlari va valyuta kurslari",
+      "summary": "Bugun Olmaliqda havo harorati kunduzi +20°C bo'ladi, yog'ingarchilik kutilmaydi. AQSh dollarining rasmiy kursi 12 004,48 so'mni tashkil etmoqda.",
+      "norm_title": "22noyabr uchun obhavo namoz vaqtlari va valyuta kurslari",
+      "topic_key": "ob-havo-namoz-valyuta",
+      "stems": [
+        "havo",
+        "kurs",
+        "namoz",
+        "vaqt",
+        "valyuta",
+        "noyabr"
+      ],
+      "posted_at": 1795294750.0177226
+    },
+    {
+      "title": "Kimyogar mahallasida fuqarolar qabuli o'tkazildi",
+      "summary": "Olmaliq shahar hokimining birinchi o'rinbosari Sh. Begiyev Kimyogar mahallasida fuqarolar qabulini o'tkazdi. Muloqotda aholining bandlik, ijtimoiy va kommunal masalalar bo'yicha murojaatlari tinglanib, mas'ullarga ijro uchun topshirildi.",
+      "norm_title": "kimyogar mahallasida fuqarolar qabuli otkazildi",
+      "topic_key": "kimyogar-mahalla-qabuli",
+      "stems": [
+        "qabul",
+        "tkazil",
+        "kimyogar",
+        "mahalla",
+        "fuqaro"
+      ],
+      "posted_at": 1795294765.1169238
+    },
+    {
+      "title": "Olmaliqda 5000 qadam yurish marafoni o‘tkazildi",
+      "summary": "14-noyabr — Butunjahon qandli diabetga qarshi kurashish kuni munosabati bilan Olmaliqda 500 nafarga yaqin aholi ishtirokida yurish marafoni va badantarbiya mashg‘ulotlari bo‘lib o‘tdi.",
+      "norm_title": "olmaliqda 5000 qadam yurish marafoni otkazildi",
+      "topic_key": "olmaliq-yurish-marafoni",
+      "stems": [
+        "5000",
+        "tkazil",
+        "marafo",
+        "qadam",
+        "yur"
+      ],
+      "posted_at": 1795294773.2947254
+    },
+    {
+      "title": "Birinchi sinflar 2027-yildan yangi alifboda o'qishni boshlaydi",
+      "summary": "2027/2028-o'quv yilidan 1-sinf o'quvchilari yangi alifboda o'qishni boshlaydi va darsliklar 2031-yilgacha bosqichma-bosqich joriy etiladi. Katta sinflar uchun 2028-yil 1-avgustgacha imlo xatolarini baholashda yengilliklar taklif etilmoqda.",
+      "norm_title": "birinchi sinflar 2027yildan yangi alifboda oqishni boshlaydi",
+      "topic_key": "yangi-alifbo-maktab",
+      "stems": [
+        "birinch",
+        "alifbo",
+        "sinf",
+        "2027",
+        "boshla",
+        "qish"
+      ],
+      "posted_at": 1795294783.4871058
     }
   ]
 }
