@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86704,
-    "ao_agmk": 50346,
-    "olmaliqshaharpressa": 13076,
-    "olmaliq": 44108
+    "olmaliqhayoti": 86724,
+    "ao_agmk": 50369,
+    "olmaliqshaharpressa": 13078,
+    "olmaliq": 44122
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4180,67 +4180,29 @@
     "olmaliqshaharpressa:13076": 1795200526.914623,
     "olmaliq:44099": 1795200536.6751025,
     "olmaliq:44108": 1795200539.0276322,
-    "olmaliqhayoti:86704": 1795220256.12476
+    "olmaliqhayoti:86704": 1795220256.12476,
+    "olmaliqhayoti:86705": 1795245719.405249,
+    "olmaliqhayoti:86706": 1795245751.8840778,
+    "olmaliqhayoti:86707": 1795245754.6657372,
+    "olmaliqhayoti:86708": 1795245788.3808184,
+    "olmaliqhayoti:86709": 1795245795.958214,
+    "olmaliqhayoti:86718": 1795245814.8142734,
+    "olmaliqhayoti:86724": 1795245850.8755083,
+    "ao_agmk:50356": 1795245851.3260398,
+    "ao_agmk:50357": 1795245851.3352113,
+    "ao_agmk:50358": 1795245862.2920783,
+    "ao_agmk:50368": 1795245865.30687,
+    "ao_agmk:50369": 1795245865.317948,
+    "olmaliqshaharpressa:13077": 1795245868.7754996,
+    "olmaliqshaharpressa:13078": 1795245875.6869993,
+    "olmaliq:44109": 1795245879.9008608,
+    "olmaliq:44110": 1795245882.98394,
+    "olmaliq:44111": 1795245891.2718806,
+    "olmaliq:44120": 1795245928.911603,
+    "olmaliq:44121": 1795245929.6501925,
+    "olmaliq:44122": 1795245932.6254172
   },
   "posted_articles": [
-    {
-      "title": "Xazon yoqish uchun jarima belgilandi",
-      "summary": "Xazonlarni yoqish havo ifloslanishiga va inson salomatligiga jiddiy zarar yetkazadi. Ushbu qoidabuzarlik uchun Ma'muriy javobgarlik to'g'risidagi kodeksga muvofiq jarima qo'llaniladi.",
-      "norm_title": "xazon yoqish uchun jarima belgilandi",
-      "topic_key": "xazon-yoqish-jarima",
-      "stems": [
-        "belgilan",
-        "yoq",
-        "jarima",
-        "xazon"
-      ],
-      "posted_at": 1793603646.109889
-    },
-    {
-      "title": "Mobil radarlar oldidan ogohlantiruvchi belgi o'rnatilmasligi mumkin",
-      "summary": "O'zbekistonda mobil radarlar uchun alohida ogohlantiruvchi yo'l belgisini o'rnatish talabi bekor qilindi. Ogohlantirish belgisi endi faqat statsionar radarlar uchun majburiy hisoblanadi.",
-      "norm_title": "mobil radarlar oldidan ogohlantiruvchi belgi ornatilmasligi mumkin",
-      "topic_key": "mobil-radarlar-ogohlantirish",
-      "stems": [
-        "rnatilmas",
-        "radar",
-        "belg",
-        "mobil",
-        "mumkin",
-        "ogohlantiruvch",
-        "old"
-      ],
-      "posted_at": 1793603657.0533626
-    },
-    {
-      "title": "Yangi DSK yo'li to'liq asfaltlandi",
-      "summary": "Olmaliq shahridagi \"Yangi Bo'ston\" ko'chasining ta'mirtalab yo'llari to'liq asfaltlanib, foydalanishga topshirildi. Bu hududdagi 1-sonli avtobuslar harakati uchun qulaylik yaratdi.",
-      "norm_title": "yangi dsk yoli toliq asfaltlandi",
-      "topic_key": "yangi-dsk-yoli-asfalt",
-      "stems": [
-        "liq",
-        "asfaltlan",
-        "dsk"
-      ],
-      "posted_at": 1793639056.6304047
-    },
-    {
-      "title": "Tog-kon sanoati va geologiya vazirligida kengaytirilgan yigilish o'tkazildi",
-      "summary": "Tog-kon sanoati va geologiya vazirligida o'tkazilgan yig'ilishda 2026-yilning 9 oylik yakunlari muhokama qilinib, OKMK va boshqa tizim korxonalari rahbarlarining hisobotlari tinglandi.",
-      "norm_title": "togkon sanoati va geologiya vazirligida kengaytirilgan yigilish otkazildi",
-      "topic_key": "tog-kon-vazirligi-yigilishi",
-      "stems": [
-        "tkazil",
-        "kengay",
-        "sanoat",
-        "yigil",
-        "geologiya",
-        "vazir",
-        "kon",
-        "tog"
-      ],
-      "posted_at": 1793639090.3577023
-    },
     {
       "title": "Molibden konsentrati ishlab chiqarish rejasi muddatidan oldin bajarildi",
       "summary": "Olmaliq kon-metallurgiya kombinati Mis boyitish fabrikasining molibdenni saralash va quritish sexi jamoasi yillik reja uddalanganini ma'lum qildi.",
@@ -7170,6 +7132,58 @@
         "tkazil"
       ],
       "posted_at": 1795200526.922809
+    },
+    {
+      "title": "Olmaliqlik nuroniy respublika tanlovida taqdirlandi",
+      "summary": "Farg'ona shahrida o'tkazilgan “Bir nuroniy o'n yoshga mas'ul” tanlovining respublika bosqichida Toshkent viloyati sharafini himoya qilgan olmaliqlik Saydinisa Begmatova \"Eng talabchan nuroniy\" nominatsiyasini qo'lga kiritdi.",
+      "norm_title": "olmaliqlik nuroniy respublika tanlovida taqdirlandi",
+      "topic_key": "bir-nuroniy-on-yoshga-masul",
+      "stems": [
+        "nuroniy",
+        "taqdirlan",
+        "tanlov"
+      ],
+      "posted_at": 1795245814.8190482
+    },
+    {
+      "title": "Olmaliqda keng ko‘lamli obodonlashtirish ishlari boshlandi",
+      "summary": "AGMK tasarrufidagi hududlar va shahar ko‘chalarida sanitariya-tozalik, ko‘kalamzorlashtirish hamda daraxtlarni oqlash ishlari tashkil etildi. Tadbir 22-noyabr kuni ham davom etadi.",
+      "norm_title": "olmaliqda keng kolamli obodonlashtirish ishlari boshlandi",
+      "topic_key": "agmk-obodonlashtirish-ishlari",
+      "stems": [
+        "ish",
+        "keng",
+        "laml",
+        "obodonlash"
+      ],
+      "posted_at": 1795245862.2971916
+    },
+    {
+      "title": "Moddiy yordam xabarnomalari tarqatilmoqda",
+      "summary": "Toshkent viloyatida ijtimoiy xodimlar fuqarolarga bir martalik moddiy yordam xabarnomalari va kompensatsiya flayerlarini tarqatishni boshladi.",
+      "norm_title": "moddiy yordam xabarnomalari tarqatilmoqda",
+      "topic_key": "moddiy-yordam-xabarnoma",
+      "stems": [
+        "yordam",
+        "xabarnoma",
+        "moddiy",
+        "tarqat"
+      ],
+      "posted_at": 1795245868.7801764
+    },
+    {
+      "title": "Inklyuziv sinf o‘quvchilari ustozlarni tabrikladi",
+      "summary": "Olmaliqdagi 13-maktabning inklyuziv ta'lim yo'nalishi o'quvchilari ustozlarga maxsus emblemalar sovg'a qilib, o'z minnatdorliklarini bildirdilar.",
+      "norm_title": "inklyuziv sinf oquvchilari ustozlarni tabrikladi",
+      "topic_key": "13-maktab-ustozlar-tabrigi",
+      "stems": [
+        "ustoz",
+        "tabrikl",
+        "quvch",
+        "inklyuziv",
+        "sinf"
+      ],
+      "posted_at": 1795245932.6303494
     }
   ]
 }
