@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86730,
-    "ao_agmk": 50372,
-    "olmaliqshaharpressa": 13094,
-    "olmaliq": 44144
+    "olmaliqhayoti": 86732,
+    "ao_agmk": 50374,
+    "olmaliqshaharpressa": 13108,
+    "olmaliq": 44147
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4225,83 +4225,20 @@
     "olmaliq:44133": 1795334175.952746,
     "olmaliq:44142": 1795334190.489346,
     "olmaliq:44143": 1795334193.9910023,
-    "olmaliq:44144": 1795334201.7409842
+    "olmaliq:44144": 1795334201.7409842,
+    "olmaliqhayoti:86731": 1795362590.5193496,
+    "olmaliqhayoti:86732": 1795362634.745157,
+    "ao_agmk:50373": 1795362660.95938,
+    "ao_agmk:50374": 1795362700.0370376,
+    "olmaliqshaharpressa:13096": 1795362741.2003205,
+    "olmaliqshaharpressa:13103": 1795362758.89191,
+    "olmaliqshaharpressa:13107": 1795362795.0090969,
+    "olmaliqshaharpressa:13108": 1795362845.2447271,
+    "olmaliq:44145": 1795362875.3794467,
+    "olmaliq:44146": 1795362912.156717,
+    "olmaliq:44147": 1795362954.4123678
   },
   "posted_articles": [
-    {
-      "title": "Olmaliq shahar FVB boshlig'i nafaqaga chiqdi",
-      "summary": "Olmaliq shahar Favqulodda vaziyatlar bo'limi boshlig'i lavozimida ishlab kelgan Akrom Yuldaşev nafaqaga chiqishi munosabati bilan taqdirlandi. Shahar hokimligi uning ko'p yillik samarali xizmatlari uchun minnatdorlik bildirdi.",
-      "norm_title": "olmaliq shahar fvb boshligi nafaqaga chiqdi",
-      "topic_key": "akrom-yuldashev-nafaqa",
-      "stems": [
-        "chiq",
-        "boshlig",
-        "fvb",
-        "nafa"
-      ],
-      "posted_at": 1793639199.1615667
-    },
-    {
-      "title": "Olmaliqda \"Xavfsiz va sog'lom yurt\" profilaktik tadbirlari boshlandi",
-      "summary": "Olmaliq shahrida jamoat tartibini saqlash va jinoyatchilikning oldini olishga qaratilgan \"Xavfsiz va sog'lom yurt\" tadbiri doirasida IIB xodimlari uchun xizmat oldi yo'riqnomasi o'tkazildi.",
-      "norm_title": "olmaliqda xavfsiz va soglom yurt profilaktik tadbirlari boshlandi",
-      "topic_key": "xavfsiz-soglom-yurt-tadbiri",
-      "stems": [
-        "sog",
-        "xavfsiz",
-        "profilaktik",
-        "yurt",
-        "lom",
-        "tadbir"
-      ],
-      "posted_at": 1793639207.3095884
-    },
-    {
-      "title": "Fuqarolar o'z mobil raqamlarini auktsion orqali sotishi mumkin",
-      "summary": "Endilikda oddiy fuqarolar o'z mobil raqamlarini auktsionga qo'yib sotishlari mumkin. Buning uchun boshlang'ich narxning 1 foizi miqdorida xizmat haqi to'lanadi.",
-      "norm_title": "fuqarolar oz mobil raqamlarini auktsion orqali sotishi mumkin",
-      "topic_key": "mobil-raqam-auktsion",
-      "stems": [
-        "raqam",
-        "auktsion",
-        "mumkin",
-        "mobil",
-        "fuqaro",
-        "sot"
-      ],
-      "posted_at": 1793639229.183349
-    },
-    {
-      "title": "Olmaliqda ob-havo, valyuta kurslari va namoz vaqtlari",
-      "summary": "3-noyabr kuni Olmaliqda havo harorati kunduzi +21°C, kechasi +12°C bo'ladi. Dollar kursi 11 941,65 so'm, rubl esa 147,65 so'mni tashkil etmoqda.",
-      "norm_title": "olmaliqda obhavo valyuta kurslari va namoz vaqtlari",
-      "topic_key": "olmaliq-ob-havo-valyuta",
-      "stems": [
-        "kurs",
-        "vaqt",
-        "namoz",
-        "valyuta",
-        "havo"
-      ],
-      "posted_at": 1793663451.8828456
-    },
-    {
-      "title": "Olmaliqda Germaniyada ishlash imkonini beruvchi bepul dasturga qabul ochildi",
-      "summary": "Olmaliq shahar 2-sonli texnikumida Germaniya bilan hamkorlikda logistika bo'yicha 200 ta bepul o'rin uchun qabul boshlandi. Dasturni tamomlaganlar Germaniyada kafolatlangan ish bilan ta'minlanadi.",
-      "norm_title": "olmaliqda germaniyada ishlash imkonini beruvchi bepul dasturga qabul ochildi",
-      "topic_key": "olmaliq-texnikum-germaniya",
-      "stems": [
-        "dastur",
-        "germaniya",
-        "beruvch",
-        "ishlash",
-        "ochil",
-        "imkon",
-        "bepul",
-        "qabul"
-      ],
-      "posted_at": 1793678745.2451797
-    },
     {
       "title": "Suv qarzdorligi uchun elektr to'lovlari cheklanadi",
       "summary": "2027-yil 1-yanvardan boshlab suv uchun qarzdorlik o'z vaqtida to'lanmasa, elektr energiyasi uchun to'lovlarni qabul qilish avtomatik ravishda cheklanadi.",
@@ -7202,6 +7139,86 @@
         "bor"
       ],
       "posted_at": 1795334190.4952497
+    },
+    {
+      "title": "Saida Mirziyoyeva \"USS George Washington\" aviatashuvchi kemasida bo'ldi",
+      "summary": "Prezident Administratsiyasi rahbari Saida Mirziyoyeva AQShning maxsus vakili Serjiofor bilan birgalikda Hindiston sohillari yaqinidagi \"USS George Washington\" aviatashuvchi kemasi bortiga chiqib, uning texnologiyalari bilan tanishdi.",
+      "norm_title": "saida mirziyoyeva uss george washington aviatashuvchi kemasida boldi",
+      "topic_key": "saida-mirziyoyeva-aviatashuvchi-kema",
+      "stems": [
+        "sai",
+        "washington",
+        "mirziyoyeva",
+        "aviatashuvch",
+        "ldi",
+        "uss",
+        "george",
+        "kema"
+      ],
+      "posted_at": 1795362634.7518284
+    },
+    {
+      "title": "OKMK O‘zbekiston kubogi yarim finalida Navbahor bilan o‘ynaydi",
+      "summary": "24-noyabr kuni Toshkentning 'Lokomotiv' stadionida OKMK va Namanganning 'Navbahor' jamoalari O‘zbekiston kubogi finali yo‘llanmasi uchun maydonga tushadi.",
+      "norm_title": "okmk ozbekiston kubogi yarim finalida navbahor bilan oynaydi",
+      "topic_key": "okmk-navbahor-kubok",
+      "stems": [
+        "kubog",
+        "zbekiston",
+        "final",
+        "yarim",
+        "navbahor",
+        "okmk",
+        "yna"
+      ],
+      "posted_at": 1795362660.965988
+    },
+    {
+      "title": "Olmaliq shahar bolalar shifoxonasidagi holat yuzasidan rasmiy munosabat bildirildi",
+      "summary": "Shifoxonaning isitish tizimidagi nosozlik tufayli suv sizib chiqishi tezkorlik bilan bartaraf etildi. Shuningdek, yaqin kunlarda binoda dezinfeksiya tadbirlari qayta o'tkazilishi belgilandi.",
+      "norm_title": "olmaliq shahar bolalar shifoxonasidagi holat yuzasidan rasmiy munosabat bildirildi",
+      "topic_key": "olmaliq-bolalar-shifoxonasi-holati",
+      "stems": [
+        "bola",
+        "bildiril",
+        "munosabat",
+        "rasmiy",
+        "shifoxona",
+        "yuza",
+        "holat"
+      ],
+      "posted_at": 1795362795.0161042
+    },
+    {
+      "title": "Olmaliq shahar IIB xodimlari \"Yashil makon\" aksiyasida qatnashdi",
+      "summary": "\"Yashil makon\" umummilliy loyihasi doirasida Olmaliq shahar IIB binosi hududiga 300 tupdan ortiq mevali va manzarali daraxt ko'chatlari ekildi.",
+      "norm_title": "olmaliq shahar iib xodimlari yashil makon aksiyasida qatnashdi",
+      "topic_key": "yashil-makon-olmaliq-iib",
+      "stems": [
+        "xodim",
+        "iib",
+        "qatnash",
+        "aksiya",
+        "makon",
+        "yashil"
+      ],
+      "posted_at": 1795362845.2512298
+    },
+    {
+      "title": "Ertaga O'zbekistonda havo harorati +30 darajagacha ko'tarilishi kutilmoqda",
+      "summary": "23-noyabr kuni mamlakatimizda mavsumga xos bo'lmagan g'ayrioddiy issiq ob-havo kuzatilib, havo harorati +30 darajagacha ko'tariladi.",
+      "norm_title": "ertaga ozbekistonda havo harorati 30 darajagacha kotarilishi kutilmoqda",
+      "topic_key": "ob-havo-issiq-harorat",
+      "stems": [
+        "kut",
+        "havo",
+        "zbekiston",
+        "erta",
+        "darajagacha",
+        "tar",
+        "harorat"
+      ],
+      "posted_at": 1795362875.3860974
     }
   ]
 }
