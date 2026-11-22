@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86727,
+    "olmaliqhayoti": 86730,
     "ao_agmk": 50372,
     "olmaliqshaharpressa": 13094,
-    "olmaliq": 44129
+    "olmaliq": 44144
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4215,38 +4215,19 @@
     "olmaliqshaharpressa:13086": 1795294765.108617,
     "olmaliqshaharpressa:13094": 1795294773.286952,
     "olmaliq:44129": 1795294783.4794667,
-    "olmaliqhayoti:86727": 1795309293.8257813
+    "olmaliqhayoti:86727": 1795309293.8257813,
+    "olmaliqhayoti:86728": 1795334120.7612576,
+    "olmaliqhayoti:86729": 1795334126.7768416,
+    "olmaliqhayoti:86730": 1795334134.4770167,
+    "olmaliq:44130": 1795334138.5775309,
+    "olmaliq:44131": 1795334143.166521,
+    "olmaliq:44132": 1795334169.162019,
+    "olmaliq:44133": 1795334175.952746,
+    "olmaliq:44142": 1795334190.489346,
+    "olmaliq:44143": 1795334193.9910023,
+    "olmaliq:44144": 1795334201.7409842
   },
   "posted_articles": [
-    {
-      "title": "Toshkentda 'Yangi O‘zbekiston' xalqaro forumi bo‘lib o‘tadi",
-      "summary": "30-noyabrdan 5-dekabrga qadar Toshkentda 52 davlat vakillari ishtirokida forum o‘tkazilib, unda eksport, turizm va mehnat migratsiyasi bo‘yicha aniq kelishuvlarga erishish rejalashtirilgan.",
-      "norm_title": "toshkentda yangi ozbekiston xalqaro forumi bolib otadi",
-      "topic_key": "yangi-ozbekiston-forumi",
-      "stems": [
-        "xalqaro",
-        "forum",
-        "lib",
-        "tad",
-        "zbekiston"
-      ],
-      "posted_at": 1793639183.0510018
-    },
-    {
-      "title": "Olmaliqda 14 nafar mahkum muddatidan oldin jazodan ozod qilindi",
-      "summary": "Olmaliq shahar sudi tomonidan o'tkazilgan sayyor sudda tuzalish yo'liga o'tgan 14 nafar probatsiya nazoratidagi mahkum muddatidan oldin jazodan ozod qilindi.",
-      "norm_title": "olmaliqda 14 nafar mahkum muddatidan oldin jazodan ozod qilindi",
-      "topic_key": "olmaliq-sayyor-sud-mahkum",
-      "stems": [
-        "ozod",
-        "jazo",
-        "muddat",
-        "mahkum",
-        "nafar",
-        "oldin"
-      ],
-      "posted_at": 1793639191.7927146
-    },
     {
       "title": "Olmaliq shahar FVB boshlig'i nafaqaga chiqdi",
       "summary": "Olmaliq shahar Favqulodda vaziyatlar bo'limi boshlig'i lavozimida ishlab kelgan Akrom Yuldaşev nafaqaga chiqishi munosabati bilan taqdirlandi. Shahar hokimligi uning ko'p yillik samarali xizmatlari uchun minnatdorlik bildirdi.",
@@ -7191,6 +7172,36 @@
         "qish"
       ],
       "posted_at": 1795294783.4871058
+    },
+    {
+      "title": "O'zbekistonning 4 ta eng kuchli maxsus bo'linmasi haqida",
+      "summary": "Mudofaa vazirligi, Milliy gvardiya, DXX va IIVning maxsus bo'linmalari vazifalari hamda ularning yuqori tayyorgarlik darajasi haqida ma'lumot berildi.",
+      "norm_title": "ozbekistonning 4 ta eng kuchli maxsus bolinmasi haqida",
+      "topic_key": "maxsus-kuchlar-haqida",
+      "stems": [
+        "linma",
+        "eng",
+        "kuchl",
+        "maxsus",
+        "zbekiston"
+      ],
+      "posted_at": 1795334134.483023
+    },
+    {
+      "title": "Janubiy Koreyada 10 yil ichida ilk bor vabo aniqlandi",
+      "summary": "Mamlakatda 10 yildan beri birinchi marta vabo kasalligi qayd etildi. Changvon shahridagi shifoxonaga murojaat qilgan bemor tuzalib chiqqan, shifokorlar infeksiya manbasini aniqlamoqda.",
+      "norm_title": "janubiy koreyada 10 yil ichida ilk bor vabo aniqlandi",
+      "topic_key": "janubiy-koreya-vabo",
+      "stems": [
+        "vabo",
+        "janubiy",
+        "koreya",
+        "ich",
+        "ilk",
+        "aniqlan",
+        "bor"
+      ],
+      "posted_at": 1795334190.4952497
     }
   ]
 }
