@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86738,
-    "ao_agmk": 50374,
+    "olmaliqhayoti": 86745,
+    "ao_agmk": 50385,
     "olmaliqshaharpressa": 13124,
-    "olmaliq": 44156
+    "olmaliq": 44159
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4243,137 +4243,22 @@
     "olmaliqshaharpressa:13124": 1795382408.6413102,
     "olmaliq:44155": 1795382413.4543493,
     "olmaliqhayoti:86738": 1795398613.3483922,
-    "olmaliq:44156": 1795398620.879285
+    "olmaliq:44156": 1795398620.879285,
+    "olmaliqhayoti:86739": 1795427563.4684718,
+    "olmaliqhayoti:86740": 1795427581.1572938,
+    "olmaliqhayoti:86741": 1795427581.173271,
+    "olmaliqhayoti:86742": 1795427586.8094754,
+    "olmaliqhayoti:86743": 1795427595.7348063,
+    "olmaliqhayoti:86745": 1795427611.7970233,
+    "ao_agmk:50378": 1795427630.7474365,
+    "ao_agmk:50379": 1795427653.4727159,
+    "ao_agmk:50383": 1795427668.4631844,
+    "ao_agmk:50385": 1795427680.999683,
+    "olmaliq:44157": 1795427698.5156891,
+    "olmaliq:44158": 1795427701.5398815,
+    "olmaliq:44159": 1795427713.8549156
   },
   "posted_articles": [
-    {
-      "title": "Suv qarzdorligi uchun elektr to'lovlari cheklanadi",
-      "summary": "2027-yil 1-yanvardan boshlab suv uchun qarzdorlik o'z vaqtida to'lanmasa, elektr energiyasi uchun to'lovlarni qabul qilish avtomatik ravishda cheklanadi.",
-      "norm_title": "suv qarzdorligi uchun elektr tolovlari cheklanadi",
-      "topic_key": "suv-qarz-elektr-cheklov",
-      "stems": [
-        "lov",
-        "qarzdor",
-        "suv",
-        "elektr",
-        "cheklan"
-      ],
-      "posted_at": 1793706662.8445103
-    },
-    {
-      "title": "Maktablarda kuzgi ta'til 4-noyabrdan boshlanadi",
-      "summary": "Maktab o'quvchilari uchun 6 kunlik kuzgi ta'til 4–9-noyabr kunlari davom etadi. II chorak darslari 10-noyabrdan boshlanadi.",
-      "norm_title": "maktablarda kuzgi tatil 4noyabrdan boshlanadi",
-      "topic_key": "maktab-kuzgi-tatil",
-      "stems": [
-        "noyabr",
-        "boshlan",
-        "kuzg",
-        "maktab",
-        "til"
-      ],
-      "posted_at": 1793706676.984569
-    },
-    {
-      "title": "Toshkent metro tarmoqlari kengaytiriladi",
-      "summary": "2030 yilga qadar Toshkent shahrida yana 29 ta yangi metro bekati qurilib, ularning umumiy soni 79 taga yetkaziladi va yo'llarning uzunligi 103 kilometrni tashkil qiladi.",
-      "norm_title": "toshkent metro tarmoqlari kengaytiriladi",
-      "topic_key": "toshkent-metro-qurilishi",
-      "stems": [
-        "kengay",
-        "metro",
-        "tarmoq"
-      ],
-      "posted_at": 1793706696.7527275
-    },
-    {
-      "title": "Farg'onada is gazidan ommaviy zaharlanishlar qayd etildi",
-      "summary": "Farg'ona tumani va Qo'qon shahrida is gazidan zaharlanish oqibatida ikki oilaning jami 12 nafar a'zosi halok bo'ldi. FVV fuqarolarni xavfli isitish moslamalaridan foydalanmaslikka chaqirmoqda.",
-      "norm_title": "fargonada is gazidan ommaviy zaharlanishlar qayd etildi",
-      "topic_key": "is-gazi-zaharlanish-fargona",
-      "stems": [
-        "ommaviy",
-        "zaharlan",
-        "qayd",
-        "gaz",
-        "farg",
-        "ona"
-      ],
-      "posted_at": 1793706716.267974
-    },
-    {
-      "title": "Olmaliqdagi 16-maktabda ma'naviy-ma'rifiy ishlar holati o'rganildi",
-      "summary": "Respublika Ma'naviyat va ma'rifat markazi Olmaliq shahar bo'linmasi 16-umumta'lim maktabi faoliyatini ko'zdan kechirib, kamchiliklar yuzasidan tavsiyalar berdi va hamkorlik rejalarini kelishib oldi.",
-      "norm_title": "olmaliqdagi 16maktabda manaviymarifiy ishlar holati organildi",
-      "topic_key": "olmaliq-16-maktab-oʻrganish",
-      "stems": [
-        "naviy",
-        "holat",
-        "rganil",
-        "rifiy",
-        "maktab",
-        "ish"
-      ],
-      "posted_at": 1793706732.4320822
-    },
-    {
-      "title": "Kovuldi kon boshqarmasida shashka musobaqasi o'tkazildi",
-      "summary": "Kasaba uyushmalari kuni munosabati bilan Kovuldi kon boshqarmasi xodimlari o'rtasida shashka musobaqasi bo'lib o'tdi va unda Akmal Uralov 1-o'rinni egalladi.",
-      "norm_title": "kovuldi kon boshqarmasida shashka musobaqasi otkazildi",
-      "topic_key": "kovuldi-shashka-musobaqasi",
-      "stems": [
-        "shash",
-        "boshqarma",
-        "tkazil",
-        "musoba",
-        "kon",
-        "kovul"
-      ],
-      "posted_at": 1793706748.2007706
-    },
-    {
-      "title": "Angrenda sohta pul tayyorlagan shaxslar ushlandi",
-      "summary": "Angrendagi xonadonlardan birida salkam 80 million so'm sohta pul tayyorlagan ilgari sudlangan shaxslar qo'lga olindi.",
-      "norm_title": "angrenda sohta pul tayyorlagan shaxslar ushlandi",
-      "topic_key": "angren-sohta-pul",
-      "stems": [
-        "tayyorla",
-        "shaxs",
-        "ushlan",
-        "angren",
-        "pul",
-        "sohta"
-      ],
-      "posted_at": 1793706768.6007721
-    },
-    {
-      "title": "Prezident Buxoro viloyatiga tashrif buyurdi",
-      "summary": "Davlat rahbari ikki kunlik tashrif davomida turizm, sanoat va qishloq xo'jaligi loyihalari bilan tanishib, yangilarini ishga tushiradi.",
-      "norm_title": "prezident buxoro viloyatiga tashrif buyurdi",
-      "topic_key": "prezident-buxoro-tashrifi",
-      "stems": [
-        "tashrif",
-        "prezident",
-        "buxoro",
-        "buyur"
-      ],
-      "posted_at": 1793706790.0966372
-    },
-    {
-      "title": "Maktab ta'tilida ota-onalarga qo'shimcha ta'til beriladi",
-      "summary": "Maktab ta'tilida farzandlari bilan vaqt o'tkazishi uchun ota-onalarga har yili kamida 4 kalendar kun haq to'lanadigan qo'shimcha ta'til beriladi.",
-      "norm_title": "maktab tatilida otaonalarga qoshimcha tatil beriladi",
-      "topic_key": "ota-onalarga-qosimcha-tatil",
-      "stems": [
-        "ota",
-        "maktab",
-        "shimcha",
-        "til",
-        "ber",
-        "ona"
-      ],
-      "posted_at": 1793706799.9687319
-    },
     {
       "title": "Sportchi yoshlarning ota-onalari taqdirlandi",
       "summary": "Olmaliq shahar hokimi Barhayot Meliyev \"Prezident olimpiadasi\"da faol ishtirok etayotgan sportchilarning ota-onalariga Toshkent viloyati hokimining minnatdorçilik xatlari va esdalik sovg'alarini topshirdi.",
@@ -7226,6 +7111,145 @@
         "harorat"
       ],
       "posted_at": 1795362875.3860974
+    },
+    {
+      "title": "Olmaliqda \"Yashil makon\" loyihasi doirasida ko'chat ekish tadbiri o'tkazildi",
+      "summary": "Olmaliq shahrining \"Abdulla Qahhor\" MFY hududida \"Dolzarb 40 kunlik\" doirasida shahar rahbarlari hamda jamoatchilik vakillari ishtirokida ommaviy ko'chat ekish tadbiri bo'lib o'tdi.",
+      "norm_title": "olmaliqda yashil makon loyihasi doirasida kochat ekish tadbiri otkazildi",
+      "topic_key": "yashil-makon-olmaliq",
+      "stems": [
+        "chat",
+        "tkazil",
+        "ekish",
+        "yashil",
+        "doira",
+        "tadbir",
+        "loyiha",
+        "makon"
+      ],
+      "posted_at": 1795427563.476837
+    },
+    {
+      "title": "Soliq qo'mitasi keshbek foydalanuvchilarini firibgarlardan ogohlantirdi",
+      "summary": "Telegram'da Soliq qo'mitasi nomidan soxta bot va ilovalar yaratilib, keshbek cheklarini sotish kabi firibgarliklar amalga oshirilmoqda. Fuqarolardan bunday shubhali manbalarga ishonmaslik so'raladi.",
+      "norm_title": "soliq qomitasi keshbek foydalanuvchilarini firibgarlardan ogohlantirdi",
+      "topic_key": "soliq-keshbek-firibgarlik",
+      "stems": [
+        "firibgar",
+        "keshbek",
+        "mita",
+        "ogohlantir",
+        "soliq",
+        "foydalanuvch"
+      ],
+      "posted_at": 1795427595.7429671
+    },
+    {
+      "title": "Xitoyda qanotsiz uchuvchi avtomobil sinovdan o'tkazildi",
+      "summary": "Havoda 150 km/s va yerda 80 km/s tezlikda harakatlanuvchi ushbu transport vositasi 3 km balandlikda 300 km masofagacha uchish imkoniyatiga ega.",
+      "norm_title": "xitoyda qanotsiz uchuvchi avtomobil sinovdan otkazildi",
+      "topic_key": "uchuvchi-avtomobil-sinovi",
+      "stems": [
+        "tkazil",
+        "uchuvch",
+        "avtomobil",
+        "sinov",
+        "xitoy",
+        "qanotsiz"
+      ],
+      "posted_at": 1795427611.8062634
+    },
+    {
+      "title": "OKMK haftalik yangiliklar dayjesti e'lon qilindi",
+      "summary": "Hafta davomida OKMKda xorijiy elchilar tashrifi, konlarning 3D modellarini yaratish hamda ishlab chiqarish ko'rsatkichlari va tejamkorlik masalalari bo'yicha muhim tadbirlar bo'lib o'tdi.",
+      "norm_title": "okmk haftalik yangiliklar dayjesti elon qilindi",
+      "topic_key": "okmk-haftalik-dayjest",
+      "stems": [
+        "yang",
+        "lon",
+        "dayjest",
+        "okmk",
+        "hafta"
+      ],
+      "posted_at": 1795427630.755796
+    },
+    {
+      "title": "AGMKda korrupsiyaga qarshi profilaktik davra suhbati o‘tkazildi",
+      "summary": "Mis boyitish fabrikasi va Mis eritish zavodi ishchi-xodimlari uchun kombinatni korrupsiyadan holi hududga aylantirish mavzusida davra suhbati tashkil etildi.",
+      "norm_title": "agmkda korrupsiyaga qarshi profilaktik davra suhbati otkazildi",
+      "topic_key": "agmk-korrupsiya-davra-suhbati",
+      "stems": [
+        "tkazil",
+        "profilaktik",
+        "agmk",
+        "korrupsiya",
+        "qarsh",
+        "davra",
+        "suhbat"
+      ],
+      "posted_at": 1795427653.4809618
+    },
+    {
+      "title": "OKMK spartakiadasida stol tennisi bo'yicha g'oliblar aniqlandi",
+      "summary": "21-22-noyabr kunlari o'tkazilgan OKMK spartakiadasining stol tennisi bahslarida birinchi guruhda Sanoat temiryo'l transport boshqarmasi, ikkinchi guruhda esa Texnologik transport boshqarmasi jamoalari zafar quchdi.",
+      "norm_title": "okmk spartakiadasida stol tennisi boyicha goliblar aniqlandi",
+      "topic_key": "okmk-spartakiada-tennis",
+      "stems": [
+        "olib",
+        "spartakia",
+        "ten",
+        "yicha",
+        "okmk",
+        "stol",
+        "aniqlan"
+      ],
+      "posted_at": 1795427668.471402
+    },
+    {
+      "title": "Angren kon boshqarmasining modernizatsiya bosqichlari",
+      "summary": "2002-yilda \"Olmaliq KMK\" AJ tarkibiga qo'shilgan Angren kon boshqarmasida keng ko'lamli modernizatsiya va texnik qayta jihozlash ishlari amalga oshirilmoqda.",
+      "norm_title": "angren kon boshqarmasining modernizatsiya bosqichlari",
+      "topic_key": "angren-kb-modernizatsiya",
+      "stems": [
+        "modernizatsiya",
+        "kon",
+        "bosqich",
+        "boshqarma",
+        "angren"
+      ],
+      "posted_at": 1795427681.0078733
+    },
+    {
+      "title": "Tirsak urilganda nega tok urgandek bo'ladi?",
+      "summary": "Tirsak urilganda suyak emas, yupqa teri bilan qoplangan tirsak nervi zararlanadi. Shu sababli jimjiloq va nomsiz barmoqlarda uvisish hissi paydo bo'ladi.",
+      "norm_title": "tirsak urilganda nega tok urgandek boladi",
+      "topic_key": "tirsak-nerv-urilishi",
+      "stems": [
+        "lad",
+        "urgandek",
+        "tirsak",
+        "tok",
+        "uril",
+        "nega"
+      ],
+      "posted_at": 1795427698.5239072
+    },
+    {
+      "title": "O‘zbekistonda 9 oyda 20 yoshga to‘lmagan 3 mindan ortiq yigit uylandi",
+      "summary": "Mamlakatimizda 9 oy davomida 172 mingta nikoh qayd etilgan bo‘lib, shundan 3 093 nafar kuyovning yoshi 20 ga ham yetmagan.",
+      "norm_title": "ozbekistonda 9 oyda 20 yoshga tolmagan 3 mindan ortiq yigit uylandi",
+      "topic_key": "nikoh-statistikasi-yoshlar",
+      "stems": [
+        "oyda",
+        "yosh",
+        "ortiq",
+        "yigit",
+        "min",
+        "uylan",
+        "lma",
+        "zbekiston"
+      ],
+      "posted_at": 1795427713.863125
     }
   ]
 }
