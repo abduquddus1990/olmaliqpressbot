@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86745,
-    "ao_agmk": 50385,
-    "olmaliqshaharpressa": 13124,
-    "olmaliq": 44159
+    "olmaliqhayoti": 86755,
+    "ao_agmk": 50393,
+    "olmaliqshaharpressa": 13125,
+    "olmaliq": 44162
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4256,52 +4256,26 @@
     "ao_agmk:50385": 1795427680.999683,
     "olmaliq:44157": 1795427698.5156891,
     "olmaliq:44158": 1795427701.5398815,
-    "olmaliq:44159": 1795427713.8549156
+    "olmaliq:44159": 1795427713.8549156,
+    "olmaliqhayoti:86746": 1795470311.240457,
+    "olmaliqhayoti:86747": 1795470311.2517395,
+    "olmaliqhayoti:86748": 1795470326.8480234,
+    "olmaliqhayoti:86749": 1795470337.3560977,
+    "olmaliqhayoti:86752": 1795470350.5759177,
+    "olmaliqhayoti:86753": 1795470383.8305812,
+    "olmaliqhayoti:86754": 1795470384.2467198,
+    "olmaliqhayoti:86755": 1795470392.360808,
+    "ao_agmk:50386": 1795470392.7514226,
+    "ao_agmk:50387": 1795470392.7626073,
+    "ao_agmk:50388": 1795470401.5235953,
+    "ao_agmk:50391": 1795470410.6668346,
+    "ao_agmk:50393": 1795470426.1356902,
+    "olmaliqshaharpressa:13125": 1795470429.058922,
+    "olmaliq:44160": 1795470429.4398286,
+    "olmaliq:44161": 1795470438.7625682,
+    "olmaliq:44162": 1795470446.5661385
   },
   "posted_articles": [
-    {
-      "title": "Sportchi yoshlarning ota-onalari taqdirlandi",
-      "summary": "Olmaliq shahar hokimi Barhayot Meliyev \"Prezident olimpiadasi\"da faol ishtirok etayotgan sportchilarning ota-onalariga Toshkent viloyati hokimining minnatdorçilik xatlari va esdalik sovg'alarini topshirdi.",
-      "norm_title": "sportchi yoshlarning otaonalari taqdirlandi",
-      "topic_key": "prezident-olimpiadasi-ota-onalar",
-      "stems": [
-        "yosh",
-        "ona",
-        "taqdirlan",
-        "sportch",
-        "ota"
-      ],
-      "posted_at": 1793731297.1102471
-    },
-    {
-      "title": "Olmaliq shahrida Islohotlar shtabi faoliyati va ijtimoiy ahvol o'rganildi",
-      "summary": "Toshkent viloyati va Olmaliq shahri prokurorlari Olmaliq hokimligida Islohotlar shtabi faoliyatini hamda ijtimoiy reyestrdagi oilalar yashash sharoitlarini bevosita o'rgandi.",
-      "norm_title": "olmaliq shahrida islohotlar shtabi faoliyati va ijtimoiy ahvol organildi",
-      "topic_key": "islohotlar-shtabi-olmaliq",
-      "stems": [
-        "ijtimoiy",
-        "rganil",
-        "shtab",
-        "faoliyat",
-        "islohot",
-        "ahvol"
-      ],
-      "posted_at": 1793731314.2277176
-    },
-    {
-      "title": "Olmaliqda shahar hokimi tadbirkorlar bilan ochiq muloqot o'tkazdi",
-      "summary": "Olmaliq shahar hokimi Barhayot Meliyev va \"Xalq banki\" Boshqaruv raisi o'rinbosari S. Abdullayev tadbirkorlar bilan uchrashib, ularning muammo va takliflarini tingladi.",
-      "norm_title": "olmaliqda shahar hokimi tadbirkorlar bilan ochiq muloqot otkazdi",
-      "topic_key": "hokim-tadbirkorlar-muloqoti",
-      "stems": [
-        "hokim",
-        "tkaz",
-        "tadbirkor",
-        "ochiq",
-        "muloqot"
-      ],
-      "posted_at": 1793790362.9187443
-    },
     {
       "title": "Olmaliqda jamoat transportida 400 dan ortiq yo'lovchi yo'l haqini to'lamagani aniqlandi",
       "summary": "Toshkent viloyatida o'tkazilgan reydlar natijasida bir oy ichida Olmaliq avtobuslarida 400 dan ortiq yo'lovchi yo'l haqini to'lamay harakatlangani ma'lum bo'ldi. Shahar viloyat bo'yicha jamoat transportidagi qoidabuzarliklar soni bo'yicha yetakchilik qilmoqda.",
@@ -7250,6 +7224,55 @@
         "zbekiston"
       ],
       "posted_at": 1795427713.863125
+    },
+    {
+      "title": "O‘zbekiston Sibirdan suv olib kelish o‘rniga uni tejashni afzal ko‘rmoqda",
+      "summary": "Suv xo‘jaligi vaziri Shavkat Hamrayev O‘zbekiston 5 mlrd dollar sarflab, 11 mlrd kub metr suvni tejaganini ma’lum qildi. Sibir loyihasi esa kamida 100 mlrd dollarga tushishi mumkin.",
+      "norm_title": "ozbekiston sibirdan suv olib kelish orniga uni tejashni afzal kormoqda",
+      "topic_key": "suv-tejash-sibir",
+      "stems": [
+        "zbekiston",
+        "olib",
+        "kel",
+        "afzal",
+        "sibir",
+        "uni",
+        "tejash",
+        "rni",
+        "suv",
+        "rmoq"
+      ],
+      "posted_at": 1795470326.8537405
+    },
+    {
+      "title": "OKMK FK uchrashuvi uchun Olmaliqdan bepul avtobuslar ajratiladi",
+      "summary": "24-noyabr kuni Toshkentda o'tadigan OKMK va Navbahor uchrashuviga boruvchi muxlislar uchun soat 15:00 da Madaniyat saroyi oldidan bepul avtobuslar, chiptalar hamda futbolkalar ajratiladi.",
+      "norm_title": "okmk fk uchrashuvi uchun olmaliqdan bepul avtobuslar ajratiladi",
+      "topic_key": "okmk-futbol-bepul-avtobus",
+      "stems": [
+        "ajrat",
+        "bepul",
+        "okmk",
+        "avtobus",
+        "uchrashuv"
+      ],
+      "posted_at": 1795470401.5291471
+    },
+    {
+      "title": "AGMK 3-Mis boyitish fabrikasiga ishga qabul e'lon qilindi",
+      "summary": "Olmaliq KMK AJ 3-Mis boyitish fabrikasiga bir qator mutaxassisliklar bo'yicha 23-noyabrdan 6-dekabrga qadar onlayn rezyumelar qabul qilinadi.",
+      "norm_title": "agmk 3mis boyitish fabrikasiga ishga qabul elon qilindi",
+      "topic_key": "agmk-3mbf-vakansiya",
+      "stems": [
+        "mis",
+        "fabr",
+        "boyit",
+        "lon",
+        "ish",
+        "agmk",
+        "qabul"
+      ],
+      "posted_at": 1795470410.6724434
     }
   ]
 }
