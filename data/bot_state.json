@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86761,
-    "ao_agmk": 50396,
-    "olmaliqshaharpressa": 13125,
-    "olmaliq": 44163
+    "olmaliqhayoti": 86784,
+    "ao_agmk": 50432,
+    "olmaliqshaharpressa": 13128,
+    "olmaliq": 44183
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4281,100 +4281,38 @@
     "olmaliqhayoti:86761": 1795498494.7148108,
     "ao_agmk:50394": 1795498501.8508542,
     "ao_agmk:50396": 1795498504.4950237,
-    "olmaliq:44163": 1795498508.579807
+    "olmaliq:44163": 1795498508.579807,
+    "olmaliqhayoti:86765": 1795537136.7475917,
+    "olmaliqhayoti:86771": 1795537136.8132424,
+    "olmaliqhayoti:86772": 1795537136.8279686,
+    "olmaliqhayoti:86773": 1795537136.8423579,
+    "olmaliqhayoti:86774": 1795537162.0071936,
+    "olmaliqhayoti:86775": 1795537170.3243153,
+    "olmaliqhayoti:86776": 1795537170.339523,
+    "olmaliqhayoti:86777": 1795537180.0717762,
+    "olmaliqhayoti:86778": 1795537187.285576,
+    "olmaliqhayoti:86779": 1795537194.1034143,
+    "olmaliqhayoti:86780": 1795537203.2395318,
+    "olmaliqhayoti:86781": 1795537209.6269324,
+    "olmaliqhayoti:86782": 1795537213.4905725,
+    "olmaliqhayoti:86783": 1795537213.5050347,
+    "olmaliqhayoti:86784": 1795537225.349675,
+    "ao_agmk:50413": 1795537273.1855743,
+    "ao_agmk:50420": 1795537305.7494068,
+    "ao_agmk:50421": 1795537338.347788,
+    "ao_agmk:50422": 1795537351.3369575,
+    "ao_agmk:50432": 1795537356.0153346,
+    "olmaliqshaharpressa:13127": 1795537359.5913694,
+    "olmaliqshaharpressa:13128": 1795537407.2492423,
+    "olmaliq:44164": 1795537428.6075063,
+    "olmaliq:44165": 1795537441.4910045,
+    "olmaliq:44174": 1795537475.243008,
+    "olmaliq:44175": 1795537512.3675046,
+    "olmaliq:44176": 1795537512.3827949,
+    "olmaliq:44177": 1795537533.1797128,
+    "olmaliq:44183": 1795537536.824523
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda navbatdagi tungi reyd tadbirlari o‘tkazildi",
-      "summary": "Olmaliq shahrida o‘tkazilgan tungi reydlar davomida kafelar va kompyuter klublarida qarovsiz yurgan voyaga yetmaganlar aniqlanib, ularning ota-onalariga nisbatan tegishli huquqiy choralar ko‘rildi.",
-      "norm_title": "olmaliqda navbatdagi tungi reyd tadbirlari otkazildi",
-      "topic_key": "olmaliq-tungi-reyd",
-      "stems": [
-        "tadbir",
-        "tung",
-        "tkazil",
-        "navbat",
-        "reyd"
-      ],
-      "posted_at": 1793790415.0843737
-    },
-    {
-      "title": "Olmaliq shahar hokimligining shaxsiy qabullar jadvali e'lon qilindi",
-      "summary": "Olmaliq shahar hokimi va uning o'rinbosarlari fuqarolar hamda yuridik shaxslar vakillarini qabul qilishadi. Murojaat va takliflar bilan belgilangan kunlarda rahbarlarga bevosita uchrashish mumkin.",
-      "norm_title": "olmaliq shahar hokimligining shaxsiy qabullar jadvali elon qilindi",
-      "topic_key": "shahar-hokimi-qabuli",
-      "stems": [
-        "shaxsiy",
-        "jadval",
-        "lon",
-        "hokimlig",
-        "qabul"
-      ],
-      "posted_at": 1793790425.9516048
-    },
-    {
-      "title": "Nurafshonda tez yordam telefonlarida vaqtinchalik uzilishlar kuzatilmoqda",
-      "summary": "Texnik ta'mirlash ishlari sababli Toshkent viloyatida 103 qisqa raqami vaqtincha ishlamayapti. Shu sababli tez tibbiy yordam uchun 112 qisqa raqamiga murojaat qilish so'raladi.",
-      "norm_title": "nurafshonda tez yordam telefonlarida vaqtinchalik uzilishlar kuzatilmoqda",
-      "topic_key": "nurafshon-tez-yordam-112",
-      "stems": [
-        "uzil",
-        "telefon",
-        "kuzat",
-        "vaqtincha",
-        "yordam",
-        "tez",
-        "nurafshon"
-      ],
-      "posted_at": 1793790467.51674
-    },
-    {
-      "title": "Tailand O'zbekiston fuqarolari uchun visasiz rejim joriy etdi",
-      "summary": "O'zbekiston fuqarolari endilikda Tailandga 30 kungacha visasiz rejim asosida borishlari mumkin.",
-      "norm_title": "tailand ozbekiston fuqarolari uchun visasiz rejim joriy etdi",
-      "topic_key": "tailand-visasiz-rejim",
-      "stems": [
-        "joriy",
-        "rejim",
-        "zbekiston",
-        "tailand",
-        "fuqaro",
-        "visasiz",
-        "etd"
-      ],
-      "posted_at": 1793790477.2317476
-    },
-    {
-      "title": "Maishiy gaz ballonlarini avtozapravkalardan to'ldirish taqiqlanadi",
-      "summary": "2027-yil 5-fevraldan boshlab avtomobillarga gaz quyish shoxobchalarida maishiy gaz ballonlariga gaz quyib berish BHMning 3 baravaridan 5 baravarigacha jarima solishga sabab bo'ladi.",
-      "norm_title": "maishiy gaz ballonlarini avtozapravkalardan toldirish taqiqlanadi",
-      "topic_key": "gaz-ballon-jarima-qonun",
-      "stems": [
-        "ldir",
-        "avtozaprav",
-        "maishiy",
-        "ballon",
-        "gaz",
-        "taqiqlan"
-      ],
-      "posted_at": 1793817362.3912973
-    },
-    {
-      "title": "Sog'liqni saqlash vazirligi Koksaki virusidan ogohlantirdi",
-      "summary": "Sanitariya-epidemiologiya qo'mitasi vakili Nurmat Atabekov qishda tez tarqaladigan Koksaki virusining belgilari va undan saqlanish yo'llarini tushuntirdi.",
-      "norm_title": "sogliqni saqlash vazirligi koksaki virusidan ogohlantirdi",
-      "topic_key": "koksaki-virusi-ogohlantirish",
-      "stems": [
-        "saqlash",
-        "viru",
-        "vazir",
-        "ogohlantir",
-        "koksak",
-        "sog",
-        "liq"
-      ],
-      "posted_at": 1793817385.6818397
-    },
     {
       "title": "Toshkent metrosi \"Ippodrom\" bozorigacha uzaytiriladi",
       "summary": "Prezident qaroriga ko'ra, metroning Yunusobod yo'nalishi \"Turkiston\" bekatidan Chilonzor buyum bozorigacha uzaytiriladi va bekatlarda elektron tablolar o'rnatiladi.",
@@ -7271,6 +7209,101 @@
         "bilindo"
       ],
       "posted_at": 1795498494.7207768
+    },
+    {
+      "title": "Xalqaro qidiruvdagi shaxs mahalla kamerasiga tushib qoldi",
+      "summary": "Xalqaro qidiruvda bo'lgan fuqaro mahalla hududidagi kuzatuv kamerasiga tushib qolgani sababli qo'lga olindi.",
+      "norm_title": "xalqaro qidiruvdagi shaxs mahalla kamerasiga tushib qoldi",
+      "topic_key": "qidiruvdagi-shaxs-ushlandi",
+      "stems": [
+        "xalqaro",
+        "mahalla",
+        "tushib",
+        "qol",
+        "qidiruv",
+        "kamera",
+        "shaxs"
+      ],
+      "posted_at": 1795537180.0792391
+    },
+    {
+      "title": "Toshkent va uchta viloyatda kuchli shamol hamda chang bo'roni kutilmoqda",
+      "summary": "Bugun Toshkent, Samarqand, Jizzax va Sirdaryo viloyatlarida shamol tezligi 18 m/s ga yetishi va chang bo'ronlari ko'tarilishi kutilmoqda. Aholiga derazalarni yopish hamda ko'chada uzoq qolmaslik tavsiya etildi.",
+      "norm_title": "toshkent va uchta viloyatda kuchli shamol hamda chang boroni kutilmoqda",
+      "topic_key": "chang-buroni-ogohlantirish",
+      "stems": [
+        "kut",
+        "chang",
+        "shamol",
+        "uchta",
+        "kuchl",
+        "ron"
+      ],
+      "posted_at": 1795537194.1108515
+    },
+    {
+      "title": "Toshkentda chiptasiz yurgan yo'lovchilardan 3,6 mlrd so'mdan ortiq jarima undirildi",
+      "summary": "Yil boshidan buyon Toshkent avtobuslarida chiptasiz yurgan yo'lovchilardan 3,6 milliard so'mdan ortiq jarima undirildi. Noyabr oyining dastlabki 22 kunida bu ko'rsatkich qariyb 450 million so'mni tashkil etdi.",
+      "norm_title": "toshkentda chiptasiz yurgan yolovchilardan 36 mlrd somdan ortiq jarima undirildi",
+      "topic_key": "toshkent-transport-jarima",
+      "stems": [
+        "ortiq",
+        "yur",
+        "mlrd",
+        "mdan",
+        "jarima",
+        "undiril",
+        "lovch",
+        "chiptasiz"
+      ],
+      "posted_at": 1795537209.634661
+    },
+    {
+      "title": "AGMK xodimlari uchun MyAGMK mobil ilovasi ishlab chiqildi",
+      "summary": "Kombinat dasturchilari tomonidan MyAGMK ilovasi yaratildi. U ishchi-xodimlarga kerakli ma'lumotlarni bir joydan tezkor olish imkonini beradi.",
+      "norm_title": "agmk xodimlari uchun myagmk mobil ilovasi ishlab chiqildi",
+      "topic_key": "myagmk-mobil-ilovasi",
+      "stems": [
+        "mobil",
+        "ishlab",
+        "ilova",
+        "agmk",
+        "myagmk",
+        "xodim",
+        "chiqil"
+      ],
+      "posted_at": 1795537225.3577409
+    },
+    {
+      "title": "O‘zbekiston va Iordaniya sanoat kooperatsiyasi salohiyati ko‘rib chiqildi",
+      "summary": "O‘zbekiston va Iordaniya yetakchilari ikki mamlakat o‘rtasidagi sanoat kooperatsiyasining mavjud salohiyati bilan tanishdilar.",
+      "norm_title": "ozbekiston va iordaniya sanoat kooperatsiyasi salohiyati korib chiqildi",
+      "topic_key": "uzbekiston-iordaniya-sanoat",
+      "stems": [
+        "iordaniya",
+        "rib",
+        "sanoat",
+        "kooperatsiya",
+        "zbekiston",
+        "salohiyat",
+        "chiqil"
+      ],
+      "posted_at": 1795537356.0224476
+    },
+    {
+      "title": "16-liniyada topib olingan hujjat egasi qidirilmoqda",
+      "summary": "16-liniya hududidagi Damas avtomobilidan topib olingan hujjat egasi 93 616 86 96 telefon raqamiga bog‘lanishi so‘ralmoqda.",
+      "norm_title": "16liniyada topib olingan hujjat egasi qidirilmoqda",
+      "topic_key": "topib-olingan-hujjat",
+      "stems": [
+        "liniya",
+        "qidir",
+        "olin",
+        "ega",
+        "hujjat",
+        "topib"
+      ],
+      "posted_at": 1795537428.6175876
     }
   ]
 }
