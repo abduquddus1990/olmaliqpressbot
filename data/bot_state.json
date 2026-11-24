@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86755,
-    "ao_agmk": 50393,
+    "olmaliqhayoti": 86761,
+    "ao_agmk": 50396,
     "olmaliqshaharpressa": 13125,
-    "olmaliq": 44162
+    "olmaliq": 44163
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4273,47 +4273,17 @@
     "olmaliqshaharpressa:13125": 1795470429.058922,
     "olmaliq:44160": 1795470429.4398286,
     "olmaliq:44161": 1795470438.7625682,
-    "olmaliq:44162": 1795470446.5661385
+    "olmaliq:44162": 1795470446.5661385,
+    "olmaliqhayoti:86756": 1795498463.376061,
+    "olmaliqhayoti:86757": 1795498470.6901023,
+    "olmaliqhayoti:86759": 1795498473.7079608,
+    "olmaliqhayoti:86760": 1795498491.1958025,
+    "olmaliqhayoti:86761": 1795498494.7148108,
+    "ao_agmk:50394": 1795498501.8508542,
+    "ao_agmk:50396": 1795498504.4950237,
+    "olmaliq:44163": 1795498508.579807
   },
   "posted_articles": [
-    {
-      "title": "Olmaliqda jamoat transportida 400 dan ortiq yo'lovchi yo'l haqini to'lamagani aniqlandi",
-      "summary": "Toshkent viloyatida o'tkazilgan reydlar natijasida bir oy ichida Olmaliq avtobuslarida 400 dan ortiq yo'lovchi yo'l haqini to'lamay harakatlangani ma'lum bo'ldi. Shahar viloyat bo'yicha jamoat transportidagi qoidabuzarliklar soni bo'yicha yetakchilik qilmoqda.",
-      "norm_title": "olmaliqda jamoat transportida 400 dan ortiq yolovchi yol haqini tolamagani aniqlandi",
-      "topic_key": "olmaliq-avtobus-qoidabuzarlik",
-      "stems": [
-        "400",
-        "ortiq",
-        "transport",
-        "aniqlan",
-        "lama",
-        "jamoat",
-        "lovch",
-        "dan",
-        "haq"
-      ],
-      "posted_at": 1793790375.500723
-    },
-    {
-      "title": "OKMK tarbiyalanuvchilari belbog'li kurash bo'yicha O'zbekiston kubogida bronza medalini qo'lga kiritishdi",
-      "summary": "Nukus shahrida o'tkazilgan belbog'li kurash bo'yicha O'zbekiston kubogida OKMK sportchilari Asilbek Abduxalilov (75 kg) va Sherbek Abdugapparov (+100 kg) uchinchi o'rinni egallashdi.",
-      "norm_title": "okmk tarbiyalanuvchilari belbogli kurash boyicha ozbekiston kubogida bronza medalini qolga kiritishdi",
-      "topic_key": "okmk-kurash-ozbekiston-kubogi",
-      "stems": [
-        "yicha",
-        "lga",
-        "okmk",
-        "belbog",
-        "kurash",
-        "bronza",
-        "kubog",
-        "zbekiston",
-        "tarbiyalanuvch",
-        "kirit",
-        "medal"
-      ],
-      "posted_at": 1793790386.8937287
-    },
     {
       "title": "Olmaliqda navbatdagi tungi reyd tadbirlari o‘tkazildi",
       "summary": "Olmaliq shahrida o‘tkazilgan tungi reydlar davomida kafelar va kompyuter klublarida qarovsiz yurgan voyaga yetmaganlar aniqlanib, ularning ota-onalariga nisbatan tegishli huquqiy choralar ko‘rildi.",
@@ -7273,6 +7243,34 @@
         "qabul"
       ],
       "posted_at": 1795470410.6724434
+    },
+    {
+      "title": "Prezidentning nabirasiga yozgan maktubi e'lon qilindi",
+      "summary": "Prezident Shavkat Mirziyoyev Iordaniyaga parvoz chog'ida nabirasi Shavkatbekka maktub yozib, unda xalq va kelajak avlod haqidagi o'ylarini bayon etdi.",
+      "norm_title": "prezidentning nabirasiga yozgan maktubi elon qilindi",
+      "topic_key": "prezident-maktubi-shavkatbek",
+      "stems": [
+        "nabira",
+        "prezident",
+        "yoz",
+        "maktub",
+        "lon"
+      ],
+      "posted_at": 1795498470.696839
+    },
+    {
+      "title": "Raqobat bilindoni online viktorinasi o'tkaziladi",
+      "summary": "Raqubat qo'mitasi tashkil etilganining 30 yilligi munosabati bilan 27-noyabr kuni qimmatbaho sovg'alar uchun 'Raqobat bilindoni' online viktorinasi o'tkaziladi. G'oliblarga planshet, smartfon va televizor taqdim etiladi.",
+      "norm_title": "raqobat bilindoni online viktorinasi otkaziladi",
+      "topic_key": "raqobat-bilimdoni-viktorina",
+      "stems": [
+        "tkaz",
+        "online",
+        "viktorina",
+        "raqobat",
+        "bilindo"
+      ],
+      "posted_at": 1795498494.7207768
     }
   ]
 }
