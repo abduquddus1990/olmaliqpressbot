@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86797,
-    "ao_agmk": 50462,
-    "olmaliqshaharpressa": 13129,
-    "olmaliq": 44196
+    "olmaliqhayoti": 86817,
+    "ao_agmk": 50476,
+    "olmaliqshaharpressa": 13149,
+    "olmaliq": 44202
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4327,158 +4327,32 @@
     "olmaliq:44186": 1795598405.5961754,
     "olmaliq:44187": 1795598415.0021203,
     "olmaliq:44188": 1795598432.8812034,
-    "olmaliq:44196": 1795598432.8972611
+    "olmaliq:44196": 1795598432.8972611,
+    "olmaliqhayoti:86798": 1795634645.5853825,
+    "olmaliqhayoti:86799": 1795634674.2656226,
+    "olmaliqhayoti:86808": 1795634674.2787864,
+    "olmaliqhayoti:86809": 1795634686.560655,
+    "olmaliqhayoti:86816": 1795634719.5734582,
+    "olmaliqhayoti:86817": 1795634747.0915294,
+    "ao_agmk:50466": 1795634763.302802,
+    "ao_agmk:50476": 1795634775.367838,
+    "olmaliqshaharpressa:13139": 1795634787.099067,
+    "olmaliqshaharpressa:13140": 1795634819.5401874,
+    "olmaliqshaharpressa:13141": 1795634823.970257,
+    "olmaliqshaharpressa:13142": 1795634835.5611913,
+    "olmaliqshaharpressa:13143": 1795634835.5748262,
+    "olmaliqshaharpressa:13144": 1795634846.14565,
+    "olmaliqshaharpressa:13145": 1795634853.214992,
+    "olmaliqshaharpressa:13146": 1795634863.6997333,
+    "olmaliqshaharpressa:13149": 1795634876.6634266,
+    "olmaliq:44197": 1795634880.2915275,
+    "olmaliq:44198": 1795634880.305138,
+    "olmaliq:44199": 1795634888.033395,
+    "olmaliq:44200": 1795634888.0472918,
+    "olmaliq:44201": 1795634892.4942596,
+    "olmaliq:44202": 1795634899.2172887
   },
   "posted_articles": [
-    {
-      "title": "Malakasiz kosmetologlar keltirib chiqarayotgan og'ir oqibatlar",
-      "summary": "Tibbiy ma'lumotsiz kosmetologlar bajarayotgan yuz operatsiyalari ayollarda tuzatib bo'lmaydigan asoratlar, oilaviy ajrimlar va tushkunlikni keltirib chiqarmoqda.",
-      "norm_title": "malakasiz kosmetologlar keltirib chiqarayotgan ogir oqibatlar",
-      "topic_key": "malakasiz-kosmetologlar-asorati",
-      "stems": [
-        "kosmetolog",
-        "chiqar",
-        "malakasiz",
-        "keltirib",
-        "oqibat"
-      ],
-      "posted_at": 1793950019.4983442
-    },
-    {
-      "title": "Olmaliqda issiqlik ta'minoti qarzdorlikni yopishga chaqirildi",
-      "summary": "\"Olmaliq shahar issiqlik ta'minoti\" MChJ aholidan isitish mavsumi oldidan mavjud qarzlarni bartaraf etishni va to'lovlarni o'z vaqtida amalga oshirishni so'radi.",
-      "norm_title": "olmaliqda issiqlik taminoti qarzdorlikni yopishga chaqirildi",
-      "topic_key": "olmaliq-issiqlik-qarz",
-      "stems": [
-        "minot",
-        "yop",
-        "chaqiril",
-        "qarzdor",
-        "issiq"
-      ],
-      "posted_at": 1793950044.7155228
-    },
-    {
-      "title": "Bugun havo harorati +27 darajagacha isiydi",
-      "summary": "Toshkent viloyatida kunning ikkinchi yarmida ba'zi joylarda yomg'ir yog'ishi kutilmoqda. Shamol tezligi 7-12 m/s ni tashkil etadi.",
-      "norm_title": "bugun havo harorati 27 darajagacha isiydi",
-      "topic_key": "ob-havo-prognozi",
-      "stems": [
-        "darajagacha",
-        "harorat",
-        "havo",
-        "isi"
-      ],
-      "posted_at": 1793950054.129344
-    },
-    {
-      "title": "Ehtiyojmand oilalarga 1 million so'm moddiy yordam beriladi",
-      "summary": "2026-2027 yilgi kuz-qish mavsumida aholining ijtimoiy himoyaga muhtoj qatlamiga isitish xarajatlarini qoplash uchun 1 million so'm miqdorida bir martalik yordam ajratiladi.",
-      "norm_title": "ehtiyojmand oilalarga 1 million som moddiy yordam beriladi",
-      "topic_key": "kuz-qish-moddiy-yordam",
-      "stems": [
-        "oila",
-        "moddiy",
-        "million",
-        "yordam",
-        "ber",
-        "ehtiyojmand"
-      ],
-      "posted_at": 1793950060.1325088
-    },
-    {
-      "title": "Zarbuloq mahallasidagi xonadonda giyohvand modda yetishtirilayotgani aniqlandi",
-      "summary": "Olmaliq shahrining \"Zarbuloq\" mahallasida o'tkazilgan reyd davomida fuqaro xonadonida marixuana o'simligi yetishtirilayotgani aniqlandi.",
-      "norm_title": "zarbuloq mahallasidagi xonadonda giyohvand modda yetishtirilayotgani aniqlandi",
-      "topic_key": "zarbuloq-giyohvand-modda-reyd",
-      "stems": [
-        "yetishtirilayot",
-        "giyohvand",
-        "aniqlan",
-        "xonadon",
-        "mod",
-        "mahalla",
-        "zarbuloq"
-      ],
-      "posted_at": 1793978171.590699
-    },
-    {
-      "title": "Olmaliqda bergan qarzidan 10 baravar ko'p summaga tilxat olgan firibgar ushlandi",
-      "summary": "Olmaliqda fuqarolarga qarz berib, ulardan 10 baravar ko'p summadagi tilxat yozdirib olgan 48 yoshli shaxs qo'lga olindi. Hozirga qadar ushbu harakatlardan 65 nafar fuqaro jabrlangani aniqlangan va jinoyat ishi qo'zg'atilgan.",
-      "norm_title": "olmaliqda bergan qarzidan 10 baravar kop summaga tilxat olgan firibgar ushlandi",
-      "topic_key": "firibgarlik-tilxat-olmaliq",
-      "stems": [
-        "summa",
-        "qarz",
-        "tilxat",
-        "firibgar",
-        "ber",
-        "ushlan",
-        "olgan",
-        "baravar"
-      ],
-      "posted_at": 1793978214.166602
-    },
-    {
-      "title": "Prezident SHHT plyus ekspertlar muloqoti ishtirokchilariga murojaat yo'lladi",
-      "summary": "O'zbekiston Prezidenti Xavfsizlik masalalari bo'yicha SHHT plyus birinchi ekspertlar muloqoti ishtirokchilariga o'z murojaatini yo'lladi.",
-      "norm_title": "prezident shht plyus ekspertlar muloqoti ishtirokchilariga murojaat yolladi",
-      "topic_key": "shht-plyus-murojaat",
-      "stems": [
-        "shht",
-        "lla",
-        "murojaat",
-        "plyus",
-        "ekspert",
-        "prezident",
-        "muloqot",
-        "ishtirokch"
-      ],
-      "posted_at": 1793978224.0090177
-    },
-    {
-      "title": "3-Mis boyitish fabrikasi xodimlari taqdirlanmoqda",
-      "summary": "3-Mis boyitish fabrikasida 10 million tonna ma’danni qayta ishlash marrasiga hissa qo‘shgan bir guruh ishchi-xodimlar va mutaxassislarni taqdirlash marosimi bo‘lib o‘tmoqda.",
-      "norm_title": "3mis boyitish fabrikasi xodimlari taqdirlanmoqda",
-      "topic_key": "3-mbf-ishchilar-taqdirlash",
-      "stems": [
-        "mis",
-        "taqdirlan",
-        "fabr",
-        "xodim",
-        "boyit"
-      ],
-      "posted_at": 1793978251.4260492
-    },
-    {
-      "title": "DXX raisi sun'iy intellektdan terrorchilikda foydalanish xavfidan ogohlantirdi",
-      "summary": "DXX raisi Bahodir Qurbonov Samarqanddagi SHXT tadbirida internetda ekstremistik g'oyalar tarqalishi ortayotgani va sun'iy intellektdan terrorchilikda foydalanishning oldini olish zarurligini ta'kidladi.",
-      "norm_title": "dxx raisi suniy intellektdan terrorchilikda foydalanish xavfidan ogohlantirdi",
-      "topic_key": "dxx-sunniy-intellekt-xavfi",
-      "stems": [
-        "xavf",
-        "foydalan",
-        "terrorch",
-        "rai",
-        "sun",
-        "ogohlantir",
-        "intellekt",
-        "dxx"
-      ],
-      "posted_at": 1793978326.475906
-    },
-    {
-      "title": "Olmaliq shahrida 7-noyabr kuni uchun namoz vaqtlari",
-      "summary": "7-noyabr, shanba kuni Olmaliq shahri bo'yicha amalda bo'ladigan namoz vaqtlari e'lon qilindi.",
-      "norm_title": "olmaliq shahrida 7noyabr kuni uchun namoz vaqtlari",
-      "topic_key": "olmaliq-namoz-vaqtlari",
-      "stems": [
-        "namoz",
-        "vaqt",
-        "noyabr"
-      ],
-      "posted_at": 1793998542.3490896
-    },
     {
       "title": "Chodak kon boshqarmasida “Zakovat” intellektual o‘yini o‘tkazildi",
       "summary": "Kasaba uyushmalari kuni munosabati bilan o'tkazilgan “Zakovat” turnirida Oltin ajratib olish fabrikasi jamoasi 1-o‘rinni qo'lga kiritdi.",
@@ -7318,6 +7192,152 @@
         "yordam"
       ],
       "posted_at": 1795598415.0103078
+    },
+    {
+      "title": "Nurafshonda O‘zLiDePning viloyat konferensiyasi bo‘lib o‘tdi",
+      "summary": "Nurafshon shahrida O‘zLiDeP Toshkent viloyati tashkilotining konferensiyasi bo‘lib o‘tdi. Tadbirda partiyaning yangi dasturi muhokama qilinib, navbatdagi Kongressga delegatlar saylandi.",
+      "norm_title": "nurafshonda ozlidepning viloyat konferensiyasi bolib otdi",
+      "topic_key": "ozlidep-viloyat-konferensiyasi",
+      "stems": [
+        "tdi",
+        "konferensiya",
+        "zlidep",
+        "nurafshon",
+        "lib"
+      ],
+      "posted_at": 1795634686.567395
+    },
+    {
+      "title": "O‘zbekiston dunyoning eng xavfsiz davlatlari top-30 taligiga kirdi",
+      "summary": "\"CEOWORLD Magazine\" reytingida O‘zbekiston 198 ta mamlakat orasida 27-o‘rinni egallab, Markaziy Osiyoda yetakchilikni qo‘lga kiritdi.",
+      "norm_title": "ozbekiston dunyoning eng xavfsiz davlatlari top30 taligiga kirdi",
+      "topic_key": "uzbekiston-xavfsizlik-reytingi",
+      "stems": [
+        "zbekiston",
+        "eng",
+        "talig",
+        "kir",
+        "dunyo",
+        "davlat",
+        "xavfsiz",
+        "top"
+      ],
+      "posted_at": 1795634719.580147
+    },
+    {
+      "title": "OKMKda yirik investitsiya loyihalariga bag‘ishlangan press-tur o‘tkazildi",
+      "summary": "25-noyabr kuni Olmaliq KMKda OAV vakillari va jurnalistlar uchun kombinatning yirik investitsiya loyihalariga bag‘ishlangan press-tur hamda ochiq eshiklar kuni o‘tkazildi.",
+      "norm_title": "okmkda yirik investitsiya loyihalariga bagishlangan presstur otkazildi",
+      "topic_key": "okmk-press-tur-investitsiya",
+      "stems": [
+        "yirik",
+        "okmk",
+        "tkazil",
+        "bag",
+        "investitsiya",
+        "press",
+        "loyiha",
+        "ishlan",
+        "tur"
+      ],
+      "posted_at": 1795634763.3097107
+    },
+    {
+      "title": "OKMK rahbariyatining MTMZda sayyor qabuli bo‘lib o‘tdi",
+      "summary": "Markaziy ta'mirlash mexanika zavodida o‘tkazilgan sayyor qabulda ishchi-xodimlarning murojaatlari ko‘rib chiqilib, ularni hal etish bo‘yicha tegishli topshiriqlar berildi.",
+      "norm_title": "okmk rahbariyatining mtmzda sayyor qabuli bolib otdi",
+      "topic_key": "okmk-sayyor-qabul",
+      "stems": [
+        "tdi",
+        "mtmz",
+        "okmk",
+        "qabul",
+        "sayyor",
+        "rahbariyat",
+        "lib"
+      ],
+      "posted_at": 1795634775.3746355
+    },
+    {
+      "title": "Olmaliqda yangi rahbar tayinlandi",
+      "summary": "Yuldashev Akrom Akmalovich “Angren Bunyod fayz” MCHJning Olmaliq shahar filiali direktori lavozimiga tayinlandi. Ungacha u shahar FVB boshlig'i lavozimida ishlagan.",
+      "norm_title": "olmaliqda yangi rahbar tayinlandi",
+      "topic_key": "yuldashev-akrom-tayinlov",
+      "stems": [
+        "rahbar",
+        "tayinlan"
+      ],
+      "posted_at": 1795634823.9770713
+    },
+    {
+      "title": "Olmaliqda ajrim yoqasiga kelib qolgan oilalar yarashtirildi",
+      "summary": "Olmaliq shahrida o'tkazilgan muhokama yig'ilishida mas'ullar va nuroniylar tashabbusi bilan ajrim yoqasidagi 2 ta oila tiklanib, 3 nafar farzandning yetim qolishining oldi olindi.",
+      "norm_title": "olmaliqda ajrim yoqasiga kelib qolgan oilalar yarashtirildi",
+      "topic_key": "olmaliq-oilalar-yarashuvi",
+      "stems": [
+        "ajrim",
+        "yarashtiril",
+        "oila",
+        "yoqa",
+        "kelib",
+        "qol"
+      ],
+      "posted_at": 1795634846.1534832
+    },
+    {
+      "title": "Shahar hokimi obodonlashtirish ishlarini ko'zdan kechirdi",
+      "summary": "Olmaliq shahar hokimi Bahodir Meliyev hududdagi obodonlashtirish ishlari hamda \"Oydin\" dehqon bozoridagi jarayonlar bilan tanishib, mas'ullarga tegishli topshiriqlar berdi.",
+      "norm_title": "shahar hokimi obodonlashtirish ishlarini kozdan kechirdi",
+      "topic_key": "olmaliq-hokim-obodonlashtirish",
+      "stems": [
+        "hokim",
+        "kechir",
+        "obodonlash",
+        "ish",
+        "zdan"
+      ],
+      "posted_at": 1795634853.2219017
+    },
+    {
+      "title": "Olmaliqda yosh nikohlanuvchilar uchun o'quv mashg'uloti o'tkazildi",
+      "summary": "Olmaliq shahar Oila va xotin-qizlar bo'limi tomonidan yoshlarni oilaviy hayotga tayyorlash maqsadida navbatdagi ma'naviy-ma'rifiy mashg'ulot tashkil etilib, faol ishtirokchilarga sertifikatlar topshirildi.",
+      "norm_title": "olmaliqda yosh nikohlanuvchilar uchun oquv mashguloti otkazildi",
+      "topic_key": "yosh-nikohlanuvchilar-oqish",
+      "stems": [
+        "mashg",
+        "tkazil",
+        "nikohlanuvch",
+        "ulot",
+        "quv",
+        "yosh"
+      ],
+      "posted_at": 1795634863.7066116
+    },
+    {
+      "title": "Olmaliq maktab o'quvchilari TDTUda ekskursiyada bo'ldi",
+      "summary": "Olmaliq shahridagi 1- va 2-umumta'lim maktabi o'quvchilari Islom Karimov nomidagi Toshkent davlat texnika universitetida bo'lib, muhandislik sohalari va zamonaviy texnologiyalar bilan tanishdilar.",
+      "norm_title": "olmaliq maktab oquvchilari tdtuda ekskursiyada boldi",
+      "topic_key": "olmaliq-maktab-tdtu-ekskursiya",
+      "stems": [
+        "maktab",
+        "quvch",
+        "ldi",
+        "tdtu",
+        "ekskursiya"
+      ],
+      "posted_at": 1795634876.6703124
+    },
+    {
+      "title": "Olmaliq shahri uchun kunlik namoz vaqtlari",
+      "summary": "26-noyabr payshanba kuni uchun Olmaliq shahridagi 5 vaqt namoz va quyosh chiqish vaqtlari e'lon qilindi.",
+      "norm_title": "olmaliq shahri uchun kunlik namoz vaqtlari",
+      "topic_key": "namoz-vaqtlari-olmaliq",
+      "stems": [
+        "shahr",
+        "namoz",
+        "vaqt"
+      ],
+      "posted_at": 1795634892.5011895
     }
   ]
 }
