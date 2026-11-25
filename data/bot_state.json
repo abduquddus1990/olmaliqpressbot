@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86784,
-    "ao_agmk": 50432,
-    "olmaliqshaharpressa": 13128,
-    "olmaliq": 44184
+    "olmaliqhayoti": 86797,
+    "ao_agmk": 50462,
+    "olmaliqshaharpressa": 13129,
+    "olmaliq": 44196
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4311,115 +4311,25 @@
     "olmaliq:44176": 1795537512.3827949,
     "olmaliq:44177": 1795537533.1797128,
     "olmaliq:44183": 1795537536.824523,
-    "olmaliq:44184": 1795567935.9070566
+    "olmaliq:44184": 1795567935.9070566,
+    "olmaliqhayoti:86785": 1795598269.2551596,
+    "olmaliqhayoti:86786": 1795598272.2797341,
+    "olmaliqhayoti:86787": 1795598283.3736014,
+    "olmaliqhayoti:86788": 1795598292.7497344,
+    "olmaliqhayoti:86792": 1795598306.8584955,
+    "olmaliqhayoti:86796": 1795598310.7439845,
+    "olmaliqhayoti:86797": 1795598316.7855017,
+    "ao_agmk:50445": 1795598338.2586532,
+    "ao_agmk:50453": 1795598348.6447022,
+    "ao_agmk:50462": 1795598361.5531158,
+    "olmaliqshaharpressa:13129": 1795598382.0414653,
+    "olmaliq:44185": 1795598399.363466,
+    "olmaliq:44186": 1795598405.5961754,
+    "olmaliq:44187": 1795598415.0021203,
+    "olmaliq:44188": 1795598432.8812034,
+    "olmaliq:44196": 1795598432.8972611
   },
   "posted_articles": [
-    {
-      "title": "Toshkent metrosi \"Ippodrom\" bozorigacha uzaytiriladi",
-      "summary": "Prezident qaroriga ko'ra, metroning Yunusobod yo'nalishi \"Turkiston\" bekatidan Chilonzor buyum bozorigacha uzaytiriladi va bekatlarda elektron tablolar o'rnatiladi.",
-      "norm_title": "toshkent metrosi ippodrom bozorigacha uzaytiriladi",
-      "topic_key": "toshkent-metro-ippodrom",
-      "stems": [
-        "ippodrom",
-        "metro",
-        "bozorigacha",
-        "uzay"
-      ],
-      "posted_at": 1793851792.130876
-    },
-    {
-      "title": "Davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
-      "summary": "Prezident qaroriga ko'ra, 2027-yil 1-yanvardan davlat tibbiyot muassasalaridagi tibbiy va yordamchi xizmatlar xususiy sektorga 5 yildan 10 yilgacha shartnoma asosida topshiriladi. 2030-yilgacha autsorsing hajmi 30 foizga yetkazilib, kamida 5 ta yirik shifoxonaga xorijiy menejerlar jalb etiladi.",
-      "norm_title": "davlat shifoxonalarida xizmatlar xususiy sektorga autsorsingga beriladi",
-      "topic_key": "tibbiyot-autsorsing-islohot",
-      "stems": [
-        "autsorsing",
-        "davlat",
-        "xizmat",
-        "ber",
-        "xususiy",
-        "shifoxona",
-        "sektor"
-      ],
-      "posted_at": 1793880941.1654344
-    },
-    {
-      "title": "Yo'l qurilishidagi trotuar va bekatlar muammosi tanqid qilindi",
-      "summary": "Senator Rustam Kalanov yo'llarni ta'mirlashda trotuarlar, ariqlar va bekatlar yo'qotilayotgani hamda ajratilgan mablag'lar taqdirini keskin tanqid qildi.",
-      "norm_title": "yol qurilishidagi trotuar va bekatlar muammosi tanqid qilindi",
-      "topic_key": "yol-qurilishi-trotuar-tanqid",
-      "stems": [
-        "tanqid",
-        "trotuar",
-        "muammo",
-        "bekat",
-        "qur"
-      ],
-      "posted_at": 1793881009.0540335
-    },
-    {
-      "title": "OKMKda IFRS S1 va IFRS S2 xalqaro standartlari joriy etilmoqda",
-      "summary": "OKMKda PwC kompaniyasi vakillari ishtirokida barqaror rivojlanish va ESG hisobotdorligini oshirishga qaratilgan IFRS S1 hamda IFRS S2 xalqaro standartlarini joriy etish bo‘yicha amaliy workshop o‘tkazilmoqda.",
-      "norm_title": "okmkda ifrs s1 va ifrs s2 xalqaro standartlari joriy etilmoqda",
-      "topic_key": "okmk-ifrs-standartlar-workshop",
-      "stems": [
-        "joriy",
-        "ifrs",
-        "okmk",
-        "xalqaro",
-        "standart",
-        "etil"
-      ],
-      "posted_at": 1793881019.0508225
-    },
-    {
-      "title": "AGMK korrupsiyaga qarshi aloqa kanallarini e'lon qildi",
-      "summary": "\"Olmaliq KMK\" AJ korrupsiyaga qarshi kurashish doirasida fuqarolarni faol bo'lishga chorlab, qoidabuzarliklar haqida xabar berish uchun maxsus bot va ishonch telefonlarini taqdim etdi.",
-      "norm_title": "agmk korrupsiyaga qarshi aloqa kanallarini elon qildi",
-      "topic_key": "agmk-korrupsiya-aloqa",
-      "stems": [
-        "qil",
-        "agmk",
-        "korrupsiya",
-        "kanal",
-        "alo",
-        "lon",
-        "qarsh"
-      ],
-      "posted_at": 1793881039.3385081
-    },
-    {
-      "title": "Olmaliqda yosh nikohlanuvchilar uchun o'quv mashg'uloti o'tkazildi",
-      "summary": "Olmaliq shahri Oila va xotin-qizlar bo'limi tomonidan yoshlarni oilaviy hayotga tayyorlash va huquqiy bilimlarini oshirishga qaratilgan seminar tashkil etilib, faol ishtirokchilarga sertifikatlar topshirildi.",
-      "norm_title": "olmaliqda yosh nikohlanuvchilar uchun oquv mashguloti otkazildi",
-      "topic_key": "yosh-nikohlanuvchilar-oquv-mashguloti",
-      "stems": [
-        "nikohlanuvch",
-        "tkazil",
-        "quv",
-        "ulot",
-        "yosh",
-        "mashg"
-      ],
-      "posted_at": 1793881069.4385612
-    },
-    {
-      "title": "Toshkent viloyatida mudhish jinoyat sodir etgan shaxs umrbod qamoqqa hukm qilindi",
-      "summary": "Toshkent viloyatida o'z turmush o'rtog'i va 3 yoshli qizini shafqatsizlarcha o'ldirib, jasadni yashirgan 27 yoshli erkak sud hukmi bilan umrbod ozodlikdan mahrum etildi.",
-      "norm_title": "toshkent viloyatida mudhish jinoyat sodir etgan shaxs umrbod qamoqqa hukm qilindi",
-      "topic_key": "jinoyat-umrbod-qamoq",
-      "stems": [
-        "umrbod",
-        "shaxs",
-        "sodir",
-        "qamoq",
-        "etgan",
-        "hukm",
-        "mudh",
-        "jinoyat"
-      ],
-      "posted_at": 1793908709.1127079
-    },
     {
       "title": "Malakasiz kosmetologlar keltirib chiqarayotgan og'ir oqibatlar",
       "summary": "Tibbiy ma'lumotsiz kosmetologlar bajarayotgan yuz operatsiyalari ayollarda tuzatib bo'lmaydigan asoratlar, oilaviy ajrimlar va tushkunlikni keltirib chiqarmoqda.",
@@ -7305,6 +7215,109 @@
         "topib"
       ],
       "posted_at": 1795537428.6175876
+    },
+    {
+      "title": "25-noyabr uchun ob-havo va valyuta kurslari",
+      "summary": "25-noyabr kuni Olmaliqda havo harorati kunduzi +22°C gacha isiydi. AQSh dollari kursi 11 990,54 so'mni tashkil etmoqda.",
+      "norm_title": "25noyabr uchun obhavo va valyuta kurslari",
+      "topic_key": "ob-havo-valyuta-kurslari",
+      "stems": [
+        "havo",
+        "valyuta",
+        "noyabr",
+        "kurs"
+      ],
+      "posted_at": 1795598269.263206
+    },
+    {
+      "title": "Suvdan elektr energiyasi qanday hosil bo'lishi tushuntirildi",
+      "summary": "Energetika vazirligi oqayotgan suv qanday qilib elektr energiyasiga aylanishi va xonadonlarga yetib borishi bosqichlari haqida ma'lumot berdi.",
+      "norm_title": "suvdan elektr energiyasi qanday hosil bolishi tushuntirildi",
+      "topic_key": "elektr-energiyasi-gidroelektr",
+      "stems": [
+        "tushuntiril",
+        "hosil",
+        "lish",
+        "suv",
+        "qanday",
+        "elektr",
+        "energiya"
+      ],
+      "posted_at": 1795598283.3820157
+    },
+    {
+      "title": "Toshkent viloyatida suv ta'minoti bo'yicha sayyor qabul o'tkaziladi",
+      "summary": "26-noyabr kuni soat 11:00 da Toshkent viloyati Xalq qabulxonasida ichimlik suvi va kanalizatsiya masalalari yuzasidan sayyor qabul bo'lib o'tadi. Fuqarolar o'z tumanlaridagi suv ta'minoti filiallaridan onlayn tarzda ham ishtirok etishlari mumkin.",
+      "norm_title": "toshkent viloyatida suv taminoti boyicha sayyor qabul otkaziladi",
+      "topic_key": "suv-taminoti-sayyor-qabul",
+      "stems": [
+        "sayyor",
+        "minot",
+        "suv",
+        "qabul",
+        "tkaz",
+        "yicha"
+      ],
+      "posted_at": 1795598316.7936296
+    },
+    {
+      "title": "OKMKda onkologik tibbiy ko‘rik o‘tkazilmoqda",
+      "summary": "Bugun OKMK poliklinikasida Respublika onkologiya markazi Toshkent filiali shifokorlari tomonidan kombinat xodimlari uchun chuqurlashtirilgan tibbiy ko‘rik tashkil etildi.",
+      "norm_title": "okmkda onkologik tibbiy korik otkazilmoqda",
+      "topic_key": "okmk-tibbiy-korik",
+      "stems": [
+        "onkologik",
+        "okmk",
+        "tibbiy",
+        "tkaz",
+        "rik"
+      ],
+      "posted_at": 1795598361.5614002
+    },
+    {
+      "title": "Ziroat Mirziyoyeva Iordaniyadagi hunarmandchilik shourumiga tashrif buyurdi",
+      "summary": "O‘zbekiston Birinchi xonimi Ziroat Mirziyoyeva Iordaniya Qirolichasi bilan birgalikda xotin-qizlar bandligini ta’minlashga qaratilgan Jordan River Designs hunarmandchilik shourumi faoliyati bilan tanishdi.",
+      "norm_title": "ziroat mirziyoyeva iordaniyadagi hunarmandchilik shourumiga tashrif buyurdi",
+      "topic_key": "ziroat-mirziyoyeva-iordaniya-tashrif",
+      "stems": [
+        "tashrif",
+        "mirziyoyeva",
+        "ziroat",
+        "hunarmandch",
+        "buyur",
+        "iordaniya",
+        "shourum"
+      ],
+      "posted_at": 1795598382.049742
+    },
+    {
+      "title": "Xorijiy valyutalarning yangi kursi belgilandi",
+      "summary": "Markaziy bank 25-noyabrdan e'tiboran xorijiy valyutalarning o'zbek so'miga nisbatan yangi qiymatlarini belgiladi.",
+      "norm_title": "xorijiy valyutalarning yangi kursi belgilandi",
+      "topic_key": "valyuta-kursi-yangilanishi",
+      "stems": [
+        "belgilan",
+        "valyuta",
+        "kur",
+        "xorijiy"
+      ],
+      "posted_at": 1795598405.604692
+    },
+    {
+      "title": "Odam tiqilib qolganda birinchi yordam ko'rsatish qoidalari",
+      "summary": "Tomog'iga ovqat tiqilgan odamga suv berish xato hisoblanadi; jabrlanuvchi yo'tala olmasa, uni oldinga engashtirib kuraklari orasiga 5 marta urish va qornidan yuqoriga keskin tortish lozim.",
+      "norm_title": "odam tiqilib qolganda birinchi yordam korsatish qoidalari",
+      "topic_key": "birinchi-yordam-tiqilish",
+      "stems": [
+        "qoi",
+        "odam",
+        "birinch",
+        "tiqilib",
+        "qol",
+        "rsat",
+        "yordam"
+      ],
+      "posted_at": 1795598415.0103078
     }
   ]
 }
