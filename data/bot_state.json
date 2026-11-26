@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86818,
-    "ao_agmk": 50476,
-    "olmaliqshaharpressa": 13149,
-    "olmaliq": 44202
+    "olmaliqhayoti": 86835,
+    "ao_agmk": 50492,
+    "olmaliqshaharpressa": 13172,
+    "olmaliq": 44227
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4351,99 +4351,32 @@
     "olmaliq:44200": 1795634888.0472918,
     "olmaliq:44201": 1795634892.4942596,
     "olmaliq:44202": 1795634899.2172887,
-    "olmaliqhayoti:86818": 1795659530.5781715
+    "olmaliqhayoti:86818": 1795659530.5781715,
+    "olmaliqhayoti:86819": 1795691031.242032,
+    "olmaliqhayoti:86829": 1795691045.3438745,
+    "olmaliqhayoti:86831": 1795691059.821092,
+    "olmaliqhayoti:86832": 1795691081.2864196,
+    "olmaliqhayoti:86834": 1795691117.4028873,
+    "olmaliqhayoti:86835": 1795691121.9567218,
+    "ao_agmk:50479": 1795691157.2033222,
+    "ao_agmk:50480": 1795691162.7557642,
+    "ao_agmk:50481": 1795691162.772066,
+    "ao_agmk:50482": 1795691162.7889016,
+    "ao_agmk:50483": 1795691162.804739,
+    "ao_agmk:50484": 1795691182.8124204,
+    "ao_agmk:50492": 1795691203.5353894,
+    "olmaliqshaharpressa:13156": 1795691224.1700459,
+    "olmaliqshaharpressa:13157": 1795691241.327677,
+    "olmaliqshaharpressa:13158": 1795691245.590453,
+    "olmaliqshaharpressa:13166": 1795691256.5242696,
+    "olmaliqshaharpressa:13168": 1795691280.1017978,
+    "olmaliqshaharpressa:13172": 1795691336.0633118,
+    "olmaliq:44208": 1795691377.715273,
+    "olmaliq:44217": 1795691400.2760243,
+    "olmaliq:44218": 1795691411.5113883,
+    "olmaliq:44227": 1795691411.5276263
   },
   "posted_articles": [
-    {
-      "title": "Chodak kon boshqarmasida “Zakovat” intellektual o‘yini o‘tkazildi",
-      "summary": "Kasaba uyushmalari kuni munosabati bilan o'tkazilgan “Zakovat” turnirida Oltin ajratib olish fabrikasi jamoasi 1-o‘rinni qo'lga kiritdi.",
-      "norm_title": "chodak kon boshqarmasida zakovat intellektual oyini otkazildi",
-      "topic_key": "chodak-kb-zakovat-oyinlari",
-      "stems": [
-        "kon",
-        "intellektual",
-        "chodak",
-        "zakovat",
-        "tkazil",
-        "boshqarma",
-        "yin"
-      ],
-      "posted_at": 1794033045.29841
-    },
-    {
-      "title": "Metan zapravkalar faoliyati vaqtincha cheklanishi mumkin",
-      "summary": "9-11-noyabr kunlari kutilayotgan sovuq havo massalari sababli respublika bo'ylab metan shoxobchalari ishiga vaqtincha cheklov kiritilishi kutilmoqda.",
-      "norm_title": "metan zapravkalar faoliyati vaqtincha cheklanishi mumkin",
-      "topic_key": "metan-zapravka-cheklov",
-      "stems": [
-        "vaqtincha",
-        "mumkin",
-        "zaprav",
-        "faoliyat",
-        "metan",
-        "cheklan"
-      ],
-      "posted_at": 1794058022.4306133
-    },
-    {
-      "title": "Olmaliq shahar IIB boshlig'i sayyor qabul o'tkazadi",
-      "summary": "8-noyabr kuni soat 10:00 da Islom Karimov MFY binosida shahar IIB boshlig'i Sherzod Shermatov fuqarolar murojaatlari bo'yicha sayyor qabul o'tkazadi.",
-      "norm_title": "olmaliq shahar iib boshligi sayyor qabul otkazadi",
-      "topic_key": "iib-sayyor-qabul",
-      "stems": [
-        "tkaz",
-        "sayyor",
-        "boshlig",
-        "iib",
-        "qabul"
-      ],
-      "posted_at": 1794058031.7209506
-    },
-    {
-      "title": "Olmaliqlik bitiruvchi yosh mutaxassis 1-sonli texnikumda ish boshladi",
-      "summary": "Oliy ta'limni tamomlagan Farzona Nazarqulova o'zi tug'ilib o'sgan Olmaliq shahridagi 1-sonli texnikumga ishga qabul qilinib, yoshlarga ta'lim bermoqda.",
-      "norm_title": "olmaliqlik bitiruvchi yosh mutaxassis 1sonli texnikumda ish boshladi",
-      "topic_key": "olmaliq-texnikum-yoshlar",
-      "stems": [
-        "ish",
-        "yosh",
-        "texnikum",
-        "mutaxassis",
-        "sonl",
-        "boshl",
-        "bitiruvch"
-      ],
-      "posted_at": 1794058039.7440026
-    },
-    {
-      "title": "Olmaliqda motokross bo‘yicha O‘zbekiston Kubogi o‘tkaziladi",
-      "summary": "8-noyabr kuni Olmaliq shahrida motokross bo‘yicha O‘zbekiston Kubogi sport musobaqasi bo‘lib o‘tadi. Barcha motokross ishqibozlari ushbu tadbirga taklif etiladi.",
-      "norm_title": "olmaliqda motokross boyicha ozbekiston kubogi otkaziladi",
-      "topic_key": "olmaliq-motokross-musobaqasi",
-      "stems": [
-        "motokross",
-        "zbekiston",
-        "yicha",
-        "tkaz",
-        "kubog"
-      ],
-      "posted_at": 1794074961.1617587
-    },
-    {
-      "title": "Olmaliqda Xavfsiz va sogʻlom yurt profilaktik tadbiri oʻtkazildi",
-      "summary": "Olmaliq shahrida jamoat tartibini saqlash va jinoyatchilikning oldini olishga qaratilgan “Xavfsiz va sogʻlom yurt” tezkor-profilaktik tadbiri va xizmat oldi yoʻriqnomasi oʻtkazildi.",
-      "norm_title": "olmaliqda xavfsiz va sogʻlom yurt profilaktik tadbiri oʻtkazildi",
-      "topic_key": "xavfsiz-soglom-yurt-tadbiri",
-      "stems": [
-        "soglom",
-        "profilaktik",
-        "otkazil",
-        "xavfsiz",
-        "yurt",
-        "tadbir"
-      ],
-      "posted_at": 1794074974.9391654
-    },
     {
       "title": "Mahkumlar bilan uchrashuv va muloqotlar pulli bo'lishi mumkin",
       "summary": "O'zbekistonda mahkumlarning uchrashuv xonalari, videamuloqot va telefon suhbatlari uchun Bazaviy hisoblash miqdoriga nisbatan yangi pullik tariflar joriy etilishi taklif qilinmoqda.",
@@ -7339,6 +7272,96 @@
         "vaqt"
       ],
       "posted_at": 1795634892.5011895
+    },
+    {
+      "title": "Olmaliqlik o'quvchi viloyat olimpiadasida 1-o'rinni egalladi",
+      "summary": "Olmaliq shahridagi 18-maktabning 10-sinf o'quvchisi Diyorbek Boburov informatika fanidan viloyat olimpiadasida 149 ball to'plab, faxrli 1-o'rinni qo'lga kiritdi.",
+      "norm_title": "olmaliqlik oquvchi viloyat olimpiadasida 1orinni egalladi",
+      "topic_key": "olimpiada-viloyat-bosqichi",
+      "stems": [
+        "egall",
+        "rin",
+        "quvch",
+        "olimpia"
+      ],
+      "posted_at": 1795691081.2950096
+    },
+    {
+      "title": "AGMK korrupsiyaga qarshi kurashish kanallarini eslatdi",
+      "summary": "AGMK korrupsiya holatlari haqida xabar berish uchun Telegram bot, ishonch telefonlari va elektron pochta manzillarini e'lon qildi.",
+      "norm_title": "agmk korrupsiyaga qarshi kurashish kanallarini eslatdi",
+      "topic_key": "agmk-korrupsiyaga-qarshi",
+      "stems": [
+        "korrupsiya",
+        "kanal",
+        "eslat",
+        "agmk",
+        "qarsh",
+        "kurash"
+      ],
+      "posted_at": 1795691157.211809
+    },
+    {
+      "title": "AGMKda Zakovat intellektual o'yini g'oliblari aniqlandi",
+      "summary": "Xalqaro korrupsiyaga qarshi kurashish kuniga bag'ishlangan haftalik doirasida o'tkazilgan bellashuvda 3-MBF jamoasi 1-o'rinni egalladi.",
+      "norm_title": "agmkda zakovat intellektual oyini goliblari aniqlandi",
+      "topic_key": "agmk-zakovat-goliblari",
+      "stems": [
+        "olib",
+        "yin",
+        "intellektual",
+        "aniqlan",
+        "agmk",
+        "zakovat"
+      ],
+      "posted_at": 1795691182.8207803
+    },
+    {
+      "title": "Iste'molchilar huquqlarini himoya qilish bo'yicha chellenj davom etmoqda",
+      "summary": "Raqubat qo'mitasi tomonidan e'lon qilingan chellenjda 200 dan ortiq ishtirokchi ro'yxatdan o'tib, do'konlardagi narxlar va muddatlar bilan bog'liq 20 ga yaqin kamchiliklar bartaraf etildi.",
+      "norm_title": "istemolchilar huquqlarini himoya qilish boyicha chellenj davom etmoqda",
+      "topic_key": "raqobat-qomitasi-chellenj",
+      "stems": [
+        "davom",
+        "iste",
+        "chellenj",
+        "yicha",
+        "molch",
+        "huquq",
+        "himoya",
+        "etmoq"
+      ],
+      "posted_at": 1795691224.1787198
+    },
+    {
+      "title": "Olmaliqda prezident maktubi mazmuni yoshlarga yetkazildi",
+      "summary": "Olmaliqdagi 3-sonli texnikumda o'quvchi-yoshlar ishtirokida Prezident maktubining mazmun-mohiyatiga bag'ishlangan ma'naviy-ma'rifiy uchrashuv bo'lib o'tdi.",
+      "norm_title": "olmaliqda prezident maktubi mazmuni yoshlarga yetkazildi",
+      "topic_key": "prezident-maktubi-yoshlar",
+      "stems": [
+        "mazmu",
+        "yetkazil",
+        "prezident",
+        "maktub",
+        "yosh"
+      ],
+      "posted_at": 1795691280.1101265
+    },
+    {
+      "title": "Chet el avtomobillarining O'zbekistonda bo'lish muddati uzaytirilishi mumkin",
+      "summary": "O'zbekistonda xorijiy avtotransport vositalarining mamlakatda bo'lish muddati 90 kundan 180 kungacha uzaytirilishi ko'zda tutilmoqda. Qonun loyihasi Qonunchilik palatasida birinchi o'qishda ma'qullandi.",
+      "norm_title": "chet el avtomobillarining ozbekistonda bolish muddati uzaytirilishi mumkin",
+      "topic_key": "chet-el-avto-muddati",
+      "stems": [
+        "uzay",
+        "avtomobil",
+        "mumkin",
+        "zbekiston",
+        "muddat",
+        "lish",
+        "chet"
+      ],
+      "posted_at": 1795691400.2844908
     }
   ]
 }
