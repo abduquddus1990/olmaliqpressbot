@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86835,
-    "ao_agmk": 50492,
-    "olmaliqshaharpressa": 13172,
-    "olmaliq": 44227
+    "olmaliqhayoti": 86852,
+    "ao_agmk": 50507,
+    "olmaliqshaharpressa": 13210,
+    "olmaliq": 44233
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4374,100 +4374,29 @@
     "olmaliq:44208": 1795691377.715273,
     "olmaliq:44217": 1795691400.2760243,
     "olmaliq:44218": 1795691411.5113883,
-    "olmaliq:44227": 1795691411.5276263
+    "olmaliq:44227": 1795691411.5276263,
+    "olmaliqhayoti:86839": 1795723550.5784354,
+    "olmaliqhayoti:86840": 1795723551.4826756,
+    "olmaliqhayoti:86841": 1795723555.5347843,
+    "olmaliqhayoti:86842": 1795723559.9799647,
+    "olmaliqhayoti:86843": 1795723566.528833,
+    "olmaliqhayoti:86844": 1795723569.634086,
+    "olmaliqhayoti:86845": 1795723593.7381718,
+    "olmaliqhayoti:86852": 1795723598.0692382,
+    "ao_agmk:50493": 1795723609.6428387,
+    "ao_agmk:50501": 1795723616.6364093,
+    "ao_agmk:50502": 1795723649.0618598,
+    "ao_agmk:50503": 1795723656.1487355,
+    "ao_agmk:50507": 1795723691.6129365,
+    "olmaliqshaharpressa:13190": 1795723699.356865,
+    "olmaliqshaharpressa:13196": 1795723706.939569,
+    "olmaliqshaharpressa:13203": 1795723717.1277134,
+    "olmaliqshaharpressa:13210": 1795723724.5471263,
+    "olmaliq:44228": 1795723733.2078464,
+    "olmaliq:44232": 1795723735.7121687,
+    "olmaliq:44233": 1795723738.6357057
   },
   "posted_articles": [
-    {
-      "title": "Mahkumlar bilan uchrashuv va muloqotlar pulli bo'lishi mumkin",
-      "summary": "O'zbekistonda mahkumlarning uchrashuv xonalari, videamuloqot va telefon suhbatlari uchun Bazaviy hisoblash miqdoriga nisbatan yangi pullik tariflar joriy etilishi taklif qilinmoqda.",
-      "norm_title": "mahkumlar bilan uchrashuv va muloqotlar pulli bolishi mumkin",
-      "topic_key": "mahkumlar-muloqot-tarifi",
-      "stems": [
-        "muloqot",
-        "mahkum",
-        "mumkin",
-        "lish",
-        "pull",
-        "uchrashuv"
-      ],
-      "posted_at": 1794120768.2027566
-    },
-    {
-      "title": "Sog‘liqni saqlash sohasi xodimlariga tabrik yo‘llandi",
-      "summary": "O‘zbekiston sog‘liqni saqlash sohasi xodimlari kasb bayrami munosabati bilan samimiy qutlandi.",
-      "norm_title": "sogliqni saqlash sohasi xodimlariga tabrik yollandi",
-      "topic_key": "tibbiyot-xodimlari-tabrik",
-      "stems": [
-        "tabrik",
-        "soha",
-        "liq",
-        "xodim",
-        "llan",
-        "sog",
-        "saqlash"
-      ],
-      "posted_at": 1794120782.7750394
-    },
-    {
-      "title": "Superliga: OKMK «Neftchi»ga qarshi maydonga tushadi",
-      "summary": "Superliganing 27-turida OKMK jamoasi Farg'onada «Neftchi» mehmoni bo'ladi. Uchrashuv 8-noyabr kuni soat 16:00 da start oladi.",
-      "norm_title": "superliga okmk neftchiga qarshi maydonga tushadi",
-      "topic_key": "okmk-neftchi-o-yin",
-      "stems": [
-        "okmk",
-        "superl",
-        "maydon",
-        "qarsh",
-        "neftch",
-        "tush"
-      ],
-      "posted_at": 1794120806.4770808
-    },
-    {
-      "title": "Shifokorlarning maoshi va ijtimoiy himoyasi yaxshilanadi",
-      "summary": "Prezident Shavkat Mirziyoyev tibbiyot xodimlariga har yillik rag'bat puli, ipoteka hamda kontrakt to'lovlari uchun imtiyozlar va oylik ustamalar berilishini ma'lum qildi.",
-      "norm_title": "shifokorlarning maoshi va ijtimoiy himoyasi yaxshilanadi",
-      "topic_key": "shifokorlar-maoshi-oshirilishi",
-      "stems": [
-        "ijtimoiy",
-        "yaxshilan",
-        "shifokor",
-        "himoya",
-        "maosh"
-      ],
-      "posted_at": 1794120820.7948642
-    },
-    {
-      "title": "Yong'in keltirib chiqarganlik uchun 1,32 mlrd so'mgacha tovon belgilandi",
-      "summary": "Yangi qonun bilan yong'in xavfsizligi qoidalarini buzib inson hayoti va sog'lig'iga zarar yetkazganlardan 1,32 mlrd so'mgacha qo'shimcha tovon undirish tartibi joriy etildi.",
-      "norm_title": "yongin keltirib chiqarganlik uchun 132 mlrd somgacha tovon belgilandi",
-      "topic_key": "yongin-xavfsizligi-tovon",
-      "stems": [
-        "chiqar",
-        "belgilan",
-        "mlrd",
-        "mgacha",
-        "yong",
-        "tovon",
-        "keltirib"
-      ],
-      "posted_at": 1794146104.086098
-    },
-    {
-      "title": "Buzilgan hisoblagichlarni ta'mirlash ta'minotchi korxonalar tomonidan qoplanadi",
-      "summary": "Hukumatning 698-sonli qaroriga ko'ra, kommunal hisoblagichlarni ta'mirlash va almashtirish xarajatlari ta'minotchi korxonalar hisobidan qoplanadi.",
-      "norm_title": "buzilgan hisoblagichlarni tamirlash taminotchi korxonalar tomonidan qoplanadi",
-      "topic_key": "hisoblagich-tamirlash-xarajatlari",
-      "stems": [
-        "minotch",
-        "hisoblagich",
-        "korxona",
-        "qoplan",
-        "mirlash",
-        "buz"
-      ],
-      "posted_at": 1794146123.1381187
-    },
     {
       "title": "Yuz terisini zararlaydigan 5 ta mahsulot",
       "summary": "Janubiy koreyalik plastik jarroh Choy Hyon Nam yuzda shish va erta ajinlar paydo qiluvchi asosiy omillar sifatida alkogol, kolbasa-sosiska, qovurilgan taomlar, shirinliklar va sho'r mevalarni ko'rsatib o'tdi.",
@@ -7362,6 +7291,86 @@
         "chet"
       ],
       "posted_at": 1795691400.2844908
+    },
+    {
+      "title": "Toshkent yirik xalqaro aviatsiya xabiga aylantiriladi",
+      "summary": "O'zbekiston 2030 yilgacha Yevropa, Xitoy va Hindistonni bog'lovchi yirik aviatsiya xabiga aylanib, transit yo'nalishlarini Toshkent orqali amalga oshirishni rejalashtirmoqda.",
+      "norm_title": "toshkent yirik xalqaro aviatsiya xabiga aylantiriladi",
+      "topic_key": "toshkent-aviatsiya-xabi",
+      "stems": [
+        "xalqaro",
+        "aylan",
+        "xab",
+        "aviatsiya",
+        "yirik"
+      ],
+      "posted_at": 1795723559.9881954
+    },
+    {
+      "title": "Ozbekiston aholisining orta yoshi malum qilindi",
+      "summary": "2026 yil 1 yanvar holatiga Ozbekiston aholisining orta yoshi 29,6 yoshni tashkil etdi. Eng yuqori orta yosh Toshkent shahrida (33,6 yosh), eng pasti esa Surxondaryo viloyatida (27,4 yosh) qayd etildi.",
+      "norm_title": "ozbekiston aholisining orta yoshi malum qilindi",
+      "topic_key": "ozbekiston-aholisi-orta-yoshi",
+      "stems": [
+        "ozbekiston",
+        "yosh",
+        "orta",
+        "ahol"
+      ],
+      "posted_at": 1795723569.6425917
+    },
+    {
+      "title": "Germaniya delegatsiyasi OKMK faoliyati bilan tanishdi",
+      "summary": "25-noyabr kuni Germaniya ishbilarmon doiralari vakillari Olmaliq kon-metallurgiya kombinatiga tashrif buyurib, o'zaro hamkorlik aloqalarini muhokama qilishdi.",
+      "norm_title": "germaniya delegatsiyasi okmk faoliyati bilan tanishdi",
+      "topic_key": "germaniya-delegatsiyasi-okmk",
+      "stems": [
+        "delegatsiya",
+        "okmk",
+        "germaniya",
+        "faoliyat",
+        "tan"
+      ],
+      "posted_at": 1795723609.6512756
+    },
+    {
+      "title": "Qoʻriqlash xizmatlari sifati oshiriladi",
+      "summary": "Prezident Shavkat Mirziyoyev qoʻriqlash xizmatlari sifati va qamrovi darajasini oshirish yuzasidan oʻtkazilgan taqdimot bilan tanishdi.",
+      "norm_title": "qoʻriqlash xizmatlari sifati oshiriladi",
+      "topic_key": "prezident-quriqlash-xizmati",
+      "stems": [
+        "qoriqlash",
+        "sifat",
+        "xizmat",
+        "oshir"
+      ],
+      "posted_at": 1795723656.157109
+    },
+    {
+      "title": "Olmaliqda Rahbar va yoshlar uchrashuvi bo'lib o'tdi",
+      "summary": "Olmaliq shahar ta'lim bo'limi boshlig'i X. Turğunboyev boshchiligida maktablarda ochiq muloqotlar tashkil etilib, o'quvchilarning muammo va takliflari muhokama qilindi.",
+      "norm_title": "olmaliqda rahbar va yoshlar uchrashuvi bolib otdi",
+      "topic_key": "rahbar-va-yoshlar-uchrashuvi",
+      "stems": [
+        "tdi",
+        "lib",
+        "rahbar",
+        "uchrashuv",
+        "yosh"
+      ],
+      "posted_at": 1795723717.13604
+    },
+    {
+      "title": "Olmaliqda zo‘ravonlikka qarshi 16 kunlik aksiya boshlandi",
+      "summary": "25-noyabrdan 10-dekabrgacha shahrimizda xotin-qizlar va bolalarga nisbatan zo‘ravonlikning oldini olishga qaratilgan targ‘ibot tadbirlari o‘tkazilmoqda.",
+      "norm_title": "olmaliqda zoravonlikka qarshi 16 kunlik aksiya boshlandi",
+      "topic_key": "zoravonlikka-qarshi-aksiya",
+      "stems": [
+        "ravon",
+        "aksiya",
+        "qarsh"
+      ],
+      "posted_at": 1795723724.5555644
     }
   ]
 }
