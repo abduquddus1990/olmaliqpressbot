@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86870,
-    "ao_agmk": 50542,
-    "olmaliqshaharpressa": 13212,
-    "olmaliq": 44247
+    "olmaliqhayoti": 86898,
+    "ao_agmk": 50556,
+    "olmaliqshaharpressa": 13235,
+    "olmaliq": 44277
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4419,71 +4419,30 @@
     "olmaliq:44235": 1795779065.9292586,
     "olmaliq:44236": 1795779080.7893,
     "olmaliq:44246": 1795779084.3357553,
-    "olmaliq:44247": 1795779117.0233667
+    "olmaliq:44247": 1795779117.0233667,
+    "olmaliqhayoti:86876": 1795810149.1212437,
+    "olmaliqhayoti:86885": 1795810190.9407454,
+    "olmaliqhayoti:86894": 1795810200.0033329,
+    "olmaliqhayoti:86895": 1795810213.299053,
+    "olmaliqhayoti:86896": 1795810215.8168917,
+    "olmaliqhayoti:86897": 1795810219.492327,
+    "olmaliqhayoti:86898": 1795810226.4214072,
+    "ao_agmk:50543": 1795810237.7243116,
+    "ao_agmk:50553": 1795810244.0009637,
+    "ao_agmk:50556": 1795810249.7991185,
+    "olmaliqshaharpressa:13213": 1795810253.2422142,
+    "olmaliqshaharpressa:13214": 1795810255.6913047,
+    "olmaliqshaharpressa:13224": 1795810265.4874516,
+    "olmaliqshaharpressa:13233": 1795810268.9594922,
+    "olmaliqshaharpressa:13234": 1795810274.7007394,
+    "olmaliqshaharpressa:13235": 1795810277.3871713,
+    "olmaliq:44251": 1795810288.3842802,
+    "olmaliq:44268": 1795810295.6421068,
+    "olmaliq:44275": 1795810298.9079075,
+    "olmaliq:44276": 1795810301.6915512,
+    "olmaliq:44277": 1795810304.224615
   },
   "posted_articles": [
-    {
-      "title": "Toshkent viloyati va Olmaliqda isitish mavsumi boshlandi",
-      "summary": "9-noyabrdan Olmaliq shahridagi ko'p qavatli uylar va ijtimoiy obyektlarga bosqichma-bosqich issiqlik berish boshlandi. Muammolar yuzasidan 1347 va 1055 raqamlariga murojaat qilish mumkin.",
-      "norm_title": "toshkent viloyati va olmaliqda isitish mavsumi boshlandi",
-      "topic_key": "isitish-mavsumi-boshlandi",
-      "stems": [
-        "isit",
-        "mavsum"
-      ],
-      "posted_at": 1794251455.5881753
-    },
-    {
-      "title": "AGMKda yangi loyihalar ijrosi muhokama qilindi",
-      "summary": "Loyiha ofisida o‘tkazilgan yig‘ilishda 3-mis boyitish fabrikasini to‘liq quvvatga chiqarish va 4-mis boyitish fabrikasi qurilishini jadallashtirish masalalari ko‘rib chiqildi.",
-      "norm_title": "agmkda yangi loyihalar ijrosi muhokama qilindi",
-      "topic_key": "agmk-mbp3-mbp4-qurilish",
-      "stems": [
-        "ijro",
-        "agmk",
-        "loyiha"
-      ],
-      "posted_at": 1794251591.809379
-    },
-    {
-      "title": "AGMK Texnologik transport boshqarmasiga sinovlar boshlandi",
-      "summary": "AGMKning Texnologik transport boshqarmasidagi bo'sh ish o'rinlari uchun nomzodlar o'rtasida ochiq va shaffof sinov jarayonlari o'tkazilmoqda.",
-      "norm_title": "agmk texnologik transport boshqarmasiga sinovlar boshlandi",
-      "topic_key": "agmk-transport-ishga-qabul",
-      "stems": [
-        "agmk",
-        "transport",
-        "sinov",
-        "texnologik",
-        "boshqarma"
-      ],
-      "posted_at": 1794251603.2081072
-    },
-    {
-      "title": "Olmaliqda tungi reydlar davomida huquqbuzarliklar aniqlandi",
-      "summary": "Olmaliq shahrida o'tkazilgan tungi reydlar davomida ota-ona nazoratisiz yurgan voyaga yetmaganlar aniqlanib, shuningdek, giyohvandlik vositasiga o'xshash modda musodara qilindi.",
-      "norm_title": "olmaliqda tungi reydlar davomida huquqbuzarliklar aniqlandi",
-      "topic_key": "olmaliq-tungi-reyd-iib",
-      "stems": [
-        "aniqlan",
-        "tung",
-        "reyd",
-        "huquqbuzar"
-      ],
-      "posted_at": 1794251632.0171175
-    },
-    {
-      "title": "Nukus city barpo etiladi",
-      "summary": "Prezident qaroriga asosan, Nukus shahrida 50 ming aholiga mo'ljallangan 270 gektarlik zamonaviy 'Nukus city' shaharchasi quriladi.",
-      "norm_title": "nukus city barpo etiladi",
-      "topic_key": "nukus-city-qurilishi",
-      "stems": [
-        "nukus",
-        "city",
-        "barpo"
-      ],
-      "posted_at": 1794251641.0841858
-    },
     {
       "title": "Ertadan 2-chorak darslari boshlanadi",
       "summary": "Ertadan barcha umumta'lim maktablarida 2-o'qish choragining ilk kuni boshlanadi.",
@@ -7404,6 +7363,79 @@
         "yilgacha"
       ],
       "posted_at": 1795779065.9376018
+    },
+    {
+      "title": "Olmaliqda Xalqaro nogironligi bo'lgan shaxslar kuni nishonlandi",
+      "summary": "3-dekabr munosabati bilan Olmaliqdagi \"Imron\" restoranida 70 nafar inklyuziv ta'lim oluvchi o'quvchilar uchun \"Yangi O'zbekiston bunyodkorlari\" shiori ostida bayram tadbiri o'tkazildi.",
+      "norm_title": "olmaliqda xalqaro nogironligi bolgan shaxslar kuni nishonlandi",
+      "topic_key": "nogironlar-kuni-tadbiri",
+      "stems": [
+        "nogiron",
+        "shaxs",
+        "xalqaro",
+        "lgan",
+        "nishonlan"
+      ],
+      "posted_at": 1795810149.1294487
+    },
+    {
+      "title": "Javohir Sindarov jahon shaxmat toji uchun bahs olib bormoqda",
+      "summary": "20 yoshli shaxmatchimiz Javohir Sindarov amaldagi jahon chempioni Gukesh D.ga qarshi jahon toji uchun bahsga kirishdi. U shaxmat tarixida ushbu unvon uchun kurashayotgan ilk o'zbekistonlik rasmiy da'vogar bo'ldi.",
+      "norm_title": "javohir sindarov jahon shaxmat toji uchun bahs olib bormoqda",
+      "topic_key": "javohir-sindarov-shaxmat-toji",
+      "stems": [
+        "jahon",
+        "olib",
+        "toj",
+        "sindarov",
+        "bor",
+        "bahs",
+        "javohir",
+        "shaxmat"
+      ],
+      "posted_at": 1795810200.012446
+    },
+    {
+      "title": "Olmaliq shahar hokimiga yangi matbuot kotibi tayinlandi",
+      "summary": "Mahfuza Akbayeva Olmaliq shahar hokimining matbuot kotibi va axborot siyosati masalalari bo'yicha maslahatchisi lavozimiga tayinlandi.",
+      "norm_title": "olmaliq shahar hokimiga yangi matbuot kotibi tayinlandi",
+      "topic_key": "olmaliq-hokim-matbuot-kotibi",
+      "stems": [
+        "kotib",
+        "hokim",
+        "matbuot",
+        "tayinlan"
+      ],
+      "posted_at": 1795810219.500688
+    },
+    {
+      "title": "OKMK «Eng faol ish beruvchi tashkilot» deb topildi",
+      "summary": "Toshkent shahrida bo'lib o'tgan Milliy malaka tizimi ishtirokchilari respublika tanlovida «Olmaliq KMK» AJ «Eng faol ish beruvchi tashkilot» nominatsiyasida g‘olib bo'ldi.",
+      "norm_title": "okmk eng faol ish beruvchi tashkilot deb topildi",
+      "topic_key": "okmk-eng-faol-ish-beruvchi",
+      "stems": [
+        "eng",
+        "beruvch",
+        "deb",
+        "faol",
+        "topil",
+        "ish",
+        "okmk",
+        "tashkilot"
+      ],
+      "posted_at": 1795810244.0094008
+    },
+    {
+      "title": "Olmaliqda yoshlar yetakchisi tayinlandi",
+      "summary": "Shahar hokimi bilan uchrashuvda o'z tashabbuslarini bildirgan Davronbek Furqat mahallasi yoshlar yetakchisi lavozimiga kirishdi.",
+      "norm_title": "olmaliqda yoshlar yetakchisi tayinlandi",
+      "topic_key": "yoshlar-yetakchisi-davronbek",
+      "stems": [
+        "yetakch",
+        "yosh",
+        "tayinlan"
+      ],
+      "posted_at": 1795810268.96802
     }
   ]
 }
