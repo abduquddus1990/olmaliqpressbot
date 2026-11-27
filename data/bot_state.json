@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86852,
+    "olmaliqhayoti": 86854,
     "ao_agmk": 50507,
     "olmaliqshaharpressa": 13210,
-    "olmaliq": 44233
+    "olmaliq": 44234
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4394,22 +4394,12 @@
     "olmaliqshaharpressa:13210": 1795723724.5471263,
     "olmaliq:44228": 1795723733.2078464,
     "olmaliq:44232": 1795723735.7121687,
-    "olmaliq:44233": 1795723738.6357057
+    "olmaliq:44233": 1795723738.6357057,
+    "olmaliqhayoti:86853": 1795747574.2789123,
+    "olmaliqhayoti:86854": 1795747578.3213851,
+    "olmaliq:44234": 1795747588.2180948
   },
   "posted_articles": [
-    {
-      "title": "Yuz terisini zararlaydigan 5 ta mahsulot",
-      "summary": "Janubiy koreyalik plastik jarroh Choy Hyon Nam yuzda shish va erta ajinlar paydo qiluvchi asosiy omillar sifatida alkogol, kolbasa-sosiska, qovurilgan taomlar, shirinliklar va sho'r mevalarni ko'rsatib o'tdi.",
-      "norm_title": "yuz terisini zararlaydigan 5 ta mahsulot",
-      "topic_key": "yuz-terisi-zararli-taomlar",
-      "stems": [
-        "yuz",
-        "zararla",
-        "mahsulot",
-        "ter"
-      ],
-      "posted_at": 1794146134.8195918
-    },
     {
       "title": "Erda kuchli magnet bo'roni kuzatiladi",
       "summary": "8-noyabrdan dushanbagacha tezligi 700–800 km/s ga yetadigan quyosh shamollari sababli magnet bo'roni kutilmoqda. Bu holat bosh og'rig'i, holsizlik va qon bosimi o'zgarishiga olib kelishi mumkin.",
@@ -7371,6 +7361,22 @@
         "qarsh"
       ],
       "posted_at": 1795723724.5555644
+    },
+    {
+      "title": "1-dekabrdan pensiya turini onlayn o'zgartirish mumkin bo'ladi",
+      "summary": "Fuqarolar 1-dekabrdan boshlab pensiyaning boshqa turiga o'tish uchun onlayn ariza yuborish imkoniyatiga ega bo'ladilar.",
+      "norm_title": "1dekabrdan pensiya turini onlayn ozgartirish mumkin boladi",
+      "topic_key": "pensiya-turini-ozgartirish",
+      "stems": [
+        "onlayn",
+        "tur",
+        "pensiya",
+        "mumkin",
+        "zgar",
+        "lad",
+        "dekabr"
+      ],
+      "posted_at": 1795747578.3279123
     }
   ]
 }
