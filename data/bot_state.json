@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86854,
-    "ao_agmk": 50507,
-    "olmaliqshaharpressa": 13210,
-    "olmaliq": 44234
+    "olmaliqhayoti": 86870,
+    "ao_agmk": 50542,
+    "olmaliqshaharpressa": 13212,
+    "olmaliq": 44247
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4397,141 +4397,31 @@
     "olmaliq:44233": 1795723738.6357057,
     "olmaliqhayoti:86853": 1795747574.2789123,
     "olmaliqhayoti:86854": 1795747578.3213851,
-    "olmaliq:44234": 1795747588.2180948
+    "olmaliq:44234": 1795747588.2180948,
+    "olmaliqhayoti:86855": 1795778858.338856,
+    "olmaliqhayoti:86861": 1795778866.4302506,
+    "olmaliqhayoti:86862": 1795778904.2141216,
+    "olmaliqhayoti:86866": 1795778913.0115016,
+    "olmaliqhayoti:86867": 1795778922.6600091,
+    "olmaliqhayoti:86868": 1795778932.0246027,
+    "olmaliqhayoti:86869": 1795778935.0489204,
+    "olmaliqhayoti:86870": 1795778962.4389813,
+    "ao_agmk:50518": 1795778975.0156233,
+    "ao_agmk:50526": 1795778983.979074,
+    "ao_agmk:50530": 1795778988.99031,
+    "ao_agmk:50531": 1795778989.0065615,
+    "ao_agmk:50532": 1795778989.02272,
+    "ao_agmk:50533": 1795778989.038799,
+    "ao_agmk:50534": 1795779000.2422256,
+    "ao_agmk:50542": 1795779029.1332846,
+    "olmaliqshaharpressa:13211": 1795779038.0814652,
+    "olmaliqshaharpressa:13212": 1795779045.3718548,
+    "olmaliq:44235": 1795779065.9292586,
+    "olmaliq:44236": 1795779080.7893,
+    "olmaliq:44246": 1795779084.3357553,
+    "olmaliq:44247": 1795779117.0233667
   },
   "posted_articles": [
-    {
-      "title": "Erda kuchli magnet bo'roni kuzatiladi",
-      "summary": "8-noyabrdan dushanbagacha tezligi 700–800 km/s ga yetadigan quyosh shamollari sababli magnet bo'roni kutilmoqda. Bu holat bosh og'rig'i, holsizlik va qon bosimi o'zgarishiga olib kelishi mumkin.",
-      "norm_title": "erda kuchli magnet boroni kuzatiladi",
-      "topic_key": "magnet-boroni-ogohlantirish",
-      "stems": [
-        "kuzat",
-        "kuchl",
-        "ron",
-        "magnet",
-        "erda"
-      ],
-      "posted_at": 1794146145.2388065
-    },
-    {
-      "title": "Toshkentda yangi sun'iy ko'l va dam olish maskani barpo etilmoqda",
-      "summary": "Chilonzor tumanidagi Beshyog'och mahallasida 2,3 gektar maydonda sun'iy ko'l, 4,6 km piyoda va velosiped yo'laklari hamda favvoralardan iborat dam olish hududi qurilmoqda.",
-      "norm_title": "toshkentda yangi suniy kol va dam olish maskani barpo etilmoqda",
-      "topic_key": "toshkent-dam-olish-maskani",
-      "stems": [
-        "etil",
-        "mas",
-        "dam",
-        "olish",
-        "barpo",
-        "sun"
-      ],
-      "posted_at": 1794162981.6189427
-    },
-    {
-      "title": "Olmaliqda 9-noyabr uchun ob-havo va valyuta kurslari",
-      "summary": "9-noyabr kuni Olmaliq shahrida havo harorati kunduzi +21°C gacha isiydi, 1 AQSh dollari kursi 11 987,16 so'm hamda 1 rubl 146,29 so'mni tashkil etmoqda.",
-      "norm_title": "olmaliqda 9noyabr uchun obhavo va valyuta kurslari",
-      "topic_key": "ob-havo-valyuta-kurslari",
-      "stems": [
-        "havo",
-        "noyabr",
-        "valyuta",
-        "kurs"
-      ],
-      "posted_at": 1794162990.393969
-    },
-    {
-      "title": "Prezident Yuqori Chirchiq tumaniga tashrif buyuradi",
-      "summary": "9-noyabr kuni Shavkat Mirziyoyev Yuqori Chirchiq tumanidagi \"NURA Electric\" zavodi faoliyati bilan tanishadi hamda elektrotexnika sohasi tadbirkorlari bilan muloqot o'tkazadi.",
-      "norm_title": "prezident yuqori chirchiq tumaniga tashrif buyuradi",
-      "topic_key": "prezident-tashrifi-yuqori-chirchiq",
-      "stems": [
-        "tashrif",
-        "buyur",
-        "prezident",
-        "yuqor",
-        "tuman",
-        "chirchiq"
-      ],
-      "posted_at": 1794213785.7948089
-    },
-    {
-      "title": "Maktablarda raqamlashtirilgan kuzatuv tizimi joriy etiladi",
-      "summary": "Maktablarda ta'lim sifati pastligi sababli o'quvchilar dars qoldirib repetitorlarga ketmoqda. Ushbu muammoni hal etish uchun Toshkentda dars jarayonini masofaviy nazorat qilish tizimi sinovdan o'tkazilmoqda.",
-      "norm_title": "maktablarda raqamlashtirilgan kuzatuv tizimi joriy etiladi",
-      "topic_key": "maktab-davomat-tizimi",
-      "stems": [
-        "raqamlash",
-        "maktab",
-        "kuzatuv",
-        "joriy",
-        "tizim"
-      ],
-      "posted_at": 1794213796.028997
-    },
-    {
-      "title": "Nurafshonda “Kelajak texnologiyalari markazi” tashkil etiladi",
-      "summary": "Tadqiqotchilar va sanoat korxonalarini oʻzaro bogʻlovchi “Yangi sanoat” milliy platformasi hamda “Kelajak texnologiyalari markazi” yoʻlga qoʻyiladi.",
-      "norm_title": "nurafshonda kelajak texnologiyalari markazi tashkil etiladi",
-      "topic_key": "nurafshon-kelajak-texnologiyalari",
-      "stems": [
-        "markaz",
-        "kelajak",
-        "tashkil",
-        "texnologiya",
-        "nurafshon"
-      ],
-      "posted_at": 1794213809.1867943
-    },
-    {
-      "title": "OKMK haftalik yangiliklar dayjesti e'lon qilindi",
-      "summary": "Hafta davomida OKMKda sanoat ishlab chiqarish hajmi 55 trillion so'mdan oshdi, 3-MBFda 10 million tonna ma'dan qayta ishlandi va \"Sariq-Cho'qqi\" koni yillik rejani muddatidan oldin bajardi.",
-      "norm_title": "okmk haftalik yangiliklar dayjesti elon qilindi",
-      "topic_key": "okmk-haftalik-dayjest",
-      "stems": [
-        "yang",
-        "dayjest",
-        "hafta",
-        "okmk",
-        "lon"
-      ],
-      "posted_at": 1794213817.6484547
-    },
-    {
-      "title": "OKMK gandbolchilari O‘zbekiston chempionatida sovrinli o‘rinlarni qo‘lga kiritdi",
-      "summary": "Toshkentda o‘tgan O‘zbekiston chempionatining 3-tur bahslarida OKMK erkaklar jamoasi 2-o‘rinni, ayollar jamoasi esa 3-o‘rinni band etdi.",
-      "norm_title": "okmk gandbolchilari ozbekiston chempionatida sovrinli orinlarni qolga kiritdi",
-      "topic_key": "okmk-gandbol-chempionat",
-      "stems": [
-        "chempionat",
-        "kirit",
-        "okmk",
-        "lga",
-        "zbekiston",
-        "sovrinl",
-        "rin",
-        "gandbolch"
-      ],
-      "posted_at": 1794213838.0994391
-    },
-    {
-      "title": "Kiberxavfsizlik va shaxsiy ma'lumotlar muhofazasi bo'yicha tavsiyalar e'lon qilindi",
-      "summary": "Kibermadaniyatni yuksaltirish oyligi doirasida raqamli makonda xavfsizlikni ta'minlash hamda kiberjinoyatlarning oldini olish bo'yicha muhim qonunchilik normalari va tavsiyalar taqdim etildi.",
-      "norm_title": "kiberxavfsizlik va shaxsiy malumotlar muhofazasi boyicha tavsiyalar elon qilindi",
-      "topic_key": "kiberxavfsizlik-oyligi-tavsiyalar",
-      "stems": [
-        "lon",
-        "shaxsiy",
-        "tavsiya",
-        "lumot",
-        "yicha",
-        "kiberxavfsiz",
-        "muhofaza"
-      ],
-      "posted_at": 1794251427.5760858
-    },
     {
       "title": "Toshkent viloyati va Olmaliqda isitish mavsumi boshlandi",
       "summary": "9-noyabrdan Olmaliq shahridagi ko'p qavatli uylar va ijtimoiy obyektlarga bosqichma-bosqich issiqlik berish boshlandi. Muammolar yuzasidan 1347 va 1055 raqamlariga murojaat qilish mumkin.",
@@ -7377,6 +7267,143 @@
         "dekabr"
       ],
       "posted_at": 1795747578.3279123
+    },
+    {
+      "title": "Olmaliqda obodonlashtirish xodimlarining farzandlari bepul ta'lim oladi",
+      "summary": "Olmaliq shahar obodonlashtirish boshqarmasi xodimlarining farzandlari «Yoshlar daftari» hamda xususiy o'quv markazlari tashabbusi bilan bepul o'qitiladi.",
+      "norm_title": "olmaliqda obodonlashtirish xodimlarining farzandlari bepul talim oladi",
+      "topic_key": "obodonlashtirish-xodimlari-bepul-talim",
+      "stems": [
+        "farzand",
+        "xodim",
+        "lim",
+        "bepul",
+        "ola",
+        "obodonlash"
+      ],
+      "posted_at": 1795778858.3469117
+    },
+    {
+      "title": "OKMK FA U-10 jamoasi Tailanddagi xalqaro musobaqada qatnashadi",
+      "summary": "3-9-dekabr kunlari Bangkok shahrida o'tadigan \"Asian Youth Champions Cup\" xalqaro turnirida OKMK futbol akademiyasining U-10 jamoasi ham ishtirok etadi.",
+      "norm_title": "okmk fa u10 jamoasi tailanddagi xalqaro musobaqada qatnashadi",
+      "topic_key": "okmk-fa-u10-tailand",
+      "stems": [
+        "qatnash",
+        "tailand",
+        "musoba",
+        "xalqaro",
+        "jamoa",
+        "okmk"
+      ],
+      "posted_at": 1795778904.222353
+    },
+    {
+      "title": "Ohangaronlik ayolni Turkiyaga fohishalikka yubormoqchi bo'lgan olmaliqlik shaxs ushlandi",
+      "summary": "Ohangaronlik ayolni aldadib Turkiyaga intim xizmatlar ko'rsatishga yubormoqchi bo'lgan olmaliqlik ayol va uning sherigiga nisbatan Jinoyat kodeksining 135-moddasi bilan jinoyat ishi qo'zg'atildi.",
+      "norm_title": "ohangaronlik ayolni turkiyaga fohishalikka yubormoqchi bolgan olmaliqlik shaxs ushlandi",
+      "topic_key": "odam-savdosi-turkiya",
+      "stems": [
+        "turkiya",
+        "shaxs",
+        "ohangaron",
+        "yubormoqch",
+        "ayol",
+        "ushlan",
+        "lgan",
+        "fohisha"
+      ],
+      "posted_at": 1795778913.0198638
+    },
+    {
+      "title": "Angren – Pop yo'nalishida ikkinchi temir yo'l liniyasi qurilishi kutilmoqda",
+      "summary": "Kelgusi yildan Angren – Pop temir yo'li modernizatsiya qilinadi hamda apreldan To'qimachi – Angren yo'nalishida ikkinchi temir yo'l qurilishi boshlanadi.",
+      "norm_title": "angren  pop yonalishida ikkinchi temir yol liniyasi qurilishi kutilmoqda",
+      "topic_key": "angren-pop-temir-yol",
+      "stems": [
+        "pop",
+        "ikkinch",
+        "nal",
+        "angren",
+        "qur",
+        "liniya",
+        "temir",
+        "kut"
+      ],
+      "posted_at": 1795778922.668263
+    },
+    {
+      "title": "O‘zbekistonda tansoqchilik xizmati yo‘lga qo‘yiladi",
+      "summary": "Mamlakatda investorlar, sayyohlar va tadbirkorlarga tansoqchilik hamda dronlar yordamida kuzatuv olib borish kabi qo‘riqlash xizmatlarini yo‘lga qo‘yish rejalashtirilmoqda.",
+      "norm_title": "ozbekistonda tansoqchilik xizmati yolga qoyiladi",
+      "topic_key": "tansoqchilik-xizmati-yolga-qoyilishi",
+      "stems": [
+        "tansoqch",
+        "xizmat",
+        "zbekiston",
+        "lga"
+      ],
+      "posted_at": 1795778932.0328302
+    },
+    {
+      "title": "3-MBF rivojida zamonaviy temiryoʻl infratuzilmasining oʻrni",
+      "summary": "Kon-metallurgiya sanoati quvvatlarini kengaytirish va korxonalarni yagona texnologik zanjirga bogʻlash uchun 3-MBFda zamonaviy temiryoʻl hamda muhandislik tarmoqlari barpo etilmoqda.",
+      "norm_title": "3mbf rivojida zamonaviy temiryoʻl infratuzilmasining oʻrni",
+      "topic_key": "3-mbf-temiryol-infratuzilmasi",
+      "stems": [
+        "zamonaviy",
+        "temiryol",
+        "orn",
+        "rivoj",
+        "infratuzilma",
+        "mbf"
+      ],
+      "posted_at": 1795778975.0238414
+    },
+    {
+      "title": "Prezident transport-logistika sohasi investorlari bilan uchrashdi",
+      "summary": "Prezident Shavkat Mirziyoyev transport va logistika sohasida faoliyat yuritayotgan investorlar hamda tadbirkorlar bilan uchrashuv o'tkazdi.",
+      "norm_title": "prezident transportlogistika sohasi investorlari bilan uchrashdi",
+      "topic_key": "prezident-transport-investorlar",
+      "stems": [
+        "uchrash",
+        "prezident",
+        "transport",
+        "logist",
+        "investor",
+        "soha"
+      ],
+      "posted_at": 1795779000.2505083
+    },
+    {
+      "title": "2027-yil Xalqaro barqaror va yashovchan turizm yili deb e'lon qilindi",
+      "summary": "\"2027-yil – Xalqaro barqaror va yashovchan turizm yili\"ning rasmiy ochilish marosimi ishtirokchilariga tabriknoma yo'llandi.",
+      "norm_title": "2027yil xalqaro barqaror va yashovchan turizm yili deb elon qilindi",
+      "topic_key": "xalqaro-turizm-yili",
+      "stems": [
+        "barqaror",
+        "deb",
+        "turizm",
+        "yashovchan",
+        "2027",
+        "xalqaro",
+        "lon"
+      ],
+      "posted_at": 1795779029.1416736
+    },
+    {
+      "title": "Qarzini qaytarmaganlar 10 yilgacha qamalishi mumkin",
+      "summary": "Qarz olib uni qaytarmasdan yurgan shaxslarga nisbatan 10 yilgacha ozodlikdan mahrum etish jazosi belgilanishi mumkin.",
+      "norm_title": "qarzini qaytarmaganlar 10 yilgacha qamalishi mumkin",
+      "topic_key": "qarz-qaytarish-jazo",
+      "stems": [
+        "qarz",
+        "qaytarma",
+        "qamal",
+        "mumkin",
+        "yilgacha"
+      ],
+      "posted_at": 1795779065.9376018
     }
   ]
 }
