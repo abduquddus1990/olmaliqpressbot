@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86916,
-    "ao_agmk": 50560,
-    "olmaliqshaharpressa": 13249,
-    "olmaliq": 44292
+    "olmaliqhayoti": 86922,
+    "ao_agmk": 50563,
+    "olmaliqshaharpressa": 13278,
+    "olmaliq": 44296
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4465,67 +4465,23 @@
     "olmaliq:44281": 1795863284.3197582,
     "olmaliq:44290": 1795863292.6285508,
     "olmaliq:44291": 1795863295.6459107,
-    "olmaliq:44292": 1795863295.6577005
+    "olmaliq:44292": 1795863295.6577005,
+    "olmaliqhayoti:86918": 1795890757.471379,
+    "olmaliqhayoti:86919": 1795890757.5256248,
+    "olmaliqhayoti:86920": 1795890761.4318266,
+    "olmaliqhayoti:86921": 1795890765.4112918,
+    "olmaliqhayoti:86922": 1795890769.7563336,
+    "ao_agmk:50561": 1795890777.0682952,
+    "ao_agmk:50563": 1795890783.9698074,
+    "olmaliqshaharpressa:13258": 1795890795.3197663,
+    "olmaliqshaharpressa:13268": 1795890803.9413471,
+    "olmaliqshaharpressa:13278": 1795890807.3676472,
+    "olmaliq:44293": 1795890828.1645684,
+    "olmaliq:44294": 1795890833.0037172,
+    "olmaliq:44295": 1795890855.4377692,
+    "olmaliq:44296": 1795890861.284214
   },
   "posted_articles": [
-    {
-      "title": "AGMK mehnat jamoasi bilan uchrashuv o‘tkazildi",
-      "summary": "“Axborot 24” telekanalida AGMK mehnat jamoasi bilan bo‘lib o‘tgan uchrashuv yoritildi.",
-      "norm_title": "agmk mehnat jamoasi bilan uchrashuv otkazildi",
-      "topic_key": "agmk-mehnat-jamoasi-uchrashuv",
-      "stems": [
-        "jamoa",
-        "mehnat",
-        "agmk",
-        "tkazil",
-        "uchrashuv"
-      ],
-      "posted_at": 1794303826.9888582
-    },
-    {
-      "title": "Olmaliqlik o'quvchi xalqaro olimpiadada oltin medal oldi",
-      "summary": "Abu Rayhon Beruniy nomidagi Xalqaro kimyo olimpiadasida Olmaliqdagi \"Buxoro maktabi\"ning 10-sinf o'quvchisi Fozilbek Risqulov oltin medalni qo'lga kiritdi.",
-      "norm_title": "olmaliqlik oquvchi xalqaro olimpiadada oltin medal oldi",
-      "topic_key": "fozilbek-risqulov-kimyo-olimpiadasi",
-      "stems": [
-        "old",
-        "xalqaro",
-        "medal",
-        "quvch",
-        "olimpia",
-        "oltin"
-      ],
-      "posted_at": 1794330982.0428555
-    },
-    {
-      "title": "Olmaliqda yoshlar mikroloyihalari moliyalashtirilmoqda",
-      "summary": "Olmaliq shahrida yoshlarning tadbirkorlik tashabbuslarini qo‘llab-quvvatlash va bandligini ta'minlash maqsadida mikroloyihalarni moliyalashtirish ishlari boshlandi.",
-      "norm_title": "olmaliqda yoshlar mikroloyihalari moliyalashtirilmoqda",
-      "topic_key": "yoshlar-mikroloyihalari-moliyalashtirish",
-      "stems": [
-        "moliyalash",
-        "yosh",
-        "mikroloyiha"
-      ],
-      "posted_at": 1794331065.2470434
-    },
-    {
-      "title": "Markaziy Osiyoda ayollar va bolalarni iqlim o'zgarishidan himoya qilish kuchaytiriladi",
-      "summary": "BMTning Antaliyadagi anjumanida GGGI va UNFPA tashkilotlari mintaqa tibbiyotini iqlim o'zgarishiga moslashtirish bo'yicha memorandumni imzoladi. O'zbekistonda onalik salomatligini himoya qilish va Orolbo'yi ayollarini qo'llab-quvvatlash bo'yicha yangi modellar yaratiladi.",
-      "norm_title": "markaziy osiyoda ayollar va bolalarni iqlim ozgarishidan himoya qilish kuchaytiriladi",
-      "topic_key": "iqlim-ozgarishi-tibbiyot-memorandumi",
-      "stems": [
-        "osiyo",
-        "zgar",
-        "bola",
-        "ayol",
-        "markaziy",
-        "iqlim",
-        "kuchay",
-        "himoya"
-      ],
-      "posted_at": 1794331144.130842
-    },
     {
       "title": "Qo'qonda voyaga yetmagan qizga nisbatan zo'ravonlik gumonlanuvchisi qamoqqa olindi",
       "summary": "Ijtimoiy tarmoqlarda tarqalgan 13 yoshli qizga nisbatan jinsiy zo'ravonlik holati yuzasidan jinoyat ishi qo'zg'atilib, gumonlanuvchi qamoqqa olindi.",
@@ -7457,6 +7413,64 @@
         "qochil"
       ],
       "posted_at": 1795863292.6344519
+    },
+    {
+      "title": "Angren kon boshqarmasiga 60 yil",
+      "summary": "1966-yilda tashkil topgan Angren kon boshqarmasi o'tgan davr mobaynida bosqichma-bosqich kengaytirilib, 2002-yildan boshlab AGMK tarkibiga kiritildi va bugungi kunda qimmatbaho hamda noyob metallar rudalarini qazib kelmoqda.",
+      "norm_title": "angren kon boshqarmasiga 60 yil",
+      "topic_key": "angren-kon-boshqarmasi-60-yil",
+      "stems": [
+        "angren",
+        "kon",
+        "boshqarma"
+      ],
+      "posted_at": 1795890777.0749824
+    },
+    {
+      "title": "Mehnat va ta'lim uyg'unlashgan tashabbus",
+      "summary": "Olmaliqda mehnat qadri va ta'lim imkoniyatlarini uyg'unlashtirishga qaratilgan yangi tashabbus ilgari surildi.",
+      "norm_title": "mehnat va talim uygunlashgan tashabbus",
+      "topic_key": "mehnat-va-talim-tashabbusi",
+      "stems": [
+        "tashabbus",
+        "lim",
+        "unla",
+        "uyg",
+        "mehnat"
+      ],
+      "posted_at": 1795890807.3744998
+    },
+    {
+      "title": "Noqonuniy ishlayotgan xorijliklar jarimaga tortilib, deportatsiya qilinadi",
+      "summary": "Senat ma'qullagan qonunga ko'ra, tegishli ruxsatnomasiz ishlayotgan chet el fuqarolari 10 BHM miqdorida jarimaga tortiladi va 3 yilgacha mamlakatga kirishi taqiqlangan holda deportatsiya qilinishi mumkin.",
+      "norm_title": "noqonuniy ishlayotgan xorijliklar jarimaga tortilib deportatsiya qilinadi",
+      "topic_key": "xorijliklar-noqonuniy-ish-deportatsiya",
+      "stems": [
+        "xorij",
+        "tortilib",
+        "noqonuniy",
+        "ishl",
+        "qilin",
+        "deportatsiya",
+        "jarima"
+      ],
+      "posted_at": 1795890833.010541
+    },
+    {
+      "title": "Aktrisa Muborak Abdullayeva oilaviy hayotga qadam qo'ymoqda",
+      "summary": "Mashhur aktrisa Muborak Abdullayeva turmushga chiqayotgani haqida ijtimoiy tarmoqlarda xabar tarqaldi.",
+      "norm_title": "aktrisa muborak abdullayeva oilaviy hayotga qadam qoymoqda",
+      "topic_key": "muborak-abdullayeva-turmushga-chiqmoqda",
+      "stems": [
+        "oilaviy",
+        "abdullayeva",
+        "qadam",
+        "hayot",
+        "ymoq",
+        "muborak",
+        "aktrisa"
+      ],
+      "posted_at": 1795890855.4445937
     }
   ]
 }
