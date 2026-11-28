@@ -1,9 +1,9 @@
 {
   "channel_pointers": {
-    "olmaliqhayoti": 86900,
-    "ao_agmk": 50556,
-    "olmaliqshaharpressa": 13235,
-    "olmaliq": 44278
+    "olmaliqhayoti": 86916,
+    "ao_agmk": 50560,
+    "olmaliqshaharpressa": 13249,
+    "olmaliq": 44292
   },
   "processed_messages": {
     "olmaliqhayoti:84438": 1787677408.390513,
@@ -4443,117 +4443,31 @@
     "olmaliq:44277": 1795810304.224615,
     "olmaliqhayoti:86899": 1795833558.3947046,
     "olmaliqhayoti:86900": 1795833580.2604187,
-    "olmaliq:44278": 1795833584.365654
+    "olmaliq:44278": 1795833584.365654,
+    "olmaliqhayoti:86901": 1795863155.1765687,
+    "olmaliqhayoti:86909": 1795863163.684593,
+    "olmaliqhayoti:86910": 1795863198.8977964,
+    "olmaliqhayoti:86911": 1795863205.2413063,
+    "olmaliqhayoti:86915": 1795863213.8018093,
+    "olmaliqhayoti:86916": 1795863221.0835397,
+    "ao_agmk:50557": 1795863225.6912885,
+    "ao_agmk:50558": 1795863230.187685,
+    "ao_agmk:50559": 1795863233.205011,
+    "ao_agmk:50560": 1795863233.2164977,
+    "olmaliqshaharpressa:13237": 1795863239.8873332,
+    "olmaliqshaharpressa:13238": 1795863244.1145499,
+    "olmaliqshaharpressa:13239": 1795863251.5539527,
+    "olmaliqshaharpressa:13240": 1795863259.6891654,
+    "olmaliqshaharpressa:13248": 1795863264.2790315,
+    "olmaliqshaharpressa:13249": 1795863270.0672712,
+    "olmaliq:44279": 1795863276.1240342,
+    "olmaliq:44280": 1795863278.3115335,
+    "olmaliq:44281": 1795863284.3197582,
+    "olmaliq:44290": 1795863292.6285508,
+    "olmaliq:44291": 1795863295.6459107,
+    "olmaliq:44292": 1795863295.6577005
   },
   "posted_articles": [
-    {
-      "title": "Ertadan 2-chorak darslari boshlanadi",
-      "summary": "Ertadan barcha umumta'lim maktablarida 2-o'qish choragining ilk kuni boshlanadi.",
-      "norm_title": "ertadan 2chorak darslari boshlanadi",
-      "topic_key": "maktab-2-chorak-boshlanishi",
-      "stems": [
-        "boshlan",
-        "dars",
-        "erta",
-        "chorak"
-      ],
-      "posted_at": 1794251647.19708
-    },
-    {
-      "title": "Olmaliqda 160 nafar nuroniy uchun e'zoz tadbiri o'tkazildi",
-      "summary": "Olmaliq shahridagi \"Yakkasaroy\" majmuasida shahar hokimligi tomonidan 160 nafar keksalar uchun madaniylar-ma'rifiy tadbir va dasturxon tashkil etildi.",
-      "norm_title": "olmaliqda 160 nafar nuroniy uchun ezoz tadbiri otkazildi",
-      "topic_key": "nuroniylar-tadbiri-olmaliq",
-      "stems": [
-        "tadbir",
-        "160",
-        "zoz",
-        "tkazil",
-        "nafar",
-        "nuroniy"
-      ],
-      "posted_at": 1794303541.7331657
-    },
-    {
-      "title": "Olmaliqda Bolalar komissiyasining navbatdagi yig'ilishi bo'lib o'tdi",
-      "summary": "Yig'ilishda 50 ga yaqin murojaat ko'rib chiqilib, mas'uliyatsiz ota-onalarga chora ko'rish hamda 2 ta maktab rahbariyatiga xizmat tekshiruvi tayinlash bo'yicha qarorlar qabul qilindi.",
-      "norm_title": "olmaliqda bolalar komissiyasining navbatdagi yigilishi bolib otdi",
-      "topic_key": "bolalar-komissiyasi-yigilishi",
-      "stems": [
-        "bola",
-        "ilish",
-        "lib",
-        "komissiya",
-        "yig",
-        "tdi",
-        "navbat"
-      ],
-      "posted_at": 1794303577.74015
-    },
-    {
-      "title": "Uy sotib oluvchilarning pullari endi eskrow hisobvaraqlarida saqlanadi",
-      "summary": "Deputatlar ko'chmas mulkni ulamli qurish to'g'risidagi qonunni qabul qildi. Unga ko'ra, fuqarolar mablag'lari to'g'ridan-to'g'ri quruvchiga berilmay, obyekts to'liq bitguncha bankdagi eskrow hisobvaraqlarida saqlanadi.",
-      "norm_title": "uy sotib oluvchilarning pullari endi eskrow hisobvaraqlarida saqlanadi",
-      "topic_key": "uy-joy-eskrow-hisobvaraq",
-      "stems": [
-        "eskrow",
-        "end",
-        "oluvch",
-        "pul",
-        "hisobvaraq",
-        "sotib",
-        "saqlan"
-      ],
-      "posted_at": 1794303696.2712767
-    },
-    {
-      "title": "OKMK va Migratsiya agentligi hamkorlik kelishuvini imzoladi",
-      "summary": "Xavfsiz va qonuniy mehnat migratsiyasini rivojlantirish hamda fuqarolarning xalqaro mehnat bozoridagi raqobatbardoshligini oshirish maqsadida OKMK va Migratsiya agentligi o‘rtasida hamkorlik bitimi tuzildi.",
-      "norm_title": "okmk va migratsiya agentligi hamkorlik kelishuvini imzoladi",
-      "topic_key": "okmk-migratsiya-agentligi-hamkorlik",
-      "stems": [
-        "migratsiya",
-        "agent",
-        "imzol",
-        "okmk",
-        "hamkor",
-        "kelishuv"
-      ],
-      "posted_at": 1794303748.5581284
-    },
-    {
-      "title": "AGMKda korrupsiyaga qarshi kurash mavzusida yoshlar tanlovi boshlandi",
-      "summary": "Xalqaro korrupsiyaga qarshi kurashish kuniga bag'ishlab kombi­nat yoshlari o'rtasida maqola, rasm, she'r va videoroliklar tanlovi o'tkazilmoqda. Ijodiy ishlar 25-noyabrgacha qabul qilinadi.",
-      "norm_title": "agmkda korrupsiyaga qarshi kurash mavzusida yoshlar tanlovi boshlandi",
-      "topic_key": "agmk-korrupsiyaga-qarshi-tanlov",
-      "stems": [
-        "kurash",
-        "qarsh",
-        "agmk",
-        "mavzu",
-        "korrupsiya",
-        "tanlov",
-        "yosh"
-      ],
-      "posted_at": 1794303785.2092767
-    },
-    {
-      "title": "OKMKda Kasaba uyushmalari kuni munosabati bilan bayram tadbiri bo'lib o'tdi",
-      "summary": "O'zbekiston Kasaba uyushmalari kuni munosabati bilan Olmaliq kon-metallurgiya kombinatida tantanali bayram tadbiri o'tkazildi.",
-      "norm_title": "okmkda kasaba uyushmalari kuni munosabati bilan bayram tadbiri bolib otdi",
-      "topic_key": "okmk-kasaba-uyushmalari-kuni",
-      "stems": [
-        "uyushma",
-        "tadbir",
-        "lib",
-        "kasaba",
-        "okmk",
-        "tdi",
-        "bayram",
-        "munosabat"
-      ],
-      "posted_at": 1794303809.3354626
-    },
     {
       "title": "AGMK mehnat jamoasi bilan uchrashuv o‘tkazildi",
       "summary": "“Axborot 24” telekanalida AGMK mehnat jamoasi bilan bo‘lib o‘tgan uchrashuv yoritildi.",
@@ -7439,6 +7353,110 @@
         "tayinlan"
       ],
       "posted_at": 1795810268.96802
+    },
+    {
+      "title": "3-maktab oldidagi bolalar o'yingohi xavfsiz hududga ko'chiriladi",
+      "summary": "\"Hilol\" MFY va maktab rahbariyati tashabbusi bilan serqatnov yo'l yoqasida joylashgan bolalar o'yingohi maktab hovlisiga ko'chirilmoqda.",
+      "norm_title": "3maktab oldidagi bolalar oyingohi xavfsiz hududga kochiriladi",
+      "topic_key": "bolalar-oyingohi-kochirilishi",
+      "stems": [
+        "chir",
+        "bola",
+        "yingoh",
+        "old",
+        "xavfsiz",
+        "maktab",
+        "hudud"
+      ],
+      "posted_at": 1795863155.1825018
+    },
+    {
+      "title": "Olmaliqda Yashil lot tizimi orqali 12 ta yer maydoni ajratilmoqda",
+      "summary": "Olmaliq shahrida yashil bog'lar va xiyobonlar barpo etish maqsadida 12 ta yer maydoni \"Yashil lot\" tizimi orqali foydalanishga taklif etilmoqda. Ushbu hududlarda qurilish qilish taqiqlanadi va ular xususiy mulk qilib berilmaydi.",
+      "norm_title": "olmaliqda yashil lot tizimi orqali 12 ta yer maydoni ajratilmoqda",
+      "topic_key": "yashil-lot-tanlovi",
+      "stems": [
+        "lot",
+        "yashil",
+        "yer",
+        "ajrat",
+        "maydo",
+        "tizim"
+      ],
+      "posted_at": 1795863163.6903594
+    },
+    {
+      "title": "Hilol MFYda obodonlashtirish hashari o'tkazilmoqda",
+      "summary": "Hilol MFYda maxsus texnikalar jalb etilgan holda yo'l bo'ylari va piyodalar yo'laklarini tozalash hamda obodonlashtirish ishlari olib borilmoqda.",
+      "norm_title": "hilol mfyda obodonlashtirish hashari otkazilmoqda",
+      "topic_key": "hilol-mfy-hashar",
+      "stems": [
+        "obodonlash",
+        "mfy",
+        "hashar",
+        "tkaz",
+        "hilol"
+      ],
+      "posted_at": 1795863205.247407
+    },
+    {
+      "title": "Havo ifloslanganda transport harakati cheklanishi mumkin",
+      "summary": "Havo sifati yomonlashgan kunlarda yuk avtomobillari harakatini cheklash, juft va toq kunlar tartibini joriy etish hamda davlat tashkilotlarini masofaviy ishga o'tkazish bo'yicha hukumat qarori loyihasi muhokamaga qo'yildi.",
+      "norm_title": "havo ifloslanganda transport harakati cheklanishi mumkin",
+      "topic_key": "havo-ifloslanishi-cheklovlar",
+      "stems": [
+        "mumkin",
+        "ifloslan",
+        "harakat",
+        "transport",
+        "cheklan",
+        "havo"
+      ],
+      "posted_at": 1795863213.8076286
+    },
+    {
+      "title": "AGMKda mis ishlab chiqarish istiqbollari yoritildi",
+      "summary": "\"Axborot 24\" telekanalida Olmaliq kon-metallurgiya kombinatida mis ishlab chiqarish istiqbollariga bag'ishlangan maxsus lavha namoyish etildi.",
+      "norm_title": "agmkda mis ishlab chiqarish istiqbollari yoritildi",
+      "topic_key": "agmk-mis-ishlab-chiqarish",
+      "stems": [
+        "agmk",
+        "mis",
+        "chiqar",
+        "ishlab",
+        "yoritil",
+        "istiqbol"
+      ],
+      "posted_at": 1795863230.1934927
+    },
+    {
+      "title": "Kiberfiribgarlarning soxta va'dalariga aldanmang",
+      "summary": "Firibgarlar oz pul evaziga mo'may daromad va'da qilib, soxta cheklar orqali fuqarolarni aldamoqda. Pulingizni ko'paytirib berishni va'da qilgan shaxslarga ishonmang.",
+      "norm_title": "kiberfiribgarlarning soxta vadalariga aldanmang",
+      "topic_key": "kiber-firibgarlik-ogohlantirish",
+      "stems": [
+        "dalar",
+        "soxta",
+        "aldanmang",
+        "kiberfiribgar"
+      ],
+      "posted_at": 1795863244.1204567
+    },
+    {
+      "title": "Xorazmda gaz quyish shoxobchasidan Damas olib qochildi",
+      "summary": "Xorazmda 26 yoshli fuqaro metan-zavod kutish maydonida qarovsiz qoldirgan Damas avtomobili noma'lum shaxs tomonidan olib qochib ketildi.",
+      "norm_title": "xorazmda gaz quyish shoxobchasidan damas olib qochildi",
+      "topic_key": "xorazm-damas-olib-qochish",
+      "stems": [
+        "xorazm",
+        "shoxobcha",
+        "gaz",
+        "damas",
+        "olib",
+        "quy",
+        "qochil"
+      ],
+      "posted_at": 1795863292.6344519
     }
   ]
 }
